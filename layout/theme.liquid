@@ -116,12 +116,15 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <body id="{{ page_title | handle }}" class="template-{{ template.name | handle }}">
   <a class="in-page-link visually-hidden skip-link" href="#MainContent">{{ 'general.accessibility.skip_to_content' | t }}</a>
 
+  {% unless template == 'page.silicon-golf' %}
   {% section 'header' %}
+  
   <div class="container breadcrumbs-container">
     <div class="page-width">
       {% render 'breadcrumbs', show_next_prev: true %}
     </div>
   </div>
+{% endunless %}
 
   <main id="MainContent">
     {%- assign accent_alpha = settings.accent_color | color_extract: 'alpha' -%}
@@ -131,7 +134,10 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     <!--LayoutHub-Workspace-Start-->{{ content_for_layout }}<!--LayoutHub-Workspace-End-->
   </main>
 
+  {% unless template == 'page.silicon-golf' %}
   {% section 'footer' %}
+  {% endunless %}
+
   {% section 'popup' %}
 
   <a href="#" class="focus-tint" aria-hidden="true" aria-label="{{ 'general.accessibility_labels.close' | t }}"></a>
