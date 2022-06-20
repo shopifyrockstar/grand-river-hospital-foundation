@@ -1,0 +1,96 @@
+{
+  "sections": {
+    "165472392582a377c5": {
+      "type": "banner",
+      "blocks": {
+        "1654723925537b8331-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Website_Banner_2048_x_1024_1_c38d4797-2783-45cc-9d6e-c5cc301a7704.png",
+            "image_position": "center center",
+            "image_link": "",
+            "color_overlay_bg": "#ffffff",
+            "overlay_opacity": 80,
+            "color_overlay_text": "#333333",
+            "overlay_title": "",
+            "overlay_text": "",
+            "overlay_url_text_1": "",
+            "overlay_url_1": "",
+            "overlay_url_text_2": "",
+            "overlay_url_2": "",
+            "overlay_url_style": "button_1",
+            "enlarge_title": false,
+            "enlarge_text": false,
+            "overlay_position_x": 50,
+            "overlay_position_y": 80,
+            "color_label_background": "#ffffff",
+            "color_label_text": "#333333",
+            "show_chevron": true,
+            "product_id_1": "",
+            "chevron_position_1": "right",
+            "label_position_x_1": 20,
+            "label_position_y_1": 30,
+            "product_id_2": "",
+            "chevron_position_2": "right",
+            "label_position_x_2": 80,
+            "label_position_y_2": 50
+          }
+        }
+      },
+      "block_order": [
+        "1654723925537b8331-0"
+      ],
+      "settings": {
+        "height": "fixed",
+        "height_desktop": 500,
+        "height_mobile": 400,
+        "mobile_text_below": true,
+        "slideshow_autoplay": true,
+        "slideshow_autoplay_speed": 6
+      }
+    },
+    "165472391677372fb8": {
+      "type": "countup-elscup-widget",
+      "settings": {
+        "countup_html": "<div class=\"els-cup-box\" data-id=\"6763\"><\/div>"
+      }
+    },
+    "main": {
+      "type": "left-aligned-collection",
+      "blocks": {
+        "74ec0f79-bdcb-4e2d-99af-9a9b97779e21": {
+          "type": "collection",
+          "settings": {
+            "collection": "vidyard-sy-road-hockey-classic",
+            "product": "",
+            "collection_colour": "#43467f",
+            "color_overlay_bg": "#ffffff",
+            "overlay_opacity": 10,
+            "color_overlay_text": "#333333"
+          }
+        }
+      },
+      "block_order": [
+        "74ec0f79-bdcb-4e2d-99af-9a9b97779e21"
+      ],
+      "settings": {
+        "enable_feature_header": false,
+        "grid": 4,
+        "grid_mobile": "2",
+        "pagination_limit": 50,
+        "show_total": false,
+        "ajax_products": true,
+        "show_vendor": false,
+        "show_filters": false,
+        "show_filter_prod_counts": false,
+        "show_sort_by": false,
+        "show_featured": false
+      }
+    }
+  },
+  "order": [
+    "165472392582a377c5",
+    "165472391677372fb8",
+    "main"
+  ]
+}

@@ -1,0 +1,301 @@
+{
+  "sections": {
+    "1637700643ce8e22f3": {
+      "type": "banner",
+      "blocks": {
+        "163770064234c7c2ab-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Shorter_Wide_Banners_3.png",
+            "image_position": "center center",
+            "image_link": "",
+            "color_overlay_bg": "#ffffff",
+            "overlay_opacity": 91,
+            "color_overlay_text": "#333333",
+            "overlay_title": "Gift Wrapping for Grand River",
+            "overlay_text": "",
+            "overlay_url_text_1": "",
+            "overlay_url_1": "",
+            "overlay_url_text_2": "",
+            "overlay_url_2": "",
+            "overlay_url_style": "button_1",
+            "enlarge_title": false,
+            "enlarge_text": false,
+            "overlay_position_x": 50,
+            "overlay_position_y": 60,
+            "color_label_background": "#ffffff",
+            "color_label_text": "#333333",
+            "show_chevron": true,
+            "product_id_1": "",
+            "chevron_position_1": "right",
+            "label_position_x_1": 20,
+            "label_position_y_1": 30,
+            "product_id_2": "",
+            "chevron_position_2": "right",
+            "label_position_x_2": 80,
+            "label_position_y_2": 50
+          }
+        }
+      },
+      "block_order": [
+        "163770064234c7c2ab-0"
+      ],
+      "settings": {
+        "height": "fixed",
+        "height_desktop": 380,
+        "height_mobile": 380,
+        "mobile_text_below": true,
+        "slideshow_autoplay": false,
+        "slideshow_autoplay_speed": 6
+      }
+    },
+    "1637700985036a50f5": {
+      "type": "rich-text-about-fdn",
+      "settings": {
+        "title": "",
+        "text": "<p><strong>Every day from December 6th until December 24th, Grand River Hospital Foundation will be offering gift wrapping at Conestoga Mall in support of Grand River Hospital!<\/strong><\/p><p>The gift wrapping station has its own storefront near Entrance #1 between IceWave Jewellers and Freedom Mobile, directly across from Children's Place and Old Navy. Our incredible team of volunteers will be there every day during mall hours to help you with your holiday wrapping and receive donations. Because even during the holidays, care never stops at Grand River Hospital. <\/p>",
+        "button_label": "",
+        "button_link": "",
+        "url_style": "button_1",
+        "enlarge_title": false,
+        "enlarge_text": false,
+        "full_width": false,
+        "color_bg": "#ffffff",
+        "color_title": "#000000",
+        "color_text": "#000000"
+      }
+    },
+    "1638828204f02c7e5c": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Banners_blog_and_social_-_large_12.png",
+        "image_link": "",
+        "image_position": "center center",
+        "height": "adapt",
+        "height_desktop": 600,
+        "height_mobile": 500,
+        "color_overlay_bg": "#ffffff",
+        "overlay_opacity": 80,
+        "color_overlay_text": "#333333",
+        "overlay_title": "",
+        "overlay_text": "",
+        "overlay_url_text_1": "",
+        "overlay_url_1": "",
+        "overlay_url_text_2": "",
+        "overlay_url_2": "",
+        "overlay_url_style": "button_1",
+        "enlarge_title": false,
+        "enlarge_text": false,
+        "overlay_position_x": 50,
+        "overlay_position_y": 70,
+        "mobile_text_below": false,
+        "color_label_background": "#ffffff",
+        "color_label_text": "#333333",
+        "show_chevron": true,
+        "product_id_1": "",
+        "chevron_position_1": "right",
+        "label_position_x_1": 20,
+        "label_position_y_1": 30,
+        "product_id_2": "",
+        "chevron_position_2": "right",
+        "label_position_x_2": 80,
+        "label_position_y_2": 50
+      }
+    },
+    "1637701444020dc6d5": {
+      "type": "gather-rich-text",
+      "settings": {
+        "title": "Details",
+        "text": "<p><strong>Dates: <\/strong>December 6th - December 24th<br\/><strong>Times: <\/strong>Monday to Friday from 10 a.m. to 9 p.m. \/ Saturdays from 10 a.m. to 7 p.m. \/ Sundays from 10 a.m. to 6 p.m.<br\/><strong>Location:  <\/strong>Conestoga Mall (550 King St N. Waterloo, ON)<br\/><br\/><em><strong>The gift wrapping station has its own storefront just inside the main entrance on King St N (Entrance #1) directly across from Children's Place and Old Navy, between IceWave Jewellers and Freedom Mobile.<\/strong><\/em><\/p>",
+        "button_label": "",
+        "button_link": "",
+        "url_style": "button_1",
+        "enlarge_title": false,
+        "enlarge_text": false,
+        "full_width": false,
+        "color_bg": "#000000",
+        "color_title": "#ffffff",
+        "color_text": "#ffffff"
+      }
+    },
+    "163888815069640c53": {
+      "type": "banner",
+      "disabled": true,
+      "blocks": {
+        "163888814904d66dbe-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Blog_and_social_posts_-_large_image_18.png",
+            "image_position": "center center",
+            "image_link": "",
+            "color_overlay_bg": "#000000",
+            "overlay_opacity": 80,
+            "color_overlay_text": "#ffffff",
+            "overlay_title": "Visit our gift wrapping storefront!",
+            "overlay_text": "",
+            "overlay_url_text_1": "",
+            "overlay_url_1": "",
+            "overlay_url_text_2": "",
+            "overlay_url_2": "",
+            "overlay_url_style": "button_1",
+            "enlarge_title": false,
+            "enlarge_text": false,
+            "overlay_position_x": 68,
+            "overlay_position_y": 51,
+            "color_label_background": "#000000",
+            "color_label_text": "#ffffff",
+            "show_chevron": true,
+            "product_id_1": "",
+            "chevron_position_1": "right",
+            "label_position_x_1": 20,
+            "label_position_y_1": 30,
+            "product_id_2": "",
+            "chevron_position_2": "right",
+            "label_position_x_2": 80,
+            "label_position_y_2": 50
+          }
+        }
+      },
+      "block_order": [
+        "163888814904d66dbe-0"
+      ],
+      "settings": {
+        "height": "fixed",
+        "height_desktop": 500,
+        "height_mobile": 400,
+        "mobile_text_below": true,
+        "slideshow_autoplay": false,
+        "slideshow_autoplay_speed": 6
+      }
+    },
+    "1637701836c396054b": {
+      "type": "image-gallery",
+      "blocks": {
+        "16377018361e4f6c78-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Blog_and_social_posts_-_large_image_18.png",
+            "alignment": "center center",
+            "enlarge_image": false,
+            "link": "https:\/\/cdn.shopify.com\/s\/files\/1\/0363\/5363\/8540\/files\/Blog_and_social_posts_-_large_image_18.png?v=1638822428",
+            "title": "Visit our gift wrapping storefront!",
+            "text": "",
+            "button_label": "View map",
+            "overlay_position": "center-right"
+          }
+        }
+      },
+      "block_order": [
+        "16377018361e4f6c78-0"
+      ],
+      "settings": {
+        "grid": 1,
+        "image_height": 480,
+        "image_height_mobile": 370,
+        "enable_margin": true,
+        "enable_carousel": false,
+        "overlay_style": "box",
+        "color_overlay_bg": "#000000",
+        "overlay_opacity": 84,
+        "color_overlay_text": "#ffffff",
+        "overlay_url_style": "button_1"
+      }
+    },
+    "16377018325ac9cc86": {
+      "type": "rich-text-about-fdn",
+      "settings": {
+        "title": "Volunteer",
+        "text": "<p>We need YOUR help to make our holiday gift wrapping station a success!<strong> <\/strong>We are still encouraging anyone who would like to help with the event to sign up to volunteer. Volunteer shifts are available every day during mall hours and are 3 - 4 hours long. You will be helping greet guests, wrap gifts and accept donations in support of the hospital. Email Stephanie Makrydakis at stephanie@grhf.ca to sign up or find out more! <br\/><br\/><em><strong>Whether you can volunteer once or several times throughout the holidays, all your help will make a big difference.<\/strong><\/em><\/p><p><\/p><p>Thanks to this great but recent opportunity at Conestoga Mall, we have also decided to pivot—instead of hosting a separate Grand Gather event as we had originally planned, we have decided to incorporate the elements of Grand Gather into gift wrapping at Conestoga Mall all month long!<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "url_style": "button_1",
+        "enlarge_title": false,
+        "enlarge_text": false,
+        "full_width": false,
+        "color_bg": "#ffffff",
+        "color_title": "#333333",
+        "color_text": "#333333"
+      }
+    },
+    "1637701162b024322c": {
+      "type": "give-rich-text",
+      "settings": {
+        "title": "Gifts from the Heart",
+        "text": "<p>Drop off your gifts from the heart—donated items that will make the holidays a little brighter for patients at the hospital—at our gift wrapping station at Conestoga Mall. At the top of our holiday wish list this year are your new or gently used Chromebooks and iPads, which will be used to launch a digital patient entertainment program called GrandServe that will help to improve patient experience at Grand River Hospital. Other items we are excited to receive include gift cards, small unopened toys, and toiletries and hygiene supplies. Find out more about <a href=\"http:\/\/grhf.ca\/pages\/non-monetary-gifts\" target=\"_blank\">Gifts from the Heart<\/a> and the types of gifts you can give to make the holidays special for patients at Grand River.<\/p><p>As always, you also have the option to <a href=\"http:\/\/calendly.com\/jesse-borden\/donation-drop-off?month=2021-12\" target=\"_blank\">schedule a time<\/a> to drop off donated items to at the Grand River Hospital Foundation office at 40 Green St. Kitchener, ON<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "url_style": "button_1",
+        "enlarge_title": false,
+        "enlarge_text": false,
+        "full_width": false,
+        "color_bg": "#000000",
+        "color_title": "#ffffff",
+        "color_text": "#ffffff"
+      }
+    },
+    "16377012213ac93b4b": {
+      "type": "get-rich-text",
+      "settings": {
+        "title": "Our Gift to You: PPE for the Community",
+        "text": "<p>Our fantastic team of volunteers will also be delivering FREE packages of PPE to the members of our community to help keep everyone safe this winter. For health and safety reasons, these particular items cannot be used by staff at the hospital, and the next best thing we can do is use them is to help our community. Each package of PPE includes a box of masks, a box of gloves and hand sanitizer.<\/p><p>Order a package of PPE for you or loved ones. All packages are completely FREE.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "url_style": "button_1",
+        "enlarge_title": false,
+        "enlarge_text": false,
+        "full_width": false,
+        "color_bg": "#000000",
+        "color_title": "#ffffff",
+        "color_text": "#ffffff"
+      }
+    },
+    "16377016541b1a9730": {
+      "type": "promotional-images",
+      "blocks": {
+        "163770165485fc3595-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Product_Images_Template_18.png",
+            "image_position": "center center",
+            "image_link": "shopify:\/\/products\/ppe-gift-bag",
+            "layout": "image_after",
+            "color_background": "#ffffff",
+            "color_text": "#000000",
+            "overlay_opacity": 80,
+            "title": "",
+            "offer": "Our PPE Gift to You",
+            "url_text": "Order Now",
+            "url": "shopify:\/\/products\/ppe-gift-bag",
+            "url_style": "button_1",
+            "enlarge_title": false,
+            "enlarge_text": false
+          }
+        }
+      },
+      "block_order": [
+        "163770165485fc3595-0"
+      ],
+      "settings": {
+      }
+    },
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+      }
+    }
+  },
+  "order": [
+    "1637700643ce8e22f3",
+    "1637700985036a50f5",
+    "1638828204f02c7e5c",
+    "1637701444020dc6d5",
+    "163888815069640c53",
+    "1637701836c396054b",
+    "16377018325ac9cc86",
+    "1637701162b024322c",
+    "16377012213ac93b4b",
+    "16377016541b1a9730",
+    "main"
+  ]
+}

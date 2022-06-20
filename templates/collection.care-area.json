@@ -1,0 +1,39 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-collection",
+      "blocks": {
+        "080f2531-9309-4ea8-a826-cfa52034ec57": {
+          "type": "collection",
+          "settings": {
+            "collection": "continuum-of-care",
+            "product": "",
+            "collection_colour": "#faa227",
+            "color_overlay_bg": "#ffffff",
+            "overlay_opacity": 10,
+            "color_overlay_text": "#000000"
+          }
+        }
+      },
+      "block_order": [
+        "080f2531-9309-4ea8-a826-cfa52034ec57"
+      ],
+      "settings": {
+        "enable_feature_header": true,
+        "grid": 4,
+        "grid_mobile": "2",
+        "pagination_limit": 12,
+        "show_total": true,
+        "ajax_products": true,
+        "show_vendor": true,
+        "show_filters": true,
+        "show_filter_prod_counts": false,
+        "show_sort_by": true,
+        "show_featured": false
+      }
+    }
+  },
+  "order": [
+    "main"
+  ]
+}

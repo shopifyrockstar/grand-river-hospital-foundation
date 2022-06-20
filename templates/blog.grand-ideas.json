@@ -1,0 +1,26 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-blog",
+      "settings": {
+        "blog_show_rss": false,
+        "blog_show_tags": false,
+        "blog_show_author": false,
+        "blog_show_date": true,
+        "article_show_tags": false,
+        "show_featured_products": true,
+        "blog_magazine_layout": true,
+        "blog_image": "shopify:\/\/shop_images\/qfUr9JVg_d74e8b37-621d-4791-87ab-8ef1d258ca11.jpg",
+        "description": "Because Care. Never. Stops. at Grand River Hospital",
+        "color_overlay_bg": "#ffffff",
+        "overlay_opacity": 88,
+        "color_overlay_text": "#333333",
+        "overlay_position_y": 70,
+        "mobile_text_below": true
+      }
+    }
+  },
+  "order": [
+    "main"
+  ]
+}

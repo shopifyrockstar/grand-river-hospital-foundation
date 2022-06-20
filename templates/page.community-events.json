@@ -1,0 +1,77 @@
+{
+  "sections": {
+    "16516964370c811c93": {
+      "type": "banner",
+      "blocks": {
+        "165169643761d21054-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Website_Banner_2048_x_1024_10.png",
+            "image_position": "center center",
+            "image_link": "",
+            "color_overlay_bg": "#ffffff",
+            "overlay_opacity": 80,
+            "color_overlay_text": "#333333",
+            "overlay_title": "Community Events",
+            "overlay_text": "Interested in running your own event? Do you have a cool idea to raise money for Grand River Hospital? We're here to help!",
+            "overlay_url_text_1": "Download our Toolkit",
+            "overlay_url_1": "https:\/\/cdn.shopify.com\/s\/files\/1\/0363\/5363\/8540\/files\/Community_Champion_Toolkit_as_of_April_2022.pdf?v=1651696579",
+            "overlay_url_text_2": "Connect with Us",
+            "overlay_url_2": "mailto:paul@grhf.ca",
+            "overlay_url_style": "button_1",
+            "enlarge_title": false,
+            "enlarge_text": false,
+            "overlay_position_x": 50,
+            "overlay_position_y": 80,
+            "color_label_background": "#ffffff",
+            "color_label_text": "#333333",
+            "show_chevron": true,
+            "product_id_1": "",
+            "chevron_position_1": "right",
+            "label_position_x_1": 20,
+            "label_position_y_1": 30,
+            "product_id_2": "",
+            "chevron_position_2": "right",
+            "label_position_x_2": 80,
+            "label_position_y_2": 50
+          }
+        }
+      },
+      "block_order": [
+        "165169643761d21054-0"
+      ],
+      "settings": {
+        "height": "fixed",
+        "height_desktop": 500,
+        "height_mobile": 400,
+        "mobile_text_below": true,
+        "slideshow_autoplay": true,
+        "slideshow_autoplay_speed": 6
+      }
+    },
+    "main": {
+      "type": "main-page",
+      "settings": {
+      }
+    },
+    "16516964649f37d029": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Current Events",
+        "enlarge_title": false,
+        "link_text": "Find an event to support now!",
+        "collection": "community-events",
+        "show_vendor": false,
+        "enable_carousel": false,
+        "grid": 4,
+        "row_count": 5,
+        "grid_mobile": "2"
+      }
+    }
+  },
+  "order": [
+    "16516964370c811c93",
+    "main",
+    "16516964649f37d029"
+  ]
+}

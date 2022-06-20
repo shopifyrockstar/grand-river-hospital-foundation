@@ -1,0 +1,68 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+      }
+    },
+    "164693424258e7dbd3": {
+      "type": "video-with-text",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Website_Image_with_Text_Template_6.png",
+        "image_link": "",
+        "image_size": "0",
+        "image_position": "left",
+        "title": "There are several ways you can leave a planned gift to Grand River Hospital Foundation:",
+        "text": "<p><br\/>● Leave a specific dollar amount or percentage of your estate<\/p><p>● Name Grand River Hospital Foundation as a beneficiary of your life insurance<\/p><p>● Designate Grand River Hospital Foundation as the beneficiary of your RRSP\/RRIF or other pension plan<\/p><p><em>Be sure to speak to your financial advisor and discuss your charitable intentions with loved ones. Once you have settled on the best path to move forward, contact your lawyer to update your will.<\/em><\/p>",
+        "button_label": "",
+        "button_link": "",
+        "url_style": "button_1",
+        "enlarge_title": false,
+        "enlarge_text": false,
+        "text_alignment": "left",
+        "color_bg": "#ecf1f2",
+        "color_text": "#333333"
+      }
+    },
+    "1646934080fc351a9e": {
+      "type": "rich-text-about-fdn",
+      "disabled": true,
+      "settings": {
+        "title": "What Type of Planned Gift is Right for You?",
+        "text": "",
+        "button_label": "",
+        "button_link": "",
+        "url_style": "button_1",
+        "enlarge_title": false,
+        "enlarge_text": false,
+        "full_width": false,
+        "color_bg": "#ffffff",
+        "color_title": "#333333",
+        "color_text": "#333333"
+      }
+    },
+    "1646934280bce53743": {
+      "type": "rich-text-about-fdn",
+      "settings": {
+        "title": "What type of planned gift is right for you?",
+        "text": "<p><strong><br\/>Gift in Your Will<br\/><\/strong>Leaving a gift in your will is easier than you might think. It’s the most popular and easiest way to make a future gift. It has no effect on your current income and significantly reduces the taxes payable by your estate. Your gift can be a specific amount, stocks or securities, or a percentage of your estate.<\/p><p><strong>Life Insurance<\/strong><br\/>You can designate GRH Foundation as a beneficiary or co-beneficiary on an existing life insurance policy and your estate will receive a tax credit. Or transfer ownership of an existing life insurance policy over to us and receive a tax receipt for your annual premiums.<\/p><p><strong>Retirement Plans (RRSPS\/RRIFs)<br\/><\/strong>You can designate GRH Foundation as a beneficiary or co-beneficiary on your residual RRSPs and your estate will receive a tax credit.  This is an excellent way to reduce taxes on your estate. <\/p><p><\/p>",
+        "button_label": "",
+        "button_link": "",
+        "url_style": "button_1",
+        "enlarge_title": false,
+        "enlarge_text": false,
+        "full_width": false,
+        "color_bg": "#ffffff",
+        "color_title": "#333333",
+        "color_text": "#333333"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "164693424258e7dbd3",
+    "1646934080fc351a9e",
+    "1646934280bce53743"
+  ]
+}

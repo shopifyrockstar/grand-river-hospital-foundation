@@ -1,0 +1,162 @@
+{
+  "sections": {
+    "1649873152578a5a39": {
+      "type": "image-with-text",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Website_Images_2.png",
+        "image_link": "",
+        "image_size": "0",
+        "image_position": "left",
+        "title": "Cancer Care",
+        "text": "<p>When a cancer diagnosis touches someone’s life, everything changes. Life almost stands still. At Grand River Regional Cancer Centre, we understand the magnitude of learning you or someone you love has cancer. It’s why specialized treatment and personalized, patient-centred care are at the core of how we help patients throughout Waterloo Region and Wellington County.<\/p><p>Areas of specialized care include chemotherapy, radiation therapy, clinical research trials, supportive care, inpatient oncology and palliative care.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "url_style": "button_1",
+        "enlarge_title": false,
+        "enlarge_text": false,
+        "text_alignment": "left",
+        "color_bg": "#ec008c",
+        "color_text": "#ffffff"
+      }
+    },
+    "main": {
+      "type": "main-collection-no-title",
+      "blocks": {
+        "414b74ef-9cca-4629-93d0-8258f551851b": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "product": "",
+            "collection_colour": "#ec008c",
+            "color_overlay_bg": "#ffffff",
+            "overlay_opacity": 10,
+            "color_overlay_text": "#333333"
+          }
+        }
+      },
+      "block_order": [
+        "414b74ef-9cca-4629-93d0-8258f551851b"
+      ],
+      "settings": {
+        "enable_feature_header": false,
+        "grid": 4,
+        "grid_mobile": "2",
+        "pagination_limit": 8,
+        "show_total": false,
+        "ajax_products": true,
+        "show_vendor": false,
+        "show_filters": true,
+        "show_filter_prod_counts": true,
+        "show_sort_by": true,
+        "show_featured": false
+      }
+    },
+    "1651520005d5b74044": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<h3 style=\"text-align: center; padding-top: 1em; padding-bottom: 1em;\">About Grand River Regional Cancer Centre<\/h3>"
+      }
+    },
+    "1651519999e053c80a": {
+      "type": "image-gallery",
+      "blocks": {
+        "1651519999efb4b10e-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Website_Stats_Graphics_4.png",
+            "alignment": "center center",
+            "enlarge_image": false,
+            "link": "",
+            "title": "800,000",
+            "text": "<p>The population served by Grand River Regional Cancer Centre<\/p>",
+            "button_label": "",
+            "overlay_position": "center-center"
+          }
+        },
+        "1651519999efb4b10e-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Website_Stats_Graphics_5.png",
+            "alignment": "center center",
+            "enlarge_image": false,
+            "link": "",
+            "title": "100,000+",
+            "text": "<p>Patient visits take place at the Cancer Centre each year<\/p>",
+            "button_label": "",
+            "overlay_position": "center-center"
+          }
+        },
+        "1651519999efb4b10e-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Website_Stats_Graphics_6.png",
+            "alignment": "center center",
+            "enlarge_image": false,
+            "link": "",
+            "title": "Sole Provider",
+            "text": "<p>of radiation therapy in the region<\/p>",
+            "button_label": "",
+            "overlay_position": "center-center"
+          }
+        },
+        "1651519999efb4b10e-3": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Website_Stats_Graphics_7.png",
+            "alignment": "center center",
+            "enlarge_image": false,
+            "link": "",
+            "title": "Shortest Wait Times",
+            "text": "<p>for cancer services in Ontario<\/p>",
+            "button_label": "",
+            "overlay_position": "center-center"
+          }
+        }
+      },
+      "block_order": [
+        "1651519999efb4b10e-0",
+        "1651519999efb4b10e-1",
+        "1651519999efb4b10e-2",
+        "1651519999efb4b10e-3"
+      ],
+      "settings": {
+        "grid": 2,
+        "image_height": 300,
+        "image_height_mobile": 300,
+        "enable_margin": true,
+        "enable_carousel": true,
+        "overlay_style": "box",
+        "color_overlay_bg": "#ffffff",
+        "overlay_opacity": 80,
+        "color_overlay_text": "#333333",
+        "overlay_url_style": "button_1"
+      }
+    },
+    "165151972348c13df1": {
+      "type": "image-with-text",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Website_Image_with_Text_Template_5_708877bd-dce5-408d-a100-4703a5a2207e.png",
+        "image_link": "",
+        "image_size": "0",
+        "image_position": "right",
+        "title": "",
+        "text": "<p>Grand River Regional Cancer Centre is also the primary site and service partner for the Waterloo Wellington Regional Cancer Program. Under the leadership of staff at Grand River, the Waterloo Wellington Regional Cancer Program oversees the quality and delivery of cancer services for the areas of Waterloo Region, Wellington County and the southern portion of Grey County. <br\/><br\/>It offers programs at seven local partner hospitals to ensure everyone in the region can access specialized cancer care close to home.<\/p>",
+        "button_label": "Learn more",
+        "button_link": "http:\/\/www.cancercareontario.ca\/en\/cancer-care-ontario\/programs\/regional-cancer-programs\/waterloo-wellington",
+        "url_style": "button_1",
+        "enlarge_title": false,
+        "enlarge_text": false,
+        "text_alignment": "left",
+        "color_bg": "#ec008c",
+        "color_text": "#ffffff"
+      }
+    }
+  },
+  "order": [
+    "1649873152578a5a39",
+    "main",
+    "1651520005d5b74044",
+    "1651519999e053c80a",
+    "165151972348c13df1"
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "sections": {
+    "1651695068b295fcae": {
+      "type": "apps",
+      "settings": {
+      }
+    },
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "title_and_price": {
+          "type": "title_and_price",
+          "settings": {
+            "show_tax_and_shipping": false
+          }
+        },
+        "e3cdb9f0-6c45-4908-b0f9-4d54b3080401": {
+          "type": "shopify:\/\/apps\/auction-pro\/blocks\/product-template-auction\/f9a60837-ee5e-4613-bf53-00e7b2589c1b",
+          "settings": {
+            "timer_bold": false,
+            "timer_font_size": 18,
+            "timer_colour": "#212b36",
+            "end_date_font_size": 16,
+            "current_bid_font_size": 18,
+            "bid_link_colour": "#136af6",
+            "current_bid_btn_colour": "#0053a0",
+            "current_bid_input_size": 15,
+            "buy_it_now_font_size": 16,
+            "buy_it_now_btn_colour": "#0053a0",
+            "buy_it_now_size": 15,
+            "automatic_bid_font_size": 16,
+            "automatic_bid_colour": "#136af6"
+          }
+        },
+        "description": {
+          "type": "description",
+          "settings": {
+            "full_width": false,
+            "show_tabs": false,
+            "tab_2_title": "",
+            "tab_2_content": "",
+            "tab_2_page": "",
+            "tab_3_title": "",
+            "tab_3_content": "",
+            "tab_3_page": ""
+          }
+        },
+        "sharing": {
+          "type": "sharing",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "title_and_price",
+        "e3cdb9f0-6c45-4908-b0f9-4d54b3080401",
+        "description",
+        "sharing"
+      ],
+      "settings": {
+        "media_layout": "list",
+        "enable_video_looping": false
+      }
+    },
+    "recommendations": {
+      "type": "product-recommendations",
+      "settings": {
+        "show_product_recommendations": true,
+        "title": "You may also like",
+        "grid": 4,
+        "show_vendor": false
+      }
+    },
+    "recent": {
+      "type": "recently-viewed",
+      "settings": {
+        "show_recently_viewed": true,
+        "show_vendor": false
+      }
+    }
+  },
+  "order": [
+    "1651695068b295fcae",
+    "main",
+    "recommendations",
+    "recent"
+  ]
+}

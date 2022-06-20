@@ -1,0 +1,86 @@
+{
+  "sections": {
+    "1649873152578a5a39": {
+      "type": "image-with-text",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Website_Images_7.png",
+        "image_link": "",
+        "image_size": "0",
+        "image_position": "left",
+        "title": "Grand River Kids",
+        "text": "<p>Grand River Hospital cares for the kids in our community starting on the day they are born, helping babies get healthy and stay healthy. As kids get older (and bigger), we help them through accidents, illness, ongoing treatment and mental health care. <\/p><p>Kids have unique health care needs—they can’t just be treated like small adults—so Grand River Kids provides specialized care that has been designed just for them.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "url_style": "button_1",
+        "enlarge_title": false,
+        "enlarge_text": false,
+        "text_alignment": "left",
+        "color_bg": "#1c75bc",
+        "color_text": "#ffffff"
+      }
+    },
+    "main": {
+      "type": "main-collection-no-title",
+      "blocks": {
+        "414b74ef-9cca-4629-93d0-8258f551851b": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "product": "",
+            "collection_colour": "#ec008c",
+            "color_overlay_bg": "#ffffff",
+            "overlay_opacity": 10,
+            "color_overlay_text": "#333333"
+          }
+        }
+      },
+      "block_order": [
+        "414b74ef-9cca-4629-93d0-8258f551851b"
+      ],
+      "settings": {
+        "enable_feature_header": false,
+        "grid": 4,
+        "grid_mobile": "2",
+        "pagination_limit": 8,
+        "show_total": false,
+        "ajax_products": true,
+        "show_vendor": false,
+        "show_filters": true,
+        "show_filter_prod_counts": true,
+        "show_sort_by": true,
+        "show_featured": false
+      }
+    },
+    "165392599421a9267d": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<h3 style=\"text-align:center;\">What makes Grand River Kids unique?<\/h3>"
+      }
+    },
+    "1653924581dc579190": {
+      "type": "image-with-text",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Vers._2_Blog_and_social_posts_-_large_image_5de859f7-0a3d-4f9e-b91b-8b429bbbd1d0.png",
+        "image_link": "",
+        "image_size": "0",
+        "image_position": "right",
+        "title": "",
+        "text": "<p>At Grand River Kids, we know that parents and families members play an important role in kids’ development and care. That’s why we also offer resources for parents and provide collaborative care that not only supports the child but their family as well.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "url_style": "button_1",
+        "enlarge_title": false,
+        "enlarge_text": false,
+        "text_alignment": "left",
+        "color_bg": "#1c75bc",
+        "color_text": "#ffffff"
+      }
+    }
+  },
+  "order": [
+    "1649873152578a5a39",
+    "main",
+    "165392599421a9267d",
+    "1653924581dc579190"
+  ]
+}

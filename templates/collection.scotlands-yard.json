@@ -1,0 +1,271 @@
+{
+  "sections": {
+    "1637367423fa649cd0": {
+      "type": "image-with-text",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Untitled_design_7ac98446-5f30-49b6-90d4-b883f13c197f.png",
+        "image_link": "",
+        "image_size": "0",
+        "image_position": "left",
+        "title": "About",
+        "text": "<p>Scotland’s Yard: a vision for enhancing pediatric cancer care here at home in Waterloo Region. Inspired by the courage of Scotland (Scottie), a young girl facing a difficult cancer journey, a group of community members came together to make Scotland’s Yard a reality. Join us to support cancer care for kids in our community.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "url_style": "button_1",
+        "enlarge_title": false,
+        "enlarge_text": false,
+        "text_alignment": "center",
+        "color_bg": "#dae4e6",
+        "color_text": "#333333"
+      }
+    },
+    "16373681076ce6218f": {
+      "type": "rich-text-about-fdn",
+      "settings": {
+        "title": "Printable Forms",
+        "text": "<p><a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0363\/5363\/8540\/files\/DONATE_1.pdf?v=1637368859\" target=\"_blank\" title=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0363\/5363\/8540\/files\/DONATE_1.pdf?v=1637368859\">Download<\/a> a one pager to print for your business or organization to fundraise for Scotland's Yard.<\/p><p>Prefer to make a pledge or donate offline? <a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0363\/5363\/8540\/files\/Scotlands_Yard_Give_Form.pdf?v=1637368838\" target=\"_blank\" title=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0363\/5363\/8540\/files\/Scotlands_Yard_Give_Form.pdf?v=1637368838\">Download this fillable donation form<\/a>.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "url_style": "button_1",
+        "enlarge_title": true,
+        "enlarge_text": true,
+        "full_width": false,
+        "color_bg": "#ffffff",
+        "color_title": "#1c75bc",
+        "color_text": "#000000"
+      }
+    },
+    "main": {
+      "type": "main-collection",
+      "settings": {
+        "enable_feature_header": false,
+        "grid": 4,
+        "grid_mobile": "2",
+        "pagination_limit": 12,
+        "show_total": true,
+        "ajax_products": true,
+        "show_vendor": false,
+        "show_filters": true,
+        "show_filter_prod_counts": true,
+        "show_sort_by": true,
+        "show_featured": false
+      }
+    },
+    "16373656448fc5074d": {
+      "type": "rich-text-about-fdn",
+      "settings": {
+        "title": "Community Support",
+        "text": "<p>Take a look below at some of the ways local businesses are supporting Scotland's Yard.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "url_style": "button_1",
+        "enlarge_title": false,
+        "enlarge_text": false,
+        "full_width": false,
+        "color_bg": "#1c75bc",
+        "color_title": "#ffffff",
+        "color_text": "#ffffff"
+      }
+    },
+    "1644358084f8a86dbe": {
+      "type": "image-with-text",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Website_Banner_2048_x_1024_2_1024x1024_e058ca5f-3c64-492c-a74f-25b99b65d831.webp",
+        "image_link": "shopify:\/\/pages\/about-sy-road-hockey-classic",
+        "image_size": "0",
+        "image_position": "left",
+        "title": "SY Road Hockey Classic",
+        "text": "<p>Join us July 8th for a classic street hockey tournament with divisions for all genders and ages.<\/p>",
+        "button_label": "LEARN MORE",
+        "button_link": "shopify:\/\/pages\/about-sy-road-hockey-classic",
+        "url_style": "button_1",
+        "enlarge_title": false,
+        "enlarge_text": false,
+        "text_alignment": "center",
+        "color_bg": "#dae4e6",
+        "color_text": "#333333"
+      }
+    },
+    "164435810326abf14e": {
+      "type": "video-with-text",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/stylish-skirt-purse.jpg",
+        "image_link": "shopify:\/\/products\/channers-fashion-show",
+        "image_size": "0",
+        "image_position": "right",
+        "title": "Channer's Fashion Show",
+        "text": "<p>Channer’s Fashion Show is partnering with The Old Bags of Westmount for an epic event in support of Scotland’s Yard. Fashion Show, Live and silent auction, plus a special auction table with gently loved designer handbags.<\/p>",
+        "button_label": "BUY TICKETS",
+        "button_link": "shopify:\/\/products\/channers-fashion-show",
+        "url_style": "button_1",
+        "enlarge_title": false,
+        "enlarge_text": false,
+        "text_alignment": "center",
+        "color_bg": "#dae4e6",
+        "color_text": "#333333"
+      }
+    },
+    "1637365536baaf9e03": {
+      "type": "image-gallery",
+      "disabled": true,
+      "blocks": {
+        "163736553690582067-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/a-woman-holding-a-dress-browses-her-bedroom-clothing-rack.jpg",
+            "alignment": "center center",
+            "enlarge_image": false,
+            "link": "https:\/\/erbancorner.ca\/",
+            "title": "Erban Corner",
+            "text": "<p>On November 16th A percentage of sales from the evening plus 100% of raffle proceeds will be donated to Scotland's Yard<\/p>",
+            "button_label": "Learn More",
+            "overlay_position": "bottom-center"
+          }
+        },
+        "163736553690582067-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/a-watch-and-pinstripe-suit.jpg",
+            "alignment": "center center",
+            "enlarge_image": false,
+            "link": "http:\/\/channerswaterloo.com\/",
+            "title": "Channer's Waterloo",
+            "text": "<p>From November 25th to December 6th 5% of sales will be donated.<\/p>",
+            "button_label": "Learn More",
+            "overlay_position": "center-center"
+          }
+        },
+        "163736553690582067-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/photographer-focus-medium-format-camera.jpg",
+            "alignment": "center center",
+            "enlarge_image": false,
+            "link": "https:\/\/cayleyblackphoto.mypixieset.com\/clients\/",
+            "title": "Cayley Black's Photo Day",
+            "text": "<p>On November 27th Cayley Black will be hosting a photoshoot with all money donated to Scotland's Yard.<\/p>",
+            "button_label": "Learn More",
+            "overlay_position": "center-center"
+          }
+        },
+        "163736553690582067-3": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/image_1125x1125_640x768_1af2bb4f-b045-4520-82d3-9d9c9c7b61d8.jpg",
+            "alignment": "center center",
+            "enlarge_image": false,
+            "link": "https:\/\/faodaildecor.com\/",
+            "title": "Faodail Decor",
+            "text": "<p>10% of sales in November and December will be donated to Scotland's Yard<\/p>",
+            "button_label": "Learn More",
+            "overlay_position": "center-center"
+          }
+        },
+        "613f42b5-0030-47e8-93c0-dc6fc026d313": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Christmas_Train.JPG_f6ad7a99-5d9d-4bd9-b3e5-47ac3512b57b.jpg",
+            "alignment": "center center",
+            "enlarge_image": false,
+            "link": "https:\/\/waterloocentralrailway.com\/",
+            "title": "Christmas Train",
+            "text": "<p>Date: December 2nd, 2021<\/p><p>Time: 8:30pm<\/p><p>All proceeds go to Scotland's Yard<\/p>",
+            "button_label": "Book Now",
+            "overlay_position": "center-center"
+          }
+        },
+        "9aee80e3-c5fa-46b7-bc20-7622c3283cf1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/unikoncept.jpg",
+            "alignment": "center center",
+            "enlarge_image": false,
+            "link": "https:\/\/uni-koncept.com\/",
+            "title": "UNI+KONCEPT",
+            "text": "<p>10% of all sales from the month of December will be donated back to Scotland's Yard and Grand River Hospital Foundation.<\/p>",
+            "button_label": "Learn More",
+            "overlay_position": "center-center"
+          }
+        },
+        "2395b525-eca0-40e0-9988-c8ab1c8619c4": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Screen_Shot_2021-11-19_at_5.15.21_PM.png",
+            "alignment": "center center",
+            "enlarge_image": false,
+            "link": "https:\/\/www.kwbeauty.ca\/",
+            "title": "KW Beauty",
+            "text": "<p>A percentage of all botox sales will be donated back to Scotland's Yard.<\/p>",
+            "button_label": "Learn More",
+            "overlay_position": "center-center"
+          }
+        },
+        "432ebfbf-3a3a-483b-8167-a7a847a702c7": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/EFUv9dkM_400x400_c7d8110a-1eb2-4c66-b91b-79d3b36ae2cc.jpg",
+            "alignment": "center center",
+            "enlarge_image": false,
+            "link": "https:\/\/www.manulife.ca\/about-us\/community-investment.html",
+            "title": "Manulife",
+            "text": "<p>Manulife will match employee donations until December 3rd.<\/p>",
+            "button_label": "Learn More",
+            "overlay_position": "center-center"
+          }
+        }
+      },
+      "block_order": [
+        "163736553690582067-0",
+        "163736553690582067-1",
+        "163736553690582067-2",
+        "163736553690582067-3",
+        "613f42b5-0030-47e8-93c0-dc6fc026d313",
+        "9aee80e3-c5fa-46b7-bc20-7622c3283cf1",
+        "2395b525-eca0-40e0-9988-c8ab1c8619c4",
+        "432ebfbf-3a3a-483b-8167-a7a847a702c7"
+      ],
+      "settings": {
+        "grid": 2,
+        "image_height": 300,
+        "image_height_mobile": 300,
+        "enable_margin": true,
+        "enable_carousel": true,
+        "overlay_style": "box",
+        "color_overlay_bg": "#ffffff",
+        "overlay_opacity": 80,
+        "color_overlay_text": "#333333",
+        "overlay_url_style": "button_2"
+      }
+    },
+    "1639072113b3231253": {
+      "type": "apps",
+      "blocks": {
+        "2df67920-5c5d-4585-a51f-bd182a152ef0": {
+          "type": "shopify:\/\/apps\/easy-faq-page-customer-faqs\/blocks\/app-block\/89f30064-d200-4f10-b92c-a16fc4c5815c",
+          "settings": {
+            "heading": "Frequently Asked Questions",
+            "heading_text_type": "h2",
+            "heading_alignment": "center",
+            "faq_embed_code": "<div class=\"ef-faqs-plus-app-cats-content\" data-category=\"Scotland's Yard\" id=\"ef-faqs-61b2439652e89e0018ef1e7d\"><\/div>",
+            "faqs_width": 100
+          }
+        }
+      },
+      "block_order": [
+        "2df67920-5c5d-4585-a51f-bd182a152ef0"
+      ],
+      "settings": {
+      }
+    }
+  },
+  "order": [
+    "1637367423fa649cd0",
+    "16373681076ce6218f",
+    "main",
+    "16373656448fc5074d",
+    "1644358084f8a86dbe",
+    "164435810326abf14e",
+    "1637365536baaf9e03",
+    "1639072113b3231253"
+  ]
+}

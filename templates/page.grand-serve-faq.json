@@ -1,0 +1,51 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+      }
+    },
+    "1647457870239c66e8": {
+      "type": "rich-text",
+      "settings": {
+        "title": "GrandServe: Frequently Asked Questions",
+        "text": "",
+        "button_label": "",
+        "button_link": "",
+        "url_style": "button_1",
+        "enlarge_title": true,
+        "enlarge_text": false,
+        "full_width": false,
+        "color_bg": "#ffffff",
+        "color_title": "#333333",
+        "color_text": "#333333"
+      }
+    },
+    "16474567385abb9f8d": {
+      "type": "apps",
+      "blocks": {
+        "1dc51f79-2295-41e1-b999-dc0664eaa658": {
+          "type": "shopify:\/\/apps\/easy-customer-faqs-page\/blocks\/app-block\/89f30064-d200-4f10-b92c-a16fc4c5815c",
+          "settings": {
+            "heading": "",
+            "heading_text_type": "h2",
+            "heading_alignment": "center",
+            "faq_embed_code": "<div class=\"ef-faqs-plus-app-cats-content\" data-category=\"GrandServe\" id=\"ef-faqs-623225bdbdc2681aff7562b4\"><\/div>",
+            "faqs_width": 100
+          }
+        }
+      },
+      "block_order": [
+        "1dc51f79-2295-41e1-b999-dc0664eaa658"
+      ],
+      "settings": {
+      }
+    }
+  },
+  "order": [
+    "main",
+    "1647457870239c66e8",
+    "16474567385abb9f8d"
+  ]
+}

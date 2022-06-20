@@ -1,0 +1,150 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "settings": {
+      }
+    },
+    "1637125782f744bcb7": {
+      "type": "split-image",
+      "blocks": {
+        "1637125782ae89c9aa-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/1_f78135ad-f310-4a7f-8709-47b37a6b0f1d.png",
+            "image_link": "https:\/\/hrzt8xom4lq.typeform.com\/to\/Q0kxLyJB?typeform-source=admin.typeform.com",
+            "image_position": "center center",
+            "color_overlay_bg": "#ffffff",
+            "overlay_opacity": 80,
+            "color_overlay_text": "#333333",
+            "overlay_title": "Donate Gift Cards, Toys & Hygiene Supplies",
+            "overlay_text": "Looking to donate any of the below items? Please complete the form by clicking on the button below.",
+            "overlay_url_text": "Donate Gifts from the Heart",
+            "overlay_url": "https:\/\/hrzt8xom4lq.typeform.com\/to\/Q0kxLyJB?typeform-source=admin.typeform.com",
+            "overlay_url_style": "button_1",
+            "enlarge_title": false,
+            "enlarge_text": false,
+            "overlay_position_x": 50,
+            "overlay_position_y": 50,
+            "mobile_text_below": false,
+            "color_label_background": "#ffffff",
+            "color_label_text": "#333333",
+            "product_id": "",
+            "show_chevron": true,
+            "chevron_position": "right",
+            "label_position_x": 20,
+            "label_position_y": 20
+          }
+        },
+        "1637125782ae89c9aa-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/2_ab3fc66f-e3ae-41e3-b44e-2052a764eb4e.png",
+            "image_link": "https:\/\/hrzt8xom4lq.typeform.com\/to\/Pw2VGCjK",
+            "image_position": "center center",
+            "color_overlay_bg": "#ffffff",
+            "overlay_opacity": 80,
+            "color_overlay_text": "#333333",
+            "overlay_title": "Device Donations",
+            "overlay_text": "See if your device is eligible by clicking on the button below and completing the form",
+            "overlay_url_text": "Donate Device",
+            "overlay_url": "https:\/\/hrzt8xom4lq.typeform.com\/to\/Pw2VGCjK",
+            "overlay_url_style": "button_1",
+            "enlarge_title": false,
+            "enlarge_text": false,
+            "overlay_position_x": 50,
+            "overlay_position_y": 50,
+            "mobile_text_below": false,
+            "color_label_background": "#ffffff",
+            "color_label_text": "#333333",
+            "product_id": "",
+            "show_chevron": true,
+            "chevron_position": "right",
+            "label_position_x": 80,
+            "label_position_y": 80
+          }
+        }
+      },
+      "block_order": [
+        "1637125782ae89c9aa-0",
+        "1637125782ae89c9aa-1"
+      ],
+      "settings": {
+        "height_desktop": 600,
+        "height_mobile": 500
+      }
+    },
+    "1653497860ac25ef57": {
+      "type": "rich-text-left-and-centre",
+      "settings": {
+        "title": "Gifts of Care",
+        "text": "<p>In lieu of a physical gift, consider making a donation to one of our care areas through our \"<a href=\"https:\/\/grhf.ca\/collections\/gifts-of-care\"><strong>Gifts of Care<\/strong><\/a>\" program which is designed to enhance patient experience this holiday season. <\/p>",
+        "button_label": "Donate Now",
+        "button_link": "shopify:\/\/collections\/gifts-of-care",
+        "url_style": "button_1",
+        "enlarge_title": false,
+        "enlarge_text": false,
+        "full_width": false,
+        "color_bg": "#ecf1f2",
+        "color_title": "#333333",
+        "color_text": "#333333"
+      }
+    },
+    "1653499573806d8d52": {
+      "type": "rich-text-left-and-centre",
+      "settings": {
+        "title": "Gift Cards",
+        "text": "<p>We are always in great need of gift cards to provide patients. Consider <strong>donating gift cards<\/strong> from retailers that provide:<\/p><p>- Coffee (Tim Horton's, Starbucks, etc.)<\/p><p>- Meals (restaurants that offer delivery or fast food chains: Subway, McDonald's, etc.)<\/p><p>- Personal hygiene products (Shoppers Drug Mart, Rexall)<\/p><p>- Groceries<\/p><p>- iTunes cards (helpful in many departments to support music therapy)<\/p><p>- Department Stores (Amazon, Walmart, etc.)<\/p><p>- Xbox or Nintendo Digital Gift Cards <\/p><p>- Local retailers who might support items for babies and children<\/p><p>Gifts cards are also easily sanitized and can be easily distributed to various care areas of the hospital.<\/p>",
+        "button_label": "Donate Gift Cards",
+        "button_link": "https:\/\/hrzt8xom4lq.typeform.com\/to\/Q0kxLyJB?typeform-source=admin.typeform.com",
+        "url_style": "button_1",
+        "enlarge_title": false,
+        "enlarge_text": false,
+        "full_width": false,
+        "color_bg": "#ffffff",
+        "color_title": "#333333",
+        "color_text": "#333333"
+      }
+    },
+    "1653499971024a446d": {
+      "type": "rich-text-left-and-centre",
+      "settings": {
+        "title": "New & Unopened Toys",
+        "text": "<p>We are able to accept small <strong>toy <\/strong>items. All items donated must be new and wrapped in original sealed packaging without any pieces or parts exposed to the outside environment. New items can also be placed in a clear plastic resealable bag for extra protection. Our Children's department loves to give out smaller gifts to patients since they are easy to store and easy for families to take home. These items include: <\/p><p>- Single hot wheels car packs<\/p><p>- Single Barbie's\/action figures<\/p><p>- Small Lego sets<\/p><p><\/p><p><strong>Items we are unable to accept<\/strong><\/p><p>At this time we <strong>cannot <\/strong>accept donations of soft items or items that we cannot safely sanitize, this includes:<\/p><p>- Novels or magazines<\/p><p>- Stuffed animals<\/p><p>- Homemade blankets or hats<\/p><p>- Items with exposed parts or pieces<\/p>",
+        "button_label": "Donate Toys",
+        "button_link": "https:\/\/hrzt8xom4lq.typeform.com\/to\/Q0kxLyJB?typeform-source=admin.typeform.com",
+        "url_style": "button_1",
+        "enlarge_title": false,
+        "enlarge_text": false,
+        "full_width": false,
+        "color_bg": "#ecf1f2",
+        "color_title": "#333333",
+        "color_text": "#333333"
+      }
+    },
+    "1653502572b9d1534d": {
+      "type": "rich-text-left-and-centre",
+      "settings": {
+        "title": "Hygiene & Toiletry Supplies",
+        "text": "<p>We are also able to accept new hygiene supplies for various care areas of the hospital.  These items support patients who have extended stays at the hospital to helping people who enter our emergency department and everything in-between. <\/p><p>These items must be new in original packaging in a fully sealed box or in a clear plastic resealable bag for items that do not come in a fully sealed box (i.e. for bottles of soap or deodorant). <\/p><p>Here some of the most requested items throughout the hospital:<\/p><p>- Liquid soaps (body wash, shampoo, & conditioner) <\/p><p>- Toothpastes and toothbrushes<\/p><p>- Deodorant (for men and women)<\/p><p>- Feminine hygiene products<\/p>",
+        "button_label": "Donate Hygiene Supplies",
+        "button_link": "https:\/\/hrzt8xom4lq.typeform.com\/to\/Q0kxLyJB?typeform-source=admin.typeform.com",
+        "url_style": "button_1",
+        "enlarge_title": false,
+        "enlarge_text": false,
+        "full_width": false,
+        "color_bg": "#ffffff",
+        "color_title": "#333333",
+        "color_text": "#333333"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "1637125782f744bcb7",
+    "1653497860ac25ef57",
+    "1653499573806d8d52",
+    "1653499971024a446d",
+    "1653502572b9d1534d"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "sections": {
+    "main": {
+      "type": "left-aligned-collection",
+      "disabled": true,
+      "settings": {
+        "enable_feature_header": false,
+        "grid": 4,
+        "grid_mobile": "2",
+        "pagination_limit": 12,
+        "show_total": true,
+        "ajax_products": true,
+        "show_vendor": false,
+        "show_filters": true,
+        "show_filter_prod_counts": true,
+        "show_sort_by": true,
+        "show_featured": false
+      }
+    },
+    "1651695372286454f3": {
+      "type": "apps",
+      "blocks": {
+        "2a4f241a-0a83-4f9b-bb6e-f1d03ac91770": {
+          "type": "shopify:\/\/apps\/auction-pro\/blocks\/collection-auction\/f9a60837-ee5e-4613-bf53-00e7b2589c1b",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "2a4f241a-0a83-4f9b-bb6e-f1d03ac91770"
+      ],
+      "settings": {
+      }
+    }
+  },
+  "order": [
+    "main",
+    "1651695372286454f3"
+  ]
+}

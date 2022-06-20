@@ -1,0 +1,59 @@
+{
+  "sections": {
+    "165047723400785515": {
+      "type": "image-with-text",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Updated_BiblioTake.png",
+        "image_link": "",
+        "image_size": "0",
+        "image_position": "left",
+        "title": "BiblioTake ",
+        "text": "<p>BiblioTake is a program to give each Neonatal Intensive Care Unit (NICU) family books to read to their child while they're admitted to the care area. <\/p><p>Studies show that early literacy is key to raising confident readers. It is also a great way to build a connection with your child, and the learning can begin right at birth! When they are finally able to go home, they will have a souvenir of a time when their child was<br\/>brave, resilient and strong.<\/p><p>The money raised from the donation of books will go towards funding initiatives in the NICU, such as: update existing infrastructure, technology and equipment as it becomes available. <\/p><p>This will also provide families a simple way of giving back to show their gratitude when they graduate from the NICU. Whether they choose to donate a book each year on their child’s birthday, or do an annual donation of a dozen books, they can help ensure that future NICU families have access to the same great care, and are able to start making meaningful memories with their child from day one.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "url_style": "button_1",
+        "enlarge_title": true,
+        "enlarge_text": false,
+        "text_alignment": "left",
+        "color_bg": "#ffffff",
+        "color_text": "#000000"
+      }
+    },
+    "main": {
+      "type": "main-collection",
+      "disabled": true,
+      "settings": {
+        "enable_feature_header": true,
+        "grid": 4,
+        "grid_mobile": "2",
+        "pagination_limit": 12,
+        "show_total": true,
+        "ajax_products": true,
+        "show_vendor": true,
+        "show_filters": true,
+        "show_filter_prod_counts": false,
+        "show_sort_by": true,
+        "show_featured": false
+      }
+    },
+    "165047795631669da0": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "BiblioTake Collection",
+        "enlarge_title": false,
+        "link_text": "Shop now",
+        "collection": "bibliotake",
+        "show_vendor": false,
+        "enable_carousel": false,
+        "grid": 4,
+        "row_count": 1,
+        "grid_mobile": "2"
+      }
+    }
+  },
+  "order": [
+    "165047723400785515",
+    "main",
+    "165047795631669da0"
+  ]
+}

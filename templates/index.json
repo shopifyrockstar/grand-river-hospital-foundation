@@ -1,0 +1,588 @@
+{
+  "sections": {
+    "1634575833d7ac1f09": {
+      "type": "banner",
+      "blocks": {
+        "1634575833d7ac1f09-0": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "image": "shopify:\/\/shop_images\/11_b95292c3-b682-496c-afed-92bf7b4d2dfc.png",
+            "image_position": "center center",
+            "image_link": "",
+            "color_overlay_bg": "#ffffff",
+            "overlay_opacity": 80,
+            "color_overlay_text": "#333333",
+            "overlay_title": "",
+            "overlay_text": "Care. Never. Stops. at Grand River Hospital. We're building a world class health system that transforms health care delivery, provides an exceptional experience for all, and works collaboratively to improve the health of our community.",
+            "overlay_url_text_1": "Donate",
+            "overlay_url_1": "shopify:\/\/products\/care-never-stops-donation",
+            "overlay_url_text_2": "Shop",
+            "overlay_url_2": "shopify:\/\/collections\/shop",
+            "overlay_url_style": "button_1",
+            "enlarge_title": false,
+            "enlarge_text": false,
+            "overlay_position_x": 50,
+            "overlay_position_y": 50,
+            "color_label_background": "#ffffff",
+            "color_label_text": "#333333",
+            "show_chevron": true,
+            "product_id_1": "",
+            "chevron_position_1": "right",
+            "label_position_x_1": 20,
+            "label_position_y_1": 30,
+            "product_id_2": "",
+            "chevron_position_2": "right",
+            "label_position_x_2": 80,
+            "label_position_y_2": 50
+          }
+        },
+        "122201c3-cd8e-4354-81db-827adba710a3": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Website_Banner_2048_x_1024_7.png",
+            "image_position": "center center",
+            "image_link": "",
+            "color_overlay_bg": "#ffffff",
+            "overlay_opacity": 80,
+            "color_overlay_text": "#333333",
+            "overlay_title": "Magnifying Regional Access to Care",
+            "overlay_text": "In a region that prides itself on its tech sector, the lack of state-of-the-art magnetic resonance imaging (MRI) technology at the community's hospitals has reached critical levels. Your help is needed to bring MRI services to Grand River and St. Mary's Hospitals.",
+            "overlay_url_text_1": "DONATE NOW",
+            "overlay_url_1": "shopify:\/\/products\/mri-machine",
+            "overlay_url_text_2": "",
+            "overlay_url_2": "",
+            "overlay_url_style": "button_1",
+            "enlarge_title": false,
+            "enlarge_text": false,
+            "overlay_position_x": 50,
+            "overlay_position_y": 80,
+            "color_label_background": "#ffffff",
+            "color_label_text": "#333333",
+            "show_chevron": true,
+            "product_id_1": "",
+            "chevron_position_1": "right",
+            "label_position_x_1": 20,
+            "label_position_y_1": 30,
+            "product_id_2": "",
+            "chevron_position_2": "right",
+            "label_position_x_2": 80,
+            "label_position_y_2": 50
+          }
+        },
+        "7b6b80f1-f795-49f3-9dff-b9e6e6310f46": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Website_Banner_2048_x_1024_2_d8fca37d-f9a7-4d56-a9e8-ca023e9f5a03.png",
+            "image_position": "center center",
+            "image_link": "",
+            "color_overlay_bg": "#ffffff",
+            "overlay_opacity": 80,
+            "color_overlay_text": "#333333",
+            "overlay_title": "BIG ANNOUNCEMENT",
+            "overlay_text": "The Ontario government just announced a planning grant that will see a joint project to build new and renewed hospital infrastructure, designed to better meet patient care needs in our rapidly growing community.",
+            "overlay_url_text_1": "Read More",
+            "overlay_url_1": "shopify:\/\/blogs\/grand-ideas\/building-a-stronger-more-resilient-health-care-system-in-waterloo-region",
+            "overlay_url_text_2": "Donate Now",
+            "overlay_url_2": "shopify:\/\/products\/care-never-stops-donation",
+            "overlay_url_style": "button_1",
+            "enlarge_title": false,
+            "enlarge_text": false,
+            "overlay_position_x": 50,
+            "overlay_position_y": 75,
+            "color_label_background": "#ffffff",
+            "color_label_text": "#333333",
+            "show_chevron": true,
+            "product_id_1": "",
+            "chevron_position_1": "right",
+            "label_position_x_1": 20,
+            "label_position_y_1": 30,
+            "product_id_2": "",
+            "chevron_position_2": "right",
+            "label_position_x_2": 80,
+            "label_position_y_2": 50
+          }
+        },
+        "ec7c571e-04d3-415b-8293-dd91b6a2f9c6": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Home_page_image_template_1.png",
+            "image_position": "top center",
+            "image_link": "",
+            "color_overlay_bg": "#ffffff",
+            "overlay_opacity": 80,
+            "color_overlay_text": "#333333",
+            "overlay_title": "Celebrating Life with 49 Coffees for Hospital Staff",
+            "overlay_text": "For his 49th birthday, Karl Nieva decided to celebrate by doing something special: donating 49 coffees to the health care workers at Grand River Hospital.",
+            "overlay_url_text_1": "Read the story",
+            "overlay_url_1": "shopify:\/\/blogs\/grand-ideas\/49-coffees",
+            "overlay_url_text_2": "Watch the CTV segment",
+            "overlay_url_2": "http:\/\/kitchener.ctvnews.ca\/video?clipId=2377361",
+            "overlay_url_style": "button_1",
+            "enlarge_title": false,
+            "enlarge_text": false,
+            "overlay_position_x": 50,
+            "overlay_position_y": 80,
+            "color_label_background": "#ffffff",
+            "color_label_text": "#333333",
+            "show_chevron": true,
+            "product_id_1": "",
+            "chevron_position_1": "right",
+            "label_position_x_1": 20,
+            "label_position_y_1": 30,
+            "product_id_2": "",
+            "chevron_position_2": "right",
+            "label_position_x_2": 80,
+            "label_position_y_2": 50
+          }
+        },
+        "2bbd9388-fe79-464a-999b-f3a5b5c24904": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Copy_of_Website_Banner_2048_x_1024.png",
+            "image_position": "top center",
+            "image_link": "",
+            "color_overlay_bg": "#ffffff",
+            "overlay_opacity": 85,
+            "color_overlay_text": "#333333",
+            "overlay_title": "Donors Make a Difference",
+            "overlay_text": "As a part of our efforts to update the community about the impact of their support at Grand River Hospital, we're excited to share our new 'Granted Collection'. It features equipment and programs for which the foundation has granted funds over to the Hospital, all thanks to our incredible donors and fundraisers.",
+            "overlay_url_text_1": "View the collection",
+            "overlay_url_1": "shopify:\/\/collections\/granted-funds-to-the-hospital",
+            "overlay_url_text_2": "",
+            "overlay_url_2": "",
+            "overlay_url_style": "button_1",
+            "enlarge_title": false,
+            "enlarge_text": false,
+            "overlay_position_x": 50,
+            "overlay_position_y": 80,
+            "color_label_background": "#ffffff",
+            "color_label_text": "#333333",
+            "show_chevron": true,
+            "product_id_1": "",
+            "chevron_position_1": "right",
+            "label_position_x_1": 20,
+            "label_position_y_1": 30,
+            "product_id_2": "",
+            "chevron_position_2": "right",
+            "label_position_x_2": 80,
+            "label_position_y_2": 50
+          }
+        },
+        "70ba951c-9067-4b05-8fe8-565eed7ce10e": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Home_page_image_template_8.png",
+            "image_position": "top center",
+            "image_link": "",
+            "color_overlay_bg": "#ffffff",
+            "overlay_opacity": 74,
+            "color_overlay_text": "#333333",
+            "overlay_title": "Transform Patient Experience",
+            "overlay_text": "Grand River Hospital Foundation is excited to launch GrandServe: a digital experience program that will transform patient experience at the Hospital. We recently rolled out a new, free high-speed WiFi network for patients and visitors!",
+            "overlay_url_text_1": "Learn more!",
+            "overlay_url_1": "shopify:\/\/blogs\/grand-ideas\/grandserve",
+            "overlay_url_text_2": "Donate to GrandServe",
+            "overlay_url_2": "shopify:\/\/products\/grandserve",
+            "overlay_url_style": "button_1",
+            "enlarge_title": false,
+            "enlarge_text": false,
+            "overlay_position_x": 50,
+            "overlay_position_y": 89,
+            "color_label_background": "#ffffff",
+            "color_label_text": "#333333",
+            "show_chevron": true,
+            "product_id_1": "",
+            "chevron_position_1": "right",
+            "label_position_x_1": 20,
+            "label_position_y_1": 30,
+            "product_id_2": "",
+            "chevron_position_2": "right",
+            "label_position_x_2": 80,
+            "label_position_y_2": 50
+          }
+        },
+        "3bc2360b-10ec-4192-b793-e1b881f7cf40": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "image": "shopify:\/\/shop_images\/unnamed_34534f5e-36cd-43df-9e23-84d953b78a12.png",
+            "image_position": "center center",
+            "image_link": "",
+            "color_overlay_bg": "#ffffff",
+            "overlay_opacity": 80,
+            "color_overlay_text": "#333333",
+            "overlay_title": "Bring Comfort to Babies and Families at the Hospital",
+            "overlay_text": "Grand River's newly established neonatal intensive care unit (NICU) music therapy program supports their hospital experience and is only the third of its kind in the province.",
+            "overlay_url_text_1": "Learn more",
+            "overlay_url_1": "shopify:\/\/blogs\/grand-ideas\/music-therapy-specialties-nicu",
+            "overlay_url_text_2": "Donate",
+            "overlay_url_2": "shopify:\/\/products\/music-therapy",
+            "overlay_url_style": "button_1",
+            "enlarge_title": false,
+            "enlarge_text": false,
+            "overlay_position_x": 50,
+            "overlay_position_y": 41,
+            "color_label_background": "#ffffff",
+            "color_label_text": "#333333",
+            "show_chevron": true,
+            "product_id_1": "",
+            "chevron_position_1": "right",
+            "label_position_x_1": 20,
+            "label_position_y_1": 30,
+            "product_id_2": "",
+            "chevron_position_2": "right",
+            "label_position_x_2": 80,
+            "label_position_y_2": 50
+          }
+        },
+        "7bf6ddd2-8160-4e5d-9cad-7d8f6c6b6a39": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/wTWMMvag.jpg",
+            "image_position": "center center",
+            "image_link": "",
+            "color_overlay_bg": "#ffffff",
+            "overlay_opacity": 80,
+            "color_overlay_text": "#333333",
+            "overlay_title": "",
+            "overlay_text": "Volunteer at Grand River's Gift Shop, and help patients, families and staff alike. The Gift Shop raises funds in support of patient experience at the hospital.",
+            "overlay_url_text_1": "Learn more",
+            "overlay_url_1": "shopify:\/\/blogs\/grand-ideas\/gift-shop-volunteer",
+            "overlay_url_text_2": "",
+            "overlay_url_2": "",
+            "overlay_url_style": "button_1",
+            "enlarge_title": false,
+            "enlarge_text": false,
+            "overlay_position_x": 50,
+            "overlay_position_y": 80,
+            "color_label_background": "#ffffff",
+            "color_label_text": "#333333",
+            "show_chevron": true,
+            "product_id_1": "",
+            "chevron_position_1": "right",
+            "label_position_x_1": 20,
+            "label_position_y_1": 30,
+            "product_id_2": "",
+            "chevron_position_2": "right",
+            "label_position_x_2": 80,
+            "label_position_y_2": 50
+          }
+        }
+      },
+      "block_order": [
+        "1634575833d7ac1f09-0",
+        "122201c3-cd8e-4354-81db-827adba710a3",
+        "7b6b80f1-f795-49f3-9dff-b9e6e6310f46",
+        "ec7c571e-04d3-415b-8293-dd91b6a2f9c6",
+        "2bbd9388-fe79-464a-999b-f3a5b5c24904",
+        "70ba951c-9067-4b05-8fe8-565eed7ce10e",
+        "3bc2360b-10ec-4192-b793-e1b881f7cf40",
+        "7bf6ddd2-8160-4e5d-9cad-7d8f6c6b6a39"
+      ],
+      "settings": {
+        "height": "fixed",
+        "height_desktop": 500,
+        "height_mobile": 400,
+        "mobile_text_below": true,
+        "slideshow_autoplay": true,
+        "slideshow_autoplay_speed": 6
+      }
+    },
+    "image-with-text": {
+      "type": "image-with-text",
+      "disabled": true,
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Website_Banner_2048_x_1024_4.png",
+        "image_link": "shopify:\/\/products\/mri-machine",
+        "image_size": "0",
+        "image_position": "left",
+        "title": "MRI Machine",
+        "text": "<p>We need your help to raise $2.4M for a second MRI machine at Grand River Hospital by June 2022.<\/p>",
+        "button_label": "Donate Now",
+        "button_link": "shopify:\/\/products\/mri-machine",
+        "url_style": "button_1",
+        "enlarge_title": false,
+        "enlarge_text": false,
+        "text_alignment": "center",
+        "color_bg": "#e6e6e6",
+        "color_text": "#333333"
+      }
+    },
+    "1652812435c5e3e940": {
+      "type": "rich-text",
+      "settings": {
+        "title": "Scotland's Yard Road Hockey Classic",
+        "text": "<p>On Friday, July 8th we will be hosting the first ever Scotland’s Yard Road Hockey Classic at Catalyst 137. <\/p><p>There will be many NHL players, OHL players and other professional hockey players in attendance like co-chair Ben Chiarot as well as Mike Hoffman, Nick Suzuki, Logan Stanley, Boris Katchouk, Dennis Wideman to name a few. <\/p><p>Scotland’s Yard is an initiative in partnership with Grand River Hospital to improve children’s cancer care. <\/p><p><\/p>",
+        "button_label": "SOLD OUT!",
+        "button_link": "https:\/\/app.eventconnect.io\/events\/20758\/registration-type\/create?nav=hidden",
+        "url_style": "button_1",
+        "enlarge_title": false,
+        "enlarge_text": false,
+        "full_width": false,
+        "color_bg": "#ecf1f2",
+        "color_title": "#333333",
+        "color_text": "#333333"
+      }
+    },
+    "1652812085c59edad7": {
+      "type": "image-gallery",
+      "blocks": {
+        "165281208457c1585b-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/1_a742b1f0-4f0b-4732-89c8-aa52e70cced6.png",
+            "alignment": "center center",
+            "enlarge_image": false,
+            "link": "",
+            "title": "",
+            "text": "",
+            "button_label": "",
+            "overlay_position": "center-center"
+          }
+        },
+        "165281208457c1585b-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/2_d5100bf6-93cf-4c35-9a9e-1a040db1c5d6.png",
+            "alignment": "center center",
+            "enlarge_image": false,
+            "link": "",
+            "title": "",
+            "text": "",
+            "button_label": "",
+            "overlay_position": "center-center"
+          }
+        },
+        "165281208457c1585b-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/3_6b8da616-5ecd-4ddf-bbb4-219f1a23a9e1.png",
+            "alignment": "center center",
+            "enlarge_image": false,
+            "link": "",
+            "title": "",
+            "text": "",
+            "button_label": "",
+            "overlay_position": "center-center"
+          }
+        },
+        "165281208457c1585b-3": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/4_0c4c9aa4-5980-48d2-b808-01a0c6155eab.png",
+            "alignment": "center center",
+            "enlarge_image": false,
+            "link": "",
+            "title": "",
+            "text": "",
+            "button_label": "",
+            "overlay_position": "center-center"
+          }
+        },
+        "cc53f9c5-e01a-4c16-a95b-3373326da875": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/6.png",
+            "alignment": "center center",
+            "enlarge_image": false,
+            "link": "",
+            "title": "",
+            "text": "",
+            "button_label": "",
+            "overlay_position": "center-center"
+          }
+        },
+        "5fb6aa8d-2f91-4b75-9a32-d48306cfe2a2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/8.png",
+            "alignment": "center center",
+            "enlarge_image": false,
+            "link": "",
+            "title": "",
+            "text": "",
+            "button_label": "",
+            "overlay_position": "center-center"
+          }
+        }
+      },
+      "block_order": [
+        "165281208457c1585b-0",
+        "165281208457c1585b-1",
+        "165281208457c1585b-2",
+        "165281208457c1585b-3",
+        "cc53f9c5-e01a-4c16-a95b-3373326da875",
+        "5fb6aa8d-2f91-4b75-9a32-d48306cfe2a2"
+      ],
+      "settings": {
+        "grid": 3,
+        "image_height": 300,
+        "image_height_mobile": 300,
+        "enable_margin": true,
+        "enable_carousel": true,
+        "overlay_style": "box",
+        "color_overlay_bg": "#ffffff",
+        "overlay_opacity": 80,
+        "color_overlay_text": "#333333",
+        "overlay_url_style": "button_1"
+      }
+    },
+    "1634577193da2505a6": {
+      "type": "rich-text",
+      "settings": {
+        "title": "",
+        "text": "<p>At the core of every world class community are people who care—people who care about the work they do, the community they live in and the chance to make a difference.<strong> <\/strong>At Grand River Hospital Foundation, we share that passion and dedicate ourselves to our great community by working in partnership with people from all walks of life to make every health care experience exceptional. <\/p>",
+        "button_label": "",
+        "button_link": "",
+        "url_style": "button_1",
+        "enlarge_title": false,
+        "enlarge_text": false,
+        "full_width": false,
+        "color_bg": "#ecf1f2",
+        "color_title": "#333333",
+        "color_text": "#333333"
+      }
+    },
+    "collection-list": {
+      "type": "collection-list",
+      "blocks": {
+        "collection-0": {
+          "type": "collection",
+          "settings": {
+            "collection": "scotlands-yard"
+          }
+        },
+        "collection-1": {
+          "type": "collection",
+          "settings": {
+            "collection": "gifts-of-care"
+          }
+        },
+        "collection-3": {
+          "type": "collection",
+          "settings": {
+            "collection": "bibliotake"
+          }
+        },
+        "collection-2": {
+          "type": "collection",
+          "settings": {
+            "collection": "grandserve"
+          }
+        }
+      },
+      "block_order": [
+        "collection-0",
+        "collection-1",
+        "collection-3",
+        "collection-2"
+      ],
+      "settings": {
+        "title": "Ways to Support",
+        "enlarge_title": false,
+        "grid": 4
+      }
+    },
+    "featured-blog": {
+      "type": "featured-blog",
+      "settings": {
+        "heading_image": "shopify:\/\/shop_images\/qfUr9JVg_d74e8b37-621d-4791-87ab-8ef1d258ca11.jpg",
+        "image_position": "center center",
+        "title": "Grand Ideas",
+        "description": "Because Care. Never. Stops. at Grand River Hospital",
+        "color_overlay_bg": "#ffffff",
+        "overlay_opacity": 80,
+        "color_overlay_text": "#333333",
+        "show_view_all": true,
+        "overlay_url_style": "button_1",
+        "enlarge_title": false,
+        "enlarge_text": false,
+        "overlay_position_y": 79,
+        "blog": "grand-ideas",
+        "post_limit": 3,
+        "show_author": false,
+        "show_date": true,
+        "show_tags": false,
+        "show_featured_products": true
+      }
+    },
+    "163457606848a8cb40": {
+      "type": "featured-collection",
+      "disabled": true,
+      "settings": {
+        "title": "Featured collection",
+        "enlarge_title": false,
+        "link_text": "Shop now",
+        "collection": "",
+        "show_vendor": false,
+        "enable_carousel": false,
+        "grid": 4,
+        "row_count": 1,
+        "grid_mobile": "2"
+      }
+    },
+    "16371306005893eda8": {
+      "type": "standout-collection",
+      "disabled": true,
+      "settings": {
+        "collection": "",
+        "collection_background": "#dae4e6",
+        "image_position": "center center",
+        "layout": "left",
+        "show_vendor": false,
+        "color_overlay_bg": "#ffffff",
+        "overlay_opacity": 80,
+        "color_overlay_text": "#333333",
+        "overlay_url_text": "Shop now",
+        "url_style": "button_1",
+        "enlarge_title": false,
+        "overlay_position_y": 70,
+        "color_label_background": "#ffffff",
+        "color_label_text": "#333333",
+        "product_id": "",
+        "show_chevron": true,
+        "chevron_position": "right",
+        "label_position_x": 10,
+        "label_position_y": 30
+      }
+    },
+    "1647017147788aa78b": {
+      "type": "newsletter",
+      "disabled": true,
+      "settings": {
+        "title": "Find out how you make a difference.",
+        "section_subtitle": "<p>Sign up for Grand River Hospital Foundation's e-newsletter:<\/p>",
+        "section_background_colour": "#ecf1f2",
+        "section_text_colour": "#333333",
+        "button_style": "button_1",
+        "enlarge_title": false,
+        "enlarge_text": false
+      }
+    },
+    "1648064345a928f84e": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<p><div class=\"_form_20\"><\/div><script src=\"https:\/\/grhf.activehosted.com\/f\/embed.php?id=20\" type=\"text\/javascript\" charset=\"utf-8\"><\/script><\/p>"
+      }
+    }
+  },
+  "order": [
+    "1634575833d7ac1f09",
+    "image-with-text",
+    "1652812435c5e3e940",
+    "1652812085c59edad7",
+    "1634577193da2505a6",
+    "collection-list",
+    "featured-blog",
+    "163457606848a8cb40",
+    "16371306005893eda8",
+    "1647017147788aa78b",
+    "1648064345a928f84e"
+  ]
+}

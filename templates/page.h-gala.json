@@ -1,0 +1,83 @@
+{
+  "sections": {
+    "1647034483198cdf87": {
+      "type": "image-gallery",
+      "blocks": {
+        "164703448399406e17-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Website_Banner_2048_x_1024_11.png",
+            "alignment": "center center",
+            "enlarge_image": false,
+            "link": "",
+            "title": "",
+            "text": "",
+            "button_label": "",
+            "overlay_position": "center-center"
+          }
+        }
+      },
+      "block_order": [
+        "164703448399406e17-0"
+      ],
+      "settings": {
+        "grid": 2,
+        "image_height": 300,
+        "image_height_mobile": 100,
+        "enable_margin": true,
+        "enable_carousel": true,
+        "overlay_style": "box",
+        "color_overlay_bg": "#ffffff",
+        "overlay_opacity": 80,
+        "color_overlay_text": "#333333",
+        "overlay_url_style": "button_1"
+      }
+    },
+    "main": {
+      "type": "main-page",
+      "settings": {
+      }
+    },
+    "1646836920772ee30d": {
+      "type": "image-with-text",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/cig-cozy-gallery-10440fMq-HoffmanGala2019-568-web-xxl.jpg",
+        "image_link": "shopify:\/\/products\/h-gala",
+        "image_size": "0",
+        "image_position": "left",
+        "title": "See you there!",
+        "text": "<p>Thursday, June 16, 2022<br\/>Tapestry Hall<br\/>Black Tie<br\/>Tables are limited<\/p>",
+        "button_label": "Reserve your table today!",
+        "button_link": "shopify:\/\/products\/h-gala",
+        "url_style": "button_1",
+        "enlarge_title": false,
+        "enlarge_text": false,
+        "text_alignment": "center",
+        "color_bg": "#dae4e6",
+        "color_text": "#333333"
+      }
+    },
+    "16467764500c780196": {
+      "type": "apps",
+      "blocks": {
+        "63b32100-88cf-4ea8-8e4c-ec0298efd666": {
+          "type": "shopify:\/\/apps\/cozy-image-gallery\/blocks\/Cozy_Gallery_Block\/9808695d-eb84-434d-80d6-cfbcef2d7548",
+          "settings": {
+            "cz_img_gallery_code": "<div class=\"cz-embed-gallery cozy-gallery-lazy-load\" id=\"cz-embed-gallery38471\">\n<!-- ALWAYS KEEP THIS EMPTY -->\n<\/div>"
+          }
+        }
+      },
+      "block_order": [
+        "63b32100-88cf-4ea8-8e4c-ec0298efd666"
+      ],
+      "settings": {
+      }
+    }
+  },
+  "order": [
+    "1647034483198cdf87",
+    "main",
+    "1646836920772ee30d",
+    "16467764500c780196"
+  ]
+}

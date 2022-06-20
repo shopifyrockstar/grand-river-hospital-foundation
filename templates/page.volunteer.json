@@ -1,0 +1,209 @@
+{
+  "sections": {
+    "16432132371f3a5c8c": {
+      "type": "image-with-text",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Square_Posts_891edd1d-7970-421f-a3af-2405f8caaa47.png",
+        "image_link": "",
+        "image_size": "0",
+        "image_position": "left",
+        "title": "DO YOU WANT TO VOLUNTEER?",
+        "text": "<p>OUR ANSWER IS<\/p>",
+        "button_label": "YES!",
+        "button_link": "shopify:\/\/pages\/volunteer-opportunities",
+        "url_style": "button_1",
+        "enlarge_title": false,
+        "enlarge_text": false,
+        "text_alignment": "center",
+        "color_bg": "#ECF1F2",
+        "color_text": "#333333"
+      }
+    },
+    "165161257016d58924": {
+      "type": "video-with-text",
+      "disabled": true,
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Vers._2_Blog_and_social_posts_-_large_image_3_621fd2b7-6dc4-4874-95bc-5a3f3fc29d9f.png",
+        "image_link": "",
+        "image_size": "0",
+        "image_position": "left",
+        "title": "Volunteer",
+        "text": "<p>Do you want to become a volunteer in support of Grand River Hospital? Our answer is...<\/p>",
+        "button_label": "YES!",
+        "button_link": "shopify:\/\/pages\/volunteer-opportunities",
+        "url_style": "button_1",
+        "enlarge_title": false,
+        "enlarge_text": false,
+        "text_alignment": "center",
+        "color_bg": "#ECF1F2",
+        "color_text": "#333333"
+      }
+    },
+    "1650565431d2f9c176": {
+      "type": "rich-text-about-fdn",
+      "settings": {
+        "title": "",
+        "text": "<p>Thank you for your interest in Volunteering for Grand River Hospital. There are many ways that you can support our Hospital: from your own home, in the community, or in the hospital environment. Tell us a bit about yourself and how you would like to support Grand River Hospital, and we will work with you to find the best place for you to make a meaningful contribution to your Hospital community.<\/p><p>Please note, all Volunteers are required to be fully vaccinated against Covid-19 as per hospital guidelines. However, exceptional circumstances can be reviewed on a case by case basis.<br\/><br\/>We are looking for people with the following kinds of qualities:<\/p><p>● Compassionate<br\/>● Patient focused<br\/>● Non-judgemental<br\/>● Flexible<br\/>● Takes initiative<br\/>● Has a positive attitude<br\/>● Team players<br\/>● Takes direction well<br\/>● Has a sense of humour<br\/><br\/><em>Volunteers will be interacting with patients and visitors on a very regular basis. As a result, it is prefered that volunteers have excellent verbal and written English skills.<\/em><br\/><\/p>",
+        "button_label": "",
+        "button_link": "",
+        "url_style": "button_1",
+        "enlarge_title": false,
+        "enlarge_text": false,
+        "full_width": false,
+        "color_bg": "#ffffff",
+        "color_title": "#333333",
+        "color_text": "#333333"
+      }
+    },
+    "164375489329850df8": {
+      "type": "custom-liquid",
+      "disabled": true,
+      "settings": {
+        "custom_liquid": "<p style=\"padding-right:2%;padding-left:2%\">Thank you for your interest in Volunteering for Grand River Hospital. There are many ways that you can support our Hospital: from your own home, in the community, or in the hospital environment. Tell us a bit about yourself and how you would like to support Grand River Hospital, and we will work with you to find the best place for you to make a meaningful contribution to your Hospital community.<\/p>\n<p style=\"padding-right:2%;padding-left:2%\">Please note, all Volunteers are required to be fully vaccinated against Covid-19 according to hospital guidelines, however exceptional circumstances can be reviewed on a case by case basis.<\/p>\n<p style=\"padding-right:2%;padding-left:2%\">We are looking for people who are:<\/p>\n<ul style=\"padding-left:4%\">\n<li>● Compassionate<\/li>\n<li>● Patient focused<\/li>\n<li>● Non-judgemental<\/li>\n<li>● Flexible<\/li>\n<li>● Take initiative<\/li>\n<li>● Have a positive attitude<\/li>\n<li>● Team players<\/li>\n<li>● Able to take direction well<\/li>\n<li>● Have a sense of humour<\/li>\n<\/ul>\n<p style=\"padding-right:2%;padding-left:2%\"><em>Volunteers will be interacting with patients and visitors on a very regular basis. As a result, it is prefered that volunteers have excellent verbal and written English skills. <\/em><\/p>"
+      }
+    },
+    "1651601857c4b7a04f": {
+      "type": "image-with-text",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Vers._2_Blog_and_social_posts_-_large_image_8bcf95ae-21c5-4ccc-9048-37deb4d9cb8e.png",
+        "image_link": "",
+        "image_size": "0",
+        "image_position": "right",
+        "title": "Volunteer Stories",
+        "text": "<p>Volunteers are generous people from our everyday lives—parents, siblings, neighbours and friends—who give their time to make an extraordinary difference in supporting the health and wellness of our community.<\/p>",
+        "button_label": "Read their stories!",
+        "button_link": "https:\/\/grhf.ca\/blogs\/grand-ideas\/tagged\/volunteer-stories",
+        "url_style": "button_1",
+        "enlarge_title": false,
+        "enlarge_text": false,
+        "text_alignment": "center",
+        "color_bg": "#ECF1F2",
+        "color_text": "#333333"
+      }
+    },
+    "16432141677fefcef9": {
+      "type": "image-with-text-overlay",
+      "disabled": true,
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Untitled_design_76.png",
+        "image_link": "shopify:\/\/pages\/volunteer-faq",
+        "image_position": "center center",
+        "height": "adapt",
+        "height_desktop": 600,
+        "height_mobile": 500,
+        "color_overlay_bg": "#ffffff",
+        "overlay_opacity": 80,
+        "color_overlay_text": "#333333",
+        "overlay_title": "FAQ",
+        "overlay_text": "Things you might be interested to know",
+        "overlay_url_text_1": "CLICK HERE",
+        "overlay_url_1": "shopify:\/\/pages\/volunteer-faq",
+        "overlay_url_text_2": "",
+        "overlay_url_2": "",
+        "overlay_url_style": "button_1",
+        "enlarge_title": false,
+        "enlarge_text": false,
+        "overlay_position_x": 50,
+        "overlay_position_y": 70,
+        "mobile_text_below": false,
+        "color_label_background": "#ffffff",
+        "color_label_text": "#333333",
+        "show_chevron": true,
+        "product_id_1": "",
+        "chevron_position_1": "right",
+        "label_position_x_1": 20,
+        "label_position_y_1": 30,
+        "product_id_2": "",
+        "chevron_position_2": "right",
+        "label_position_x_2": 80,
+        "label_position_y_2": 50
+      }
+    },
+    "16432147086dd69fc5": {
+      "type": "split-image",
+      "disabled": true,
+      "blocks": {
+        "164321470829aea526-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Untitled_design_77.png",
+            "image_link": "",
+            "image_position": "center center",
+            "color_overlay_bg": "#ffffff",
+            "overlay_opacity": 80,
+            "color_overlay_text": "#333333",
+            "overlay_title": "Clinical Volunteers",
+            "overlay_text": "Working directly alongside patients",
+            "overlay_url_text": "FIND OUT MORE",
+            "overlay_url": "",
+            "overlay_url_style": "button_1",
+            "enlarge_title": false,
+            "enlarge_text": false,
+            "overlay_position_x": 50,
+            "overlay_position_y": 80,
+            "mobile_text_below": false,
+            "color_label_background": "#ffffff",
+            "color_label_text": "#333333",
+            "product_id": "",
+            "show_chevron": true,
+            "chevron_position": "right",
+            "label_position_x": 20,
+            "label_position_y": 20
+          }
+        },
+        "164321470829aea526-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Untitled_design_78.png",
+            "image_link": "",
+            "image_position": "center center",
+            "color_overlay_bg": "#ffffff",
+            "overlay_opacity": 80,
+            "color_overlay_text": "#333333",
+            "overlay_title": "Community Volunteers",
+            "overlay_text": "Working in the community",
+            "overlay_url_text": "FIND OUT MORE",
+            "overlay_url": "",
+            "overlay_url_style": "button_1",
+            "enlarge_title": false,
+            "enlarge_text": false,
+            "overlay_position_x": 50,
+            "overlay_position_y": 20,
+            "mobile_text_below": false,
+            "color_label_background": "#ffffff",
+            "color_label_text": "#333333",
+            "product_id": "",
+            "show_chevron": true,
+            "chevron_position": "right",
+            "label_position_x": 80,
+            "label_position_y": 80
+          }
+        }
+      },
+      "block_order": [
+        "164321470829aea526-0",
+        "164321470829aea526-1"
+      ],
+      "settings": {
+        "height_desktop": 600,
+        "height_mobile": 500
+      }
+    },
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+      }
+    }
+  },
+  "order": [
+    "16432132371f3a5c8c",
+    "165161257016d58924",
+    "1650565431d2f9c176",
+    "164375489329850df8",
+    "1651601857c4b7a04f",
+    "16432141677fefcef9",
+    "16432147086dd69fc5",
+    "main"
+  ]
+}

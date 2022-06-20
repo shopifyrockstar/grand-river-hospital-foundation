@@ -1,0 +1,242 @@
+{
+  "sections": {
+    "16366651925fd7ecba": {
+      "type": "testimonials",
+      "blocks": {
+        "16366651925fd7ecba-0": {
+          "type": "testimonial",
+          "settings": {
+            "star_rating": 0,
+            "testimonial": "<p>\"I firmly believe you get better care at home and our goal is to excel and provide the services that are important in our community.\"<\/p>",
+            "image": "shopify:\/\/shop_images\/sethjutzi_4L9d.png",
+            "author": "Seth Jutzi, Board Chair"
+          }
+        },
+        "16366651925fd7ecba-1": {
+          "type": "testimonial",
+          "settings": {
+            "star_rating": 0,
+            "testimonial": "<p>\"It was eye-opening to understand that we have a world-class cancer care centre here in Waterloo Region that impacts the lives of so many in our community.\"<\/p>",
+            "image": "shopify:\/\/shop_images\/stevemessage_KRD9.png",
+            "author": "Steve Currie, Past Board Chair"
+          }
+        },
+        "af41386e-3cde-455f-9132-5acbcbfba073": {
+          "type": "testimonial",
+          "settings": {
+            "star_rating": 0,
+            "testimonial": "<p>\"Our region deserves continued quality healthcare and experience you would expect to receive at any larger Hospital for generations to come, with the added local feel and support of an amazing community.\"<\/p>",
+            "image": "shopify:\/\/shop_images\/tobiday-hamilton_CouG.png",
+            "author": "Tobi Day-Hamilton, Vice Chair & Governance Committee Chair"
+          }
+        },
+        "b1c4213e-53d4-4ec3-a1ea-f299bc64ed70": {
+          "type": "testimonial",
+          "settings": {
+            "star_rating": 0,
+            "testimonial": "<p>\"I was inspired daily by health care providers and developed an even stronger passion to give back to GRH...\"<\/p>",
+            "image": "shopify:\/\/shop_images\/bobbythompson_GUTS.png",
+            "author": "Bobby Thompson, Board Treasurer"
+          }
+        },
+        "dcb33080-2cf9-42f0-80d3-362e17e628b0": {
+          "type": "testimonial",
+          "settings": {
+            "star_rating": 0,
+            "testimonial": "<p>\"Life is a gift, and one that can be prolonged for some through the support of a world class healthcare system.\"<\/p>",
+            "image": "shopify:\/\/shop_images\/kendaallen_MZD4.png",
+            "author": "Kenda Allen"
+          }
+        },
+        "41ad9d22-13d4-4d91-aad9-03874b69a235": {
+          "type": "testimonial",
+          "settings": {
+            "star_rating": 0,
+            "testimonial": "<p>\"...access to superior healthcare is a cornerstone to feed the social and economic growth of our region.\"<\/p>",
+            "image": "shopify:\/\/shop_images\/markbingeman_hbFT.png",
+            "author": "Mark Bingeman"
+          }
+        },
+        "cc40070c-a3ac-42d8-b227-9e906e3ee309": {
+          "type": "testimonial",
+          "settings": {
+            "star_rating": 0,
+            "testimonial": "<p>\"I believe that the two most important things that separate great communities are the education system and the healthcare system.\"<\/p>",
+            "image": "shopify:\/\/shop_images\/untitleddesign34_bcla.png",
+            "author": "Bruce Brown"
+          }
+        },
+        "4dcf0e31-be4f-476b-a8e2-233ae1b1eff5": {
+          "type": "testimonial",
+          "settings": {
+            "star_rating": 0,
+            "testimonial": "<p>\"...with both a young family and an ageing extended family, it is very comforting knowing that Grand River Hospital is and will be there for us throughout all of life's ups and downs.\"<\/p>",
+            "image": "shopify:\/\/shop_images\/untitleddesign35_6kzC.png",
+            "author": "Jonathan Dunlop"
+          }
+        },
+        "7278fec4-cac2-4409-9eef-8b162d7b6adb": {
+          "type": "testimonial",
+          "settings": {
+            "star_rating": 0,
+            "testimonial": "<p>\"The vision for the Hospital and communities is a brand for healthcare excellence - one integrated system that is community, patient and family-driven.\"<\/p>",
+            "image": "shopify:\/\/shop_images\/rongagnon_Oqk2.png",
+            "author": "Ron Gagnon"
+          }
+        },
+        "12d3681c-fbac-4067-905b-38331f16fca0": {
+          "type": "testimonial",
+          "settings": {
+            "star_rating": 0,
+            "testimonial": "<p>\"...I was very impressed with the quality of care and therefore had an openness to supporting the Hospital.\"<\/p>",
+            "image": "shopify:\/\/shop_images\/jackgarramone_xaGI.png",
+            "author": "Jack Garramone"
+          }
+        },
+        "7674bf24-b4e8-4394-bee3-c4271ca3c624": {
+          "type": "testimonial",
+          "settings": {
+            "star_rating": 0,
+            "testimonial": "<p>\"...Our healthcare system in Canada is one of the perks that attract immigrants like myself and my parents.\"<\/p>",
+            "image": "shopify:\/\/shop_images\/pmr2_Zlnz.png",
+            "author": "Hongwei Liu"
+          }
+        },
+        "3d85ad52-633a-45c8-b298-07250c0d18fe": {
+          "type": "testimonial",
+          "settings": {
+            "star_rating": 0,
+            "testimonial": "<p>\"Innovation is huge for me. The constant desire to change for the better just means that we as a group will always strive for greener grass.\"<\/p>",
+            "image": "shopify:\/\/shop_images\/neilnaik_xaLD.png",
+            "author": "Dr. Neil Naik"
+          }
+        },
+        "c1c0cfc1-5fcc-47df-abd9-3ee3654c0163": {
+          "type": "testimonial",
+          "settings": {
+            "star_rating": 0,
+            "testimonial": "<p>\"My hope is that access to healthcare continues to be equitable for all of us, and I’m honoured to do my small bit in making that happen by being on the Board.\"<\/p>",
+            "image": "shopify:\/\/shop_images\/ksingh_A1eN.png",
+            "author": "Komal Singh"
+          }
+        },
+        "2740ef56-1ded-45fb-bf7c-6601cf7d4781": {
+          "type": "testimonial",
+          "settings": {
+            "star_rating": 0,
+            "testimonial": "<p>\"My experience demonstrates how important it is to ensure the Hospital is sufficiently funded to provide the care, equipment and facilities this community deserves.\"<\/p>",
+            "image": "shopify:\/\/shop_images\/untitleddesign33_0nEp.png",
+            "author": "Sandra Stone"
+          }
+        }
+      },
+      "block_order": [
+        "16366651925fd7ecba-0",
+        "16366651925fd7ecba-1",
+        "af41386e-3cde-455f-9132-5acbcbfba073",
+        "b1c4213e-53d4-4ec3-a1ea-f299bc64ed70",
+        "dcb33080-2cf9-42f0-80d3-362e17e628b0",
+        "41ad9d22-13d4-4d91-aad9-03874b69a235",
+        "cc40070c-a3ac-42d8-b227-9e906e3ee309",
+        "4dcf0e31-be4f-476b-a8e2-233ae1b1eff5",
+        "7278fec4-cac2-4409-9eef-8b162d7b6adb",
+        "12d3681c-fbac-4067-905b-38331f16fca0",
+        "7674bf24-b4e8-4394-bee3-c4271ca3c624",
+        "3d85ad52-633a-45c8-b298-07250c0d18fe",
+        "c1c0cfc1-5fcc-47df-abd9-3ee3654c0163",
+        "2740ef56-1ded-45fb-bf7c-6601cf7d4781"
+      ],
+      "settings": {
+        "title": "Meet the Board of Governors",
+        "color_bg": "#ecf1f2",
+        "color_title": "#333333",
+        "color_text": "#333333",
+        "color_star": "#ffdd00",
+        "enlarge_title": false,
+        "enlarge_text": false,
+        "autoplay": false,
+        "autoplay_speed": 6,
+        "circle_images": true
+      }
+    },
+    "main": {
+      "type": "main-collection",
+      "settings": {
+        "enable_feature_header": false,
+        "grid": 4,
+        "grid_mobile": "2",
+        "pagination_limit": 20,
+        "show_total": false,
+        "ajax_products": false,
+        "show_vendor": false,
+        "show_filters": false,
+        "show_filter_prod_counts": false,
+        "show_sort_by": false,
+        "show_featured": false
+      }
+    },
+    "1636665197d41a563b": {
+      "type": "collection-list",
+      "disabled": true,
+      "blocks": {
+        "1636665197d41a563b-0": {
+          "type": "collection",
+          "settings": {
+            "collection": ""
+          }
+        },
+        "1636665197d41a563b-1": {
+          "type": "collection",
+          "settings": {
+            "collection": ""
+          }
+        },
+        "1636665197d41a563b-2": {
+          "type": "collection",
+          "settings": {
+            "collection": ""
+          }
+        },
+        "1636665197d41a563b-3": {
+          "type": "collection",
+          "settings": {
+            "collection": ""
+          }
+        }
+      },
+      "block_order": [
+        "1636665197d41a563b-0",
+        "1636665197d41a563b-1",
+        "1636665197d41a563b-2",
+        "1636665197d41a563b-3"
+      ],
+      "settings": {
+        "title": "Collection list",
+        "enlarge_title": false,
+        "grid": 4
+      }
+    },
+    "1636659109a46b8ff4": {
+      "type": "rich-text-about-fdn",
+      "settings": {
+        "title": "About Grand River Hospital Foundation",
+        "text": "<p>At the core of every world class community are people who care — people who care about the work they do, the community they live in and the chance to make a difference.  At Grand River Hospital Foundation, we share that passion and dedicate ourselves to our great community by working in partnership with people from all walks of life to make every health care experience exceptional.<\/p><p>With the continued dedication of our donors, supporters and the community at large, Grand River Hospital Foundation is helping our community stay healthy and providing access to quality health care right here, in the places where we work and live. We're investing in a world class health care system. The kind that transforms health care delivery, provides an exceptional experience for all, and works collaboratively to improve the health of our community — the kind where care never stops.<\/p><p>But we can't do it without your help. We need to rally donors, supporters and community members alike to help our hospital<\/p><p><strong>Provide world class care<\/strong> that addresses the unique and specialized needs of people throughout the region<\/p><p><strong>Acquire new and replacement equipment<\/strong> so hospital staff can provide the best possible screening, treatment and patient experience<\/p><p><strong>Seed new initiatives<\/strong> to give patients access to the most innovative treatments and programs<\/p><p><strong>Educate health care workers<\/strong> by providing ongoing training opportunities to upgrade their skill sets and ensure they're well-versed in the latest clinical and technological advancements<\/p><p><strong>Conduct important research<\/strong> so we can continue to advance treatment and care for generations to come<\/p><p>Originally created by our community for our community, you have already done so much to make Grand River Hospital an epicentre for quality health care. Now, we need you to join us and help us transform Grand River into one of the best in the world.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "url_style": "button_1",
+        "enlarge_title": false,
+        "enlarge_text": false,
+        "full_width": false,
+        "color_bg": "#ecf1f2",
+        "color_title": "#333333",
+        "color_text": "#333333"
+      }
+    }
+  },
+  "order": [
+    "16366651925fd7ecba",
+    "main",
+    "1636665197d41a563b",
+    "1636659109a46b8ff4"
+  ]
+}

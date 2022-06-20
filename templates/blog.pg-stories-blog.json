@@ -1,0 +1,159 @@
+{
+  "sections": {
+    "1647365972eda0bddd": {
+      "type": "banner",
+      "blocks": {
+        "16473659721e6670d9-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Home_page_image_template_5.png",
+            "image_position": "top center",
+            "image_link": "",
+            "color_overlay_bg": "#ffffff",
+            "overlay_opacity": 100,
+            "color_overlay_text": "#333333",
+            "overlay_title": "",
+            "overlay_text": "",
+            "overlay_url_text_1": "",
+            "overlay_url_1": "",
+            "overlay_url_text_2": "",
+            "overlay_url_2": "",
+            "overlay_url_style": "button_1",
+            "enlarge_title": false,
+            "enlarge_text": false,
+            "overlay_position_x": 50,
+            "overlay_position_y": 85,
+            "color_label_background": "#ffffff",
+            "color_label_text": "#333333",
+            "show_chevron": true,
+            "product_id_1": "",
+            "chevron_position_1": "right",
+            "label_position_x_1": 20,
+            "label_position_y_1": 30,
+            "product_id_2": "",
+            "chevron_position_2": "right",
+            "label_position_x_2": 80,
+            "label_position_y_2": 50
+          }
+        }
+      },
+      "block_order": [
+        "16473659721e6670d9-0"
+      ],
+      "settings": {
+        "height": "fixed",
+        "height_desktop": 500,
+        "height_mobile": 400,
+        "mobile_text_below": true,
+        "slideshow_autoplay": true,
+        "slideshow_autoplay_speed": 6
+      }
+    },
+    "1654700051f2d6cd83": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<h2 style=\"text-align: center;\">Legacy Champions<\/h2>"
+      }
+    },
+    "16473661567b8d8206": {
+      "type": "rich-text",
+      "disabled": true,
+      "settings": {
+        "title": "Legacy Champions",
+        "text": "",
+        "button_label": "",
+        "button_link": "",
+        "url_style": "button_1",
+        "enlarge_title": true,
+        "enlarge_text": false,
+        "full_width": false,
+        "color_bg": "#fdfdfd",
+        "color_title": "#333333",
+        "color_text": "#333333"
+      }
+    },
+    "16469474864859073c": {
+      "type": "rich-text-about-fdn",
+      "disabled": true,
+      "settings": {
+        "title": "The Care Forward Community",
+        "text": "<p>If you have already included us in your will—thank you!  We would like to know so we can thank you and ensure your gift is recognized the way you would like it to be.<\/p><p>When you leave a gift to Grand River Hospital Foundation through a bequest, life insurance policy, trust or other estate plan, you can become a member in our <em>Care Forward <\/em>community.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "url_style": "button_1",
+        "enlarge_title": false,
+        "enlarge_text": false,
+        "full_width": false,
+        "color_bg": "#ffffff",
+        "color_title": "#333333",
+        "color_text": "#333333"
+      }
+    },
+    "main": {
+      "type": "main-blog",
+      "disabled": true,
+      "settings": {
+        "blog_show_rss": false,
+        "blog_show_tags": false,
+        "blog_show_author": false,
+        "blog_show_date": false,
+        "article_show_tags": false,
+        "show_featured_products": false,
+        "blog_magazine_layout": true,
+        "description": "",
+        "color_overlay_bg": "#ffffff",
+        "overlay_opacity": 10,
+        "color_overlay_text": "#333333",
+        "overlay_position_y": 70,
+        "mobile_text_below": false
+      }
+    },
+    "16547000353f6dddda": {
+      "type": "image-with-text",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Website_Image_with_Text_Template_7_b6dacf2a-7d95-4fbb-b364-27d2e377689c.png",
+        "image_link": "",
+        "image_size": "0",
+        "image_position": "left",
+        "title": "Two True Champions",
+        "text": "<p>Catherine and Don Landry’s experience of the expert care, compassion and kindness at Grand River Hospital were why they loved being involved with the hospital, and wanted to make a bequest.<\/p><p><strong>Written by Eric Landry<\/strong><\/p>",
+        "button_label": "Read more",
+        "button_link": "",
+        "url_style": "button_1",
+        "enlarge_title": false,
+        "enlarge_text": false,
+        "text_alignment": "left",
+        "color_bg": "#ffffff",
+        "color_text": "#333333"
+      }
+    },
+    "1654700046149712b6": {
+      "type": "image-with-text",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Website_Image_with_Text_Template_6_32f2b557-5b6b-4fcd-8cea-c9afc4805c16.png",
+        "image_link": "",
+        "image_size": "0",
+        "image_position": "right",
+        "title": "Honouring Veryl Finlay",
+        "text": "<p>Leaving a gift in your Will in honour of a loved one is a way to carry their legacy forward. When you celebrate the life of someone you love with a gift in your Will, you make a lasting impact on the lives of others and the health of our community.<\/p>",
+        "button_label": "Read more",
+        "button_link": "shopify:\/\/blogs\/legacy-champions\/honouring-veryl",
+        "url_style": "button_1",
+        "enlarge_title": false,
+        "enlarge_text": false,
+        "text_alignment": "left",
+        "color_bg": "#ffffff",
+        "color_text": "#333333"
+      }
+    }
+  },
+  "order": [
+    "1647365972eda0bddd",
+    "1654700051f2d6cd83",
+    "16473661567b8d8206",
+    "16469474864859073c",
+    "main",
+    "16547000353f6dddda",
+    "1654700046149712b6"
+  ]
+}

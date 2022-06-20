@@ -1,0 +1,46 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-collection",
+      "blocks": {
+        "a1ecdc91-07b4-422f-b0d7-5ffc271b4c76": {
+          "type": "collection",
+          "settings": {
+            "collection": "grand-kayak",
+            "product": "",
+            "collection_colour": "#43467F",
+            "color_overlay_bg": "#ffffff",
+            "overlay_opacity": 10,
+            "color_overlay_text": "#333333"
+          }
+        }
+      },
+      "block_order": [
+        "a1ecdc91-07b4-422f-b0d7-5ffc271b4c76"
+      ],
+      "settings": {
+        "enable_feature_header": true,
+        "grid": 4,
+        "grid_mobile": "2",
+        "pagination_limit": 12,
+        "show_total": true,
+        "ajax_products": true,
+        "show_vendor": false,
+        "show_filters": true,
+        "show_filter_prod_counts": false,
+        "show_sort_by": true,
+        "show_featured": false
+      }
+    },
+    "1649681310760c2297": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<div data-tf-widget=\"boMOeHit\" data-tf-iframe-props=\"title=Grand Kayak Signup\" data-tf-medium=\"snippet\" style=\"width:100%;height:400px;\"><\/div><script src=\"\/\/embed.typeform.com\/next\/embed.js\"><\/script>"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "1649681310760c2297"
+  ]
+}

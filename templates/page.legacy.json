@@ -1,0 +1,425 @@
+{
+  "sections": {
+    "163763124004913a5e": {
+      "type": "banner",
+      "blocks": {
+        "163763124099373ca3-0": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Untitled_design_1.png",
+            "image_position": "center center",
+            "image_link": "",
+            "color_overlay_bg": "#ffffff",
+            "overlay_opacity": 80,
+            "color_overlay_text": "#333333",
+            "overlay_title": "Your Legacy Enabling Future Health Care",
+            "overlay_text": "",
+            "overlay_url_text_1": "",
+            "overlay_url_1": "",
+            "overlay_url_text_2": "",
+            "overlay_url_2": "",
+            "overlay_url_style": "button_1",
+            "enlarge_title": false,
+            "enlarge_text": false,
+            "overlay_position_x": 50,
+            "overlay_position_y": 44,
+            "color_label_background": "#ffffff",
+            "color_label_text": "#333333",
+            "show_chevron": true,
+            "product_id_1": "",
+            "chevron_position_1": "right",
+            "label_position_x_1": 20,
+            "label_position_y_1": 30,
+            "product_id_2": "",
+            "chevron_position_2": "right",
+            "label_position_x_2": 80,
+            "label_position_y_2": 50
+          }
+        },
+        "fc1cec7f-9ddf-415e-b901-a57a5b28513a": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Home_page_image_template.png",
+            "image_position": "center center",
+            "image_link": "",
+            "color_overlay_bg": "#ffffff",
+            "overlay_opacity": 82,
+            "color_overlay_text": "#333333",
+            "overlay_title": "",
+            "overlay_text": "Care Forward—Your legacy enables exceptional health care for generations to come",
+            "overlay_url_text_1": "",
+            "overlay_url_1": "",
+            "overlay_url_text_2": "",
+            "overlay_url_2": "",
+            "overlay_url_style": "button_1",
+            "enlarge_title": false,
+            "enlarge_text": true,
+            "overlay_position_x": 50,
+            "overlay_position_y": 80,
+            "color_label_background": "#ffffff",
+            "color_label_text": "#333333",
+            "show_chevron": false,
+            "product_id_1": "",
+            "chevron_position_1": "right",
+            "label_position_x_1": 16,
+            "label_position_y_1": 20,
+            "product_id_2": "",
+            "chevron_position_2": "right",
+            "label_position_x_2": 80,
+            "label_position_y_2": 50
+          }
+        }
+      },
+      "block_order": [
+        "163763124099373ca3-0",
+        "fc1cec7f-9ddf-415e-b901-a57a5b28513a"
+      ],
+      "settings": {
+        "height": "fixed",
+        "height_desktop": 500,
+        "height_mobile": 400,
+        "mobile_text_below": true,
+        "slideshow_autoplay": true,
+        "slideshow_autoplay_speed": 6
+      }
+    },
+    "main": {
+      "type": "main-page-impact",
+      "settings": {
+      }
+    },
+    "16469486733fe7a505": {
+      "type": "featured-blog",
+      "disabled": true,
+      "settings": {
+        "image_position": "center center",
+        "title": "Care Forward:",
+        "description": "Your legacy enables exceptional health care for generations to come",
+        "color_overlay_bg": "#ffffff",
+        "overlay_opacity": 80,
+        "color_overlay_text": "#333333",
+        "show_view_all": false,
+        "overlay_url_style": "button_2",
+        "enlarge_title": false,
+        "enlarge_text": false,
+        "overlay_position_y": 72,
+        "blog": "legacy-champions",
+        "post_limit": 4,
+        "show_author": false,
+        "show_date": true,
+        "show_tags": false,
+        "show_featured_products": false
+      }
+    },
+    "1643996950b7bbc11b": {
+      "type": "rich-text-about-fdn",
+      "disabled": true,
+      "settings": {
+        "title": "",
+        "text": "<p>We also invite you to take a look at Will Power, a national movement made up of charities, financial advisors and legal professionals across the country, working together to show Canadians that they have the power to make a difference through their Will. You may be delighted to know that even a small percentage of your estate left to your favourite charity in your Will can make a meaningful difference to health care while still providing for your loved ones.<\/p>",
+        "button_label": "Visit WillPower.ca",
+        "button_link": "http:\/\/www.willpower.ca\/charities\/grand-river-hospital-foundation\/",
+        "url_style": "button_3",
+        "enlarge_title": false,
+        "enlarge_text": false,
+        "full_width": false,
+        "color_bg": "#ffffff",
+        "color_title": "#333333",
+        "color_text": "#333333"
+      }
+    },
+    "1646153886024653a0": {
+      "type": "image-with-text",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Blog_and_social_posts_-_large_image_6_e79be246-1c60-4b3e-b792-b39c0eccc15c.png",
+        "image_link": "",
+        "image_size": "0",
+        "image_position": "left",
+        "title": "Legacy Champions",
+        "text": "<p>When you leave a gift to Grand River Hospital Foundation through a bequest, life insurance policy, trust or other estate plan, you can become a member in our <em>Care Forward <\/em>community.<\/p>",
+        "button_label": "Read their stories",
+        "button_link": "shopify:\/\/blogs\/legacy-champions",
+        "url_style": "button_1",
+        "enlarge_title": false,
+        "enlarge_text": false,
+        "text_alignment": "center",
+        "color_bg": "#ecf1f2",
+        "color_text": "#333333"
+      }
+    },
+    "1644939042925a3951": {
+      "type": "video-with-text",
+      "disabled": true,
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Blog_Image.png",
+        "image_link": "shopify:\/\/blogs\/news\/two-true-champions",
+        "image_size": "0",
+        "image_position": "left",
+        "title": "Two True Champions",
+        "text": "<p>Catherine and Don Landry’s experience of the expert care, compassion and kindness at Grand River Hospital were why they loved being involved with the hospital, and wanted to make a bequest.<\/p>",
+        "button_label": "Read their story",
+        "button_link": "shopify:\/\/blogs\/legacy-champions\/two-true-champions",
+        "url_style": "button_1",
+        "enlarge_title": false,
+        "enlarge_text": false,
+        "text_alignment": "center",
+        "color_bg": "#ecf1f2",
+        "color_text": "#333333"
+      }
+    },
+    "1643996848292cb4e7": {
+      "type": "rich-text-about-fdn",
+      "disabled": true,
+      "settings": {
+        "title": "What type of planned gift is right for you?",
+        "text": "<p><strong>Gift in your will<br\/><\/strong>Leaving a gift in your will is easier than you might think. It’s the most popular and easiest way to make a future gift. It has no effect on your current income and significantly reduces the taxes payable by your estate. Your gift can be a specific amount, stocks or securities, or a percentage of your estate.<\/p><p><strong>Life Insurance<\/strong><br\/>You can designate GRH Foundation as a beneficiary or co-beneficiary on an existing life insurance policy and your estate will receive a tax credit. Or transfer ownership of an existing life insurance policy over to us and receive a tax receipt for your annual premiums.<\/p><p><strong>Retirement Plans (RRSPS\/RRIFs)<br\/><\/strong>You can designate GRH Foundation as a beneficiary or co-beneficiary on your residual RRSPs and your estate will receive a tax credit.  This is an excellent way to reduce taxes on your estate. <\/p><p><em>Be sure to speak to your financial advisor and discuss your charitable intentions with loved ones. Once you have settled on the best path to move forward, contact your lawyer to update your will.<\/em><\/p>",
+        "button_label": "",
+        "button_link": "",
+        "url_style": "button_1",
+        "enlarge_title": false,
+        "enlarge_text": false,
+        "full_width": false,
+        "color_bg": "#ffffff",
+        "color_title": "#333333",
+        "color_text": "#333333"
+      }
+    },
+    "16440022456e1acecb": {
+      "type": "rich-text-about-fdn",
+      "disabled": true,
+      "settings": {
+        "title": "",
+        "text": "<p>A gift in your will can be the promise of a future for exceptional healthcare delivery by our team with kindness, care and compassion. You can create a lasting impact on the health of your community--simply by planning ahead.<\/p><p>A planned gift provides Grand River Hospital with future funding – allowing us to respond to needs and provide patients with the world-class care they need and deserve. <\/p><p>There are several ways to leave a legacy gift to the hospital.<\/p><p>- Leave a specific dollar amount or percentage of your estate<br\/>- Name Grand River Hospital Foundation as a beneficiary of your life insurance<br\/>- Designate Grand River Hospital Foundation as the beneficiary of your RRSP\/RRIF or other pension plan<\/p><p><strong>Your professional advisor will help you. Important details to include are:<\/strong><br\/><\/p><p>- Our Legal Name: Grand River Hospital Foundation<br\/>- Our Address: 835 King Street West, Kitchener, ON N2G 1G3<br\/>- Our Charitable Business Number: 88918 0394 RR0001<\/p><p><strong>If you are looking for more information please reach out to Betty Bax, Director, Philanthropy & Planned Giving via <\/strong><a href=\"mailto:betty@grhf.ca\" target=\"_blank\"><strong>email<\/strong><\/a><strong>, phone at 519-580-5108 or <\/strong><a href=\"https:\/\/calendly.com\/grhf-betty\" target=\"_blank\" title=\"Betty Bax Calendly\"><strong>book a meeting with her directly<\/strong><\/a><strong>.<\/strong><\/p>",
+        "button_label": "",
+        "button_link": "",
+        "url_style": "button_1",
+        "enlarge_title": false,
+        "enlarge_text": false,
+        "full_width": false,
+        "color_bg": "#ffffff",
+        "color_title": "#333333",
+        "color_text": "#333333"
+      }
+    },
+    "1637632803d07f9c3f": {
+      "type": "rich-text-about-fdn",
+      "disabled": true,
+      "settings": {
+        "title": "Have you left a gift already?",
+        "text": "<p>If you have already included us in your will—thank you!  We would like to know so we can thank you and ensure your gift is recognized the way you would like it to be.<\/p><p>When you leave a gift to Grand River Hospital Foundation through a bequest, life insurance policy, trust or other estate plan, you can become a member in our <em>Care Forward <\/em>community.<\/p><p><strong>Benefits of Membership<\/strong><\/p><p>Members of Care Forward<em> <\/em>enjoy special benefits that bring them closer to the excellent health care they make possible:<\/p><p>● Welcome package <br\/>● Invitation to our Care Forward Luncheon and Induction Ceremony<br\/>● Annual <em>Care Forward<\/em> newsletter <\/p><p>Our <em>Care Forward <\/em>community is incredibly special to our organization and we want to make sure that our donors know how grateful we are for their gift.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "url_style": "button_1",
+        "enlarge_title": false,
+        "enlarge_text": false,
+        "full_width": false,
+        "color_bg": "#ffffff",
+        "color_title": "#333333",
+        "color_text": "#333333"
+      }
+    },
+    "1637631931994e17fa": {
+      "type": "image-with-text-overlay",
+      "disabled": true,
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Website_Banner_2048_x_1024_0528cb4c-7f56-48cf-98cc-f5ef27dc5e91.png",
+        "image_link": "",
+        "image_position": "center center",
+        "height": "adapt",
+        "height_desktop": 480,
+        "height_mobile": 500,
+        "color_overlay_bg": "#000000",
+        "overlay_opacity": 80,
+        "color_overlay_text": "#ffffff",
+        "overlay_title": "Sample Bequest Wording",
+        "overlay_text": "",
+        "overlay_url_text_1": "Download Here",
+        "overlay_url_1": "https:\/\/cdn.shopify.com\/s\/files\/1\/0363\/5363\/8540\/files\/Sample_Bequest_Wording.pdf?v=1637632738",
+        "overlay_url_text_2": "",
+        "overlay_url_2": "",
+        "overlay_url_style": "link_style",
+        "enlarge_title": false,
+        "enlarge_text": false,
+        "overlay_position_x": 50,
+        "overlay_position_y": 70,
+        "mobile_text_below": false,
+        "color_label_background": "#ffffff",
+        "color_label_text": "#333333",
+        "show_chevron": true,
+        "product_id_1": "",
+        "chevron_position_1": "right",
+        "label_position_x_1": 20,
+        "label_position_y_1": 30,
+        "product_id_2": "",
+        "chevron_position_2": "right",
+        "label_position_x_2": 80,
+        "label_position_y_2": 50
+      }
+    },
+    "16473641589bada611": {
+      "type": "rich-text",
+      "disabled": true,
+      "settings": {
+        "title": "",
+        "text": "",
+        "button_label": "VISIT WILL POWER.CA TO LEARN MORE",
+        "button_link": "",
+        "url_style": "button_1",
+        "enlarge_title": false,
+        "enlarge_text": false,
+        "full_width": false,
+        "color_bg": "#ecf1f2",
+        "color_title": "#333333",
+        "color_text": "#333333"
+      }
+    },
+    "16376330731ef0c255": {
+      "type": "rich-text-about-fdn",
+      "settings": {
+        "title": "Ready now? We’re here to help.",
+        "text": "<p>Thank you for considering leaving a future gift in support of Grand River Hospital. We are here to help with any planned giving questions you may have. Our team would be delighted to work with you to ensure your gift supports the program of your choice and that your wishes are fulfilled—we will happily get you all the information you need.<\/p><p><\/p><p><strong>If you are looking for more information, please reach out to Betty Bax, Director, Philanthropy & Planned Giving by <\/strong><a href=\"mailto:betty@grhf.ca\" target=\"_blank\"><strong>email<\/strong><\/a><strong> or phone at 519-580-5108, or <\/strong><a href=\"https:\/\/calendly.com\/grhf-betty\" target=\"_blank\" title=\"Betty Bax Calendly\"><strong>book a meeting with her directly<\/strong><\/a><strong>.<\/strong><\/p>",
+        "button_label": "Connect with us",
+        "button_link": "mailto:betty@grhf.ca",
+        "url_style": "button_3",
+        "enlarge_title": false,
+        "enlarge_text": false,
+        "full_width": false,
+        "color_bg": "#ffffff",
+        "color_title": "#333333",
+        "color_text": "#333333"
+      }
+    },
+    "1646931562c59f8714": {
+      "type": "image-gallery",
+      "blocks": {
+        "1646931562a1f2e72d-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Blog_and_social_posts_-_large_image_3.png",
+            "alignment": "center center",
+            "enlarge_image": false,
+            "link": "shopify:\/\/pages\/types-of-gifts",
+            "title": "",
+            "text": "<p><strong>Types of Gifts<\/strong><\/p>",
+            "button_label": "",
+            "overlay_position": "bottom-center"
+          }
+        },
+        "1646931562a1f2e72d-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Blog_and_social_posts_-_large_image_1_copy_2.png",
+            "alignment": "top center",
+            "enlarge_image": false,
+            "link": "shopify:\/\/pages\/gift-in-will-professional-advice",
+            "title": "",
+            "text": "<p><strong>Speaking to Your Advisor<\/strong><\/p>",
+            "button_label": "",
+            "overlay_position": "bottom-center"
+          }
+        },
+        "1646931562a1f2e72d-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Blog_and_social_posts_-_large_image_2_d5f39914-a360-430c-8d28-695063c45f8d.png",
+            "alignment": "top center",
+            "enlarge_image": false,
+            "link": "https:\/\/cdn.shopify.com\/s\/files\/1\/0363\/5363\/8540\/files\/Sample_Bequest_Wording.pdf?v=1637632738",
+            "title": "",
+            "text": "<p><strong>Sample Bequest Wording<\/strong><\/p>",
+            "button_label": "",
+            "overlay_position": "bottom-center"
+          }
+        }
+      },
+      "block_order": [
+        "1646931562a1f2e72d-0",
+        "1646931562a1f2e72d-1",
+        "1646931562a1f2e72d-2"
+      ],
+      "settings": {
+        "grid": 3,
+        "image_height": 300,
+        "image_height_mobile": 300,
+        "enable_margin": true,
+        "enable_carousel": true,
+        "overlay_style": "box",
+        "color_overlay_bg": "#ffffff",
+        "overlay_opacity": 92,
+        "color_overlay_text": "#333333",
+        "overlay_url_style": "button_1"
+      }
+    },
+    "16469458424a06d90c": {
+      "type": "rich-text-about-fdn",
+      "settings": {
+        "title": "",
+        "text": "<p><em>Your professional advisor can help you leave a planned gift to the hospital. Important details to include are:<\/em><\/p><p><strong>Our Legal Name: <\/strong>Grand River Hospital Foundation<br\/><strong>Our Address: <\/strong>835 King Street West, Kitchener, ON N2G 1G3<br\/><strong>Our Charitable Business Number: <\/strong>88918 0394 RR0001 <\/p>",
+        "button_label": "",
+        "button_link": "",
+        "url_style": "button_1",
+        "enlarge_title": false,
+        "enlarge_text": false,
+        "full_width": false,
+        "color_bg": "#ecf1f2",
+        "color_title": "#333333",
+        "color_text": "#333333"
+      }
+    },
+    "164693605835820413": {
+      "type": "rich-text-about-fdn",
+      "disabled": true,
+      "settings": {
+        "title": "Care Forward",
+        "text": "<p>If you have already included us in your will—thank you!  We would like to know so we can thank you and ensure your gift is recognized the way you would like it to be.<\/p><p>When you leave a gift to Grand River Hospital Foundation through a bequest, life insurance policy, trust or other estate plan, you can become a member in our <em>Care Forward <\/em>community.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "url_style": "button_1",
+        "enlarge_title": false,
+        "enlarge_text": false,
+        "full_width": false,
+        "color_bg": "#ffffff",
+        "color_title": "#333333",
+        "color_text": "#333333"
+      }
+    },
+    "164693600495bdada7": {
+      "type": "image-with-text",
+      "disabled": true,
+      "settings": {
+        "image_link": "",
+        "image_size": "0",
+        "image_position": "left",
+        "title": "Benefits of Membership",
+        "text": "<p>Members of Care Forward<em> <\/em>enjoy special benefits that bring them closer to the excellent health care they make possible:<\/p><p>● Welcome package <br\/>● Invitation to our Care Forward Luncheon and Induction Ceremony<br\/>● Listing on our Donor Recognition Wall (with your permission)<br\/>● Annual <em>Care Forward<\/em> newsletter <\/p><p>Our <em>Care Forward <\/em>community is incredibly special to our organization and we want to make sure that our donors know how grateful we are for their gift.<\/p>",
+        "button_label": "Learn more about our Care Forward community",
+        "button_link": "mailto:betty@grhf.ca",
+        "url_style": "button_1",
+        "enlarge_title": false,
+        "enlarge_text": false,
+        "text_alignment": "left",
+        "color_bg": "#dae4e6",
+        "color_text": "#333333"
+      }
+    }
+  },
+  "order": [
+    "163763124004913a5e",
+    "main",
+    "16469486733fe7a505",
+    "1643996950b7bbc11b",
+    "1646153886024653a0",
+    "1644939042925a3951",
+    "1643996848292cb4e7",
+    "16440022456e1acecb",
+    "1637632803d07f9c3f",
+    "1637631931994e17fa",
+    "16473641589bada611",
+    "16376330731ef0c255",
+    "1646931562c59f8714",
+    "16469458424a06d90c",
+    "164693605835820413",
+    "164693600495bdada7"
+  ]
+}

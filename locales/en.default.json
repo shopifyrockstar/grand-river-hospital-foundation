@@ -1,0 +1,866 @@
+{
+  "date_formats": {
+    "date_time_long": "%B %d, %Y %I:%M%p",
+    "month_day_year": "%B %d, %Y"
+  },
+  "gift_cards": {
+    "issued": {
+      "title": "Here's your {{ value }} gift card for {{ shop }}!",
+      "subtext": "Here's your gift card!",
+      "disabled": "Disabled",
+      "expired": "Expired on {{ expiry }}",
+      "active": "Expires on {{ expiry }}",
+      "initial_value_html": "Gift card value: {{ value }}",
+      "remaining_html": "{{ balance }} left",
+      "redeem": "Use this code at checkout to redeem your gift card",
+      "add_to_apple_wallet": "Add to Apple Wallet",
+      "print": "Print",
+      "shop_link": "Start shopping"
+    }
+  },
+  "general": {
+    "404": {
+      "title": "404 Page Not Found",
+      "subtext": "The page you requested does not exist.",
+      "link": "Continue shopping"
+    },
+    "accessibility_labels": {
+      "previous": "Previous",
+      "next": "Next",
+      "close": "Close",
+      "search": "Search",
+      "account": "Account",
+      "menu_toggle": "Toggle menu",
+      "open_dropdown": "Open dropdown menu",
+      "decrease_quantity": "Minus",
+      "increase_quantity": "Plus",
+      "reviews_link": "Reviews link",
+      "video_stop": "Stop video",
+      "video_play": "Play video",
+      "share": "Share",
+      "toggle_fullscreen": "Toggle full screen",
+      "toggle_zoom": "Toggle zoom",
+      "open_search": "Open Search"
+    },
+    "meta": {
+      "tags": "Tagged \"{{ tags }}\"",
+      "page": "Page {{ page }}"
+    },
+    "accessibility": {
+      "skip_to_content": "Skip to content"
+    },
+    "search": {
+      "submit": "Search",
+      "title": "Search",
+      "no_results": "Your search for \"{{ terms }}\" did not yield any results.",
+      "results_for": "Your search for \"{{ terms }}\" revealed the following:",
+      "placeholder": "Search our website",
+      "close": "Close search"
+    },
+    "password_page": {
+      "password_link": "Enter using password",
+      "signup_form_success": "We will send you an email right before we open!",
+      "powered_by_shopify_html": "This shop will be powered by {{ shopify }}",
+      "login_form_heading": "Enter store using password",
+      "login_form_password_label": "Password",
+      "login_form_password_placeholder": "Your password",
+      "login_form_submit": "Enter",
+      "admin_link_html": "Are you the store owner? <a href=\"\/admin\">Log in here<\/a>"
+    },
+    "newsletter": {
+      "success": "Thank you for signing up!"
+    },
+    "popup_section": {
+      "success": "Thank you for signing up!",
+      "email_placeholder": "Your email",
+      "submit": "Subscribe"
+    },
+    "language": {
+      "dropdown_label": "Language"
+    },
+    "currency": {
+      "dropdown_label": "Currency"
+    },
+    "social": {
+      "share_heading": "Share",
+      "share_on_facebook": "Share on Facebook",
+      "share_on_twitter": "Share on Twitter",
+      "share_on_pinterest": "Pin it"
+    }
+  },
+  "products": {
+    "product": {
+      "add_to_cart": "Add to Cart",
+      "unavailable": "Unavailable",
+      "adding_to_cart": "Adding",
+      "added": "Added",
+      "from_text": "From",
+      "on_sale": "On Sale",
+      "sold_out": "Sold Out",
+      "unit_price_separator": " \/ ",
+      "regular_price": "Regular price",
+      "shop_now": "Shop now",
+      "view_in_space": "View in your space",
+      "include_taxes": "Tax included.",
+      "shipping_policy_html": "<a href=\"{{ link }}\">Shipping<\/a> calculated at checkout.",
+      "vendor_html": "by {{ vendor }}",
+      "type": "Type:",
+      "sku": "SKU:",
+      "show_size_chart": "Show size chart",
+      "selector_label": "Options",
+      "quantity": "Quantity",
+      "description": "Description",
+      "recent": "Recently viewed",
+      "backorder": "is backordered and will ship as soon as it is back in stock.",
+      "prev_product": "Previous",
+      "next_product": "Next"
+    },
+    "quickbuy": {
+      "quick_buy": "Quick buy",
+      "more_details": "More details"
+    }
+  },
+  "map": {
+    "errors": {
+      "address_error": "Error looking up that address",
+      "address_no_results": "No results for that address",
+      "address_query_limit_html": "You have exceeded the Google API usage limit. Consider upgrading to a <a href=\"https:\/\/developers.google.com\/maps\/premium\/usage-limits\">Premium Plan<\/a>.",
+      "auth_error": "There was a problem authenticating your Google Maps API Key."
+    }
+  },
+  "layout": {
+    "cart": {
+      "added_title": "Added:",
+      "items": "Items",
+      "subtotal": "Subtotal",
+      "go_to_cart": "Checkout",
+      "title": "Cart"
+    },
+    "header": {
+      "search_loading": "Loading",
+      "search_more_results": "See all results",
+      "search_no_results": "No results"
+    },
+    "footer": {
+      "subscribe_success": "Thank you for signing up!",
+      "copyright": "Copyright",
+      "payment_methods": "Payment methods accepted"
+    },
+    "customer": {
+      "logged_in_as_html": "Logged in as {{ first_name }}",
+      "account": "Account",
+      "log_out": "Log out",
+      "log_in": "Log in",
+      "create_account": "Create an account"
+    },
+    "navigation": {
+      "more_links": "More links",
+      "back": "Back"
+    },
+    "signup": {
+      "email": "Email address",
+      "submit": "Sign up"
+    },
+    "breadcrumbs": {
+      "title": "Breadcrumbs",
+      "home": "Home",
+      "collections": "Collections"
+    }
+  },
+  "cart": {
+    "terms": {
+      "confirmation": "You must agree to the terms and conditions before continuing.",
+      "agreement_html": "I agree to the <a href=\"{{ terms_url }}\" target=\"_blank\">terms and refund policy<\/a>"
+    },
+    "general": {
+      "quantity_too_high": "You can only have {{ quantity }} in your cart",
+      "hide_note": "Hide note",
+      "show_note": "Leave us a note (like who your gift is recognizing) or just say hello!",
+      "title": "Shopping cart",
+      "item_quantity": "Item quantity",
+      "confirm_remove": "Are you sure you want to remove this item?",
+      "remove": "Remove",
+      "taxes_included_and_shipping_policy_html": "Tax included. <a href=\"{{ link }}\">Shipping<\/a> calculated at checkout.",
+      "taxes_included_but_shipping_at_checkout": "Tax included and shipping calculated at checkout",
+      "taxes_and_shipping_policy_at_checkout_html": "Taxes and <a href=\"{{ link }}\">shipping<\/a> calculated at checkout",
+      "taxes_and_shipping_at_checkout": "Taxes and shipping calculated at checkout",
+      "subtotal": "Subtotal",
+      "note": "Special instructions for seller",
+      "checkout": "Complete Payment",
+      "continue_browsing": "Continue shopping",
+      "empty": "Your cart is currently empty.",
+      "cookies_required": "Enable cookies to use the shopping cart",
+      "recent": "You might also like",
+      "backorder": "Product is backordered and will ship as soon as it is back in stock."
+    },
+    "shipping_calculator": {
+      "hide_calculator": "Hide shipping calculator",
+      "title": "Get shipping estimates",
+      "country": "Country",
+      "province": "Province",
+      "zip": "Zip\/Postal Code",
+      "submit": "Calculate shipping",
+      "multiple_rates": "Shipping rates available, starting at",
+      "single_rate": "There is one shipping rate available for",
+      "no_rates": "We do not ship to this destination.",
+      "at": "at",
+      "loading": "Calculating..."
+    },
+    "label": {
+      "product": "Product",
+      "price": "Price",
+      "quantity": "Quantity",
+      "total": "Total",
+      "original_price": "Original price",
+      "discounted_price": "Discounted price"
+    }
+  },
+  "homepage": {
+    "onboarding": {
+      "no_content": "This section doesn’t currently include any content. Add content to this section using the sidebar.",
+      "collection_title": "Example Collection Title",
+      "blog_title": "Your post’s title",
+      "blog_excerpt": "Your store hasn’t published any blog posts yet. A blog can be used to talk about new product launches, tips, or other news you want to share with your customers. You can check out Shopify’s ecommerce blog for inspiration and advice for your own store and blog.",
+      "blog_author": "Author name",
+      "product_title": "Example Product Title"
+    }
+  },
+  "blogs": {
+    "article": {
+      "view_all": "All stories",
+      "read_more": "Read more",
+      "previous_post": "Previous",
+      "next_post": "Next",
+      "author": "{{ author }}",
+      "comment_meta_html": "{{ author }} on {{ date }}",
+      "products_title": "Give today"
+    },
+    "comments": {
+      "with_count": {
+        "one": "{{ count }} comment",
+        "other": "{{ count }} comments"
+      },
+      "title": "Comments",
+      "success_moderated": "Your comment was posted successfully. We will publish it in a little while, as our blog is moderated.",
+      "success": "Your comment was posted successfully! Thank you!",
+      "form_title": "Leave a comment",
+      "correct_errors": "Please correct the following errors:",
+      "name": "Name",
+      "email": "Email",
+      "message": "Comment",
+      "required_fields": "* Required fields",
+      "moderated": "Please note: comments must be approved before they are published.",
+      "post": "Post comment",
+      "privacy_message_html": "View our <a href=\"{{ privacy_url }}\" target=\"_blank\">privacy policy<\/a>"
+    }
+  },
+  "collections": {
+    "general": {
+      "product_count": {
+        "one": "{{ count }} product",
+        "other": "{{ count }} products"
+      },
+      "no_matches": "Sorry, there are no products in this collection",
+      "filter_by": "Filter by"
+    },
+    "filtering": {
+      "filter": "Filter",
+      "clear": "Clear",
+      "results_count": {
+        "one": "{{ count }} result",
+        "other": "{{ count }} results"
+      },
+      "apply": "Apply",
+      "clear_all": "Clear all"
+    },
+    "sorting": {
+      "sort_button": "Sort",
+      "best_selling": "Best Selling",
+      "az": "Title, A-Z",
+      "za": "Title, Z-A",
+      "price_ascending": "Price, low to high",
+      "price_descending": "Price, high to low",
+      "date_descending": "Date, new to old",
+      "date_ascending": "Date, old to new",
+      "featured": "Featured",
+      "title": "Sort by"
+    },
+    "price_range": {
+      "min_label": "From",
+      "max_label": "To"
+    }
+  },
+  "contact": {
+    "form": {
+      "post_success": "Thanks for contacting us. We'll get back to you as soon as possible.",
+      "name": "Name",
+      "email": "Email",
+      "phone": "Phone",
+      "message": "Message",
+      "send": "Send"
+    }
+  },
+  "store_availability": {
+    "general": {
+      "pick_up_available_at_html": "Pickup available at <strong>{{ location_name }}<\/strong>",
+      "view_store_info": "View store information",
+      "check_other_stores": "Check availability at other stores",
+      "pick_up_unavailable_at_html": "Pickup currently unavailable at <strong>{{ location_name }}<\/strong>",
+      "miles": "mi",
+      "kilometers": "km",
+      "pick_up_available": "Pickup available",
+      "pick_up_currently_unavailable": "Pickup currently unavailable",
+      "invalid_location_address": "Contact store to confirm address"
+    }
+  },
+  "customer": {
+    "account": {
+      "title": "My Account",
+      "details": "Account Details",
+      "view_addresses": "View Addresses",
+      "return": "Return to Account Details"
+    },
+    "addresses": {
+      "phone": "Phone",
+      "title": "Your Addresses",
+      "edit": "Edit",
+      "delete_confirm": "Are you sure you wish to delete this address?",
+      "delete": "Delete",
+      "default": "Default",
+      "edit_address": "Edit address",
+      "first_name": "First Name",
+      "last_name": "Last Name",
+      "company": "Company",
+      "address1": "Address1",
+      "address2": "Address2",
+      "city": "City",
+      "country": "Country",
+      "province": "Province",
+      "zip": "Postal\/Zip Code",
+      "set_default": "Set as default address",
+      "update": "Update Address",
+      "cancel": "Cancel",
+      "add_new": "Add a New Address",
+      "add": "Add Address"
+    },
+    "orders": {
+      "title": "Order History",
+      "order_number": "Order",
+      "date": "Date",
+      "payment_status": "Payment Status",
+      "fulfillment_status": "Fulfillment Status",
+      "total": "Total",
+      "view_order": "View order",
+      "none": "You haven't placed any orders yet."
+    },
+    "activate_account": {
+      "title": "Activate Account",
+      "subtext": "Create your password to activate your account.",
+      "password": "Password",
+      "password_confirm": "Confirm Password",
+      "submit": "Activate Account",
+      "cancel": "Decline Invitation"
+    },
+    "recover_password": {
+      "success": "We've sent you an email with a link to update your password.",
+      "title": "Reset your password",
+      "subtext": "We will send you an email to reset your password.",
+      "email": "Email",
+      "submit": "Submit",
+      "cancel": "Cancel"
+    },
+    "login": {
+      "title": "Login",
+      "email": "Email",
+      "password": "Password",
+      "forgot_password": "Forgot your password?",
+      "sign_in": "Sign In",
+      "return_to_store": "Return to Store",
+      "guest_title": "Continue as a guest",
+      "guest_continue": "Continue"
+    },
+    "order": {
+      "title": "Order {{ name }}",
+      "date": "Placed on {{ date }}",
+      "billing_address": "Billing Address",
+      "shipping_address": "Shipping Address",
+      "payment_status": "Payment Status",
+      "fulfillment_status": "Fulfillment Status",
+      "cancelled_on": "Order Cancelled on {{ date }}",
+      "cancelled_reason": "Reason: {{ reason }}",
+      "product": "Product",
+      "sku": "SKU",
+      "price": "Price",
+      "quantity": "Quantity",
+      "total": "Total",
+      "date_fulfilled": "Date fulfilled",
+      "tracking_url": "Tracking link",
+      "track_shipment": "Track shipment",
+      "tracking_company": "Carrier",
+      "tracking_number": "Tracking number",
+      "subtotal": "Subtotal",
+      "shipping": "Shipping",
+      "tax": "Tax"
+    },
+    "register": {
+      "title": "Create Account",
+      "first_name": "First Name",
+      "last_name": "Last Name",
+      "email": "Email",
+      "password": "Password",
+      "submit": "Create",
+      "cancel": "Return to Store"
+    },
+    "reset_password": {
+      "title": "Reset Password",
+      "subtext": "Enter a new password for {{ email }}",
+      "password": "Password",
+      "password_confirm": "Confirm Password",
+      "submit": "Reset Password"
+    }
+  },
+  "locksmith": {
+    "forms": {
+      "submit_button_text": "Continue",
+      "loading_text": "One moment..."
+    }
+  },
+  "sections": {
+    "layouthub-6089a94803801e33cc1df322": {
+      "GxzRg35XsK": {
+        "lh_2w_title": "Shopify to RE NXT Connector",
+        "lh_6ocof5_title": "What is the Shopify to RE NXT Connector?",
+        "lh_axl7kz_content_html": "The connector is an app that transfers donor data from Shopify orders (product purchase or donation) directly into Blackbaud Raiser’s Edge NXT.<!--lh-live-editor-->",
+        "lh_6ocrhe_title": "Why would I need this app?",
+        "lh_axl7ky_content_html": "If you are a non-profit or charity that runs an online or in person store using Shopify and want to have purchases easily transfer into your Blackbaud Raiser's Edge database this is the solution for you.<!--lh-live-editor-->",
+        "lh_6ocujn_title": "What do I need to use this?",
+        "lh_axl7kx_content_html": "To use this you would need:<div>- A Shopify Store<\/div><div>- A Blackbaud RE NXT account<\/div><div>- Willingness to learn&nbsp;<\/div><!--lh-live-editor-->",
+        "lh_6ocxlw_title": "Is there a cost?",
+        "lh_axl7kw_content_html": "Yes. There is an initial setup fee to get your organization connected ($1,000 CAD) and then a monthly fee of $50 CAD.<div><br><\/div><div>This cost helps to cover app updates, maintainence and our own costs to manage the servers that run the application.&nbsp;<\/div><div><br><\/div><div>Any additional profits would get invested back into Grand River Hospital to support health care in our region.<br><\/div><!--lh-live-editor-->",
+        "lh_6od0o5_title": "Is it the app secure?",
+        "lh_axl7kv_content_html": "Yes. The app does not store any donor data or personal information.&nbsp;<div><br><\/div><div>Additionally we (Grand River Hospital Foundation) cannot access your donor information and you cannot access ours.<br><\/div><!--lh-live-editor-->",
+        "lh_9e88hg_title": "What can this app do?",
+        "lh_u7m56g_content_html": "Transfers purchases in Shopify into Blackbaud Raiser’s Edge NXT automatically as a gift on a batch and on a donor record.<div><br><\/div><div>Looks for duplicate records and adds new donors to Blackbaud Raiser’s Edge NXT when necessary.<\/div><div><br><\/div><div>Updates donor addresses when an order is placed.<\/div><div><br><\/div><div>Allows you to set default Campaign, Appeal and Fund on any product when importing into Blackbaud Raiser’s Edge NXT. This can be customized on a per product and per product variant basis.<\/div><div><br><\/div><div>Allows you to see what product they purchased on the gift record in Blackbaud Raiser’s Edge NXT and provides a reference back to finding the order in Shopify.<\/div><div><br><\/div><div>Allows you to track if the gift needs a receipt or not in Blackbaud Raiser’s Edge NXT.<\/div><div><br><\/div><div>Provides an error message automatically to you if a gift cannot be added into RE making your life stress free.<\/div><!--lh-live-editor-->",
+        "lh_9e85f7_title": "Who are we?",
+        "lh_u7m56f_content_html": "<p>If you came to this page directly from another site such as Blackbaud Marketplace you might now know who we are.&nbsp;<br><\/p><p>Grand River Hospital Foundation&nbsp; raises funds to help Grand River Hospital provide exceptional health care.&nbsp;<\/p><p>With the support from generous donors and loyal community partnerships, Grand River Hospital Foundation is able to grant funds for medical equipment and technology; renovation projects; and local clinical and health research and education.&nbsp;<\/p><p>The commitment to health care in our region ensures that the residents of Waterloo Region and Guelph Wellington will have access to the best health care services close to home.<\/p><!--lh-live-editor-->"
+      },
+      "338qmuqt6lw": {
+        "lh_8kwg_title": "Interested in learning more?",
+        "lh_8kwg_button": "Contact our Donor Innovation Director, Dan Lombardi"
+      }
+    },
+    "layouthub-5fb47dd4fbdb4f6bea12e642": {
+      "85epj550bx": {
+        "cta": "BUY NOW"
+      },
+      "im6ci6i1c2g": {
+        "title": "Non-Monetary Gifts"
+      },
+      "lakuvjo9fjm": {
+        "lh_8kwg_title": "Questions?",
+        "lh_8kwg_button": "Director of Hospital Experience, Jesse Borden"
+      }
+    },
+    "layouthub-5fc68d84572af633ba7ad432": {
+      "p2q4tf7lk0a": {
+        "title_html": "April jackpot already at $2,500!&nbsp; deadline may 26th!&nbsp; &nbsp;",
+        "closesin_html": "&nbsp; &nbsp; &nbsp;NEW &amp; EXCITING GRAND 50\/50 lottery&nbsp; &nbsp; &nbsp;now OPEN&nbsp; &nbsp; www.kw5050.ca",
+        "lh_8huk_link_html": "&nbsp; www.kw5050.ca&nbsp;&nbsp;"
+      },
+      "5kftzmz8tvh": {
+        "lh_4mruur_title_html": "Check It Out&nbsp; &nbsp;www.kw5050.ca Now Open&nbsp;<div><br><\/div>",
+        "lh_4mruur_content_html": "Jackpot Deadline:&nbsp; Thursday May 26th&nbsp;&nbsp;<div><\/div><!--lh-live-editor-->",
+        "lh_4mruur_lottery_html": "AGCO Lottery License: RAF1228369<!--lh-live-editor-->"
+      },
+      "mak8ca8i9vc": {
+        "lh_4mruur_title": "March Early Bird Cash Prize #1",
+        "lh_4mruur_content_html": "$500 Cash!<!--lh-live-editor-->",
+        "lh_4mruur_info_html": "<div style=\"text-align: left;\"><\/div>&nbsp; &nbsp; Winner:&nbsp; Deanna Weaver of Kitchener Winning Ticket #1378712<!--lh-live-editor-->",
+        "lh_4mrxx0_title": "March Early Bird Cash Prize #2",
+        "lh_4mrxx0_content_html": "$500 Cash!<!--lh-live-editor-->",
+        "lh_4mrxx0_info_html": "&nbsp; &nbsp; &nbsp; Winner:&nbsp; Teresa Macdonald of Kitchener Winning Ticket #4705601<div><br><\/div><!--lh-live-editor-->",
+        "lh_4ms0z9_title": "February Winner of $8,225",
+        "lh_4ms0z9_content_html": "Tammy Funk of New Hamburg&nbsp;&nbsp;<!--lh-live-editor-->",
+        "lh_4ms0z9_info_html": "Winning Ticket # 5984782<div><br><\/div><!--lh-live-editor-->",
+        "lh_4ms41i_title": "March Winner of $8,265",
+        "lh_4ms41i_content_html": "Donna M. O'Brien of Wellesley&nbsp;<!--lh-live-editor-->",
+        "lh_4ms41i_info2_html": "Winning Ticket # 3041555&nbsp;<!--lh-live-editor-->"
+      },
+      "uubk8a88i9": {
+        "text1": "Winner's Gallery!"
+      },
+      "fquy4avmyq": {
+        "text1": "Prizes"
+      },
+      "coggssbp0h6": {
+        "title_html": "March Winning Cash Jackpot&nbsp;<div><br><div><\/div><\/div>",
+        "lh_4mruur_title": "Donna O'Brien of Wellesley Ticket # 30415555"
+      },
+      "zbol6cwjhs": {
+        "lh_4mruur_title": "Contact Us",
+        "lh_4mruur_content_html": "Questions about Grand 50\/50?<!--lh-live-editor-->",
+        "lh_4mruur_info_html": "Contact Paul Amaral<div><br>Entertainment Philanthropy Director <\/div><!--lh-live-editor-->",
+        "lh_4mruur_info2_html": "<div style=\"text-align: center;\"><span style=\"display: inline !important;\">5050@grhf.ca or 226-753-0458&nbsp;<\/span><\/div><!--lh-live-editor-->",
+        "lh_4mrxx0_title": "Please Play Responsibly",
+        "lh_4mrxx0_content_html": "Set a limit and stick to it. If you or someone you know are looking for help, please visit:<!--lh-live-editor-->",
+        "lh_4mrxx0_info2_html": "www.ConnexOntario.ca or  call 1-866-531-2600<!--lh-live-editor-->"
+      }
+    },
+    "layouthub-6030084c50a09120cc5c7252": {
+      "95zi5y13pm6": {
+        "lh_4mruuq_title": "Staff 1",
+        "lh_4mruuq_des_html": "To support the quality of life of young adult cancer patients under the age of 30.<!--lh-live-editor-->",
+        "lh_4mrxwz_title": "RYAN JOHNSTON FAMILY & FRIENDS",
+        "lh_4mrxwz_des_html": "To support patients of the Grand River Regional Cancer Centre<!--lh-live-editor-->",
+        "lh_4ms0z8_title": "GRANT MACDONALD",
+        "lh_4ms0z8_des_html": "To support all areas of educational opportunities for staff working in palliative and symptom management care.<!--lh-live-editor-->",
+        "lh_4ms41h_title": "DON HUTZLER & ELAINE KING ENDOWMENT FUND",
+        "lh_4ms41h_des_html": "To support education for staff working in palliative and symptom management care.<!--lh-live-editor-->"
+      }
+    },
+    "layouthub-613f99adb013476e771b82c2": {
+      "ni11ig5ejd": {
+        "lh_4mruuq_title": "125 Digital Book",
+        "lh_4mruuq_des_html": "Get your free copy now!<!--lh-live-editor-->",
+        "lh_4mrxwz_title": "One-Time Donation",
+        "lh_4mrxwz_des_html": "Make a one-time donation. <b>All gifts matched until November 30th.<\/b><!--lh-live-editor-->",
+        "lh_4ms0z8_title": "Monthly Donation",
+        "lh_4ms0z8_des_html": "Make an ongoing recurring donation.<!--lh-live-editor-->"
+      }
+    },
+    "layouthub-628525551ec00d3d1e5b0582": {
+      "FmIANMRtDJ": {
+        "lh_3m58tf_item": "About us",
+        "lh_3vivvo_item": "Story",
+        "lh_44wixx_item": "Benefits",
+        "lh_4ea606_item": "Services"
+      },
+      "zrRXjPMteS": {
+        "lh_f5dibt_top": "BAMBOO TOOTH BRUSH",
+        "lh_a168_title": "Eco-Friendly Oral Care",
+        "lh_a168_desc_html": "Together caring for the environment, the earth and the oceans!<!--lh-live-editor-->",
+        "lh_8huk_link": "BUY IT NOW"
+      },
+      "rzOTmkaByX": {
+        "lh_a168_top": "The story",
+        "lh_a168_title": "Plastic waste is destroying the world",
+        "lh_a168_desc": "Do you know that the life of the brush is only 2-3 months? With such a life cycle, each year you will be discharged into the environment 4-6 plastic brushes. Extremely harmful to the environment"
+      },
+      "lIdgMAo6uR": {
+        "lh_a168_top": "Features",
+        "lh_hifzh_title": "The best oral care",
+        "lh_hpo2th_title": "Eco-friendly packaging",
+        "lh_hpo2th_des_html": "LayoutHub is an easy page builder that helps.<!--lh-live-editor-->",
+        "lh_hpo2ti_title": "Bamboo handle",
+        "lh_hpo2ti_des_html": "LayoutHub is an easy page builder that helps.<!--lh-live-editor-->",
+        "lh_hpo2tj_title": "BPA free nylon bristles",
+        "lh_hpo2tj_des_html": "LayoutHub is an easy page builder that helps.<!--lh-live-editor-->",
+        "lh_hpo2tk_title": "Naturally antibacterial",
+        "lh_hpo2tk_des_html": "LayoutHub is an easy page builder that helps.<!--lh-live-editor-->",
+        "lh_8huk_link": "BUY IT NOW"
+      },
+      "iqxzrIYVsy": {
+        "lh_a168_title": "Quality assurance doctor's certificate",
+        "lh_a168_desc_html": "LayoutHub is an easy page builder that helps merchants quickly set up an online store with any kind of page type by using our library of pre-designed layouts and blocks.<!--lh-live-editor-->",
+        "lh_92xv_sign": "Image",
+        "lh_a168_name": "Mr.Courtney Henry",
+        "lh_a168_pos": "DIRECTOR X HOSPITAL"
+      },
+      "0lYeXWsS7d": {
+        "lh_f5dibt_top": "The best benefits",
+        "lh_a168_title": "Benefits for our customers",
+        "lh_hpo2th_title": "Minimalist",
+        "lh_hpo2th_des_html": "LayoutHub is an easy page builder that helps merchants quickly set up an online.<!--lh-live-editor-->",
+        "lh_hpo2ti_title": "Non-toxic",
+        "lh_hpo2ti_des_html": "LayoutHub is an easy page builder that helps merchants quickly set up an online.<!--lh-live-editor-->",
+        "lh_hpo2tj_title": "Environmental Protection",
+        "lh_hpo2tj_des_html": "LayoutHub is an easy page builder that helps merchants quickly set up an online.<!--lh-live-editor-->"
+      },
+      "V7xkyeI5Bg": {
+        "lh_f5dibt_top": "This week only!",
+        "lh_a168_title_html": "BUY 1<br> GET 1",
+        "lh_8huk_link": "BUY IT NOW",
+        "lh_a168_desc_html": "Hurry up ! Only 20 items left.<!--lh-live-editor-->"
+      },
+      "uojc807Z5v": {
+        "lh_sjlit0_soldout": "Sold out",
+        "lh_sjlit0_new": "New",
+        "lh_a168_pro": "Buy 1 get 1",
+        "wishlist": "Wishlist",
+        "lh_txhi7h_view": "Quick view",
+        "lh_f635tz_cart": "Add to cart",
+        "lh_h7oza_more": "Read more",
+        "lh_a168_top": "Choose a color",
+        "lh_a168_title": "What is your favorite color?"
+      },
+      "Skpao0yNAl": {
+        "lh_a168_top": "Testimonial",
+        "lh_hifzh_title": "Happy customers",
+        "lh_92gzf4_title": "Incredible Experience",
+        "lh_92gzf4_content_html": "We had an incredible experience working with Landify and were impressed they made such a big difference in only three weeks. Our team is so grateful for the wonderful improvements they made and their ability to get familiar with the concept so quickly. <!--lh-live-editor-->",
+        "lh_92gzf4_pos": "CEO, ABC Corporation",
+        "lh_92gzf5_title": "Dependable, Responsive, Professional Partner",
+        "lh_92gzf5_content_html": "We had an incredible experience working with Landify and were impressed they made such a big difference in only three weeks. Our team is so grateful for the wonderful improvements they made and their ability to get familiar with the concept so quickly. <!--lh-live-editor-->",
+        "lh_92gzf5_pos": "CEO, ABC Corporation",
+        "lh_92gzf6_title": "2Incredible Experience",
+        "lh_92gzf6_content_html": "We had an incredible experience working with Landify and were impressed they made such a big difference in only three weeks. Our team is so grateful for the wonderful improvements they made and their ability to get familiar with the concept so quickly. <!--lh-live-editor-->",
+        "lh_92gzf6_pos": "CEO, ABC Corporation",
+        "lh_92gzf7_title": "3Incredible Experience",
+        "lh_92gzf7_content_html": "We had an incredible experience working with Landify and were impressed they made such a big difference in only three weeks. Our team is so grateful for the wonderful improvements they made and their ability to get familiar with the concept so quickly. <!--lh-live-editor-->",
+        "lh_92gzf7_pos": "CEO, ABC Corporation",
+        "lh_92gzf8_title": "4Incredible Experience",
+        "lh_92gzf8_content_html": "We had an incredible experience working with Landify and were impressed they made such a big difference in only three weeks. Our team is so grateful for the wonderful improvements they made and their ability to get familiar with the concept so quickly. <!--lh-live-editor-->",
+        "lh_92gzf8_pos": "CEO, ABC Corporation"
+      },
+      "h82DotuJg9": {
+        "lh_a168_top": "Our Gallery",
+        "lh_hifzh_title": "The best momment"
+      },
+      "7kPTXZuKO6": {
+        "lh_hpo2th_txt1": "Freeshipping",
+        "lh_hpo2th_txt2": "On all orders",
+        "lh_hpo2ti_txt1": "24\/7 Support",
+        "lh_hpo2ti_txt2": "Get Help When You Need",
+        "lh_hpo2tj_txt1": "Careful Packaging",
+        "lh_hpo2tj_txt2": "Quality Assurance"
+      },
+      "ONnHqvPMQX": {
+        "lh_f5dibt_top": "FAQs",
+        "lh_a168_title": "Do you have any questions?",
+        "lh_5r8yyn_title": "Why choose Bamboo as a material?",
+        "lh_ku5mxb_desc_html": "Bamboo is the fastest growing plant on earth. Because it contains naturally-occurring antimicrobial agents, there is no need for using fertilizers or pesticides during its cultivation. Our bamboo is totally organic and wild<!--lh-live-editor-->",
+        "lh_anmdz4_title": "Is this an authentic Uno? And does Uno ships the iron?",
+        "lh_ku5mxa_desc_html": "There is something about parenthood that gives us a sense of history and a deeply rooted desire to send on into the next generation the great things we have discovered about life. And part of that is the desire to instill in our children the love of science, of learning.<!--lh-live-editor-->",
+        "lh_r2hqwv_title": "What is the difference between Uno iron and Uno pro and demo tyme pro?",
+        "lh_ku5mx9_desc_html": "There is something about parenthood that gives us a sense of history and a deeply rooted desire to send on into the next generation the great things we have discovered about life. And part of that is the desire to instill in our children the love of science, of learning.<!--lh-live-editor-->",
+        "lh_rjqy4i_title": "Why is this product 4 times as expensive from other retailers here on Amazon for the same item?",
+        "lh_ku5mx8_desc_html": "There is something about parenthood that gives us a sense of history and a deeply rooted desire to send on into the next generation the great things we have discovered about life. And part of that is the desire to instill in our children the love of science, of learning.<!--lh-live-editor-->"
+      },
+      "bVA0YjE3Qd": {
+        "lh_a168_title": "This week only!",
+        "lh_a168_desc": "Hurry up ! Only 20 items left.",
+        "btn": "BUY IT NOW"
+      },
+      "gsnqESZ65p": {
+        "lh_3m58tf_item": "About",
+        "lh_3vivvo_item": "Features",
+        "lh_44wixx_item": "Pricing",
+        "lh_4ea606_item": "Careers",
+        "lh_4nnt2f_item": "Help",
+        "lh_4x1g4o_item": "Privacy Policy",
+        "lh_a168_bottom": "© 2020, Greenliving.com"
+      }
+    },
+    "layouthub-6285256a304a7c12d733da12": {
+      "FmIANMRtDJ": {
+        "lh_3m58tf_item": "Grand Experience",
+        "lh_3vivvo_item": "On-site Guidelines",
+        "lh_44wixx_item": "Interactive Map",
+        "lh_4ea606_item": "Parking and Transport",
+        "lh_4nnt2f_item": "Areas of Care",
+        "lh_4x1g4o_item": "News and Stories"
+      },
+      "zrRXjPMteS": {
+        "lh_a168_title": "Welcome to Grand River Hospital",
+        "lh_a168_desc_html": "We welcome you to our Innovative healthcare centre where we provide exceptional care for Waterloo Wellington residents across a comprehensive range of areas.<!--lh-live-editor-->",
+        "lh_8huk_link": "About us"
+      },
+      "ONnHqvPMQX": {
+        "lh_f5dibt_top": "THE GRAND EXPERIENCE",
+        "lh_a168_title": "How might we help you?",
+        "lh_5r8yyn_title": "Hospital locations and campus info",
+        "lh_ku5mxb_desc_html": "Bamboo is the fastest growing plant on earth. Because it contains naturally-occurring antimicrobial agents, there is no need for using fertilizers or pesticides during its cultivation. Our bamboo is totally organic and wild<!--lh-live-editor-->",
+        "lh_anmdz4_title": "Parking Information",
+        "lh_ku5mxa_desc_html": "There is something about parenthood that gives us a sense of history and a deeply rooted desire to send on into the next generation the great things we have discovered about life. And part of that is the desire to instill in our children the love of science, of learning.<!--lh-live-editor-->",
+        "lh_r2hqwv_title": "Hospital map",
+        "lh_ku5mx9_desc_html": "There is something about parenthood that gives us a sense of history and a deeply rooted desire to send on into the next generation the great things we have discovered about life. And part of that is the desire to instill in our children the love of science, of learning.<!--lh-live-editor-->",
+        "lh_rjqy4i_title": "Digital support and device rental",
+        "lh_ku5mx8_desc_html": "There is something about parenthood that gives us a sense of history and a deeply rooted desire to send on into the next generation the great things we have discovered about life. And part of that is the desire to instill in our children the love of science, of learning.<!--lh-live-editor-->",
+        "lh_b4vl6r_title": "Search the directory",
+        "lh_ku5mx7_desc_html": "There is something about parenthood that gives us a sense of history and a deeply rooted desire to send on into the next generation the great things we have discovered about life. And part of that is the desire to instill in our children the love of science, of learning.<!--lh-live-editor-->"
+      },
+      "rzOTmkaByX": {
+        "lh_a168_top": "The Grand Experience",
+        "lh_a168_title": "How might we help you?",
+        "lh_a168_desc": "Do you know that the life of the brush is only 2-3 months? With such a life cycle, each year you will be discharged into the environment 4-6 plastic brushes. Extremely harmful to the environment"
+      },
+      "lIdgMAo6uR": {
+        "lh_a168_top": "Features",
+        "lh_hifzh_title": "The best oral care",
+        "lh_hpo2th_title": "Eco-friendly packaging",
+        "lh_hpo2th_des_html": "LayoutHub is an easy page builder that helps.<!--lh-live-editor-->",
+        "lh_hpo2ti_title": "Bamboo handle",
+        "lh_hpo2ti_des_html": "LayoutHub is an easy page builder that helps.<!--lh-live-editor-->",
+        "lh_hpo2tj_title": "BPA free nylon bristles",
+        "lh_hpo2tj_des_html": "LayoutHub is an easy page builder that helps.<!--lh-live-editor-->",
+        "lh_hpo2tk_title": "Naturally antibacterial",
+        "lh_hpo2tk_des_html": "LayoutHub is an easy page builder that helps.<!--lh-live-editor-->",
+        "lh_8huk_link": "BUY IT NOW"
+      },
+      "iqxzrIYVsy": {
+        "lh_a168_title": "Quality assurance doctor's certificate",
+        "lh_a168_desc_html": "LayoutHub is an easy page builder that helps merchants quickly set up an online store with any kind of page type by using our library of pre-designed layouts and blocks.<!--lh-live-editor-->",
+        "lh_92xv_sign": "Image",
+        "lh_a168_name": "Mr.Courtney Henry",
+        "lh_a168_pos": "DIRECTOR X HOSPITAL"
+      },
+      "0lYeXWsS7d": {
+        "lh_f5dibt_top": "The best benefits",
+        "lh_a168_title": "Benefits for our customers",
+        "lh_hpo2th_title": "Minimalist",
+        "lh_hpo2th_des_html": "LayoutHub is an easy page builder that helps merchants quickly set up an online.<!--lh-live-editor-->",
+        "lh_hpo2ti_title": "Non-toxic",
+        "lh_hpo2ti_des_html": "LayoutHub is an easy page builder that helps merchants quickly set up an online.<!--lh-live-editor-->",
+        "lh_hpo2tj_title": "Environmental Protection",
+        "lh_hpo2tj_des_html": "LayoutHub is an easy page builder that helps merchants quickly set up an online.<!--lh-live-editor-->"
+      },
+      "V7xkyeI5Bg": {
+        "lh_f5dibt_top": "This week only!",
+        "lh_a168_title_html": "BUY 1<br> GET 1",
+        "lh_8huk_link": "BUY IT NOW",
+        "lh_a168_desc_html": "Hurry up ! Only 20 items left.<!--lh-live-editor-->"
+      },
+      "uojc807Z5v": {
+        "lh_sjlit0_soldout": "Sold out",
+        "lh_sjlit0_new": "New",
+        "lh_a168_pro": "Buy 1 get 1",
+        "wishlist": "Wishlist",
+        "lh_txhi7h_view": "Quick view",
+        "lh_f635tz_cart": "Add to cart",
+        "lh_h7oza_more": "Read more",
+        "lh_a168_top": "Choose a color",
+        "lh_a168_title": "What is your favorite color?"
+      },
+      "Skpao0yNAl": {
+        "lh_a168_top": "Testimonial",
+        "lh_hifzh_title": "Happy customers",
+        "lh_92gzf4_title": "Incredible Experience",
+        "lh_92gzf4_content_html": "We had an incredible experience working with Landify and were impressed they made such a big difference in only three weeks. Our team is so grateful for the wonderful improvements they made and their ability to get familiar with the concept so quickly. <!--lh-live-editor-->",
+        "lh_92gzf4_pos": "CEO, ABC Corporation",
+        "lh_92gzf5_title": "Dependable, Responsive, Professional Partner",
+        "lh_92gzf5_content_html": "We had an incredible experience working with Landify and were impressed they made such a big difference in only three weeks. Our team is so grateful for the wonderful improvements they made and their ability to get familiar with the concept so quickly. <!--lh-live-editor-->",
+        "lh_92gzf5_pos": "CEO, ABC Corporation",
+        "lh_92gzf6_title": "2Incredible Experience",
+        "lh_92gzf6_content_html": "We had an incredible experience working with Landify and were impressed they made such a big difference in only three weeks. Our team is so grateful for the wonderful improvements they made and their ability to get familiar with the concept so quickly. <!--lh-live-editor-->",
+        "lh_92gzf6_pos": "CEO, ABC Corporation",
+        "lh_92gzf7_title": "3Incredible Experience",
+        "lh_92gzf7_content_html": "We had an incredible experience working with Landify and were impressed they made such a big difference in only three weeks. Our team is so grateful for the wonderful improvements they made and their ability to get familiar with the concept so quickly. <!--lh-live-editor-->",
+        "lh_92gzf7_pos": "CEO, ABC Corporation",
+        "lh_92gzf8_title": "4Incredible Experience",
+        "lh_92gzf8_content_html": "We had an incredible experience working with Landify and were impressed they made such a big difference in only three weeks. Our team is so grateful for the wonderful improvements they made and their ability to get familiar with the concept so quickly. <!--lh-live-editor-->",
+        "lh_92gzf8_pos": "CEO, ABC Corporation"
+      },
+      "h82DotuJg9": {
+        "lh_a168_top": "Our Gallery",
+        "lh_hifzh_title": "The best momment"
+      },
+      "7kPTXZuKO6": {
+        "lh_hpo2th_txt1": "Freeshipping",
+        "lh_hpo2th_txt2": "On all orders",
+        "lh_hpo2ti_txt1": "24\/7 Support",
+        "lh_hpo2ti_txt2": "Get Help When You Need",
+        "lh_hpo2tj_txt1": "Careful Packaging",
+        "lh_hpo2tj_txt2": "Quality Assurance"
+      },
+      "bVA0YjE3Qd": {
+        "lh_a168_title": "This week only!",
+        "lh_a168_desc": "Hurry up ! Only 20 items left.",
+        "btn": "BUY IT NOW"
+      },
+      "gsnqESZ65p": {
+        "lh_3m58tf_item": "About",
+        "lh_3vivvo_item": "Features",
+        "lh_44wixx_item": "Pricing",
+        "lh_4ea606_item": "Careers",
+        "lh_4nnt2f_item": "Help",
+        "lh_4x1g4o_item": "Privacy Policy",
+        "lh_a168_bottom": "© 2020, Greenliving.com"
+      }
+    }
+  },
+  "shopify": {
+    "checkout": {
+      "contact": {
+        "first_name_label": "First name (used for tax receipt purposes)",
+        "last_name_label": "Last name (used for tax receipt purposes)",
+        "company_label": "Company (if information is entered here you will receive your donation receipt in the business name)"
+      }
+    }
+  },
+  "auction_pro_template": {
+    "js": {
+      "amount": "Amount",
+      "auction_end": "AUCTION HAS ENDED",
+      "automatic_bid_higher": "The entered value must be greater than the current highest bid plus minimum bid increment, please enter another value",
+      "automatic_bid_minimum": "The entered value is lower than the current maximum automatic bid, please enter another value",
+      "automatic_bid_success": "Automatic bid successfully submitted!",
+      "bid": "bid",
+      "bidder": "Bidder",
+      "bids": "bids",
+      "bid_empty": "Bid input cannot be empty",
+      "bid_increment": "Bid increment",
+      "bid_minimum": "Bid amount must be at least",
+      "bid_success": "Bid successfully submitted!",
+      "date": "Date",
+      "end_date": "End date",
+      "enter": "Enter",
+      "error": "An error occurred",
+      "error_bid_highest": "You have already placed the highest bid for this auction",
+      "error_maximum_bid_increment": "The maximum bid increment for this auction is",
+      "error_maximum_bid_increment_after": "You cannot bid more than",
+      "item_already_added": "You have already added this item to your cart",
+      "login_message": {
+        "you_must": "You must",
+        "login": "login",
+        "or": "or",
+        "create_account": "create an account",
+        "place_bid": "to place bids"
+      },
+      "or_more": "or more",
+      "outbid_automatic": "Someone has placed a higher automatic bid, please submit a higher bid",
+      "outbid_regular": "You were outbid, please refresh the page to see the current state of the auction",
+      "reserve_price_met": "Reserve met",
+      "timer": {
+        "days": "d",
+        "hours": "h",
+        "minutes": "m",
+        "seconds": "s"
+      }
+    },
+    "template": {
+      "automatic_bid_message": "Enter the maximum amount you are willing to pay and bids will be automatically placed for you up to the specified amount.  If someone has placed a higher maximum bid than you, your bid will not be registered.",
+      "automatic_bid_place": "Place automatic bid",
+      "automatic_bid_tooltip": "Enter the maximum amount you are willing to pay and bids will be automatically placed for you up to the specified amount",
+      "bids": "Bids",
+      "bid_amount": "Bid amount",
+      "bid_current": "Current bid",
+      "bid_enter": "Enter bid",
+      "bid_starting": "Starting bid",
+      "bid_submit": "Submit bid",
+      "bid_submitting": "Submitting bid ...",
+      "bid_submit_confirm": "Are you sure you want to submit your bid?",
+      "bid_verb": "Bid",
+      "bid_winning": "Winning bid",
+      "buy_it_now": "Buy it now",
+      "buy_it_now_price": "Buy it now price",
+      "cancel": "Cancel",
+      "close": "Close",
+      "confirm": "Confirm",
+      "reserve_price_not_met": "Reserve not met"
+    }
+  },
+  "collection_auctions": {
+    "auction_title": "Auctions",
+    "empty": "No products found",
+    "search": "Search",
+    "search_no_results": "No search results",
+    "sort": "Sort",
+    "sort_bids_highest": "Bids: highest",
+    "sort_bids_lowest": "Bids: lowest",
+    "sort_price_highest": "Price: highest",
+    "sort_price_lowest": "Price: lowest",
+    "sort_time_ending_soonest": "Time: ending soonest",
+    "sort_time_newly_listed": "Time: newly listed",
+    "title": "Collection"
+  }
+}

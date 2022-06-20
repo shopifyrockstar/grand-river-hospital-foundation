@@ -1,0 +1,83 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+      }
+    },
+    "165056743718acefc3": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/golf-swing-follow-through.jpg",
+        "image_link": "shopify:\/\/products\/donate-to-sy-road-hockey-classic",
+        "image_position": "center center",
+        "height": "adapt",
+        "height_desktop": 600,
+        "height_mobile": 500,
+        "color_overlay_bg": "#ffffff",
+        "overlay_opacity": 80,
+        "color_overlay_text": "#333333",
+        "overlay_title": "Silicon Meets Grass",
+        "overlay_text": "Join us in supporting 2 new MRI's in Waterloo Region at this brand new, high-quality golf tournament designed to foster connection and support from industry and the IT experts & leaders at these two great hospitals. Happening August 12, 2022!",
+        "overlay_url_text_1": "REGISTER NOW",
+        "overlay_url_1": "shopify:\/\/products\/silicon-meets-grass-corporate-foursome",
+        "overlay_url_text_2": "",
+        "overlay_url_2": "",
+        "overlay_url_style": "button_1",
+        "enlarge_title": false,
+        "enlarge_text": false,
+        "overlay_position_x": 50,
+        "overlay_position_y": 70,
+        "mobile_text_below": false,
+        "color_label_background": "#ffffff",
+        "color_label_text": "#333333",
+        "show_chevron": true,
+        "product_id_1": "",
+        "chevron_position_1": "right",
+        "label_position_x_1": 20,
+        "label_position_y_1": 30,
+        "product_id_2": "",
+        "chevron_position_2": "right",
+        "label_position_x_2": 80,
+        "label_position_y_2": 50
+      }
+    },
+    "1648226440423b38f7": {
+      "type": "rich-text-left-and-centre",
+      "settings": {
+        "title": "Sponsorship",
+        "text": "<p>Looking to support with a sponsorship?<\/p><p>Sponsor benefits include:<\/p><p>- Corporate Foursome. An incredible golf day for four (4)<\/p><p>- Signage at a hole with your logo<\/p><p>- Recognition in thank you email for your gift to the MRI projectsLunch on your <\/p><p>- Golf cart to keep the pace with appetizers and beverages<\/p>",
+        "button_label": "Download Sponsorship Package",
+        "button_link": "shopify:\/\/products\/silicon-meets-grass-sponsorship",
+        "url_style": "button_2",
+        "enlarge_title": false,
+        "enlarge_text": false,
+        "full_width": false,
+        "color_bg": "#ffffff",
+        "color_title": "#000000",
+        "color_text": "#000000"
+      }
+    },
+    "1647960706abf0a6ed": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "See you on the course",
+        "enlarge_title": false,
+        "link_text": "",
+        "collection": "silicon-meets-grass",
+        "show_vendor": false,
+        "enable_carousel": false,
+        "grid": 4,
+        "row_count": 2,
+        "grid_mobile": "2"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "165056743718acefc3",
+    "1648226440423b38f7",
+    "1647960706abf0a6ed"
+  ]
+}

@@ -1,0 +1,161 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page-left",
+      "disabled": true,
+      "settings": {
+      }
+    },
+    "1654721674af211037": {
+      "type": "image-with-text",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Image_with_Text_Med_-_Web.png",
+        "image_link": "",
+        "image_size": "0",
+        "image_position": "right",
+        "title": "Donate by Area of Care",
+        "text": "<p>At Grand River Hospital Foundation, we want to ensure that your support of the Hospital reflects your experiences and priorities. To make it easy for supporters of all kinds, we have defined eight distinct Areas of Care that encompass the health services we offer: Cancer Care, Grand River Kids, Mental Health Care, Kidney Care, Continuum of Care, Emergency & Critical Care, Patience Experience and Learning + Innovation.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "url_style": "button_1",
+        "enlarge_title": false,
+        "enlarge_text": false,
+        "text_alignment": "left",
+        "color_bg": "#ECF1F2",
+        "color_text": "#333333"
+      }
+    },
+    "163712515819ddc19a": {
+      "type": "collection-list",
+      "blocks": {
+        "1637125158d2df954f-0": {
+          "type": "collection",
+          "settings": {
+            "collection": "cancer-care"
+          }
+        },
+        "1637125158d2df954f-1": {
+          "type": "collection",
+          "settings": {
+            "collection": "continuum-of-care"
+          }
+        },
+        "1637125158d2df954f-2": {
+          "type": "collection",
+          "settings": {
+            "collection": "emergency-and-critical-care-collection"
+          }
+        },
+        "1637125158d2df954f-3": {
+          "type": "collection",
+          "settings": {
+            "collection": "grand-river-kids"
+          }
+        },
+        "41ab3d64-cdb4-4bc2-8038-4e0acb8f9fd9": {
+          "type": "collection",
+          "settings": {
+            "collection": "kidneycareneverstops"
+          }
+        },
+        "8f2fc90c-12f6-4de5-a2ed-9e3bcd8f70f5": {
+          "type": "collection",
+          "settings": {
+            "collection": "learning-and-innovation-care-collection"
+          }
+        },
+        "53fe4503-b126-429e-aab3-fa4c151d20fd": {
+          "type": "collection",
+          "settings": {
+            "collection": "mental-health-care-collection"
+          }
+        },
+        "3abef6a1-1fa6-4a82-8c93-af6626bf645c": {
+          "type": "collection",
+          "settings": {
+            "collection": "patient-experience-care-collection"
+          }
+        }
+      },
+      "block_order": [
+        "1637125158d2df954f-0",
+        "1637125158d2df954f-1",
+        "1637125158d2df954f-2",
+        "1637125158d2df954f-3",
+        "41ab3d64-cdb4-4bc2-8038-4e0acb8f9fd9",
+        "8f2fc90c-12f6-4de5-a2ed-9e3bcd8f70f5",
+        "53fe4503-b126-429e-aab3-fa4c151d20fd",
+        "3abef6a1-1fa6-4a82-8c93-af6626bf645c"
+      ],
+      "settings": {
+        "title": "Areas of Care at Grand River Hospital",
+        "enlarge_title": false,
+        "grid": 4
+      }
+    },
+    "16371914278d946edc": {
+      "type": "image-with-text-overlay",
+      "disabled": true,
+      "settings": {
+        "image": "shopify:\/\/shop_images\/10.png",
+        "image_link": "shopify:\/\/products\/donate-to-greatest-needs",
+        "image_position": "center center",
+        "height": "fixed",
+        "height_desktop": 500,
+        "height_mobile": 500,
+        "color_overlay_bg": "#ffffff",
+        "overlay_opacity": 80,
+        "color_overlay_text": "#333333",
+        "overlay_title": "All Areas of Care",
+        "overlay_text": "Addressing unmet needs across the Areas of Care plays an important role in building a world class health system. Health care is complicated, and urgent needs constantly arise. Your donation allows us to effectively support the hospital's most critical needs.",
+        "overlay_url_text_1": "DONATE NOW",
+        "overlay_url_1": "shopify:\/\/products\/donate-to-greatest-needs",
+        "overlay_url_text_2": "",
+        "overlay_url_2": "",
+        "overlay_url_style": "button_1",
+        "enlarge_title": false,
+        "enlarge_text": false,
+        "overlay_position_x": 50,
+        "overlay_position_y": 100,
+        "mobile_text_below": false,
+        "color_label_background": "#ffffff",
+        "color_label_text": "#333333",
+        "show_chevron": true,
+        "product_id_1": "",
+        "chevron_position_1": "right",
+        "label_position_x_1": 20,
+        "label_position_y_1": 30,
+        "product_id_2": "",
+        "chevron_position_2": "right",
+        "label_position_x_2": 80,
+        "label_position_y_2": 50
+      }
+    },
+    "16547211522849bed5": {
+      "type": "image-with-text",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Website_mini_header_-_impact_page_5.png",
+        "image_link": "",
+        "image_size": "0",
+        "image_position": "left",
+        "title": "All Areas of Care",
+        "text": "<p>Addressing unmet needs across the Areas of Care plays an important role in building a world class health system. Health care is complicated, and urgent needs constantly arise. Your donation allows us to effectively support the hospital's most critical needs.<\/p>",
+        "button_label": "Donate to All Areas of Care",
+        "button_link": "shopify:\/\/products\/donate-to-greatest-needs",
+        "url_style": "button_1",
+        "enlarge_title": false,
+        "enlarge_text": false,
+        "text_alignment": "center",
+        "color_bg": "#000000",
+        "color_text": "#ffffff"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "1654721674af211037",
+    "163712515819ddc19a",
+    "16371914278d946edc",
+    "16547211522849bed5"
+  ]
+}

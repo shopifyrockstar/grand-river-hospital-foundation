@@ -1,0 +1,43 @@
+{
+  "sections": {
+    "1651857130875af560": {
+      "type": "image-with-text",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/PMR_thank_you_copy.png",
+        "image_link": "",
+        "image_size": "0",
+        "image_position": "right",
+        "title": "The Donor Difference",
+        "text": "<p>Base funding provided by the provincial government covers the costs of supplies, staff and day-to-day operations, but<em><strong> hospitals, and the supporters who donate to and fundraise for them<\/strong><\/em>, are solely responsible for funding new and replacement equipment, along with capital costs and programs that are not covered by government funding sources.<\/p><p><\/p>",
+        "button_label": "",
+        "button_link": "",
+        "url_style": "button_1",
+        "enlarge_title": false,
+        "enlarge_text": false,
+        "text_alignment": "left",
+        "color_bg": "#dae4e6",
+        "color_text": "#333333"
+      }
+    },
+    "main": {
+      "type": "left-aligned-collection",
+      "settings": {
+        "enable_feature_header": false,
+        "grid": 4,
+        "grid_mobile": "2",
+        "pagination_limit": 12,
+        "show_total": false,
+        "ajax_products": true,
+        "show_vendor": false,
+        "show_filters": true,
+        "show_filter_prod_counts": true,
+        "show_sort_by": true,
+        "show_featured": false
+      }
+    }
+  },
+  "order": [
+    "1651857130875af560",
+    "main"
+  ]
+}

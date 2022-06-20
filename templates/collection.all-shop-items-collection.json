@@ -1,0 +1,118 @@
+{
+  "sections": {
+    "16528143869a4da182": {
+      "type": "image-with-text",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Square_Posts_50.png",
+        "image_link": "",
+        "image_size": "0",
+        "image_position": "left",
+        "title": "Shop All Products",
+        "text": "<p>When you shop our online collection, you make sure Care. Never. Stops. Buy Grand River merchandise, and all of the proceeds will go to supporting the hospital. View all of the available products below.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "url_style": "button_1",
+        "enlarge_title": false,
+        "enlarge_text": false,
+        "text_alignment": "center",
+        "color_bg": "#42467e",
+        "color_text": "#ffffff"
+      }
+    },
+    "165249253181a7b844": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Apparel",
+        "enlarge_title": false,
+        "link_text": "Shop all apparel",
+        "collection": "apparel",
+        "show_vendor": false,
+        "enable_carousel": true,
+        "grid": 4,
+        "row_count": 1,
+        "grid_mobile": "2"
+      }
+    },
+    "1652492674883d22bd": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Accessories",
+        "enlarge_title": false,
+        "link_text": "Shop all accessories",
+        "collection": "accessories",
+        "show_vendor": false,
+        "enable_carousel": true,
+        "grid": 4,
+        "row_count": 1,
+        "grid_mobile": "2"
+      }
+    },
+    "1652492752dddb5b94": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Decor & Home",
+        "enlarge_title": false,
+        "link_text": "Shop all decor & home items",
+        "collection": "decor-home",
+        "show_vendor": false,
+        "enable_carousel": true,
+        "grid": 4,
+        "row_count": 1,
+        "grid_mobile": "2"
+      }
+    },
+    "main": {
+      "type": "left-aligned-collection",
+      "blocks": {
+        "28bad23c-c5f2-4d63-97b0-b4e965f5d2b1": {
+          "type": "collection",
+          "disabled": true,
+          "settings": {
+            "collection": "accessories",
+            "product": "pride-crossbody-tote",
+            "collection_colour": "#43467f",
+            "color_overlay_bg": "#ffffff",
+            "overlay_opacity": 10,
+            "color_overlay_text": "#333333"
+          }
+        },
+        "70eb8ab3-559f-4709-88c9-5374047fad2a": {
+          "type": "collection",
+          "disabled": true,
+          "settings": {
+            "collection": "125-feature-collection",
+            "product": "125-care-area-poster",
+            "collection_colour": "#43467f",
+            "color_overlay_bg": "#ffffff",
+            "overlay_opacity": 10,
+            "color_overlay_text": "#333333"
+          }
+        }
+      },
+      "block_order": [
+        "28bad23c-c5f2-4d63-97b0-b4e965f5d2b1",
+        "70eb8ab3-559f-4709-88c9-5374047fad2a"
+      ],
+      "settings": {
+        "enable_feature_header": false,
+        "grid": 4,
+        "grid_mobile": "2",
+        "pagination_limit": 12,
+        "show_total": false,
+        "ajax_products": true,
+        "show_vendor": false,
+        "show_filters": true,
+        "show_filter_prod_counts": true,
+        "show_sort_by": true,
+        "show_featured": false
+      }
+    }
+  },
+  "order": [
+    "16528143869a4da182",
+    "165249253181a7b844",
+    "1652492674883d22bd",
+    "1652492752dddb5b94",
+    "main"
+  ]
+}

@@ -1,0 +1,80 @@
+{%- comment -%}
+	SEO Manager - product meta search v4.0
+	usage: /search?view=SEOManagerProductMeta&q=1000&page=1
+	Copyright (c) venntov
+	https://venntov.com / https://SEOManager.com
+	Josh Highland
+
+	NOTICE: All information contained herein is property of venntov.
+	The intellectual and technical concepts contained herein are proprietary
+	to venntov and are protected by trade secret and copyright law.
+	Reproduction of this code is strictly forbidden unless prior written
+	permission is obtained from venntov. If violated, legal action
+	will be taken. Just don't do it.
+{%- endcomment -%}
+
+{%- layout none -%}
+
+{%- assign collection = collections['all'] -%}
+
+{%- if collection.products_count == 0 -%}
+    {%- assign collection = collections['allproducts'] -%}
+{%- endif -%}
+
+{% assign searchTermsNumber = search.terms | plus: 0 %}
+
+{%- if searchTermsNumber > collection.products_count -%}
+    {%- assign searchTermsNumber = collection.products_count -%}
+{%- endif -%}
+
+{%- paginate  collection.products by searchTermsNumber -%}
+
+	{%- assign currentPage = paginate.current_page -%}
+
+	{%- capture results -%}
+		{%- comment %}<locksmith:9c12>{% endcomment -%}
+		  {%- assign locksmith_a746_forloop__size = 0 %}{%- for item in collection.products -%}{% capture var %}{% render 'locksmith-variables', scope: 'subject', subject: item, subject_parent: collection, variable: 'transparent' %}{% endcapture %}{% if var == 'true' %}{% assign locksmith_a746_forloop__size = locksmith_a746_forloop__size | plus: 1 %}{% endif %}{% endfor %}{% assign locksmith_a746_forloop__index = nil -%}
+		{%- comment %}</locksmith:9c12>{% endcomment -%}
+		{%- for item in collection.products -%}
+			{%- comment %}<locksmith:9637>{% endcomment -%}
+			  {%- capture var %}{% render 'locksmith-variables', scope: 'subject', subject: item, subject_parent: collection, variable: 'transparent' %}{% endcapture %}{% if var == "true" %}{% if locksmith_a746_forloop__index == nil %}{% assign locksmith_a746_forloop__index = 1 %}{% assign locksmith_a746_forloop__index0 = 0 %}{% else %}{% assign locksmith_a746_forloop__index = locksmith_a746_forloop__index | plus: 1 %}{% assign locksmith_a746_forloop__index0 = locksmith_a746_forloop__index0 | plus: 1 %}{% endif %}{% if locksmith_a746_forloop__index == 1 %}{% assign locksmith_a746_forloop__first = true %}{% else %}{% assign locksmith_a746_forloop__first = false %}{% endif %}{% if locksmith_a746_forloop__index == locksmith_a746_forloop__size %}{% assign locksmith_a746_forloop__last = true %}{% else %}{% assign locksmith_a746_forloop__last = false %}{% endif %}{% assign locksmith_a746_forloop__rindex = locksmith_a746_forloop__size | minus: locksmith_a746_forloop__index | minus: 1 %}{% assign locksmith_a746_forloop__rindex0 = locksmith_a746_forloop__size | minus: locksmith_a746_forloop__index0 | minus: 1 %}{% else %}{% continue %}{% endif -%}
+			{%- comment %}</locksmith:9637>{% endcomment -%}
+			{%- assign product			= item -%}
+			{%- assign meta_title		= product.metafields.global.title_tag -%}
+			{%- assign meta_description = product.metafields.global.description_tag -%}
+			{%- assign seoDone			= product.metafields.SEOMetaManager.seoDone -%}
+
+			{%- if meta_title == null -%}
+				{%- assign meta_title = product.title -%}
+			{%- endif -%}
+
+			{%- if meta_description == null -%}
+				{%- capture meta_description -%}{{ product.description | strip_html | strip_newlines | truncate: 160 }} {% endcapture %}
+			{%- endif -%}
+
+			{%- if seoDone == null -%}
+				{%- assign seoDone = 0 -%}
+			{%- endif -%}
+
+			{
+				"productID"			: {{ product.id | JSON }},
+				"title"				: {{ product.title | json }},
+				"meta_title"		: {{ meta_title | json }},
+				"meta_description"	: {{ meta_description | json }},
+				"seo_done"			: {{ seoDone | json }},
+				"thumbnail"			: {{ product.featured_image.src | img_url : '100x100' | json }},
+				"handle"			: {{ product.handle | json }}
+			}
+			{%- unless locksmith_a746_forloop__last -%},{%- endunless -%}
+		{% endfor %}
+	{%- endcapture -%}
+{%- endpaginate -%}
+{
+	"info": {
+		"productCount": {{ collection.products_count }},
+		"domain": {{ shop.domain | json }},
+		"currentPage": {{ currentPage }},
+		"pageSize": {{ searchTermsNumber }}
+	},	
+	"productData"	: [{{ results }}]
+}

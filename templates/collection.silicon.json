@@ -1,0 +1,118 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-collection",
+      "settings": {
+        "enable_feature_header": true,
+        "grid": 4,
+        "grid_mobile": "2",
+        "pagination_limit": 12,
+        "show_total": true,
+        "ajax_products": true,
+        "show_vendor": false,
+        "show_filters": true,
+        "show_filter_prod_counts": false,
+        "show_sort_by": true,
+        "show_featured": false
+      }
+    },
+    "165480485785133068": {
+      "type": "banner",
+      "blocks": {
+        "165480485780250a6a-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/golf-swing-follow-through.jpg",
+            "image_position": "center center",
+            "image_link": "",
+            "color_overlay_bg": "#ffffff",
+            "overlay_opacity": 80,
+            "color_overlay_text": "#333333",
+            "overlay_title": "Sponsorship Package",
+            "overlay_text": "Looking to support us? Dowload the sponsorship package for more details or sign up for your sponsorship below",
+            "overlay_url_text_1": "Pay for Sponsorship",
+            "overlay_url_1": "shopify:\/\/products\/silicon-meets-grass-sponsorship",
+            "overlay_url_text_2": "Download Package",
+            "overlay_url_2": "",
+            "overlay_url_style": "button_1",
+            "enlarge_title": false,
+            "enlarge_text": false,
+            "overlay_position_x": 50,
+            "overlay_position_y": 52,
+            "color_label_background": "#ffffff",
+            "color_label_text": "#333333",
+            "show_chevron": true,
+            "product_id_1": "",
+            "chevron_position_1": "right",
+            "label_position_x_1": 20,
+            "label_position_y_1": 30,
+            "product_id_2": "",
+            "chevron_position_2": "right",
+            "label_position_x_2": 80,
+            "label_position_y_2": 50
+          }
+        }
+      },
+      "block_order": [
+        "165480485780250a6a-0"
+      ],
+      "settings": {
+        "height": "fixed",
+        "height_desktop": 500,
+        "height_mobile": 400,
+        "mobile_text_below": true,
+        "slideshow_autoplay": true,
+        "slideshow_autoplay_speed": 6
+      }
+    },
+    "16548048999216a289": {
+      "type": "logo-list-give",
+      "disabled": true,
+      "blocks": {
+        "16548048998b9ab647-0": {
+          "type": "logo",
+          "settings": {
+            "image_width": 160,
+            "link": "",
+            "title": ""
+          }
+        },
+        "16548048998b9ab647-1": {
+          "type": "logo",
+          "settings": {
+            "image_width": 160,
+            "link": "",
+            "title": ""
+          }
+        },
+        "16548048998b9ab647-2": {
+          "type": "logo",
+          "settings": {
+            "image_width": 160,
+            "link": "",
+            "title": ""
+          }
+        }
+      },
+      "block_order": [
+        "16548048998b9ab647-0",
+        "16548048998b9ab647-1",
+        "16548048998b9ab647-2"
+      ],
+      "settings": {
+        "title": "Logo list",
+        "color_bg": "#dae4e6",
+        "color_title": "#333333",
+        "color_text": "#333333",
+        "enlarge_title": false,
+        "enlarge_text": false,
+        "image_opacity": 75
+      }
+    }
+  },
+  "order": [
+    "main",
+    "165480485785133068",
+    "16548048999216a289"
+  ]
+}

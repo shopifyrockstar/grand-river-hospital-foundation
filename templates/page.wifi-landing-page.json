@@ -1,0 +1,12 @@
+{
+  "sections": {
+    "main-page-wifi-5": {
+      "type": "main-page-wifi",
+      "settings": {
+      }
+    }
+  },
+  "order": [
+    "main-page-wifi-5"
+  ]
+}

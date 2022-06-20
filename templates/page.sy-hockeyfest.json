@@ -1,0 +1,956 @@
+{
+  "sections": {
+    "16512479011843aca1": {
+      "type": "background-video",
+      "settings": {
+        "video": "https:\/\/cdn.shopify.com\/s\/files\/1\/0363\/5363\/8540\/files\/AnyConv.com__MensLondon.mp4",
+        "cover_image": "shopify:\/\/shop_images\/Website_Banner_2048_x_1024_9.png",
+        "image_position": "center center",
+        "height_desktop": 600,
+        "height_mobile": 500,
+        "color_overlay_bg": "#ffffff",
+        "overlay_opacity": 80,
+        "color_overlay_text": "#333333",
+        "overlay_title": "Scotland's Yard Road Hockey Classic",
+        "overlay_text": "Friday, July 8, 2022 at Catalyst 137 parking lot",
+        "overlay_url_text_1": "Register Now",
+        "overlay_url_1": "https:\/\/app.eventconnect.io\/events\/20758\/registration-type\/create?nav=hidden",
+        "overlay_url_text_2": "Donate to a team",
+        "overlay_url_2": "shopify:\/\/collections\/sy-road-hockey-classic",
+        "overlay_url_style": "button_2",
+        "enlarge_title": false,
+        "enlarge_text": false,
+        "overlay_position_x": 50,
+        "overlay_position_y": 60,
+        "mobile_text_below": true,
+        "color_label_background": "#ffffff",
+        "color_label_text": "#333333",
+        "show_chevron": true,
+        "product_id_1": "",
+        "chevron_position_1": "right",
+        "label_position_x_1": 20,
+        "label_position_y_1": 30,
+        "product_id_2": "",
+        "chevron_position_2": "right",
+        "label_position_x_2": 80,
+        "label_position_y_2": 50
+      }
+    },
+    "1647956359e1701bc6": {
+      "type": "banner",
+      "disabled": true,
+      "blocks": {
+        "164795635940575987-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Website_Banner_2048_x_1024_2_ab6a54a8-6803-49f4-a72e-92f32f817973.png",
+            "image_position": "center center",
+            "image_link": "",
+            "color_overlay_bg": "#ffffff",
+            "overlay_opacity": 80,
+            "color_overlay_text": "#333333",
+            "overlay_title": "Scotland's Yard Road Hockey Classic",
+            "overlay_text": "Friday, July 8, 2022 at Catalyst 137 Parking lot",
+            "overlay_url_text_1": "Register Now",
+            "overlay_url_1": "https:\/\/app.eventconnect.io\/events\/20758\/registration-type\/create?nav=hidden",
+            "overlay_url_text_2": "Donate to a Team",
+            "overlay_url_2": "shopify:\/\/collections\/sy-road-hockey-classic",
+            "overlay_url_style": "button_2",
+            "enlarge_title": false,
+            "enlarge_text": false,
+            "overlay_position_x": 50,
+            "overlay_position_y": 50,
+            "color_label_background": "#ffffff",
+            "color_label_text": "#333333",
+            "show_chevron": true,
+            "product_id_1": "",
+            "chevron_position_1": "right",
+            "label_position_x_1": 20,
+            "label_position_y_1": 30,
+            "product_id_2": "",
+            "chevron_position_2": "right",
+            "label_position_x_2": 80,
+            "label_position_y_2": 50
+          }
+        }
+      },
+      "block_order": [
+        "164795635940575987-1"
+      ],
+      "settings": {
+        "height": "fixed",
+        "height_desktop": 500,
+        "height_mobile": 400,
+        "mobile_text_below": true,
+        "slideshow_autoplay": true,
+        "slideshow_autoplay_speed": 6
+      }
+    },
+    "main": {
+      "type": "main-page",
+      "settings": {
+      }
+    },
+    "16512458306761c1c7": {
+      "type": "image-gallery",
+      "blocks": {
+        "165124582945f03875-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/1_a742b1f0-4f0b-4732-89c8-aa52e70cced6.png",
+            "alignment": "center center",
+            "enlarge_image": false,
+            "link": "",
+            "title": "",
+            "text": "",
+            "button_label": "",
+            "overlay_position": "center-center"
+          }
+        },
+        "165124582945f03875-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/2_d5100bf6-93cf-4c35-9a9e-1a040db1c5d6.png",
+            "alignment": "center center",
+            "enlarge_image": false,
+            "link": "",
+            "title": "",
+            "text": "",
+            "button_label": "",
+            "overlay_position": "center-center"
+          }
+        },
+        "165124582945f03875-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/4_0c4c9aa4-5980-48d2-b808-01a0c6155eab.png",
+            "alignment": "center center",
+            "enlarge_image": false,
+            "link": "",
+            "title": "",
+            "text": "",
+            "button_label": "",
+            "overlay_position": "center-center"
+          }
+        },
+        "165124582945f03875-3": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/3_6b8da616-5ecd-4ddf-bbb4-219f1a23a9e1.png",
+            "alignment": "center center",
+            "enlarge_image": false,
+            "link": "",
+            "title": "",
+            "text": "",
+            "button_label": "",
+            "overlay_position": "center-center"
+          }
+        },
+        "70aa5ee5-9eba-4818-aaec-3fba11710f05": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/7.png",
+            "alignment": "center center",
+            "enlarge_image": false,
+            "link": "",
+            "title": "",
+            "text": "",
+            "button_label": "",
+            "overlay_position": "center-center"
+          }
+        },
+        "27d70af4-5888-4ce4-995c-4237b88db25b": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/5.png",
+            "alignment": "center center",
+            "enlarge_image": false,
+            "link": "",
+            "title": "",
+            "text": "",
+            "button_label": "",
+            "overlay_position": "center-center"
+          }
+        },
+        "d97b3e07-c37c-4362-829e-be9f26a5ee08": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/9.png",
+            "alignment": "center center",
+            "enlarge_image": false,
+            "link": "",
+            "title": "",
+            "text": "",
+            "button_label": "",
+            "overlay_position": "center-center"
+          }
+        },
+        "c28c1a05-8d78-4a0b-8211-d0298e642dd4": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/8.png",
+            "alignment": "center center",
+            "enlarge_image": false,
+            "link": "",
+            "title": "",
+            "text": "",
+            "button_label": "",
+            "overlay_position": "center-center"
+          }
+        },
+        "c3e8b92b-77c1-4775-b957-4926e69c7431": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/6.png",
+            "alignment": "center center",
+            "enlarge_image": false,
+            "link": "",
+            "title": "",
+            "text": "",
+            "button_label": "",
+            "overlay_position": "center-center"
+          }
+        },
+        "ce68980a-6378-4a9e-bf2a-8544922571e5": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Untitled_design_82.png",
+            "alignment": "center center",
+            "enlarge_image": false,
+            "link": "",
+            "title": "",
+            "text": "",
+            "button_label": "",
+            "overlay_position": "center-center"
+          }
+        },
+        "a89c33bb-4a30-4c66-855f-95a24553ea3f": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/SY_hockey_players.png",
+            "alignment": "center center",
+            "enlarge_image": false,
+            "link": "",
+            "title": "",
+            "text": "",
+            "button_label": "",
+            "overlay_position": "center-center"
+          }
+        },
+        "709b6c27-56c1-4e30-806c-1b6b5731b712": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Untitled_design_82.png",
+            "alignment": "center center",
+            "enlarge_image": false,
+            "link": "",
+            "title": "",
+            "text": "",
+            "button_label": "",
+            "overlay_position": "center-center"
+          }
+        }
+      },
+      "block_order": [
+        "165124582945f03875-0",
+        "165124582945f03875-1",
+        "165124582945f03875-2",
+        "165124582945f03875-3",
+        "70aa5ee5-9eba-4818-aaec-3fba11710f05",
+        "27d70af4-5888-4ce4-995c-4237b88db25b",
+        "d97b3e07-c37c-4362-829e-be9f26a5ee08",
+        "c28c1a05-8d78-4a0b-8211-d0298e642dd4",
+        "c3e8b92b-77c1-4775-b957-4926e69c7431",
+        "ce68980a-6378-4a9e-bf2a-8544922571e5",
+        "a89c33bb-4a30-4c66-855f-95a24553ea3f",
+        "709b6c27-56c1-4e30-806c-1b6b5731b712"
+      ],
+      "settings": {
+        "grid": 3,
+        "image_height": 300,
+        "image_height_mobile": 300,
+        "enable_margin": true,
+        "enable_carousel": true,
+        "overlay_style": "box",
+        "color_overlay_bg": "#ffffff",
+        "overlay_opacity": 80,
+        "color_overlay_text": "#333333",
+        "overlay_url_style": "button_1"
+      }
+    },
+    "1647959892fc71857a": {
+      "type": "rich-text-left-and-centre",
+      "settings": {
+        "title": "Corporate & Adult Division",
+        "text": "<p>After over two years of Zoom calls, we all need a little play time! <\/p><p>Get your colleagues together (yep…even the ones you haven’t met in person yet!) for a day of road hockey fun for a great cause.<\/p><p>It’s classic road hockey style without the “car!” Teams play 3-on-3 plus a goalie (that’s 7 players per team) on rinks half the size of NHL rinks. There’s real rink boards, nets, refs, music and a whole lot of fun!<\/p><p>It’s a great team building event. Hey, you might even discover that Melanie in accounting has a wicked slapshot or that nothing gets by Joel from engineering when he’s in net. It’s a game for all skill levels and all genders. <\/p><p>Grab your gear, your sticks and your team to take a shot at children’s cancer!<\/p><p>Team registration fee: $2000\/team<\/p><p>*No experience necessary<\/p>",
+        "button_label": "REGISTER NOW",
+        "button_link": "https:\/\/app.eventconnect.io\/events\/20758\/registration-type\/create?nav=hidden",
+        "url_style": "button_2",
+        "enlarge_title": false,
+        "enlarge_text": false,
+        "full_width": false,
+        "color_bg": "#1c75bc",
+        "color_title": "#ffffff",
+        "color_text": "#ffffff"
+      }
+    },
+    "1648226440423b38f7": {
+      "type": "rich-text-left-and-centre",
+      "settings": {
+        "title": "Youth Division",
+        "text": "<p><\/p><p>Calling all kids! Get your friends or family together for a day filled with road hockey fun. <\/p><p>Teams play in rinks half the size of NHL rinks with real rink boards, nets, refs, music and a whole lot of fun!<\/p><p>You get a three-game guarantee plus winning teams move on to the playoff rounds. <\/p><p>Teams ages 9-18 play 3-on-3 plus a goalie (total 7 players per team). Teams under 9 play 4-on-4 plus a goalie (9 players per team).<\/p><p>Team registration fee: $650\/team <\/p><p><\/p>",
+        "button_label": "REGISTER NOW",
+        "button_link": "https:\/\/app.eventconnect.io\/events\/20758\/registration-type\/create?nav=hidden",
+        "url_style": "button_2",
+        "enlarge_title": false,
+        "enlarge_text": false,
+        "full_width": false,
+        "color_bg": "#ec008c",
+        "color_title": "#ffffff",
+        "color_text": "#ffffff"
+      }
+    },
+    "165056743718acefc3": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/iStock-854509514.jpg",
+        "image_link": "shopify:\/\/products\/donate-to-sy-road-hockey-classic",
+        "image_position": "center center",
+        "height": "adapt",
+        "height_desktop": 600,
+        "height_mobile": 500,
+        "color_overlay_bg": "#ffffff",
+        "overlay_opacity": 80,
+        "color_overlay_text": "#333333",
+        "overlay_title": "Support the SY Road Hockey Classic",
+        "overlay_text": "Can't participate in the SY Road Hockey Classic but still looking to support us?Consider making a donation today!",
+        "overlay_url_text_1": "Donate Now",
+        "overlay_url_1": "https:\/\/grhf.ca\/products\/donate-to-sy-road-hockey-classic",
+        "overlay_url_text_2": "",
+        "overlay_url_2": "",
+        "overlay_url_style": "button_1",
+        "enlarge_title": false,
+        "enlarge_text": false,
+        "overlay_position_x": 50,
+        "overlay_position_y": 70,
+        "mobile_text_below": false,
+        "color_label_background": "#ffffff",
+        "color_label_text": "#333333",
+        "show_chevron": true,
+        "product_id_1": "",
+        "chevron_position_1": "right",
+        "label_position_x_1": 20,
+        "label_position_y_1": 30,
+        "product_id_2": "",
+        "chevron_position_2": "right",
+        "label_position_x_2": 80,
+        "label_position_y_2": 50
+      }
+    },
+    "1649775829796ca185": {
+      "type": "featured-product",
+      "settings": {
+        "product": "sponsor-a-rink-board",
+        "description": "<p>Show your support for children's cancer care with a rink board sponsorship<\/p>",
+        "show_vendor": false,
+        "url_style": "button_2",
+        "enlarge_title": false,
+        "enlarge_text": false,
+        "section_background_colour": "#dae4e6",
+        "section_text_colour": "#333333",
+        "enable_video_looping": false,
+        "layout": "image_before"
+      }
+    },
+    "1647960706abf0a6ed": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Our Top Fundraising Teams",
+        "enlarge_title": false,
+        "link_text": "See all teams",
+        "collection": "sy-road-hockey-classic",
+        "show_vendor": false,
+        "enable_carousel": false,
+        "grid": 4,
+        "row_count": 2,
+        "grid_mobile": "2"
+      }
+    },
+    "1655134991b101a63d": {
+      "type": "logo-list-give",
+      "blocks": {
+        "1655134991aac6d2e7-0": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Zehr.png",
+            "image_width": 160,
+            "link": "",
+            "title": ""
+          }
+        },
+        "1655134991aac6d2e7-1": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/RPIA.png",
+            "image_width": 160,
+            "link": "",
+            "title": ""
+          }
+        },
+        "1655134991aac6d2e7-2": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Miller_Thomson.png",
+            "image_width": 160,
+            "link": "",
+            "title": ""
+          }
+        },
+        "1f778243-56e1-478a-9db1-c7f535719641": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/WOW_Moms.png",
+            "image_width": 160,
+            "link": "",
+            "title": ""
+          }
+        },
+        "39bbdf55-bd0a-4927-8bd2-e29cfac75f0e": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Sunbelt.png",
+            "image_width": 160,
+            "link": "",
+            "title": ""
+          }
+        },
+        "24f56971-d1cf-42f1-81b6-0b055984c38d": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Forbes_Waterloo.png",
+            "image_width": 160,
+            "link": "",
+            "title": ""
+          }
+        },
+        "69ee93db-57df-45eb-92d4-21e286ddfbee": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Coronation_Dental.png",
+            "image_width": 160,
+            "link": "",
+            "title": ""
+          }
+        },
+        "278d153e-0451-45d4-8ed6-420dedb4ea98": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/TechTown_Dentistry.png",
+            "image_width": 160,
+            "link": "",
+            "title": ""
+          }
+        },
+        "0fe16285-b0ec-4b2d-9044-5316f3efe832": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Giffen_Lawyers.png",
+            "image_width": 160,
+            "link": "",
+            "title": ""
+          }
+        },
+        "94155255-c030-4749-b733-98fd57e12f21": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Stubbe_s_Precast.png",
+            "image_width": 160,
+            "link": "",
+            "title": ""
+          }
+        },
+        "35b848c8-6972-4c74-83c6-891d33c63350": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Premium_Living.png",
+            "image_width": 160,
+            "link": "",
+            "title": ""
+          }
+        },
+        "d9a1967a-e82b-4bdf-b8c3-9860cf98d2e1": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Steed_and_Evans.png",
+            "image_width": 160,
+            "link": "",
+            "title": ""
+          }
+        },
+        "34fc5485-30ae-4afa-be6a-f4f2071611e1": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Perfexia.png",
+            "image_width": 160,
+            "link": "",
+            "title": ""
+          }
+        },
+        "f31e1c8c-b61e-4caf-a5e1-eedf3176d53c": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/SportScreen.png",
+            "image_width": 160,
+            "link": "",
+            "title": ""
+          }
+        },
+        "fcc915cb-85d7-4d09-8832-242dcf193aa0": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Streetwise_Consulting.png",
+            "image_width": 160,
+            "link": "",
+            "title": ""
+          }
+        },
+        "6ae4e298-5811-4403-8e8c-ffce6b1dd70b": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Savarin_Springs.png",
+            "image_width": 160,
+            "link": "",
+            "title": ""
+          }
+        },
+        "5976f931-6779-4a36-879a-01eadeadedec": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Scotiabank.png",
+            "image_width": 160,
+            "link": "",
+            "title": ""
+          }
+        },
+        "c84e5771-d58b-4ca9-87c0-1277125b6096": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Schmidt_Real_Estate.png",
+            "image_width": 160,
+            "link": "",
+            "title": ""
+          }
+        },
+        "a8673b8e-4b62-48c9-8c2a-4f20d3164f0f": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Sky_Physio.png",
+            "image_width": 160,
+            "link": "",
+            "title": ""
+          }
+        },
+        "b0326a7f-d553-4be6-a5c9-f8b4577e448b": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/MB.png",
+            "image_width": 160,
+            "link": "",
+            "title": ""
+          }
+        },
+        "5a57d30a-4a47-4b76-a788-396ecd6f6bbb": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Paquette_Travers.png",
+            "image_width": 160,
+            "link": "",
+            "title": ""
+          }
+        },
+        "445071ac-fb21-4eda-b5b5-4ced747d06d4": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Lerners_Lawyers.png",
+            "image_width": 160,
+            "link": "",
+            "title": ""
+          }
+        },
+        "406df8a9-9ffa-4a21-8dbd-683fda7a6a94": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Logical_Landscaping.png",
+            "image_width": 160,
+            "link": "",
+            "title": ""
+          }
+        },
+        "9f11d183-a7f8-4a31-9df6-57270b685c8e": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/KW_Perio.png",
+            "image_width": 160,
+            "link": "",
+            "title": ""
+          }
+        },
+        "bcdbfc5a-4a8f-46cc-856e-1b0de1b29339": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/MTE.png",
+            "image_width": 160,
+            "link": "",
+            "title": ""
+          }
+        },
+        "253f7504-4192-4018-9c64-cb13abd1bd6e": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Morty_s.png",
+            "image_width": 160,
+            "link": "",
+            "title": ""
+          }
+        },
+        "b8cb5d31-d291-44d4-9612-8632229203e9": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/NHLPA.png",
+            "image_width": 160,
+            "link": "",
+            "title": ""
+          }
+        },
+        "68ea95eb-f0fb-4b80-a8f3-a58e6c4112d2": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/July_Nail_Bar.png",
+            "image_width": 160,
+            "link": "",
+            "title": ""
+          }
+        },
+        "2b43d0ab-f0f4-4987-8c34-0bbd9700fe63": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/ONE_Sport_Entertainment.png",
+            "image_width": 160,
+            "link": "",
+            "title": ""
+          }
+        },
+        "61239a49-9d92-4ea2-a1dd-5d9c4e46a1a9": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Frankie_s_Foods.png",
+            "image_width": 160,
+            "link": "",
+            "title": ""
+          }
+        },
+        "842da4fc-0e16-48f6-8a26-363b92f36123": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/JCD.png",
+            "image_width": 160,
+            "link": "",
+            "title": ""
+          }
+        },
+        "7a5516aa-a625-45b4-a337-4e21befd0109": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/JOY.png",
+            "image_width": 160,
+            "link": "",
+            "title": ""
+          }
+        },
+        "762d1945-3c8d-45ed-ae45-e62162742baf": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Guelph_Storm.png",
+            "image_width": 160,
+            "link": "",
+            "title": ""
+          }
+        },
+        "2ff3621d-1f50-42d1-9684-cd11fd403d2c": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Jim_Steffler_Mortgages.png",
+            "image_width": 160,
+            "link": "",
+            "title": ""
+          }
+        },
+        "c10bc332-69b7-4e55-b5f6-ed6bb83db631": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Eli_Real_Estate.png",
+            "image_width": 160,
+            "link": "",
+            "title": ""
+          }
+        },
+        "9691a34f-3afd-43f4-8884-da7c3ff041ae": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Gold_Star_Drywall.png",
+            "image_width": 160,
+            "link": "",
+            "title": ""
+          }
+        },
+        "5c08170a-fd81-4006-a06c-f17c633ee85d": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Graffiti.png",
+            "image_width": 160,
+            "link": "",
+            "title": ""
+          }
+        },
+        "af21ed91-7725-4cf9-ad57-49f17ecc14a7": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/JLL.png",
+            "image_width": 160,
+            "link": "",
+            "title": ""
+          }
+        },
+        "2f8950d2-d6bf-4a90-91a4-1611c22a5676": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Henry_Schein.png",
+            "image_width": 160,
+            "link": "",
+            "title": ""
+          }
+        },
+        "c4a5ef9d-d702-4b3a-a94e-588fd425a6da": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/DQ.png",
+            "image_width": 160,
+            "link": "",
+            "title": ""
+          }
+        },
+        "c4235595-a7e1-4dab-b855-344aedc09b15": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/AET.png",
+            "image_width": 160,
+            "link": "",
+            "title": ""
+          }
+        },
+        "f6631ce9-6069-4679-8747-ca1e402e5f25": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Dr._Wong_Dental.png",
+            "image_width": 160,
+            "link": "",
+            "title": ""
+          }
+        },
+        "202dda72-4d4f-4f3e-a68d-604e55f49675": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Alles_Drywall.png",
+            "image_width": 160,
+            "link": "",
+            "title": ""
+          }
+        },
+        "d1491ab1-2843-47f3-8292-09d1c872d58b": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/DDS.png",
+            "image_width": 160,
+            "link": "",
+            "title": ""
+          }
+        },
+        "bcd474c9-c9c8-4007-9e9c-ca71873e7fb5": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/27.png",
+            "image_width": 160,
+            "link": "",
+            "title": ""
+          }
+        },
+        "96426edc-9879-417f-be3a-1cf94607dd0b": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Blendtek.png",
+            "image_width": 160,
+            "link": "",
+            "title": ""
+          }
+        },
+        "cd838ab8-3811-433a-980a-d2940ba51a45": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/ABA_Architechts.png",
+            "image_width": 160,
+            "link": "",
+            "title": ""
+          }
+        },
+        "5da7caa5-c42e-46fe-801d-e1d297434e72": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/D2L.png",
+            "image_width": 160,
+            "link": "",
+            "title": ""
+          }
+        },
+        "7ea0c857-0bb5-486f-8554-05f17ef7f780": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/SYRHC_Logos.png",
+            "image_width": 160,
+            "link": "",
+            "title": ""
+          }
+        },
+        "9dbd96af-8438-4b65-869f-7a609db5157c": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/SYRHC_Logos_1.png",
+            "image_width": 160,
+            "link": "",
+            "title": ""
+          }
+        }
+      },
+      "block_order": [
+        "1655134991aac6d2e7-0",
+        "1655134991aac6d2e7-1",
+        "1655134991aac6d2e7-2",
+        "1f778243-56e1-478a-9db1-c7f535719641",
+        "39bbdf55-bd0a-4927-8bd2-e29cfac75f0e",
+        "24f56971-d1cf-42f1-81b6-0b055984c38d",
+        "69ee93db-57df-45eb-92d4-21e286ddfbee",
+        "278d153e-0451-45d4-8ed6-420dedb4ea98",
+        "0fe16285-b0ec-4b2d-9044-5316f3efe832",
+        "94155255-c030-4749-b733-98fd57e12f21",
+        "35b848c8-6972-4c74-83c6-891d33c63350",
+        "d9a1967a-e82b-4bdf-b8c3-9860cf98d2e1",
+        "34fc5485-30ae-4afa-be6a-f4f2071611e1",
+        "f31e1c8c-b61e-4caf-a5e1-eedf3176d53c",
+        "fcc915cb-85d7-4d09-8832-242dcf193aa0",
+        "6ae4e298-5811-4403-8e8c-ffce6b1dd70b",
+        "5976f931-6779-4a36-879a-01eadeadedec",
+        "c84e5771-d58b-4ca9-87c0-1277125b6096",
+        "a8673b8e-4b62-48c9-8c2a-4f20d3164f0f",
+        "b0326a7f-d553-4be6-a5c9-f8b4577e448b",
+        "5a57d30a-4a47-4b76-a788-396ecd6f6bbb",
+        "445071ac-fb21-4eda-b5b5-4ced747d06d4",
+        "406df8a9-9ffa-4a21-8dbd-683fda7a6a94",
+        "9f11d183-a7f8-4a31-9df6-57270b685c8e",
+        "bcdbfc5a-4a8f-46cc-856e-1b0de1b29339",
+        "253f7504-4192-4018-9c64-cb13abd1bd6e",
+        "b8cb5d31-d291-44d4-9612-8632229203e9",
+        "68ea95eb-f0fb-4b80-a8f3-a58e6c4112d2",
+        "2b43d0ab-f0f4-4987-8c34-0bbd9700fe63",
+        "61239a49-9d92-4ea2-a1dd-5d9c4e46a1a9",
+        "842da4fc-0e16-48f6-8a26-363b92f36123",
+        "7a5516aa-a625-45b4-a337-4e21befd0109",
+        "762d1945-3c8d-45ed-ae45-e62162742baf",
+        "2ff3621d-1f50-42d1-9684-cd11fd403d2c",
+        "c10bc332-69b7-4e55-b5f6-ed6bb83db631",
+        "9691a34f-3afd-43f4-8884-da7c3ff041ae",
+        "5c08170a-fd81-4006-a06c-f17c633ee85d",
+        "af21ed91-7725-4cf9-ad57-49f17ecc14a7",
+        "2f8950d2-d6bf-4a90-91a4-1611c22a5676",
+        "c4a5ef9d-d702-4b3a-a94e-588fd425a6da",
+        "c4235595-a7e1-4dab-b855-344aedc09b15",
+        "f6631ce9-6069-4679-8747-ca1e402e5f25",
+        "202dda72-4d4f-4f3e-a68d-604e55f49675",
+        "d1491ab1-2843-47f3-8292-09d1c872d58b",
+        "bcd474c9-c9c8-4007-9e9c-ca71873e7fb5",
+        "96426edc-9879-417f-be3a-1cf94607dd0b",
+        "cd838ab8-3811-433a-980a-d2940ba51a45",
+        "5da7caa5-c42e-46fe-801d-e1d297434e72",
+        "7ea0c857-0bb5-486f-8554-05f17ef7f780",
+        "9dbd96af-8438-4b65-869f-7a609db5157c"
+      ],
+      "settings": {
+        "title": "Sponsors of this event",
+        "color_bg": "#dae4e6",
+        "color_title": "#333333",
+        "color_text": "#333333",
+        "enlarge_title": false,
+        "enlarge_text": false,
+        "image_opacity": 75
+      }
+    },
+    "16551372992328a79d": {
+      "type": "logo-list-give",
+      "blocks": {
+        "165513729996694c68-0": {
+          "type": "logo",
+          "disabled": true,
+          "settings": {
+            "image": "shopify:\/\/shop_images\/SYRHC_Logos_1.png",
+            "image_width": 160,
+            "link": "",
+            "title": ""
+          }
+        },
+        "165513729996694c68-1": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Catalyst_137.png",
+            "image_width": 160,
+            "link": "",
+            "title": ""
+          }
+        },
+        "d40d92b8-c21c-49bd-893a-fcfb2af5e8b0": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/AEC.png",
+            "image_width": 160,
+            "link": "",
+            "title": ""
+          }
+        }
+      },
+      "block_order": [
+        "165513729996694c68-0",
+        "165513729996694c68-1",
+        "d40d92b8-c21c-49bd-893a-fcfb2af5e8b0"
+      ],
+      "settings": {
+        "title": "Logo list",
+        "color_bg": "#dae4e6",
+        "color_title": "#333333",
+        "color_text": "#333333",
+        "enlarge_title": false,
+        "enlarge_text": false,
+        "image_opacity": 75
+      }
+    }
+  },
+  "order": [
+    "16512479011843aca1",
+    "1647956359e1701bc6",
+    "main",
+    "16512458306761c1c7",
+    "1647959892fc71857a",
+    "1648226440423b38f7",
+    "165056743718acefc3",
+    "1649775829796ca185",
+    "1647960706abf0a6ed",
+    "1655134991b101a63d",
+    "16551372992328a79d"
+  ]
+}

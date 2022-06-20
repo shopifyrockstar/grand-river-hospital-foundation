@@ -1,0 +1,63 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+      }
+    },
+    "165056902439cbc34a": {
+      "type": "banner",
+      "blocks": {
+        "16505690248f0b425e-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/GRHF_Hero.jpg",
+            "image_position": "center center",
+            "image_link": "https:\/\/kw5050.ca",
+            "color_overlay_bg": "#ffffff",
+            "overlay_opacity": 80,
+            "color_overlay_text": "#333333",
+            "overlay_title": "50\/50",
+            "overlay_text": "We have awarded over $320,000 in cash jackpots and early bird prizes to our winners. With all the proceeds from the 50\/50 going back to supporting the patients and staff at Grand River Hospital.",
+            "overlay_url_text_1": "PLAY NOW",
+            "overlay_url_1": "https:\/\/kw5050.ca",
+            "overlay_url_text_2": "",
+            "overlay_url_2": "",
+            "overlay_url_style": "button_1",
+            "enlarge_title": false,
+            "enlarge_text": false,
+            "overlay_position_x": 50,
+            "overlay_position_y": 80,
+            "color_label_background": "#ffffff",
+            "color_label_text": "#333333",
+            "show_chevron": true,
+            "product_id_1": "",
+            "chevron_position_1": "right",
+            "label_position_x_1": 20,
+            "label_position_y_1": 30,
+            "product_id_2": "",
+            "chevron_position_2": "right",
+            "label_position_x_2": 80,
+            "label_position_y_2": 50
+          }
+        }
+      },
+      "block_order": [
+        "16505690248f0b425e-0"
+      ],
+      "settings": {
+        "height": "fixed",
+        "height_desktop": 500,
+        "height_mobile": 400,
+        "mobile_text_below": true,
+        "slideshow_autoplay": true,
+        "slideshow_autoplay_speed": 6
+      }
+    }
+  },
+  "order": [
+    "main",
+    "165056902439cbc34a"
+  ]
+}

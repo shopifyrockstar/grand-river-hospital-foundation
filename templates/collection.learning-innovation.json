@@ -1,0 +1,211 @@
+{
+  "sections": {
+    "1649873152578a5a39": {
+      "type": "image-with-text",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Website_Images_11.png",
+        "image_link": "",
+        "image_size": "0",
+        "image_position": "left",
+        "title": "Learning + Innovation",
+        "text": "<p>Grand River Hospital is dedicated to improving care through learning, research and innovation. Through partnerships with institutions in the tech, innovation, and education sectors, we provide researchers and clinicians with the opportunity to work together on groundbreaking projects that lead to new advancements in treatment and care.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "url_style": "button_1",
+        "enlarge_title": false,
+        "enlarge_text": false,
+        "text_alignment": "left",
+        "color_bg": "#00aeef",
+        "color_text": "#ffffff"
+      }
+    },
+    "1654542124190d1388": {
+      "type": "image-with-text",
+      "disabled": true,
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Website_Image_with_Text_Template_4_e1e44541-77d1-42e9-88cd-d5c927ccecf4.png",
+        "image_link": "",
+        "image_size": "120",
+        "image_position": "right",
+        "title": "",
+        "text": "<p>Learning is also a key value at Grand River Hospital that serves as a foundation for innovation. By offering educational opportunities and training support, staff have the opportunity to grow as individuals and as members of a team, which in turn has a positive impact on patient care, service delivery, retention and organizational culture.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "url_style": "button_1",
+        "enlarge_title": false,
+        "enlarge_text": false,
+        "text_alignment": "left",
+        "color_bg": "#ffffff",
+        "color_text": "#333333"
+      }
+    },
+    "main": {
+      "type": "main-collection-no-title",
+      "blocks": {
+        "414b74ef-9cca-4629-93d0-8258f551851b": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "product": "",
+            "collection_colour": "#ec008c",
+            "color_overlay_bg": "#ffffff",
+            "overlay_opacity": 10,
+            "color_overlay_text": "#333333"
+          }
+        }
+      },
+      "block_order": [
+        "414b74ef-9cca-4629-93d0-8258f551851b"
+      ],
+      "settings": {
+        "enable_feature_header": false,
+        "grid": 4,
+        "grid_mobile": "2",
+        "pagination_limit": 8,
+        "show_total": false,
+        "ajax_products": true,
+        "show_vendor": false,
+        "show_filters": true,
+        "show_filter_prod_counts": true,
+        "show_sort_by": true,
+        "show_featured": false
+      }
+    },
+    "1651520005d5b74044": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<h3 style=\"text-align: center; padding-top: 1em; padding-bottom: 1em;\">Current Research Priorities<\/h3>"
+      }
+    },
+    "1651519999e053c80a": {
+      "type": "image-gallery",
+      "blocks": {
+        "1651519999efb4b10e-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Website_Stats_Graphics_19.png",
+            "alignment": "center center",
+            "enlarge_image": false,
+            "link": "",
+            "title": "",
+            "text": "<p><strong>Cancer<\/strong> focuses on the continued participation in clinical drug trials, and also explores education and investigation of the potential for nanotechnology and quantum physics in cancer care<\/p>",
+            "button_label": "",
+            "overlay_position": "center-center"
+          }
+        },
+        "1651519999efb4b10e-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Website_Stats_Graphics_17.png",
+            "alignment": "center center",
+            "enlarge_image": false,
+            "link": "",
+            "title": "",
+            "text": "<p><strong>Chronic disease management <\/strong>focusing  on renal (kidney) disease and mental health and addictions<\/p>",
+            "button_label": "",
+            "overlay_position": "center-center"
+          }
+        },
+        "1651519999efb4b10e-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Website_Stats_Graphics_16.png",
+            "alignment": "center center",
+            "enlarge_image": false,
+            "link": "",
+            "title": "",
+            "text": "<p><strong>Ageing well<\/strong>, which focuses on healthy living, social connections, and ageing in the right place for patients, their families and caregivers <\/p>",
+            "button_label": "",
+            "overlay_position": "center-center"
+          }
+        },
+        "1651519999efb4b10e-3": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Website_Stats_Graphics_15.png",
+            "alignment": "center center",
+            "enlarge_image": false,
+            "link": "",
+            "title": "",
+            "text": "<p><strong>Care of older adults <\/strong>to address management of diseases and disorders associated with aging including (but not limited to) frailty, cognitive impairment, falls prevention, and stroke<\/p>",
+            "button_label": "",
+            "overlay_position": "center-center"
+          }
+        },
+        "a8af088c-8c13-47ff-9e07-c7ce87408f66": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Website_Stats_Graphics_13.png",
+            "alignment": "center center",
+            "enlarge_image": false,
+            "link": "",
+            "title": "",
+            "text": "<p><strong>Patient and family experience with care<\/strong>, which involves learning from and with patients, their family, and caregivers with lived experience to to achieve greater and more effective inclusiveness<\/p>",
+            "button_label": "",
+            "overlay_position": "center-center"
+          }
+        },
+        "40cff581-659b-4f68-86d5-eff534e6531a": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Website_Stats_Graphics_14.png",
+            "alignment": "center center",
+            "enlarge_image": false,
+            "link": "",
+            "title": "",
+            "text": "<p><strong>Innovation in health care<\/strong> includes, but is not limited to, medtech, process and systems, artificial intelligence, nanotechnology, and quantum physics<\/p>",
+            "button_label": "",
+            "overlay_position": "center-center"
+          }
+        }
+      },
+      "block_order": [
+        "1651519999efb4b10e-0",
+        "1651519999efb4b10e-1",
+        "1651519999efb4b10e-2",
+        "1651519999efb4b10e-3",
+        "a8af088c-8c13-47ff-9e07-c7ce87408f66",
+        "40cff581-659b-4f68-86d5-eff534e6531a"
+      ],
+      "settings": {
+        "grid": 2,
+        "image_height": 300,
+        "image_height_mobile": 300,
+        "enable_margin": true,
+        "enable_carousel": true,
+        "overlay_style": "box",
+        "color_overlay_bg": "#ffffff",
+        "overlay_opacity": 80,
+        "color_overlay_text": "#333333",
+        "overlay_url_style": "button_1"
+      }
+    },
+    "165151972348c13df1": {
+      "type": "image-with-text",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Website_Image_with_Text_Template_3_1d8ed74e-e349-4b25-b7a0-ae908344fbc7.png",
+        "image_link": "",
+        "image_size": "0",
+        "image_position": "right",
+        "title": "",
+        "text": "<p>Looking forward, Grand River strives to transform health care delivery and explore new, innovative approaches to delivering high quality health care as the need for health services continues to grow. <\/p><p>Our advantageous location as a health care institution in the Maple Valley of Innovation, surrounded by successful start-ups and by some of the most innovative medtech companies in Canada, favours Grand River Hospital as a key partner to advance medtech innovation in our region and beyond.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "url_style": "button_1",
+        "enlarge_title": false,
+        "enlarge_text": false,
+        "text_alignment": "left",
+        "color_bg": "#00aeef",
+        "color_text": "#ffffff"
+      }
+    }
+  },
+  "order": [
+    "1649873152578a5a39",
+    "1654542124190d1388",
+    "main",
+    "1651520005d5b74044",
+    "1651519999e053c80a",
+    "165151972348c13df1"
+  ]
+}
