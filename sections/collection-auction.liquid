@@ -48,9 +48,9 @@
                 </div>
                 <div class="_a-grid-container _a-grid-flex _a-padding-20" id="_a-auction-grid-items">
                     {%- for product in collection.products -%}
-                        {%- comment %}<locksmith:b82b>{% endcomment -%}
+                        {%- comment %}<locksmith:9755>{% endcomment -%}
                           {%- capture var %}{% render 'locksmith-variables', scope: 'subject', subject: product, subject_parent: collection, variable: 'transparent' %}{% endcapture %}{% if var == "true" %}{% else %}{% continue %}{% endif -%}
-                        {%- comment %}</locksmith:b82b>{% endcomment -%}
+                        {%- comment %}</locksmith:9755>{% endcomment -%}
                         <div class="_a-width-2m _a-margin-bottom-20" data-product-id="{{ product.id }}">
                         <a href="{{ product.url | default: '#' }}" class="_a-unstyled-link">
                             {% if product.featured_image %}

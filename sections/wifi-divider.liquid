@@ -1,0 +1,157 @@
+<div class="wifi_banner_container container container--no-mobile-padding large-row full-width-image full-width-background relative section-{{ section.id }}" data-section-id="{{ section.id }}" data-section-type="full-width-image">  
+  {% style %}
+    
+      .section-{{ section.id }} .avoid-overlaps__mobile-container,
+      .section-{{ section.id }} .rimage-outer-wrapper {
+        height: {{ section.settings.height_mobile }}px;
+      }
+  
+      .section-{{ section.id }} .divider_container{
+  		width:50px;
+  		height:4px;
+        margin: 0 auto;
+        background:{{ section.settings.d_bg_color }};
+      } 
+
+        	  
+      @media (min-width: 100px) {
+  		.section-{{ section.id }} .divider_container{
+          margin-top: {{ section.settings.m_m_t }}px;
+          margin-bottom: {{ section.settings.m_m_b }}px;
+        }
+      }
+  
+      @media (min-width: 768px) {
+  		.section-{{ section.id }} .divider_container{
+          margin-top: {{ section.settings.t_m_t }}px;
+          margin-bottom: {{ section.settings.t_m_b }}px;
+        }
+      }
+  
+  	  @media (min-width: 1024px) {
+  		.section-{{ section.id }} .divider_container{
+          margin-top: {{ section.settings.d_m_t }}px;
+          margin-bottom: {{ section.settings.d_m_b }}px;
+        }
+      }
+    
+    
+  {% endstyle %}
+
+  <div class="page-width relative">
+    <div class="full-width relative avoid-overlaps global-border-radius global-border-radius--not-extra-small">
+      
+      <div class="divider_container"></div>
+
+    </div>
+  </div>
+</div>
+
+{% schema %}
+  {
+    "name": "wifi divider",
+    "tag": "section",
+    "class": "section-image-with-text-overlay",
+    "settings": [      
+      {
+        "type": "header",
+        "content": "divider setting"
+      },
+      {
+        "type": "color",
+        "id": "d_bg_color",
+        "label": "Background color",
+        "default": "#333333"
+      },
+      {
+        "type": "header",
+        "content": "Desktop view margin setting"
+      },
+      {
+        "type": "range",
+        "id": "d_m_t",
+        "min": 0,
+        "max": 100,
+        "step": 1,
+        "label": "margin top",
+        "default": 50,
+        "unit": "px"
+      },
+      {
+        "type": "range",
+        "id": "d_m_b",
+        "min": 0,
+        "max": 100,
+        "step": 1,
+        "label": "margin bottom",
+        "default": 50,
+        "unit": "px"
+      },
+      {
+        "type": "header",
+        "content": "Tab view margin setting"
+      },
+      {
+        "type": "range",
+        "id": "t_m_t",
+        "min": 0,
+        "max": 100,
+        "step": 1,
+        "label": "margin top",
+        "default": 30,
+        "unit": "px"
+      },
+      {
+        "type": "range",
+        "id": "t_m_b",
+        "min": 0,
+        "max": 100,
+        "step": 1,
+        "label": "margin bottom",
+        "default": 30,
+        "unit": "px"
+      },
+      {
+        "type": "header",
+        "content": "Mobile view margin setting"
+      },
+      {
+        "type": "range",
+        "id": "m_m_t",
+        "min": 0,
+        "max": 100,
+        "step": 1,
+        "label": "margin top",
+        "default": 20,
+        "unit": "px"
+      },
+      {
+        "type": "range",
+        "id": "m_m_b",
+        "min": 0,
+        "max": 100,
+        "step": 1,
+        "label": "margin bottom",
+        "default": 20,
+        "unit": "px"
+      }
+    ],
+    "templates": [
+      "404",
+      "article",
+      "blog",
+      "cart",
+      "collection",
+      "index",
+      "list-collections",
+      "page",
+      "product",
+      "search"
+    ],
+    "presets": [
+      {
+        "name": "wifi divider"
+      }
+    ]
+  }
+{% endschema %}

@@ -1,10 +1,11 @@
-{%- comment %}<locksmith:8893>{% endcomment -%}
+{%- comment %}<locksmith:ba09>{% endcomment -%}
   {%- include 'locksmith' -%}
-{%- comment %}</locksmith:8893>{% endcomment -%}
+{%- comment %}</locksmith:ba09>{% endcomment -%}
 
 <!doctype html>
 <html class="no-js supports-no-cookies" lang="{{ request.locale.iso_code }}">
-<head>{% include 'best-option-initializer' %}
+<head>{{ locksmith_initializations }}
+{% include 'best-option-initializer' %}
 
  {%- render 'layouthub_header' -%}
   <!-- Global site tag (gtag.js) - Google Analytics -->
@@ -110,20 +111,27 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   {%- endif -%}
 
   {{ content_for_header }}
-{% include 'hulk_po_vd.liquid' %}{% include 'scapp-customerinfo' %} 
+{% include 'hulk_po_vd.liquid' %}{% include 'scapp-customerinfo' %}
+  
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;1,700&family=Libre+Baskerville:wght@400;700&family=Sofia&display=swap" rel="stylesheet">
 </head>
 
-<body id="{{ page_title | handle }}" class="template-{{ template.name | handle }}">
+<body id="{{ page_title | handle }}" class="template-{{ template.name | handle }} temp-{{template.suffix}}">
   <a class="in-page-link visually-hidden skip-link" href="#MainContent">{{ 'general.accessibility.skip_to_content' | t }}</a>
-
-  {% unless template == 'page.silicon-golf' %}
-  {% section 'header' %}  
+  
+  {%- if template.suffix == 'wifi-landing-page' -%}
+	<div class="header-wifi-container">{% section 'header-wifi' %}</div>
+  {% else %}
+    {% section 'header' %}
+  {% endif %}
+  
   <div class="container breadcrumbs-container">
     <div class="page-width">
       {% render 'breadcrumbs', show_next_prev: true %}
     </div>
   </div>
-  {% endunless %}
 
   <main id="MainContent">
     {%- assign accent_alpha = settings.accent_color | color_extract: 'alpha' -%}
@@ -132,11 +140,15 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     {%- endif -%}
     <!--LayoutHub-Workspace-Start-->{{ content_for_layout }}<!--LayoutHub-Workspace-End-->
   </main>
+  
+  
+  {%- if template.suffix == 'wifi-landing-page' -%}
+	{% section 'footer-wifi' %}
+  {% else %}    
+    {% section 'footer' %}
+    {% section 'popup' %}
+  {% endif %}
 
-  {% unless template == 'page.silicon-golf' %}
-  {% section 'footer' %}
-  {% endunless %}
-  {% section 'popup' %}
 
   <a href="#" class="focus-tint" aria-hidden="true" aria-label="{{ 'general.accessibility_labels.close' | t }}"></a>
 
@@ -150,7 +162,6 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WHLGG4L"
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!-- End Google Tag Manager (noscript) -->
-  <script src="//code.tidio.co/cpqyfbs3cengbtoiqabatyx9km84866a.js" async></script>
   {% include 'elscup_theme' %}
 {%- render 'layouthub_footer' -%} 
  {% include 'limitsify' %}

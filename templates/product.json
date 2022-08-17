@@ -55,6 +55,11 @@
           "type": "sharing",
           "settings": {
           }
+        },
+        "b0c8d7ca-7888-4d33-8b7f-8757f8e02e11": {
+          "type": "reviews_summary",
+          "settings": {
+          }
         }
       },
       "block_order": [
@@ -64,15 +69,65 @@
         "variant_picker",
         "buy_buttons",
         "description",
-        "sharing"
+        "sharing",
+        "b0c8d7ca-7888-4d33-8b7f-8757f8e02e11"
       ],
       "settings": {
         "media_layout": "list",
         "enable_video_looping": false
       }
     },
+    "16565986880a05f366": {
+      "type": "image-gallery",
+      "disabled": true,
+      "blocks": {
+        "1656598688e2a1cbb2-2": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "alignment": "center center",
+            "enlarge_image": false,
+            "link": "",
+            "title": "Image title",
+            "text": "",
+            "button_label": "",
+            "overlay_position": "center-center"
+          }
+        },
+        "1656598688e2a1cbb2-3": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "alignment": "center center",
+            "enlarge_image": false,
+            "link": "",
+            "title": "Image title",
+            "text": "",
+            "button_label": "",
+            "overlay_position": "center-center"
+          }
+        }
+      },
+      "block_order": [
+        "1656598688e2a1cbb2-2",
+        "1656598688e2a1cbb2-3"
+      ],
+      "settings": {
+        "grid": 2,
+        "image_height": 300,
+        "image_height_mobile": 300,
+        "enable_margin": true,
+        "enable_carousel": true,
+        "overlay_style": "box",
+        "color_overlay_bg": "#ffffff",
+        "overlay_opacity": 80,
+        "color_overlay_text": "#333333",
+        "overlay_url_style": "button_1"
+      }
+    },
     "recommendations": {
       "type": "product-recommendations",
+      "disabled": true,
       "settings": {
         "show_product_recommendations": true,
         "title": "You may also like",
@@ -86,11 +141,93 @@
         "show_recently_viewed": true,
         "show_vendor": false
       }
+    },
+    "1658168845f43f32cf": {
+      "type": "image-gallery",
+      "blocks": {
+        "2d7ac651-9728-4707-8bbb-d1a1c501de9a": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Silicon-Sponsors_4.png",
+            "alignment": "center center",
+            "enlarge_image": false,
+            "link": "",
+            "title": "",
+            "text": "",
+            "button_label": "",
+            "overlay_position": "center-center"
+          }
+        }
+      },
+      "block_order": [
+        "2d7ac651-9728-4707-8bbb-d1a1c501de9a"
+      ],
+      "settings": {
+        "grid": 3,
+        "image_height": 300,
+        "image_height_mobile": 300,
+        "enable_margin": true,
+        "enable_carousel": true,
+        "overlay_style": "box",
+        "color_overlay_bg": "#ffffff",
+        "overlay_opacity": 80,
+        "color_overlay_text": "#333333",
+        "overlay_url_style": "button_1"
+      }
+    },
+    "165816893669e261c3": {
+      "type": "logo-list-give",
+      "disabled": true,
+      "blocks": {
+        "1658168936fad3a419-0": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/siliconsponsor.png",
+            "image_width": 160,
+            "link": "",
+            "title": ""
+          }
+        },
+        "1658168936fad3a419-1": {
+          "type": "logo",
+          "settings": {
+            "image_width": 160,
+            "link": "",
+            "title": ""
+          }
+        },
+        "1658168936fad3a419-2": {
+          "type": "logo",
+          "settings": {
+            "image_width": 160,
+            "link": "",
+            "title": ""
+          }
+        }
+      },
+      "block_order": [
+        "1658168936fad3a419-0",
+        "1658168936fad3a419-1",
+        "1658168936fad3a419-2"
+      ],
+      "settings": {
+        "title": "Logo list",
+        "color_bg": "#dae4e6",
+        "color_title": "#333333",
+        "color_text": "#333333",
+        "enlarge_title": false,
+        "enlarge_text": false,
+        "image_opacity": 75
+      }
     }
   },
   "order": [
     "main",
+    "16565986880a05f366",
     "recommendations",
-    "recent"
+    "recent",
+    "1658168845f43f32cf",
+    "165816893669e261c3"
   ]
 }

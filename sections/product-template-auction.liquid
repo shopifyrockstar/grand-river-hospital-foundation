@@ -203,11 +203,11 @@
                     <span class="_a-modal-title">{{ 'auction_pro_template.template.automatic_bid_place' | t }}</span>
                 </div>
                 <div class="_a-modal-body _a-padding-30">
-                  <div class="_a-row _a-display-none _a-banner _a-banner-error _a-margin-bottom-20">
-                      <div class="_a-display-inline-block _a-banner-message"></div>
-                  </div>
-                  <label for="_a-automatic-bid-input" class="_a-display-block _a-margin-bottom-20">{{ 'auction_pro_template.template.automatic_bid_message' | t }}</label>
-                  <input placeholder="{{ 'auction_pro_template.template.bid_amount' | t }}" type="text" class="_a-margin-bottom-10 _a-current-bid-input _a-width-100" id="_a-automatic-bid-input"></input>
+                    <div class="_a-row _a-display-none _a-banner _a-banner-error _a-margin-bottom-20">
+                        <div class="_a-display-inline-block _a-banner-message"></div>
+                    </div>
+                    <label for="_a-automatic-bid-input" class="_a-display-block _a-margin-bottom-20">{{ 'auction_pro_template.template.automatic_bid_message' | t }}</label>
+                    <input placeholder="{{ 'auction_pro_template.template.bid_amount' | t }}" type="text" class="_a-margin-bottom-10 _a-current-bid-input _a-width-100" id="_a-automatic-bid-input"></input>
               	</div>
                 <div class="_a-row _a-modal-footer">
                     <input type="button" class="_a-modal-btn _a-modal-btn-cancel _a-modal-close-btn _a-margin-right-20" value="{{ 'auction_pro_template.template.cancel' | t }}">
@@ -239,11 +239,11 @@
                         <tbody>
                           	{% if product.metafields.___auction_pro.bids != blank %}
                           		{% for item in product.metafields.___auction_pro.bids %}
-                                  <tr>
-                                      <td data-label="{{ 'auction_pro_template.js.bidder' | t }}">{{ item.name }}</td>
-                                      <td data-label="{{ 'auction_pro_template.js.amount' | t }}">{{ item.bid | times: 100 | money }}</td>
-                                      <td data-label="{{ 'auction_pro_template.js.date' | t }}">{{ item.bid_date | date: "%m-%d-%Y, %r" }}</td>
-                                  </tr>
+                                    <tr>
+                                        <td data-label="{{ 'auction_pro_template.js.bidder' | t }}">{{ item.name }}</td>
+                                        <td data-label="{{ 'auction_pro_template.js.amount' | t }}">{{ item.bid | times: 100 | money }}</td>
+                                        <td data-label="{{ 'auction_pro_template.js.date' | t }}">{{ item.bid_date | date: "%m-%d-%Y, %r" }}</td>
+                                    </tr>
                                 {% endfor %}
                           	{% endif %}
                         </tbody>

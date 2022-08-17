@@ -1,0 +1,366 @@
+{
+  "sections": {
+    "165834852236ee9b0b": {
+      "type": "image-with-text",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/1_b76d4ab6-5872-4db3-b08d-c6b0da015478.png",
+        "image_link": "",
+        "image_size": "0",
+        "image_position": "left",
+        "title": "H Partners",
+        "text": "<p><em>We provide tailored solutions to our H partners while aiming high to solve for exceptional, world class health care in Waterloo Region for families, children, seniors and our community.<\/em><\/p>",
+        "button_label": "Become an H Partner Today",
+        "button_link": "",
+        "url_style": "button_1",
+        "enlarge_title": true,
+        "enlarge_text": true,
+        "text_alignment": "center",
+        "color_bg": "rgba(0,0,0,0)",
+        "color_text": "#333333"
+      }
+    },
+    "1646330456e70728ad": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<h2 style=\"text-align:center;color:#333333;padding-bottom:7px;padding-top:25px;\">What is an H Partner?<\/h2>"
+      }
+    },
+    "1643143933e06b2bac": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<h7 style=\"padding-bottom:2%;\"><p style=\"color:#333333;padding-right:2%;padding-left:2%\">A mutually beneficial relationship with YOU where together we pursue our common goal of world class healthcare for our community over the longer term, for at least three years. \n<br><\/br>\nOur H partner embraces shared values and inspires leadership philanthropy in everyone - it's a commitment to corporate social responsibility at it's very best. \n<\/p>"
+      }
+    },
+    "1658349297f048cdb5": {
+      "type": "image-gallery",
+      "blocks": {
+        "165834929741a3ebbf-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/1_d6b6bc3c-a348-413a-91f2-847c1054bb7f.png",
+            "alignment": "center center",
+            "enlarge_image": false,
+            "link": "",
+            "title": "Mission \nOver \nMoney",
+            "text": "",
+            "button_label": "",
+            "overlay_position": "center-center"
+          }
+        },
+        "165834929741a3ebbf-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/2_68da1891-93a2-41e7-8fc5-3b7b92c6a2f6.png",
+            "alignment": "center center",
+            "enlarge_image": false,
+            "link": "",
+            "title": "Long-term\nvs\nShort-term",
+            "text": "",
+            "button_label": "",
+            "overlay_position": "center-center"
+          }
+        },
+        "165834929741a3ebbf-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/3_38404a2d-6b3e-4c83-a248-997806b34e5e.png",
+            "alignment": "center center",
+            "enlarge_image": false,
+            "link": "",
+            "title": "Offer\nvs\nAsk",
+            "text": "",
+            "button_label": "",
+            "overlay_position": "center-center"
+          }
+        },
+        "165834929741a3ebbf-3": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/4_7861a6b8-8811-467a-8c27-be0a1081a1de.png",
+            "alignment": "center center",
+            "enlarge_image": false,
+            "link": "",
+            "title": "Solutions\nvs\nProblems",
+            "text": "",
+            "button_label": "",
+            "overlay_position": "center-center"
+          }
+        }
+      },
+      "block_order": [
+        "165834929741a3ebbf-0",
+        "165834929741a3ebbf-1",
+        "165834929741a3ebbf-2",
+        "165834929741a3ebbf-3"
+      ],
+      "settings": {
+        "grid": 2,
+        "image_height": 300,
+        "image_height_mobile": 300,
+        "enable_margin": true,
+        "enable_carousel": true,
+        "overlay_style": "box",
+        "color_overlay_bg": "#ffffff",
+        "overlay_opacity": 69,
+        "color_overlay_text": "#333333",
+        "overlay_url_style": "button_1"
+      }
+    },
+    "16583499225fc3f526": {
+      "type": "video",
+      "settings": {
+        "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+        "image_position": "center center",
+        "color_overlay_bg": "#ffffff",
+        "overlay_opacity": 80,
+        "color_overlay_text": "#333333",
+        "overlay_title": "Video",
+        "overlay_text": "Add a video to tell your story",
+        "enlarge_title": false,
+        "enlarge_text": false,
+        "overlay_position_x": 50,
+        "overlay_position_y": 70,
+        "mobile_text_below": false
+      }
+    },
+    "1656509554982a4b21": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<h3 style=\"text-align:center;color:#333333;padding-bottom:7px;padding-top:25px;\">Ways to Give<\/h3>"
+      }
+    },
+    "16583501397ac8eeae": {
+      "type": "image-gallery",
+      "blocks": {
+        "16583501398cb1e5d9-0": {
+          "type": "image",
+          "settings": {
+            "alignment": "center center",
+            "enlarge_image": false,
+            "link": "",
+            "title": "Strategic Philanthropy",
+            "text": "",
+            "button_label": "",
+            "overlay_position": "center-center"
+          }
+        },
+        "16583501398cb1e5d9-1": {
+          "type": "image",
+          "settings": {
+            "alignment": "center center",
+            "enlarge_image": false,
+            "link": "",
+            "title": "Cause Marketing",
+            "text": "",
+            "button_label": "",
+            "overlay_position": "center-center"
+          }
+        },
+        "16583501398cb1e5d9-2": {
+          "type": "image",
+          "settings": {
+            "alignment": "center center",
+            "enlarge_image": false,
+            "link": "",
+            "title": "Product Donation",
+            "text": "",
+            "button_label": "",
+            "overlay_position": "center-center"
+          }
+        }
+      },
+      "block_order": [
+        "16583501398cb1e5d9-0",
+        "16583501398cb1e5d9-1",
+        "16583501398cb1e5d9-2"
+      ],
+      "settings": {
+        "grid": 3,
+        "image_height": 300,
+        "image_height_mobile": 300,
+        "enable_margin": true,
+        "enable_carousel": true,
+        "overlay_style": "box",
+        "color_overlay_bg": "#ffffff",
+        "overlay_opacity": 80,
+        "color_overlay_text": "#333333",
+        "overlay_url_style": "button_1"
+      }
+    },
+    "165392312540137d95": {
+      "type": "image-with-text",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/GRH_June_2022-4.jpg",
+        "image_link": "",
+        "image_size": "0",
+        "image_position": "right",
+        "title": "H PARTNER BENEFITS",
+        "text": "<p>Increased customer retention and loyalty<br\/><\/p><p>Increased employee engagement and team building opportunities with us<br\/><\/p><p>Improved and elevated brand imagepotential to attract investment opportunities and top talent<br\/><\/p><p>Optimize your tax deductionsutilize your excess inventory in a meaningful way<br\/><\/p><p>Fulfill your Corporate Social Responsibility to make a difference in health care for our community<\/p>",
+        "button_label": "Become an H Partner Today",
+        "button_link": "https:\/\/hrzt8xom4lq.typeform.com\/to\/HiM5Opfd",
+        "url_style": "button_1",
+        "enlarge_title": false,
+        "enlarge_text": false,
+        "text_alignment": "center",
+        "color_bg": "#dae4e6",
+        "color_text": "#333333"
+      }
+    },
+    "16583504384e89551a": {
+      "type": "image-with-text",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/img_carousel2_happy-couple1.jpg",
+        "image_link": "",
+        "image_size": "0",
+        "image_position": "left",
+        "title": "Your Perks",
+        "text": "<p>Our H Partner decal to display proudly in your place of business<\/p><p>H Partner posting on social media and other advertising on Foundation website<\/p><p>H Partner features in GRH Staff news letter (4000 employees)<\/p><p>Lunch with our CEOs & foundation staff<\/p><p>Custom t-shirts and bulk discount on store items<\/p><p>H Partner pins - a symbol of your commitment to health care<\/p><p>Custom Swag for H Partners <strong>ONLY<\/strong> (toques, yeti mugs, pens, key chains)available on our store<\/p><p>Event group functions - coffee or food tastings<\/p><p>Featured guest at Meet the Board night\/offer you advice and insight to our leadership volunteers<\/p><p>your Logo on specific donor print mailers<\/p>",
+        "button_label": "Become an H Partner Today",
+        "button_link": "",
+        "url_style": "button_1",
+        "enlarge_title": false,
+        "enlarge_text": false,
+        "text_alignment": "center",
+        "color_bg": "#dae4e6",
+        "color_text": "#333333"
+      }
+    },
+    "1658350008b817472b": {
+      "type": "testimonials",
+      "blocks": {
+        "1658350008da345a0b-0": {
+          "type": "testimonial",
+          "settings": {
+            "star_rating": 0,
+            "testimonial": "<p>We couldn't be more pleased, the products and services are absolutely fantastic!<\/p>",
+            "image": "shopify:\/\/shop_images\/unnamed_4.jpg",
+            "author": "Name of Testimonial"
+          }
+        },
+        "1658350008da345a0b-1": {
+          "type": "testimonial",
+          "settings": {
+            "star_rating": 0,
+            "testimonial": "<p>We couldn't be more pleased, the products and services are absolutely fantastic!<\/p>",
+            "author": ""
+          }
+        }
+      },
+      "block_order": [
+        "1658350008da345a0b-0",
+        "1658350008da345a0b-1"
+      ],
+      "settings": {
+        "title": "Testimonials",
+        "color_bg": "#ecf1f2",
+        "color_title": "#333333",
+        "color_text": "#333333",
+        "color_star": "#ffdd00",
+        "enlarge_title": false,
+        "enlarge_text": false,
+        "autoplay": false,
+        "autoplay_speed": 6,
+        "circle_images": false
+      }
+    },
+    "1658348892aa93bd66": {
+      "type": "logo-list",
+      "blocks": {
+        "16583488928a5d62c0-0": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Silicon.png",
+            "image_width": 160,
+            "link": "",
+            "title": ""
+          }
+        },
+        "16583488928a5d62c0-1": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/siliconsponsor.png",
+            "image_width": 160,
+            "link": "",
+            "title": ""
+          }
+        },
+        "16583488928a5d62c0-2": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Del-sponsor.png",
+            "image_width": 160,
+            "link": "",
+            "title": ""
+          }
+        }
+      },
+      "block_order": [
+        "16583488928a5d62c0-0",
+        "16583488928a5d62c0-1",
+        "16583488928a5d62c0-2"
+      ],
+      "settings": {
+        "title": "Thank you to our H Partners",
+        "color_bg": "rgba(0,0,0,0)",
+        "color_title": "#333333",
+        "color_text": "#333333",
+        "enlarge_title": true,
+        "enlarge_text": false,
+        "image_opacity": 75
+      }
+    },
+    "main": {
+      "type": "main-page-impact",
+      "disabled": true,
+      "settings": {
+      }
+    },
+    "165835325782b753dd": {
+      "type": "image-gallery",
+      "blocks": {
+        "16583532574a391208-1": {
+          "type": "image",
+          "settings": {
+            "alignment": "center center",
+            "enlarge_image": false,
+            "link": "",
+            "title": "Become a Partner",
+            "text": "<p>Call - <br\/>Email - <br\/>Meet - <\/p>",
+            "button_label": "Contact Us",
+            "overlay_position": "center-center"
+          }
+        }
+      },
+      "block_order": [
+        "16583532574a391208-1"
+      ],
+      "settings": {
+        "grid": 2,
+        "image_height": 300,
+        "image_height_mobile": 300,
+        "enable_margin": true,
+        "enable_carousel": true,
+        "overlay_style": "box",
+        "color_overlay_bg": "#ffffff",
+        "overlay_opacity": 80,
+        "color_overlay_text": "#333333",
+        "overlay_url_style": "button_1"
+      }
+    }
+  },
+  "order": [
+    "165834852236ee9b0b",
+    "1646330456e70728ad",
+    "1643143933e06b2bac",
+    "1658349297f048cdb5",
+    "16583499225fc3f526",
+    "1656509554982a4b21",
+    "16583501397ac8eeae",
+    "165392312540137d95",
+    "16583504384e89551a",
+    "1658350008b817472b",
+    "1658348892aa93bd66",
+    "main",
+    "165835325782b753dd"
+  ]
+}

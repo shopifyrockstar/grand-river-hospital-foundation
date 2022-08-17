@@ -1,0 +1,93 @@
+{
+  "sections": {
+    "1649873152578a5a39": {
+      "type": "image-with-text",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/IMG_6373.jpg",
+        "image_link": "",
+        "image_size": "0",
+        "image_position": "left",
+        "title": "RJ Strong",
+        "text": "<p>At the age of 24, Ryan Johnston was diagnosed with Hodgkin's Lymphoma, cancer of the lymphatic immune system.<\/p><p>\"When I found out I had cancer, I felt like my entire life was turned upside down. As someone who has always been the first to help others and lend a hand, it was extremely difficult for me to come to terms with the fact that I now was going to need help,\" Ryan said.<\/p><p>The treatment Ryan received at Grand River inspired him to start an Endowment Fund, a way to give that creates an impact in health care for generations.<\/p><p>Donations made to an endowment are invested permanently, and its investment earnings are used to provide funding to the hospital<\/p><p>The <a href=\"\/products\/ryan-johnston-family-friends-endowment-fund\" title=\"Ryan Johnston Family & Friends Fund\"><strong>Ryan Johnston Family and Friends Endowment<\/strong> <\/a>supports young adult cancer patients who are struggling to afford treatments that are not covered by private or public health insurance.<\/p><p>\"When my cancer journey began, several people asked how they could help,\" Ryan told us. \"My family and I decided to sell bracelets with the sayings 'RJ Strong' and 'Tough Times Don’t Last, Tough People Do.' These bracelets were a subtle, yet powerful, display of support that lifted my spirit through the toughest of times. Ultimately, the most important thing was that the bracelet campaign assisted others at a time when they needed it most. I'm forever indebted to those who supported me and helped build our endowment fund.\"<\/p><p>But Ryan wasn't finished, far from it. In 2021, he hosted the first annual RJ Strong Golf Tournament, raising more than $15,000 for local cancer care.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "url_style": "button_1",
+        "enlarge_title": false,
+        "enlarge_text": false,
+        "text_alignment": "left",
+        "color_bg": "#ec008c",
+        "color_text": "#ffffff"
+      }
+    },
+    "165893060697f428d4": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<h2 style=\"text-align:center;color:#333333;padding-bottom:7px;padding-top:25px;\">Looking to access the fund?<\/h2><p style=\"text-align:center\">If you would like more information on accessing this fund for yourself or a loved one, please complete the form below.<\/p><div data-tf-widget=\"Sw7RkPjf\" data-tf-opacity=\"0\" data-tf-hide-headers data-tf-iframe-props=\"title=Ryan Johnston Family & Friends Fund\" data-tf-medium=\"snippet\" style=\"width:100%;height:300px;\"><\/div><script src=\"\/\/embed.typeform.com\/next\/embed.js\"><\/script>"
+      }
+    },
+    "main": {
+      "type": "main-collection-no-title",
+      "blocks": {
+        "414b74ef-9cca-4629-93d0-8258f551851b": {
+          "type": "collection",
+          "settings": {
+            "collection": "rj-strong",
+            "product": "",
+            "collection_colour": "#ec008c",
+            "color_overlay_bg": "#ffffff",
+            "overlay_opacity": 10,
+            "color_overlay_text": "#333333"
+          }
+        }
+      },
+      "block_order": [
+        "414b74ef-9cca-4629-93d0-8258f551851b"
+      ],
+      "settings": {
+        "enable_feature_header": false,
+        "grid": 4,
+        "grid_mobile": "2",
+        "pagination_limit": 8,
+        "show_total": false,
+        "ajax_products": true,
+        "show_vendor": false,
+        "show_filters": true,
+        "show_filter_prod_counts": true,
+        "show_sort_by": true,
+        "show_featured": false
+      }
+    },
+    "1651520005d5b74044": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<h3 style=\"text-align: center; padding-top: 1em; padding-bottom: 1em;\">About Grand River Regional Cancer Centre<\/h3>"
+      }
+    },
+    "165151972348c13df1": {
+      "type": "image-with-text",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Website_Image_with_Text_Template_5_708877bd-dce5-408d-a100-4703a5a2207e.png",
+        "image_link": "",
+        "image_size": "0",
+        "image_position": "right",
+        "title": "",
+        "text": "<p>Grand River Regional Cancer Centre is also the primary site and service partner for the Waterloo Wellington Regional Cancer Program. Under the leadership of staff at Grand River, the Waterloo Wellington Regional Cancer Program oversees the quality and delivery of cancer services for the areas of Waterloo Region, Wellington County and the southern portion of Grey County. <br\/><br\/>It offers programs at seven local partner hospitals to ensure everyone in the region can access specialized cancer care close to home.<\/p>",
+        "button_label": "Learn more",
+        "button_link": "http:\/\/www.cancercareontario.ca\/en\/cancer-care-ontario\/programs\/regional-cancer-programs\/waterloo-wellington",
+        "url_style": "button_1",
+        "enlarge_title": false,
+        "enlarge_text": false,
+        "text_alignment": "left",
+        "color_bg": "#ec008c",
+        "color_text": "#ffffff"
+      }
+    }
+  },
+  "order": [
+    "1649873152578a5a39",
+    "165893060697f428d4",
+    "main",
+    "1651520005d5b74044",
+    "165151972348c13df1"
+  ]
+}

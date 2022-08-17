@@ -149,7 +149,7 @@ text-align: center;
     
   
   <div class="job-page">
-    <ul>
+    <ul id="smoothie-search-list">
 
   {% if listings.size == 0 %}
     <p class="jobs-empty">We&#39;ll be coming back soon with more opportunities</p>
@@ -263,7 +263,7 @@ text-align: center;
     <a href="{{ external_link }}" target="_blank">
     {% endif %}
     
-        <li>
+        <li class="smoothie-job-listing-card" location="{{ location }}">
           <h3>{{ title }}</h3>
 
           {% if location != "" and location != "null" %}
@@ -340,7 +340,5 @@ text-align: center;
 
     </ul>
   </div>
-
-  
 
 </div>

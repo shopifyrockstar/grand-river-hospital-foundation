@@ -1,0 +1,150 @@
+<div class="wifi_care_list relative large-row container" data-section-id="{{ section.id }}" data-section-type="wifi-care-list">
+  <div class="page-width">
+    {% if section.settings.title != blank %}
+      <div class="wifi-full-row">
+        <div class="text-left sub-title wifi_care_list_main_sub_title">{{ section.settings.sub-title | escape }}</div>
+      </div>
+      <div class="large-row wifi-main-title wifi_care_list">
+        <h2 class="wifi_care_list_main_title text-left {% if section.settings.enlarge_title %}giant-title{% else %}large-title{% endif%}">{{ section.settings.title | escape }}</h2>
+      </div>
+    {% endif %}
+
+    <div class="grid-flex">
+      {%- assign grid_class = 'one-quarter' -%}
+      {%- if section.settings.grid == 2 -%}
+        {%- assign grid_class = 'one-half' -%}
+      {%- elsif section.settings.grid == 3 -%}
+        {%- assign grid_class = 'one-third' -%}
+      {%- elsif section.settings.grid == 5 -%}
+        {%- assign grid_class = 'one-fifth' -%}
+      {%- endif -%}
+      {% for block in section.blocks %}
+
+      {% capture grid_class_list %}{{ grid_class }} small-down--one-half{% endcapture %}
+			
+       
+
+          <div class="care_item_{{ forloop.index }} grid-flex__item {{ grid_class_list }}" {{ block.shopify_attributes }}>
+            
+            
+            
+            <a class="care_list_link" href="{% if block.settings.box_link != blank %}{{ block.settings.box_link }}{% else %}#{% endif %}">
+            <div class="care-list-holder">
+              	<div class="each-care-box">
+                  	<div class="care-title-set">
+                      <div class="care-title-holder">
+                        <div class="wifi-icon-bg" style="background:{{block.settings.box_color}}"></div>
+                        <div class="wify-icon-box inline-photo show-on-scroll">
+                          <svg width="26" height="18" viewBox="0 0 26 18" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M23.1549 12.0692C22.5671 12.9829 21.8383 13.8455 20.9893 14.5971C19.0718 16.2932 16.8359 17.2265 14.8303 17.2265C14.6041 17.2265 14.3816 17.211 14.1611 17.1875C19.2909 19.7497 25.0312 15.6378 25.9186 13.3365C24.9488 12.7747 24.0269 12.3614 23.1549 12.0692Z" fill="{{block.settings.box_color}}"/>
+  <path d="M4.92214 14.5971C4.07417 13.8461 3.3469 12.9837 2.7593 12.0706C1.88677 12.3629 0.968063 12.7761 0 13.3366C0.886781 15.638 6.62914 19.7506 11.758 17.1861C11.5358 17.2103 11.3112 17.226 11.0818 17.226C9.07729 17.226 6.84019 16.2933 4.92214 14.5971Z" fill="{{block.settings.box_color}}"/>
+  <path d="M12.6679 5.13187L12.9584 4.91142L13.2501 5.13187C13.557 5.36396 13.8458 5.63366 14.1162 5.93555C14.5207 5.22938 14.9749 4.57877 15.4757 4.01107C14.9952 2.30783 14.1133 0.874038 12.9584 6.48499e-05C11.8037 0.874038 10.9219 2.30783 10.4414 4.01107C10.9421 4.57877 11.3967 5.22976 11.8009 5.93555C12.0713 5.63366 12.3615 5.36396 12.6679 5.13187Z" fill="{{block.settings.box_color}}"/>
+  <path d="M19.6038 2.28532C17.6835 2.56784 15.7655 4.08373 14.4209 6.30701C15.0293 7.08944 15.5188 8.04857 15.8547 9.12671C16.0588 8.91787 16.2682 8.71304 16.4897 8.5168C17.6892 7.45565 19.0245 6.69701 20.3448 6.27904C20.4205 6.25587 20.4782 6.17727 20.4782 6.08656C20.4787 4.66567 20.1885 3.34417 19.6038 2.28532Z" fill="{{block.settings.box_color}}"/>
+  <path d="M6.30822 2.28537C5.72373 3.34422 5.43324 4.66572 5.43457 6.08661C5.43457 6.17732 5.49164 6.25592 5.56757 6.27909C6.88757 6.69706 8.22285 7.4557 9.42225 8.51685C9.64529 8.714 9.85709 8.92109 10.0616 9.13135C10.3972 8.05413 10.8855 7.09337 11.493 6.31156C10.1482 4.08512 8.22903 2.56818 6.30822 2.28537Z" fill="{{block.settings.box_color}}"/>
+  <path d="M15.4757 9.52798C14.9952 7.82432 14.1133 6.39066 12.9584 5.51652C11.8037 6.39066 10.9219 7.82432 10.4414 9.52798C11.2273 10.4191 11.9149 11.4977 12.4426 12.7136C12.6459 13.181 12.8141 13.6564 12.9584 14.1357C13.1035 13.6564 13.272 13.181 13.474 12.7136C14.0018 11.4977 14.6897 10.4191 15.4757 9.52798Z" fill="{{block.settings.box_color}}"/>
+  <path d="M13.3404 16.4779C13.2659 16.4533 13.2101 16.3617 13.2101 16.2715C13.2028 16.038 13.2085 15.7845 13.2264 15.5449C13.3974 13.2823 14.7255 10.7954 16.8076 8.95275C19.1701 6.86255 22.0575 5.99221 24.2203 6.70372C24.3865 9.18371 22.9938 12.1018 20.6327 14.1921C18.315 16.243 15.4903 17.1181 13.3404 16.4779Z" fill="{{block.settings.box_color}}"/>
+  <path d="M12.5714 16.4779C12.6462 16.4533 12.7016 16.3617 12.7016 16.2715C12.7089 16.038 12.7039 15.7845 12.6861 15.5449C12.5146 13.2823 11.1869 10.7954 9.10446 8.95275C6.74255 6.86255 3.8554 5.99221 1.69099 6.70372C1.52555 9.18372 2.91912 12.1018 5.28012 14.1921C7.59803 16.243 10.4215 17.1181 12.5714 16.4779Z" fill="{{block.settings.box_color}}"/>
+  </svg>
+                        </div>
+                      </div>
+                      <div class="care-box-title">{{block.settings.box_title}}</div>
+                    </div>
+                  
+                  	<div>
+                  		<svg width="10" height="10" viewBox="0 0 10 10" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M9.43995 0.965C9.36385 0.781738 9.21822 0.636106 9.03495 0.56C8.94479 0.521569 8.84796 0.501185 8.74995 0.5H1.24995C1.05104 0.5 0.860277 0.579018 0.719624 0.71967C0.578972 0.860322 0.499954 1.05109 0.499954 1.25C0.499954 1.44891 0.578972 1.63968 0.719624 1.78033C0.860277 1.92098 1.05104 2 1.24995 2H6.94245L0.717454 8.2175C0.647158 8.28722 0.591362 8.37017 0.553286 8.46157C0.515209 8.55296 0.495605 8.65099 0.495605 8.75C0.495605 8.84901 0.515209 8.94704 0.553286 9.03843C0.591362 9.12983 0.647158 9.21278 0.717454 9.2825C0.787176 9.3528 0.870127 9.40859 0.961522 9.44667C1.05292 9.48475 1.15095 9.50435 1.24995 9.50435C1.34896 9.50435 1.44699 9.48475 1.53839 9.44667C1.62978 9.40859 1.71273 9.3528 1.78245 9.2825L7.99995 3.0575V8.75C7.99995 8.94891 8.07897 9.13968 8.21962 9.28033C8.36028 9.42098 8.55104 9.5 8.74995 9.5C8.94887 9.5 9.13963 9.42098 9.28028 9.28033C9.42094 9.13968 9.49995 8.94891 9.49995 8.75V1.25C9.49877 1.15199 9.47838 1.05517 9.43995 0.965Z" fill="{{block.settings.box_color}}"/>
+</svg>
+
+                  	</div>
+              	</div>
+            </div>
+            </a>
+            
+            
+          </div>
+      {% endfor %}
+    </div>
+    
+    <span class="expand_care_list cl_expand">Expand to see all 8 areas of care</span>
+    <span class="expand_care_list cl_collapse">Collapse</span>
+    
+
+  </div>
+</div>
+
+
+{% schema %}
+  {
+    "name": "Wifi care list",
+    "tag": "section",
+    "class": "section-wifi-care-box",
+    "max_blocks": 8,
+    "settings": [
+      {
+        "type": "text",
+        "id": "sub-title",
+        "label": "Sub Title"
+      },
+	  {
+        "type": "text",
+        "id": "title",
+        "label": "Heading"
+      },
+      {
+        "type": "checkbox",
+        "id": "enlarge_title",
+        "label": "Enlarge heading",
+        "default": false
+      },
+      {
+        "type": "range",
+        "id": "grid",
+        "label": "Collections per row",
+        "min": 2,
+        "max": 5,
+        "step": 1,
+        "default": 4
+      }
+    ],
+    "blocks": [
+      {
+        "type": "box",
+        "name": "Grid box",
+        "settings": [
+		  {
+            "type": "color",
+            "id": "box_color",
+            "label": "Icon Color"
+          },
+		  {
+          	"type": "text",
+          	"id": "box_title",
+          	"label": "Box Title"
+          },
+          {
+            "type": "url",
+            "id": "box_link",
+            "label": "Link"
+          }
+		
+        ]
+      }
+    ],
+    "presets": [
+      {
+        "name": "Wifi care list",
+        "blocks": [
+          {
+            "type": "box"
+          }
+        ]
+      }
+    ]
+  }
+{% endschema %}
+
+{% stylesheet %}
+{% endstylesheet %}
+
+{% javascript %}
+{% endjavascript %}

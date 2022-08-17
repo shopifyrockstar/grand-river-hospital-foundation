@@ -161,6 +161,55 @@
           "show_newsletter": false,
           "show_social_icons": true
         }
+      },
+      "header-wifi": {
+        "type": "header-wifi",
+        "settings": {
+          "logo": "shopify:\/\/shop_images\/Product_Images_Template_15.png",
+          "logo_width": 90,
+          "desktop_layout": "left",
+          "show_search_bar_mobile": false,
+          "logo_position_mobile": "inline",
+          "dock_nav": true,
+          "show_announcement_bar": true,
+          "home_only_announcement_bar": false,
+          "announcement_bar_text": "COVID 19 Updates",
+          "announcement_bar_url": "",
+          "announcement_bar_details": "<p>Find the latest news on COVID-19, visiting guidelines and testing:<\/p>\n<p>\nVisitor information and FAQs | Testing centres | Surgery and outpatient clinic information | How can you help the hospital | Information about breast cancer screening | COVID-19 vaccine\n<\/p>\n<p>\nLearn more about the COVID-19 information for patients and visitors\n<\/p>",
+          "main_linklist": "boost-menu",
+          "show_locale_selector": true,
+          "show_currency_selector": true,
+          "show_messages": false,
+          "home_only_messages": false,
+          "slideshow_messages": false,
+          "message_1_text": "",
+          "message_1_url": "",
+          "message_2_text": "",
+          "message_2_url": "",
+          "message_3_text": "",
+          "message_3_url": ""
+        }
+      },
+      "footer-wifi": {
+        "type": "footer-wifi",
+        "settings": {
+          "show_subscribe_form": true,
+          "subscribe_description": "our newsletter",
+          "subscribe_title": "Stay connected",
+          "subscribe_text": "<p>Sign up for Grand River Hospital Foundation’s newsletter to stay updated on community events and fundraisers, news and exciting hospital updates.<\/p>",
+          "subscribe_label": "Email",
+          "subscribe_button": "Sign up",
+          "footer_logo": "shopify:\/\/shop_images\/Logo-Black_BG.png",
+          "small_linklist": "footer-social-menu",
+          "f_text_1": "<p>Main Line<\/p><p><a href=\"#\" title=\"#\">519-742-3611<\/a><\/p>",
+          "f_text_2": "<p>Automated Assistance<\/p><p><a href=\"#\" title=\"#\">519-749-4300<\/a><\/p>",
+          "f_text_3": "<p>Grand River Hospital Foundation<\/p><p><a href=\"#\" title=\"#\">www.grhf.ca<\/a><\/p>",
+          "f_text_4": "<p>Grand River Hospital<\/p><p><a href=\"#\" title=\"#\">www.grhosp.on.ca<\/a><\/p>",
+          "f_text_5": "<p>Have feedback for us? <\/p><p>We’d like to hear it.<\/p>",
+          "f_text_6": "<p><a href=\"#\" title=\"#\">519-749-4300 ext. 2966<\/a><\/p><p><a href=\"#\" title=\"#\">patient.feedback@grhosp.on.ca<\/a><\/p>",
+          "footer_btn_text": "Donate to our foundation",
+          "footer_btn_url": "https:\/\/grhf.ca\/products\/care-never-stops-donation"
+        }
       }
     },
     "content_for_index": [
