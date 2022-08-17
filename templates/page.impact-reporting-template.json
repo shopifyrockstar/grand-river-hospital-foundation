@@ -28,18 +28,18 @@
     "1642097468fba38469": {
       "type": "slideshow",
       "blocks": {
-        "1642097468420bce71-1": {
+        "6cc9c176-eb06-477c-a14d-351f21181c32": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Website_quotes_bg_1_92dc2d7e-b24e-4317-8ae8-600473cfd573.png",
+            "image": "shopify:\/\/shop_images\/Website_quotes_bg_4.png",
             "image_position": "center center",
             "image_link": "",
             "color_overlay_bg": "#ffffff",
             "overlay_opacity": 100,
             "color_overlay_text": "#333333",
             "overlay_title": "",
-            "overlay_text": "\"I just want to say thank you...I was admitted to Grand River Hospital for surgery to remove my appendix. I was very well treated by all professionals, especially the nurses. They were incredibly considerate. I felt very welcome when I was in the hospital and I believe I had a good recovery because I was treated by such kind people. I just want to say thank you for all the good work you all do at this hospital! Thank you.\"",
-            "overlay_url_text_1": "- Marcia",
+            "overlay_text": "“Thank you for your contributions to my learning and development! I am well on my way to obtaining my CPA designation and your contributions have helped ease the financial burden on myself and my family!”",
+            "overlay_url_text_1": "— Kevin Smith, Finance, Intermediate Finance Analyst",
             "overlay_url_1": "",
             "overlay_url_text_2": "",
             "overlay_url_2": "",
@@ -61,18 +61,18 @@
             "label_position_y_2": 50
           }
         },
-        "6cc9c176-eb06-477c-a14d-351f21181c32": {
+        "1642097468420bce71-1": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Website_quotes_bg_4.png",
+            "image": "shopify:\/\/shop_images\/doctor-collects-sample.jpg",
             "image_position": "center center",
             "image_link": "",
             "color_overlay_bg": "#ffffff",
             "overlay_opacity": 100,
             "color_overlay_text": "#333333",
             "overlay_title": "",
-            "overlay_text": "“I truly appreciate your support in allowing me to participate in training that will make me a better clinician, and able to support this community in a safer, more inclusive way. Being able to utilize the skills obtained allow me to improve the quality of service provided by my team, and GRH, to provide care to GRH patients and our community.”",
-            "overlay_url_text_1": "— Shani Elis, interim DEI consultant\/OPMH CD",
+            "overlay_text": "\"I very much appreciate the opportunity to further my professional development through the LDF. Thank you.\"",
+            "overlay_url_text_1": "- Aziz Nashef, Psychologist, Child and Adolescent Outpatient Psychiatry",
             "overlay_url_1": "",
             "overlay_url_text_2": "",
             "overlay_url_2": "",
@@ -104,8 +104,8 @@
             "overlay_opacity": 100,
             "color_overlay_text": "#333333",
             "overlay_title": "",
-            "overlay_text": "“Thank you for helping me grow within my nursing field. It has been a lifelong dream to complete my degree.”",
-            "overlay_url_text_1": "— Danielle Hopf, RPN, Oncology",
+            "overlay_text": "\"My sincere thanks for helping me to further\/continue my education and continue to work towards being able to offer the best care possible to all patients\".",
+            "overlay_url_text_1": "—Candice Keyes (CK), Child and Adolescent Inpatient Psychiatry",
             "overlay_url_1": "",
             "overlay_url_text_2": "",
             "overlay_url_2": "",
@@ -137,8 +137,8 @@
             "overlay_opacity": 100,
             "color_overlay_text": "#333333",
             "overlay_title": "",
-            "overlay_text": "“Please extend my warmest thanks to the generous donors in the community whose GRH Foundation gift supports the ongoing professional development of our GRH workforce. It is a true demonstration of the appreciation our community has for the work we engage in.”",
-            "overlay_url_text_1": "— Anita Adams, Nurse Practitioner, Oncology\/Palliative Care",
+            "overlay_text": "“Thank you for your generous donations! These donations provide wonderful opportunities for us to increase our knowledge to be able to give back to the community. ”",
+            "overlay_url_text_1": "— Caitlyn Cobbe, RPN",
             "overlay_url_1": "",
             "overlay_url_text_2": "",
             "overlay_url_2": "",
@@ -163,15 +163,15 @@
         "ebb63af3-1c36-4632-a4e5-f15b72cb336e": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Website_quotes_bg_13.png",
+            "image": "shopify:\/\/shop_images\/baby-in-basket.jpg",
             "image_position": "center center",
             "image_link": "",
             "color_overlay_bg": "#ffffff",
             "overlay_opacity": 100,
             "color_overlay_text": "#333333",
             "overlay_title": "",
-            "overlay_text": "\"We are becoming increasingly aware of the importance of connecting with people in ways that are meaningful to them. Offering a diversity of therapeutic approaches embraces and respects the diversity of patients that we work with...I am thrilled to see the expansion of [the music therapy program] across many areas of our hospital. Thanks for the support of our donors and the dedicated efforts of everyone involved.\"",
-            "overlay_url_text_1": "- John Heintzman, Department Chief of Psychiatric Medicine, Medical Director of Child and Adolescent Psychiatry",
+            "overlay_text": "\"Thank you so much for these donations that allowed me to take the Perinatal Intensive Care certificate. This program has expanded my knowledge and skills when it comes to providing safe, educated care for our neonatal population. I am quite passionate about developing my knowledge around neonates and appreciate the opportunity to grow and learn through education.\"",
+            "overlay_url_text_1": "- Alyssa Shouldice, Registered Nurse, NICU",
             "overlay_url_1": "",
             "overlay_url_text_2": "",
             "overlay_url_2": "",
@@ -196,15 +196,15 @@
         "d44141b2-85cf-4844-9cc3-7321a379847b": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Website_quotes_bg_8.png",
+            "image": "shopify:\/\/shop_images\/doctor-and-nurse-examine-x-rays.jpg",
             "image_position": "center center",
             "image_link": "",
             "color_overlay_bg": "#ffffff",
             "overlay_opacity": 100,
             "color_overlay_text": "#333333",
             "overlay_title": "",
-            "overlay_text": "“Thank you so much for supporting education for healthcare professionals. You are directly impacting patient care at Grand River Hospital by allowing staff to develop advanced knowledge and skills”",
-            "overlay_url_text_1": "—Trinda Crawford, Childbirth",
+            "overlay_text": "\"These courses allow me to work as a fully registered mammography technologist, a specialty of x-ray, so thank you!\"",
+            "overlay_url_text_1": "— Kathryn Driver (Newark), Medical Radiation Technologist, Diagnostic Imaging",
             "overlay_url_1": "",
             "overlay_url_text_2": "",
             "overlay_url_2": "",
@@ -236,8 +236,8 @@
             "overlay_opacity": 100,
             "color_overlay_text": "#333333",
             "overlay_title": "",
-            "overlay_text": "\"Heartfelt thanks and congratulations to the Foundation and the entire dedicated GR Hospital team for the important work you all do in helping provide such excellent, compassionate health care, even under the extremely exhausting and often dangerous conditions being caused by Covid-19 ever since it appeared here nearly 2 years ago. You all have our best wishes for the holiday season and 2022.\"",
-            "overlay_url_text_1": "- Susan M",
+            "overlay_text": "\"Thank you for the ongoing support in the advancement of my nursing education and career. I started furthering my education two years ago, and each year I am thankful to have some financial support to help lessen the financial burden to myself and to my family. I do hope this funding will continue so others too can have the same opportunity as I did\".",
+            "overlay_url_text_1": "- Jeanne Niskiewicz, Oncology RN",
             "overlay_url_1": "",
             "overlay_url_text_2": "",
             "overlay_url_2": "",
@@ -269,8 +269,8 @@
             "overlay_opacity": 100,
             "color_overlay_text": "#333333",
             "overlay_title": "",
-            "overlay_text": "“I can not express my gratitude enough for the opportunity to further my education, to serve the community better at the hospital, and provide a higher level of care, without your support and donations.”",
-            "overlay_url_text_1": "— Quinton Tremblay, Environmental Services: Projects PT",
+            "overlay_text": "“Thank you so much for giving me the oppourtnity to expand my studies to be able to complete my Bachelor of Science in Nursing Degree. With this donation I will be able to use the money to cover my tuition and books for the semester.\"",
+            "overlay_url_text_1": "— Keara Hetel, Day Surgery",
             "overlay_url_1": "",
             "overlay_url_text_2": "",
             "overlay_url_2": "",
@@ -302,8 +302,8 @@
             "overlay_opacity": 100,
             "color_overlay_text": "#333333",
             "overlay_title": "",
-            "overlay_text": "“Thank you to all community donors for the opportunity for me to apply for this program. It truly assists me in obtaining my goal to become a registered nurse as well as becoming a nurse educator in the future”",
-            "overlay_url_text_1": "— Joanne La, RPN, ALC Float Pool",
+            "overlay_text": "“Thank you so incredibly much! It is a privilege to be able to have access to education. I am very grateful. With your help, I am a little closer to my goal of furthering my nursing education so that I may be able to offer an even stronger level of care to our community!”",
+            "overlay_url_text_1": "— Jazlyn Tokeson (JT), Float Pool Nurse",
             "overlay_url_1": "",
             "overlay_url_text_2": "",
             "overlay_url_2": "",
@@ -335,8 +335,8 @@
             "overlay_opacity": 100,
             "color_overlay_text": "#333333",
             "overlay_title": "",
-            "overlay_text": "“Due to the generosity of donors like you, I have the chance to work part time, raise a family and upgrade my nursing degree! Thank you so much for making this possible!”",
-            "overlay_url_text_1": "— Shantelle Gorel, Outpatient Oncology Clinics\/STA",
+            "overlay_text": "“Thank you so much for supporting education for healthcare professionals. You are directly impacting patient care at Grand River Hospital by allowing staff to develop advanced knowledge and skills.”",
+            "overlay_url_text_1": "— Trinda Crawford, Childbirth",
             "overlay_url_1": "",
             "overlay_url_text_2": "",
             "overlay_url_2": "",
@@ -360,8 +360,8 @@
         }
       },
       "block_order": [
-        "1642097468420bce71-1",
         "6cc9c176-eb06-477c-a14d-351f21181c32",
+        "1642097468420bce71-1",
         "ad723d69-1b58-4eb9-8b58-8662a28fbad3",
         "41eff825-5701-42fc-afa6-d9d78f46b286",
         "ebb63af3-1c36-4632-a4e5-f15b72cb336e",
@@ -373,8 +373,8 @@
       ],
       "settings": {
         "height": "adapt",
-        "height_desktop": 600,
-        "height_mobile": 500,
+        "height_desktop": 400,
+        "height_mobile": 320,
         "mobile_text_below": true,
         "slideshow_autoplay": true,
         "slideshow_autoplay_speed": 10
@@ -485,6 +485,19 @@
     "163552804617c55225": {
       "type": "image-gallery",
       "blocks": {
+        "9ed15d09-ea6f-424a-aa4e-3aef3d81f098": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Screenshot_2022-08-11_2.05.48_PM.png",
+            "alignment": "center center",
+            "enlarge_image": false,
+            "link": "https:\/\/grhf.ca\/pages\/action-issue-7",
+            "title": "",
+            "text": "",
+            "button_label": "ACTION at Grand River Hospital (Summer 2022)",
+            "overlay_position": "center-center"
+          }
+        },
         "d584e903-812a-496e-8e83-5f2d07692a6e": {
           "type": "image",
           "settings": {
@@ -494,7 +507,7 @@
             "link": "https:\/\/cdn.shopify.com\/s\/files\/1\/0363\/5363\/8540\/files\/Action_Winter_2022.pdf?v=1644245989",
             "title": "",
             "text": "",
-            "button_label": "ACTION at Grand River Hospital (Winter 2022 - Issue 6)",
+            "button_label": "ACTION at Grand River Hospital (Winter 2022)",
             "overlay_position": "center-center"
           }
         },
@@ -520,7 +533,7 @@
             "link": "https:\/\/drive.google.com\/file\/d\/1mXcT3ITgCJ0rCwr6DjszrfQcQOnC0Q1Y\/view?usp=sharing",
             "title": "",
             "text": "",
-            "button_label": "ACTION at Grand River Hospital (Summer 2021 - Issue 5)",
+            "button_label": "ACTION at Grand River Hospital (Summer 2021)",
             "overlay_position": "center-center"
           }
         },
@@ -565,6 +578,7 @@
         }
       },
       "block_order": [
+        "9ed15d09-ea6f-424a-aa4e-3aef3d81f098",
         "d584e903-812a-496e-8e83-5f2d07692a6e",
         "dd6910e3-bbed-4b35-a239-58a147d0f1b5",
         "b95856c2-8858-4293-a099-406b81144a73",
@@ -588,7 +602,7 @@
     "1646328717f5d1b2f2": {
       "type": "custom-liquid",
       "settings": {
-        "custom_liquid": "<h3 style=\"text-align:center;color:#333333;padding-bottom:8px;padding-top:10px;\">Financial Statments<\/h3>\n<head>\n    <style>\n    {\n        box-sizing: border-box;\n    }\n    \/* Set additional styling options for the columns*\/\n    .column {\n    float: left;\n    width: 50%;\n    }\n\n    .row:after {\n    content: \"\";\n    display: table;\n    clear: both;\n    }\n    <\/style>\n <\/head>\n <body>\n    <div class=\"row\">\n        <div class=\"column\">\n            <a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0363\/5363\/8540\/files\/2021-03-31_GRHF_Audited_Financial_Statements.pdf?v=1629387261\"><p style=\"text-align:center\">2020-2021 Financial Statement<\/p><\/a>\n <a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0363\/5363\/8540\/files\/2019-2020_GRHF_Audited_Financial_Statements.pdf?v=1607609075\"><p style=\"text-align:center;\">2019-2020 Financial Statement<\/p><\/a><\/div>\n        <div class=\"column\">\n            <a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0363\/5363\/8540\/files\/2018-2019_GRHF_Audited_Financial_Statements.pdf?v=1607609075\"><p style=\"text-align:center\">2018-2019 Financial Statement<\/p><\/a>\n<a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0363\/5363\/8540\/files\/2017-2018_GRHF_Audited_Financial_Statements.pdf?v=1607609075\"><p style=\"text-align:center;\">2017-2018 Financial Statement<\/p><\/a>\n        <\/div>\n    <\/div>\n <\/body>\n<\/html>"
+        "custom_liquid": "<h3 style=\"text-align:center;color:#333333;padding-bottom:8px;padding-top:10px;\">Financial Statments<\/h3>\n<head>\n    <style>\n    {\n        box-sizing: border-box;\n    }\n    \/* Set additional styling options for the columns*\/\n    .column {\n    float: left;\n    width: 50%;\n    }\n\n    .row:after {\n    content: \"\";\n    display: table;\n    clear: both;\n    }\n    <\/style>\n <\/head>\n <body>\n    <div class=\"row\">\n        <div class=\"column\">\n            <a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0363\/5363\/8540\/files\/GRHF_03-31-2022_Financial_Statements_8b41f92e-32c4-4024-a973-5b4b65a8f31f.pdf?v=1660248170\"><p style=\"text-align:center\">2021-2022 Financial Statement<\/p><\/a>\n<a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0363\/5363\/8540\/files\/2021-03-31_GRHF_Audited_Financial_Statements.pdf?v=1629387261\"><p style=\"text-align:center\">2020-2021 Financial Statement<\/p><\/a>\n <a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0363\/5363\/8540\/files\/2019-2020_GRHF_Audited_Financial_Statements.pdf?v=1607609075\"><p style=\"text-align:center;\">2019-2020 Financial Statement<\/p><\/a><\/div>\n        <div class=\"column\">\n            <a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0363\/5363\/8540\/files\/2018-2019_GRHF_Audited_Financial_Statements.pdf?v=1607609075\"><p style=\"text-align:center\">2018-2019 Financial Statement<\/p><\/a>\n<a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0363\/5363\/8540\/files\/2017-2018_GRHF_Audited_Financial_Statements.pdf?v=1607609075\"><p style=\"text-align:center;\">2017-2018 Financial Statement<\/p><\/a>\n        <\/div>\n    <\/div>\n <\/body>\n<\/html>"
       }
     },
     "1646331590a1cbd0f5": {
@@ -684,6 +698,25 @@
         "color_overlay_text": "#333333",
         "overlay_url_style": "button_1"
       }
+    },
+    "165834663286a279c9": {
+      "type": "image-with-text",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/CbpVuneQ_62688ae1-49e0-4d20-9d22-b64b5d346e02.jpg",
+        "image_link": "",
+        "image_size": "0",
+        "image_position": "left",
+        "title": "",
+        "text": "<p>The hospital's vision of a world class health system supporting healthier lives is...<br\/><br\/>● guided by their <strong>Values<\/strong>,<br\/>● driven by their <strong>Mission<\/strong>,<br\/>● supported by their <strong>Commitment<\/strong> and<br\/>● enabled by their<strong> Strategic Directions.<\/strong><\/p><p><em>All to bring you the best possible care.<\/em><\/p><p>“The greatest danger for most of us is not that our aim is too high and we miss it, but that it is too low and we reach it.” -<strong> <\/strong>Michelangelo<\/p>",
+        "button_label": "Read their strategic plan, Aiming High",
+        "button_link": "https:\/\/www.grhosp.on.ca\/reports\/strategic-plan",
+        "url_style": "button_1",
+        "enlarge_title": false,
+        "enlarge_text": false,
+        "text_alignment": "left",
+        "color_bg": "#dae4e6",
+        "color_text": "#333333"
+      }
     }
   },
   "order": [
@@ -700,6 +733,7 @@
     "163552804617c55225",
     "1646328717f5d1b2f2",
     "1646331590a1cbd0f5",
-    "163712360109dce0bc"
+    "163712360109dce0bc",
+    "165834663286a279c9"
   ]
 }

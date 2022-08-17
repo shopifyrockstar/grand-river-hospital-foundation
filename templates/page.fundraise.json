@@ -1,0 +1,213 @@
+{
+  "sections": {
+    "1660190298462477ac": {
+      "type": "banner",
+      "blocks": {
+        "166019029849ba7301-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Vers._2_Blog_and_social_posts_-_large_image_8.png",
+            "image_position": "top center",
+            "image_link": "",
+            "color_overlay_bg": "#ffffff",
+            "overlay_opacity": 80,
+            "color_overlay_text": "#333333",
+            "overlay_title": "Fundraise for Us",
+            "overlay_text": "Do you have a cool idea to raise money for Grand River Hospital? Interested in running an event, bake sale or something else? We're here to get you started.",
+            "overlay_url_text_1": "Download our Toolkit",
+            "overlay_url_1": "",
+            "overlay_url_text_2": "Contact Us",
+            "overlay_url_2": "mailto:paul@grhf.ca",
+            "overlay_url_style": "button_1",
+            "enlarge_title": false,
+            "enlarge_text": false,
+            "overlay_position_x": 50,
+            "overlay_position_y": 80,
+            "color_label_background": "#ffffff",
+            "color_label_text": "#333333",
+            "show_chevron": true,
+            "product_id_1": "",
+            "chevron_position_1": "right",
+            "label_position_x_1": 20,
+            "label_position_y_1": 30,
+            "product_id_2": "",
+            "chevron_position_2": "right",
+            "label_position_x_2": 80,
+            "label_position_y_2": 50
+          }
+        }
+      },
+      "block_order": [
+        "166019029849ba7301-0"
+      ],
+      "settings": {
+        "height": "fixed",
+        "height_desktop": 500,
+        "height_mobile": 400,
+        "mobile_text_below": true,
+        "slideshow_autoplay": true,
+        "slideshow_autoplay_speed": 6
+      }
+    },
+    "1646330456e70728ad": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<h2 style=\"text-align:center;color:#333333;padding-bottom:7px;padding-top:25px;\">Getting Started is Easy<\/h2>"
+      }
+    },
+    "1643143933e06b2bac": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<h7 style=\"padding-bottom:2%;\"><p style=\"color:#333333;padding-right:2%;padding-left:2%\"><p>Choose which type of Fundraiser you would like to run? Perhaps it is a run, a lemonade stand or a wedding. Anything can be a community fundraiser. See below for more examples.<\/p>\n<p><a href=\"https:\/\/hrzt8xom4lq.typeform.com\/to\/CFVKeO8u\" target=\"_blank\">Complete our online registration form by clicking here<\/a>. We will set you up with a custom website within 24 hours and include a bunch of additional support such as a unique website link to share with friends (ex. bobswedding.ca), notifications for any donation made to your event and support the day of if needed!<\/p>\n<p>Share your fundraiser on social, via email, at work and start making a difference to bring worldclass health care to the community.<\/p>"
+      }
+    },
+    "1658349297f048cdb5": {
+      "type": "image-gallery",
+      "blocks": {
+        "165834929741a3ebbf-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/girl-running.jpg",
+            "alignment": "center center",
+            "enlarge_image": false,
+            "link": "https:\/\/hrzt8xom4lq.typeform.com\/to\/CFVKeO8u",
+            "title": "Sports",
+            "text": "<p>Run, ride and play!<\/p>",
+            "button_label": "Get Started",
+            "overlay_position": "center-center"
+          }
+        },
+        "165834929741a3ebbf-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/birthday-party-gift-trimmings.jpg",
+            "alignment": "center center",
+            "enlarge_image": false,
+            "link": "https:\/\/hrzt8xom4lq.typeform.com\/to\/CFVKeO8u",
+            "title": "Celebrate",
+            "text": "<p>Celebrate a birthday, wedding or special milestone.<\/p>",
+            "button_label": "Get Started",
+            "overlay_position": "center-center"
+          }
+        },
+        "165834929741a3ebbf-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/3_38404a2d-6b3e-4c83-a248-997806b34e5e.png",
+            "alignment": "center center",
+            "enlarge_image": false,
+            "link": "https:\/\/hrzt8xom4lq.typeform.com\/to\/CFVKeO8u",
+            "title": "Sale",
+            "text": "<p>Host a bake sale, lemonade stand, make bracelets or more!<\/p>",
+            "button_label": "Get Started",
+            "overlay_position": "center-center"
+          }
+        },
+        "95aa5ab6-0729-468b-9442-146a869a3cba": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Grandmemory.jpg",
+            "alignment": "center center",
+            "enlarge_image": false,
+            "link": "https:\/\/hrzt8xom4lq.typeform.com\/to\/HiM5Opfd?typeform-source=admin.typeform.com",
+            "title": "Honour",
+            "text": "<p>Honour a loved one through our GrandMemory program.<\/p>",
+            "button_label": "Get Started",
+            "overlay_position": "center-center"
+          }
+        },
+        "165834929741a3ebbf-3": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/country-road-in-fall.jpg",
+            "alignment": "center center",
+            "enlarge_image": false,
+            "link": "https:\/\/hrzt8xom4lq.typeform.com\/to\/CFVKeO8u",
+            "title": "Seasonal",
+            "text": "<p>Make a special day a fundraising day.<\/p>",
+            "button_label": "Get Started",
+            "overlay_position": "center-center"
+          }
+        },
+        "7be801ec-073b-484e-8aa2-1803bdf3cbb1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/shop-local.jpg",
+            "alignment": "center center",
+            "enlarge_image": false,
+            "link": "https:\/\/hrzt8xom4lq.typeform.com\/to\/CFVKeO8u",
+            "title": "Company",
+            "text": "<p>Fundraise with your colleagues, customers and community.<\/p>",
+            "button_label": "Get Started",
+            "overlay_position": "center-center"
+          }
+        }
+      },
+      "block_order": [
+        "165834929741a3ebbf-0",
+        "165834929741a3ebbf-1",
+        "165834929741a3ebbf-2",
+        "95aa5ab6-0729-468b-9442-146a869a3cba",
+        "165834929741a3ebbf-3",
+        "7be801ec-073b-484e-8aa2-1803bdf3cbb1"
+      ],
+      "settings": {
+        "grid": 3,
+        "image_height": 300,
+        "image_height_mobile": 300,
+        "enable_margin": true,
+        "enable_carousel": false,
+        "overlay_style": "box",
+        "color_overlay_bg": "#ffffff",
+        "overlay_opacity": 69,
+        "color_overlay_text": "#333333",
+        "overlay_url_style": "button_1"
+      }
+    },
+    "16601918903f803927": {
+      "type": "rich-text-left-and-centre",
+      "settings": {
+        "title": "What's Included With Your Page?",
+        "text": "<p>●  A customized URL (web address) you can share with family and friends<br\/>●  A place to include photos and quotes from your loved one<br\/>●  The ability to receive a notification any time someone donates to your page<br\/>● The ability to track total amount and number of donations directly on the page for all to see<br\/>●  The ability to customize the messages on the donation receipts that are sent to supporters who make a donation to your page<br\/><\/p>",
+        "button_label": "Get Started",
+        "button_link": "https:\/\/hrzt8xom4lq.typeform.com\/to\/CFVKeO8u",
+        "url_style": "button_1",
+        "enlarge_title": false,
+        "enlarge_text": false,
+        "full_width": false,
+        "color_bg": "#ecf1f2",
+        "color_title": "#333333",
+        "color_text": "#333333"
+      }
+    },
+    "166019170562c3f6f9": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Some Current Events",
+        "enlarge_title": false,
+        "link_text": "See all events",
+        "collection": "community-events",
+        "show_vendor": false,
+        "enable_carousel": false,
+        "grid": 4,
+        "row_count": 1,
+        "grid_mobile": "2"
+      }
+    },
+    "main": {
+      "type": "main-page-impact",
+      "disabled": true,
+      "settings": {
+      }
+    }
+  },
+  "order": [
+    "1660190298462477ac",
+    "1646330456e70728ad",
+    "1643143933e06b2bac",
+    "1658349297f048cdb5",
+    "16601918903f803927",
+    "166019170562c3f6f9",
+    "main"
+  ]
+}

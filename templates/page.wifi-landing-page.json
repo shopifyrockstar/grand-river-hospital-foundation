@@ -4,9 +4,527 @@
       "type": "main-page-wifi",
       "settings": {
       }
+    },
+    "1655191031d35861dc": {
+      "type": "wifi-banner",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/banner_1.png",
+        "image_mobile": "shopify:\/\/shop_images\/banner_mobile_1.png",
+        "image_link": "",
+        "image_position": "center center",
+        "height": "adapt",
+        "height_desktop": 520,
+        "height_mobile": 500,
+        "color_overlay_bg": "rgba(0,0,0,0)",
+        "overlay_opacity": 100,
+        "color_overlay_text": "#333333",
+        "overlay_title": "Welcome to \nGrand River Hospital",
+        "overlay_text": "We welcome you to our innovative healthcare centre where we provide exceptional care for Waterloo Wellington residents across a comprehensive range of areas.",
+        "overlay_url_text_1": "About us",
+        "overlay_url_1": "https:\/\/www.grhosp.on.ca\/about",
+        "overlay_url_text_2": "",
+        "overlay_url_2": "",
+        "overlay_url_style": "button_1",
+        "enlarge_title": false,
+        "enlarge_text": false,
+        "mobile_text_below": true,
+        "color_label_background": "#ffffff",
+        "color_label_text": "#333333",
+        "show_chevron": true,
+        "product_id_1": "",
+        "chevron_position_1": "right",
+        "label_position_x_1": 20,
+        "label_position_y_1": 30,
+        "product_id_2": "",
+        "chevron_position_2": "right",
+        "label_position_x_2": 80,
+        "label_position_y_2": 50
+      }
+    },
+    "165606651590284196": {
+      "type": "wifi-divider",
+      "settings": {
+        "d_bg_color": "rgba(0,0,0,0)",
+        "d_m_t": 40,
+        "d_m_b": 40,
+        "t_m_t": 20,
+        "t_m_b": 20,
+        "m_m_t": 20,
+        "m_m_b": 20
+      }
+    },
+    "16552953476a7e41c3": {
+      "type": "wifi-grid-box",
+      "blocks": {
+        "16552953472a23ae65-0": {
+          "type": "box",
+          "settings": {
+            "grid-banner": "shopify:\/\/shop_images\/1brAIViQ.jpg",
+            "grid-main-title": "Our Facilities",
+            "grid-sub-title": "Discover our campuses, parking and how to make most of our facilities.",
+            "accordion-title-1": "Hospital locations and campus info",
+            "accordion-content-1": "https:\/\/www.grhosp.on.ca\/care\/locations",
+            "accordion-title-2": "Parking information",
+            "accordion-content-2": "https:\/\/www.grhosp.on.ca\/care\/visitors\/parking",
+            "accordion-title-3": "Hospital map",
+            "accordion-content-3": "https:\/\/grhf.ca\/pages\/wi-fi-landing-page#wifi_map_section",
+            "accordion-title-4": "Digital support and device rental",
+            "accordion-content-4": "shopify:\/\/pages\/digital-support-and-device-lending",
+            "accordion-title-5": "Search the directory",
+            "accordion-content-5": "https:\/\/www.grhosp.on.ca\/about\/contacts-key-services",
+            "accordion-title-6": "",
+            "accordion-content-6": "",
+            "accordion-title-7": "",
+            "accordion-content-7": "",
+            "accordion-title-8": "",
+            "accordion-content-8": "",
+            "comming-soon-1": "",
+            "comming-soon-2": "",
+            "comming-soon-3": "",
+            "comming-soon-4": "",
+            "comming-soon-5": ""
+          }
+        },
+        "e8c8822f-54dc-4b24-9bcf-1db4a8f37c05": {
+          "type": "box",
+          "settings": {
+            "grid-banner": "shopify:\/\/shop_images\/nzEKHOEw.jpg",
+            "grid-main-title": "Our Services",
+            "grid-sub-title": "Our volunteers can meet you at the door, bring coffee to your room and lend you a digital device.",
+            "accordion-title-1": "How our volunteers can help you",
+            "accordion-content-1": "https:\/\/grhf.ca\/pages\/volunteer",
+            "accordion-title-2": "Accessibility support",
+            "accordion-content-2": "https:\/\/www.grhosp.on.ca\/care\/accessibility",
+            "accordion-title-3": "Patient security services",
+            "accordion-content-3": "https:\/\/www.grhosp.on.ca\/care\/visitors\/security",
+            "accordion-title-4": "Digital support and device rental",
+            "accordion-content-4": "shopify:\/\/pages\/digital-support-and-device-lending",
+            "accordion-title-5": "",
+            "accordion-content-5": "",
+            "accordion-title-6": "",
+            "accordion-content-6": "",
+            "accordion-title-7": "",
+            "accordion-content-7": "",
+            "accordion-title-8": "",
+            "accordion-content-8": "",
+            "comming-soon-1": "Grand Valet: Helping you to and from your car",
+            "comming-soon-2": "Grand Concierge: Ordering meals and beverages to your room",
+            "comming-soon-3": "",
+            "comming-soon-4": "",
+            "comming-soon-5": ""
+          }
+        },
+        "8f1b2630-cf56-4864-b22d-4b1637c6242e": {
+          "type": "box",
+          "settings": {
+            "grid-banner": "shopify:\/\/shop_images\/support_2_31f72a1f-7970-4ba7-af44-98cefdbe81a5.jpg",
+            "grid-main-title": "Your Support",
+            "grid-sub-title": "Find out how you can make a difference in helping us transform health care delivery in our communities.",
+            "accordion-title-1": "Ways to give",
+            "accordion-content-1": "https:\/\/grand-river-hospital-foundation.myshopify.com\/pages\/ways-to-give",
+            "accordion-title-2": "Become a donor",
+            "accordion-content-2": "https:\/\/grand-river-hospital-foundation.myshopify.com\/products\/care-never-stops- donation",
+            "accordion-title-3": "Show gratitude to care staff",
+            "accordion-content-3": "https:\/\/grand-river-hospital-foundation.myshopify.com\/products\/token-of- gratitude?pr_prod_strat=copurchase&pr_rec_id=6d8231f9c&pr_rec_pid=6816897630348&p  r_ref_pid=6726791954572&pr_seq=uniform",
+            "accordion-title-4": "Grand 5050: Our own lottery",
+            "accordion-content-4": "https:\/\/grand-river-hospital-foundation.myshopify.com\/pages\/grand-5050",
+            "accordion-title-5": "Shop our foundation gift store",
+            "accordion-content-5": "https:\/\/grand-river-hospital-foundation.myshopify.com\/collections\/shop",
+            "accordion-title-6": "More about the Grand River Hospital Foundation",
+            "accordion-content-6": "https:\/\/grand-river-hospital-foundation.myshopify.com\/",
+            "accordion-title-7": "",
+            "accordion-content-7": "",
+            "accordion-title-8": "",
+            "accordion-content-8": "",
+            "comming-soon-1": "",
+            "comming-soon-2": "",
+            "comming-soon-3": "",
+            "comming-soon-4": "",
+            "comming-soon-5": ""
+          }
+        },
+        "0ff7799f-481e-49e2-9098-ad67c7722bbf": {
+          "type": "box",
+          "settings": {
+            "grid-banner": "shopify:\/\/shop_images\/involvement.jpg",
+            "grid-main-title": "Your Involvement",
+            "grid-sub-title": "At the core of every world-class institution are compassionate people who care about their community and the work they do.",
+            "accordion-title-1": "Become a volunteer",
+            "accordion-content-1": "https:\/\/grhf.ca\/pages\/volunteer",
+            "accordion-title-2": "Reasons to volunteer",
+            "accordion-content-2": "https:\/\/www.grhosp.on.ca\/help\/volunteering\/top-10-reasons-to-volunteer",
+            "accordion-title-3": "Community events",
+            "accordion-content-3": "https:\/\/grand-river-hospital-foundation.myshopify.com\/pages\/community-events",
+            "accordion-title-4": "Meet our volunteer team",
+            "accordion-content-4": "https:\/\/grand-river-hospital-foundation.myshopify.com\/pages\/volunteer-team",
+            "accordion-title-5": "More about volunteer & donor impact",
+            "accordion-content-5": "https:\/\/grand-river-hospital-foundation.myshopify.com\/pages\/impact-reporting",
+            "accordion-title-6": "",
+            "accordion-content-6": "",
+            "accordion-title-7": "",
+            "accordion-content-7": "",
+            "accordion-title-8": "",
+            "accordion-content-8": "",
+            "comming-soon-1": "",
+            "comming-soon-2": "",
+            "comming-soon-3": "",
+            "comming-soon-4": "",
+            "comming-soon-5": ""
+          }
+        }
+      },
+      "block_order": [
+        "16552953472a23ae65-0",
+        "e8c8822f-54dc-4b24-9bcf-1db4a8f37c05",
+        "8f1b2630-cf56-4864-b22d-4b1637c6242e",
+        "0ff7799f-481e-49e2-9098-ad67c7722bbf"
+      ],
+      "settings": {
+        "sub-title": "THE GRAND EXPERIENCE",
+        "title": "How might we help you?",
+        "enlarge_title": false,
+        "grid": 2
+      }
+    },
+    "16552758929cc9a929": {
+      "type": "wifi-divider",
+      "settings": {
+        "d_bg_color": "#f79819",
+        "d_m_t": 50,
+        "d_m_b": 50,
+        "t_m_t": 30,
+        "t_m_b": 30,
+        "m_m_t": 20,
+        "m_m_b": 20
+      }
+    },
+    "16552956528ce0452a": {
+      "type": "wifi-guide-box",
+      "blocks": {
+        "1655295652a0210f05-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/visiting_guide_8d8a2102-3df8-450c-8162-3ba70cdf84f5.png",
+            "image_2": "shopify:\/\/shop_images\/patient_guide_20bd0697-c991-4c64-bfb3-6de232c97e68.png",
+            "image_position": "center center",
+            "image_link": "",
+            "layout": "image_after",
+            "color_background": "rgba(0,0,0,0)",
+            "color_text": "#333333",
+            "overlay_opacity": 80,
+            "title": "<p>ON-SITE GUIDELINES<\/p>",
+            "offer": "Coming to see us?",
+            "url_text": "Guidelines for visitors",
+            "url": "https:\/\/www.grhosp.on.ca\/care\/visitors\/covid-19\/visitor-restrictions-covid-19",
+            "url_text_2": "Guidelines for patients",
+            "url_2": "https:\/\/www.grhosp.on.ca\/care\/visitors\/covid-19",
+            "url_style": "button_1",
+            "enlarge_title": false,
+            "enlarge_text": false,
+            "tab_header_1": "Visiting Guide",
+            "tab_content_1": "<p><strong>Visiting a friend or family?<\/strong><\/p><p>Check out the hospital guidelines before your visit to understand.<\/p>",
+            "tab_header_2": "Patient Guide",
+            "tab_content_2": "<p><strong>About your hospital stay<\/strong><\/p><p>Check out the patient guidelines to find out what to bring or how to prepare for receiving care for short-term appointments and inpatient stay.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "1655295652a0210f05-0"
+      ],
+      "settings": {
+      }
+    },
+    "1655299734d7133499": {
+      "type": "wifi-divider",
+      "settings": {
+        "d_bg_color": "#80cc28",
+        "d_m_t": 50,
+        "d_m_b": 50,
+        "t_m_t": 30,
+        "t_m_b": 30,
+        "m_m_t": 20,
+        "m_m_b": 20
+      }
+    },
+    "1655296050932de58e": {
+      "type": "wifi-map-box",
+      "settings": {
+        "sub-title": "INTERACTIVE MAP",
+        "title": "Find your way around the hospital",
+        "enlarge_title": false,
+        "image": "shopify:\/\/shop_images\/Interactive_Map_Coming_Soon.png",
+        "tab_header_title_1": "KW Campus",
+        "image_2": "shopify:\/\/shop_images\/Interactive_Map_Coming_Soon.png",
+        "tab_header_title_2": "Freeport Campus",
+        "tab1_link_text": "",
+        "tab1_url": "",
+        "tab2_link_text": "",
+        "tab2_url": ""
+      }
+    },
+    "165529997295bde8e4": {
+      "type": "wifi-divider",
+      "settings": {
+        "d_bg_color": "#3871c1",
+        "d_m_t": 30,
+        "d_m_b": 50,
+        "t_m_t": 30,
+        "t_m_b": 15,
+        "m_m_t": 20,
+        "m_m_b": 20
+      }
+    },
+    "16552962013d507d72": {
+      "type": "wifi-image-text",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/3286893_1.png",
+        "image_link": "",
+        "image_size": "0",
+        "image_position": "left",
+        "sub-title": "PARKING & TRANSPORT",
+        "title": "Our parking and transport options",
+        "text": "<p>Grand River Hospital provides affordable and accessible parking for all patients and visitors at our Kitchener Waterloo and Freeport campuses, with onsite support to help you.<\/p>",
+        "button_label": "Support Parking for Patients in Need",
+        "button_link": "https:\/\/grhf.ca\/products\/parking",
+        "url_style": "button_1",
+        "enlarge_title": false,
+        "enlarge_text": false,
+        "text_alignment": "left",
+        "color_bg": "rgba(0,0,0,0)",
+        "color_text": "#333333",
+        "accordion-title-1": "More about parking at our campuses",
+        "accordion-content-1": "https:\/\/www.grhosp.on.ca\/care\/visitors\/parking",
+        "accordion-title-2": "Discounted parking passes",
+        "accordion-content-2": "https:\/\/www.grhosp.on.ca\/care\/visitors\/parking\/discounted-parking-passes",
+        "accordion-title-3": "Pay-for-transport options",
+        "accordion-content-3": "https:\/\/www.grhosp.on.ca\/care\/visitors\/preparing-to-go-home",
+        "accordion-title-4": "",
+        "accordion-content-4": "",
+        "accordion-title-5": "",
+        "accordion-content-5": ""
+      }
+    },
+    "165529992034e25b90": {
+      "type": "wifi-divider",
+      "settings": {
+        "d_bg_color": "rgba(0,0,0,0)",
+        "d_m_t": 40,
+        "d_m_b": 40,
+        "t_m_t": 10,
+        "t_m_b": 10,
+        "m_m_t": 0,
+        "m_m_b": 0
+      }
+    },
+    "1655211804c6f612f7": {
+      "type": "wifi-hours",
+      "settings": {
+        "h_sub_title": "HOSPITAL HOURS",
+        "h_title": "We’re here for you",
+        "h_text_1": "<p><strong>Formal Visiting<\/strong><\/p><p>7:30am to 8:30pm<\/p><p>We are more than happy to welcome families and other partners in care 24\/7 based on individual patient care needs<\/p>",
+        "h_text_2": "<p><strong>Kitchener Waterloo Campus After Hours Access<\/strong><\/p><p>11:00pm to 5:45am<\/p><p>Please enter through the emergency department and check in with the security office<\/p>",
+        "h_text_3": "<p><strong>Freeport Campus After Hours Access<\/strong><\/p><p>8:30pm to 6:00am<\/p><p>Please use the security phone at the main entrance to notify of your arrival<\/p>",
+        "h_text_4": "<p><strong>Emergency Room<\/strong><\/p><p>24\/7<\/p>",
+        "image": "shopify:\/\/shop_images\/jTWkg7ig.png",
+        "image_link": "",
+        "image_size": "0",
+        "image_position": "left",
+        "sub_title": "Non-urgent",
+        "text": "<p>Find out where to go if your issue isn't urgent.<\/p>",
+        "button_label": "Non-Urgent Care Options",
+        "button_link": "https:\/\/www.grhosp.on.ca\/assets\/images\/blog\/Your-Healthcare-Options.pdf",
+        "url_style": "button_1",
+        "enlarge_title": false,
+        "enlarge_text": false,
+        "text_alignment": "left",
+        "color_bg": "#fafafa",
+        "color_text": "#333333"
+      }
+    },
+    "1655300025b59fbc16": {
+      "type": "wifi-divider",
+      "settings": {
+        "d_bg_color": "rgba(0,0,0,0)",
+        "d_m_t": 35,
+        "d_m_b": 35,
+        "t_m_t": 10,
+        "t_m_b": 10,
+        "m_m_t": 20,
+        "m_m_b": 20
+      }
+    },
+    "1655296213eb707ef6": {
+      "type": "wifi-care-list",
+      "blocks": {
+        "16552962139792b0fa-0": {
+          "type": "box",
+          "settings": {
+            "box_color": "#ec008c",
+            "box_title": "Cancer Care",
+            "box_link": ""
+          }
+        },
+        "e71e08f9-a1e6-4bad-8cfb-9cc4f01e5d0c": {
+          "type": "box",
+          "settings": {
+            "box_color": "#00a650",
+            "box_title": "Emergency Care",
+            "box_link": "#"
+          }
+        },
+        "c46a1d82-e67e-4278-8216-dff6d6b96b15": {
+          "type": "box",
+          "settings": {
+            "box_color": "#80cc28",
+            "box_title": "Kidney Care",
+            "box_link": "#"
+          }
+        },
+        "bdec7122-3428-4322-b5e4-10c5d31a7bf4": {
+          "type": "box",
+          "settings": {
+            "box_color": "#ef2e32",
+            "box_title": "Patient Experience",
+            "box_link": "#"
+          }
+        },
+        "aacd89e4-1f83-4581-8020-ee3c682f7123": {
+          "type": "box",
+          "settings": {
+            "box_color": "#3871c1",
+            "box_title": "Grand River Kids",
+            "box_link": "#"
+          }
+        },
+        "4a750a93-2590-4a0d-b0c2-f210bead90d4": {
+          "type": "box",
+          "settings": {
+            "box_color": "#8d198f",
+            "box_title": "Mental Health",
+            "box_link": "#"
+          }
+        },
+        "ee6e7b7e-73bc-47bf-975e-345ef6ee6da1": {
+          "type": "box",
+          "settings": {
+            "box_color": "#f79819",
+            "box_title": "Continuum of Care",
+            "box_link": "#"
+          }
+        },
+        "6ed3895b-777a-4432-b4a8-f635ab86d33b": {
+          "type": "box",
+          "settings": {
+            "box_color": "#00adef",
+            "box_title": "Learning & Innovation",
+            "box_link": "#"
+          }
+        }
+      },
+      "block_order": [
+        "16552962139792b0fa-0",
+        "e71e08f9-a1e6-4bad-8cfb-9cc4f01e5d0c",
+        "c46a1d82-e67e-4278-8216-dff6d6b96b15",
+        "bdec7122-3428-4322-b5e4-10c5d31a7bf4",
+        "aacd89e4-1f83-4581-8020-ee3c682f7123",
+        "4a750a93-2590-4a0d-b0c2-f210bead90d4",
+        "ee6e7b7e-73bc-47bf-975e-345ef6ee6da1",
+        "6ed3895b-777a-4432-b4a8-f635ab86d33b"
+      ],
+      "settings": {
+        "sub-title": "Departments",
+        "title": "Discover our multiple areas of care",
+        "enlarge_title": false,
+        "grid": 4
+      }
+    },
+    "165530006627e30eee": {
+      "type": "wifi-divider",
+      "settings": {
+        "d_bg_color": "rgba(0,0,0,0)",
+        "d_m_t": 35,
+        "d_m_b": 35,
+        "t_m_t": 30,
+        "t_m_b": 30,
+        "m_m_t": 20,
+        "m_m_b": 20
+      }
+    },
+    "1655200078b4ad1e42": {
+      "type": "wifi-image-with-text",
+      "settings": {
+        "hsub-title": "NEWS & STORIES",
+        "htitle": "Grand ideas",
+        "image": "shopify:\/\/shop_images\/jrn042_20_1_copy_520x500_fa160b1c-af0d-44c9-9ea3-6dc8c488822d.webp",
+        "image_link": "",
+        "image_size": "0",
+        "image_position": "left",
+        "sub_title": "Featured Story",
+        "title": "Creating a Better Hospital Experience for Local Families",
+        "text": "<p>Additional MRI services in Kitchener-Waterloo will have a positive and profound impact on patients and families in our community. The current wait time for an MRI is much too long, with only a single MRI machine serving our local hospitals. With the addition of two more MRI machines, patients will be able to receive their scans much sooner and without the need to travel between hospitals. This will not only improve patient care but also the quality of life for families who are struggling to cope with the long wait times and the uncertainty of awaiting a diagnosis or treatment options.<\/p>",
+        "button_label": "Read more",
+        "button_link": "shopify:\/\/blogs\/grand-ideas\/better-hospital-experience-for-families",
+        "url_style": "link_style",
+        "image_2": "shopify:\/\/shop_images\/DSC00163_520x500_66a1e13c-699d-4c31-ba34-5d434efd90b8.webp",
+        "image_link_2": "",
+        "image_size_2": "0",
+        "image_position_2": "left",
+        "sub_title_2": "News",
+        "title_2": "Enhance Mental Health Care for Children and Youth Through Music",
+        "text_2": "",
+        "button_label_2": "Read more",
+        "button_link_2": "shopify:\/\/blogs\/grand-ideas\/enhancing-mental-health-care-through-music",
+        "url_style_2": "link_style",
+        "image_3": "shopify:\/\/shop_images\/286172782_130652422973823_690800376347169557_n_520x500_969437e9-a7d0-4ef7-b404-4ba904eecde7.webp",
+        "image_link_3": "",
+        "image_size_3": "0",
+        "image_position_3": "left",
+        "sub_title_3": "Staff Stories",
+        "title_3": "Supporting Cancer Treatment for Patients in Ghana and Beyond",
+        "text_3": "",
+        "button_label_3": "Read more",
+        "button_link_3": "shopify:\/\/blogs\/grand-ideas\/acce",
+        "url_style_3": "link_style",
+        "enlarge_title": false,
+        "enlarge_text": false,
+        "text_alignment": "left",
+        "color_bg": "#ffffff",
+        "color_text": "#333333",
+        "button_label_4": "Read more stories",
+        "button_link_4": "https:\/\/grhf.ca\/blogs\/grand-ideas",
+        "url_style_4": "button_1"
+      }
+    },
+    "16553005270dfeb402": {
+      "type": "wifi-divider",
+      "settings": {
+        "d_bg_color": "rgba(0,0,0,0)",
+        "d_m_t": 30,
+        "d_m_b": 30,
+        "t_m_t": 25,
+        "t_m_b": 25,
+        "m_m_t": 20,
+        "m_m_b": 20
+      }
     }
   },
   "order": [
-    "main-page-wifi-5"
+    "main-page-wifi-5",
+    "1655191031d35861dc",
+    "165606651590284196",
+    "16552953476a7e41c3",
+    "16552758929cc9a929",
+    "16552956528ce0452a",
+    "1655299734d7133499",
+    "1655296050932de58e",
+    "165529997295bde8e4",
+    "16552962013d507d72",
+    "165529992034e25b90",
+    "1655211804c6f612f7",
+    "1655300025b59fbc16",
+    "1655296213eb707ef6",
+    "165530006627e30eee",
+    "1655200078b4ad1e42",
+    "16553005270dfeb402"
   ]
 }

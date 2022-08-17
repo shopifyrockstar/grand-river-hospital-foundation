@@ -1,5 +1,5 @@
 {%- comment -%}
-	SEO Manager - product meta search v4.0
+	SEO Manager - product meta search v4.1
 	usage: /search?view=SEOManagerProductMeta&q=1000&page=1
 	Copyright (c) venntov
 	https://venntov.com / https://SEOManager.com
@@ -32,13 +32,13 @@
 	{%- assign currentPage = paginate.current_page -%}
 
 	{%- capture results -%}
-		{%- comment %}<locksmith:9c12>{% endcomment -%}
-		  {%- assign locksmith_a746_forloop__size = 0 %}{%- for item in collection.products -%}{% capture var %}{% render 'locksmith-variables', scope: 'subject', subject: item, subject_parent: collection, variable: 'transparent' %}{% endcapture %}{% if var == 'true' %}{% assign locksmith_a746_forloop__size = locksmith_a746_forloop__size | plus: 1 %}{% endif %}{% endfor %}{% assign locksmith_a746_forloop__index = nil -%}
-		{%- comment %}</locksmith:9c12>{% endcomment -%}
+		{%- comment %}<locksmith:d05e>{% endcomment -%}
+		  {%- assign locksmith_3a08_forloop__size = 0 %}{%- for item in collection.products -%}{% capture var %}{% render 'locksmith-variables', scope: 'subject', subject: item, subject_parent: collection, variable: 'transparent' %}{% endcapture %}{% if var == 'true' %}{% assign locksmith_3a08_forloop__size = locksmith_3a08_forloop__size | plus: 1 %}{% endif %}{% endfor %}{% assign locksmith_3a08_forloop__index = nil -%}
+		{%- comment %}</locksmith:d05e>{% endcomment -%}
 		{%- for item in collection.products -%}
-			{%- comment %}<locksmith:9637>{% endcomment -%}
-			  {%- capture var %}{% render 'locksmith-variables', scope: 'subject', subject: item, subject_parent: collection, variable: 'transparent' %}{% endcapture %}{% if var == "true" %}{% if locksmith_a746_forloop__index == nil %}{% assign locksmith_a746_forloop__index = 1 %}{% assign locksmith_a746_forloop__index0 = 0 %}{% else %}{% assign locksmith_a746_forloop__index = locksmith_a746_forloop__index | plus: 1 %}{% assign locksmith_a746_forloop__index0 = locksmith_a746_forloop__index0 | plus: 1 %}{% endif %}{% if locksmith_a746_forloop__index == 1 %}{% assign locksmith_a746_forloop__first = true %}{% else %}{% assign locksmith_a746_forloop__first = false %}{% endif %}{% if locksmith_a746_forloop__index == locksmith_a746_forloop__size %}{% assign locksmith_a746_forloop__last = true %}{% else %}{% assign locksmith_a746_forloop__last = false %}{% endif %}{% assign locksmith_a746_forloop__rindex = locksmith_a746_forloop__size | minus: locksmith_a746_forloop__index | minus: 1 %}{% assign locksmith_a746_forloop__rindex0 = locksmith_a746_forloop__size | minus: locksmith_a746_forloop__index0 | minus: 1 %}{% else %}{% continue %}{% endif -%}
-			{%- comment %}</locksmith:9637>{% endcomment -%}
+			{%- comment %}<locksmith:624a>{% endcomment -%}
+			  {%- capture var %}{% render 'locksmith-variables', scope: 'subject', subject: item, subject_parent: collection, variable: 'transparent' %}{% endcapture %}{% if var == "true" %}{% if locksmith_3a08_forloop__index == nil %}{% assign locksmith_3a08_forloop__index = 1 %}{% assign locksmith_3a08_forloop__index0 = 0 %}{% else %}{% assign locksmith_3a08_forloop__index = locksmith_3a08_forloop__index | plus: 1 %}{% assign locksmith_3a08_forloop__index0 = locksmith_3a08_forloop__index0 | plus: 1 %}{% endif %}{% if locksmith_3a08_forloop__index == 1 %}{% assign locksmith_3a08_forloop__first = true %}{% else %}{% assign locksmith_3a08_forloop__first = false %}{% endif %}{% if locksmith_3a08_forloop__index == locksmith_3a08_forloop__size %}{% assign locksmith_3a08_forloop__last = true %}{% else %}{% assign locksmith_3a08_forloop__last = false %}{% endif %}{% assign locksmith_3a08_forloop__rindex = locksmith_3a08_forloop__size | minus: locksmith_3a08_forloop__index | minus: 1 %}{% assign locksmith_3a08_forloop__rindex0 = locksmith_3a08_forloop__size | minus: locksmith_3a08_forloop__index0 | minus: 1 %}{% else %}{% continue %}{% endif -%}
+			{%- comment %}</locksmith:624a>{% endcomment -%}
 			{%- assign product			= item -%}
 			{%- assign meta_title		= product.metafields.global.title_tag -%}
 			{%- assign meta_description = product.metafields.global.description_tag -%}
@@ -61,11 +61,11 @@
 				"title"				: {{ product.title | json }},
 				"meta_title"		: {{ meta_title | json }},
 				"meta_description"	: {{ meta_description | json }},
-				"seo_done"			: {{ seoDone | json }},
+				"seo_done"			: {{ seoDone }},
 				"thumbnail"			: {{ product.featured_image.src | img_url : '100x100' | json }},
 				"handle"			: {{ product.handle | json }}
 			}
-			{%- unless locksmith_a746_forloop__last -%},{%- endunless -%}
+			{%- unless locksmith_3a08_forloop__last -%},{%- endunless -%}
 		{% endfor %}
 	{%- endcapture -%}
 {%- endpaginate -%}

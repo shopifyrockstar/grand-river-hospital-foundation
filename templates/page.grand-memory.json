@@ -1,0 +1,188 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page-impact",
+      "disabled": true,
+      "settings": {
+      }
+    },
+    "1658345489eea3fd49": {
+      "type": "banner",
+      "blocks": {
+        "1658345489fd1e116e-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Grandmemory.jpg",
+            "image_position": "center center",
+            "image_link": "",
+            "color_overlay_bg": "#ffffff",
+            "overlay_opacity": 80,
+            "color_overlay_text": "#333333",
+            "overlay_title": "Grand Memory",
+            "overlay_text": "Are you looking to celebrate a loved one? Let us help you honour somone special with personalized page.",
+            "overlay_url_text_1": "Donate Now",
+            "overlay_url_1": "shopify:\/\/products\/donate-memory",
+            "overlay_url_text_2": "Setup Custom Page",
+            "overlay_url_2": "https:\/\/hrzt8xom4lq.typeform.com\/to\/HiM5Opfd?typeform-source=grand-river-hospital-foundation.myshopify.com",
+            "overlay_url_style": "button_1",
+            "enlarge_title": false,
+            "enlarge_text": false,
+            "overlay_position_x": 50,
+            "overlay_position_y": 50,
+            "color_label_background": "#ffffff",
+            "color_label_text": "#333333",
+            "show_chevron": true,
+            "product_id_1": "",
+            "chevron_position_1": "right",
+            "label_position_x_1": 20,
+            "label_position_y_1": 30,
+            "product_id_2": "",
+            "chevron_position_2": "right",
+            "label_position_x_2": 80,
+            "label_position_y_2": 50
+          }
+        }
+      },
+      "block_order": [
+        "1658345489fd1e116e-0"
+      ],
+      "settings": {
+        "height": "fixed",
+        "height_desktop": 500,
+        "height_mobile": 400,
+        "mobile_text_below": true,
+        "slideshow_autoplay": true,
+        "slideshow_autoplay_speed": 6
+      }
+    },
+    "165392312540137d95": {
+      "type": "image-with-text",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/GRH_June_2022-34.jpg",
+        "image_link": "",
+        "image_size": "0",
+        "image_position": "right",
+        "title": "How Does It Work?",
+        "text": "<p>At Grand River Hospital Foundation, we want to support you in creating a meaningful experience to celebrate the memory of a loved one.<\/p><p>Simply click the button below to \"Create Your Memory Page\". Once you complete the form we will work with you to create a customized donation page that you can share with family and friends. <\/p>",
+        "button_label": "Create Your Memory Page",
+        "button_link": "https:\/\/hrzt8xom4lq.typeform.com\/to\/HiM5Opfd",
+        "url_style": "button_1",
+        "enlarge_title": false,
+        "enlarge_text": false,
+        "text_alignment": "left",
+        "color_bg": "#ecf1f2",
+        "color_text": "#333333"
+      }
+    },
+    "1658762215dbd0cfba": {
+      "type": "rich-text-about-fdn",
+      "settings": {
+        "title": "What's Included With Your Page?",
+        "text": "<p>●  A customized URL (web address) you can share with family and friends<br\/>●  A place to include photos and quotes from your loved one<br\/>●  The ability to receive a notification any time someone donates to your page<br\/>● The ability to track total amount and number of donations directly on the page for all to see<br\/>●  The ability to customize the messages on the donation receipts that are sent to supporters who make a donation to your page<br\/><\/p>",
+        "button_label": "",
+        "button_link": "",
+        "url_style": "button_1",
+        "enlarge_title": false,
+        "enlarge_text": false,
+        "full_width": false,
+        "color_bg": "#ffffff",
+        "color_title": "#333333",
+        "color_text": "#333333"
+      }
+    },
+    "166007647545d8dbac": {
+      "type": "promotional-images",
+      "blocks": {
+        "166007647586be1f4b-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Untitled_design_19_e79d7d4b-7e32-40de-967e-5963ecbd37fb.png",
+            "image_position": "center center",
+            "image_link": "shopify:\/\/products\/donate-memory",
+            "layout": "image_before",
+            "color_background": "#dae4e6",
+            "color_text": "#333333",
+            "overlay_opacity": 80,
+            "title": "<p>Looking to make a donation without setting up a custom donation page? Click the button below to donate.<\/p>",
+            "offer": "In Memory Donation",
+            "url_text": "DONATE NOW",
+            "url": "",
+            "url_style": "button_1",
+            "enlarge_title": false,
+            "enlarge_text": false
+          }
+        }
+      },
+      "block_order": [
+        "166007647586be1f4b-0"
+      ],
+      "settings": {
+      }
+    },
+    "16583468604b05c242": {
+      "type": "video",
+      "disabled": true,
+      "settings": {
+        "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+        "image_position": "center center",
+        "color_overlay_bg": "#ffffff",
+        "overlay_opacity": 80,
+        "color_overlay_text": "#333333",
+        "overlay_title": "Angie's Memory of Wobbly Willy",
+        "overlay_text": "Angie Hill was looking to honour her late husband Willy. This is her story of why choose to honour him by supporting Grand River Hospital Foundation",
+        "enlarge_title": false,
+        "enlarge_text": false,
+        "overlay_position_x": 50,
+        "overlay_position_y": 70,
+        "mobile_text_below": false
+      }
+    },
+    "1644338838341f147b": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Grand Memory Collection",
+        "enlarge_title": true,
+        "link_text": "Visit the full Grand Memory Collection",
+        "collection": "grand-memory",
+        "show_vendor": false,
+        "enable_carousel": true,
+        "grid": 4,
+        "row_count": 1,
+        "grid_mobile": "2"
+      }
+    },
+    "1643143933e06b2bac": {
+      "type": "custom-liquid",
+      "disabled": true,
+      "settings": {
+        "custom_liquid": "<div style=\"padding-bottom:2%;\"><p style=\"color:#333333;padding-right:2%;padding-left:2%\">At Grand River Hospital Foundation, we dedicate ourselves to our great community by working in partnership with people from all walks of life to make every health care experience exceptional. The continued dedication of our donors, supporters and the community at large helps our community stay healthy and provides access to quality health care right here in the places where we work and live. Together, we're investing in a world class health care system: the kind that transforms health care delivery, provides an exceptional experience for all, and works collaboratively to improve the health of our community. <b><i>The kind where care. never. stops.<\/b><\/i><\/p>"
+      }
+    },
+    "1656509554982a4b21": {
+      "type": "custom-liquid",
+      "disabled": true,
+      "settings": {
+        "custom_liquid": "<h3 style=\"text-align:center;color:#333333;padding-bottom:7px;padding-top:25px;\">Grand River Hospital Volunteer Association<\/h3>"
+      }
+    },
+    "1646330456e70728ad": {
+      "type": "custom-liquid",
+      "disabled": true,
+      "settings": {
+        "custom_liquid": "<h2 style=\"text-align:center;color:#333333;padding-bottom:7px;padding-top:25px;\">Angie's Memory of Wobbly Willy<\/h2>"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "1658345489eea3fd49",
+    "165392312540137d95",
+    "1658762215dbd0cfba",
+    "166007647545d8dbac",
+    "16583468604b05c242",
+    "1644338838341f147b",
+    "1643143933e06b2bac",
+    "1656509554982a4b21",
+    "1646330456e70728ad"
+  ]
+}

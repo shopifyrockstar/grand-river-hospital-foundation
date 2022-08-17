@@ -1,0 +1,324 @@
+<div class="wifi-grid-box-container relative large-row container" data-section-id="{{ section.id }}" data-section-type="wifi-grid-box">
+  <div class="page-width">
+    {% if section.settings.title != blank %}
+      <div class="wifi-full-row">
+        <div class="text-left sub-title">{{ section.settings.sub-title | escape }}</div>
+      </div>
+      <div class="large-row wifi-main-title">
+        <h2 class="text-left {% if section.settings.enlarge_title %}giant-title{% else %}large-title{% endif%}">{{ section.settings.title | escape }}</h2>
+      </div>
+    {% endif %}
+
+    <div class="grid-flex">
+      {%- assign grid_class = 'one-quarter' -%}
+      {%- if section.settings.grid == 2 -%}
+        {%- assign grid_class = 'one-half' -%}
+      {%- elsif section.settings.grid == 3 -%}
+        {%- assign grid_class = 'one-third' -%}
+      {%- elsif section.settings.grid == 5 -%}
+        {%- assign grid_class = 'one-fifth' -%}
+      {%- endif -%}
+      {% for block in section.blocks %}
+
+      {% capture grid_class_list %}{{ grid_class }} small-down--one-half{% endcapture %}
+			
+       
+
+          <div class="wifi-grid-box-content grid-flex__item {{ grid_class_list }}" {{ block.shopify_attributes }}>
+            <div class="grid-box-holder">
+                <div class="hover-images">
+                  {% render 'wifi-responsive-image', image: block.settings.grid-banner %}
+                </div>
+                <div class="wifi-content-holder">
+                  <div class="wifi-top-title">{{ block.settings.grid-main-title }}</div>
+                  <div class="wifi-top-sub-title">{{ block.settings.grid-sub-title }}</div>
+                  
+                  <div class="wifi-acc-box">
+                  	
+                    <div class="rev_accordion_container">
+                      {%- if block.settings.accordion-title-1 != blank -%}
+                      <a href="{{block.settings.accordion-content-1}}"><div class="rev_accordion">{{block.settings.accordion-title-1}}</div></a>
+                      <div class="rev_panel">
+                        <p>{{block.settings.accordion-content-1}}</p>  
+                      </div>
+                      {%- endif -%}
+                      
+                      {%- if block.settings.accordion-title-2 != blank -%}
+                      <a href="{{block.settings.accordion-content-2}}"><div class="rev_accordion">{{block.settings.accordion-title-2}}</div></a>
+                      <div class="rev_panel">
+                        <p>{{block.settings.accordion-content-2}}</p>  
+                      </div>
+                      {%- endif -%}
+                      
+                      {%- if block.settings.accordion-title-3 != blank -%}
+                      <a href="{{block.settings.accordion-content-3}}"><div class="rev_accordion">{{block.settings.accordion-title-3}}</div></a>
+                      <div class="rev_panel">
+                        <p>{{block.settings.accordion-content-3}}</p>  
+                      </div>
+                      {%- endif -%}
+                      
+                      {%- if block.settings.accordion-title-4 != blank -%}
+                      <a href="{{block.settings.accordion-content-4}}"><div class="rev_accordion">{{block.settings.accordion-title-4}}</div></a>
+                      <div class="rev_panel">
+                        <p>{{block.settings.accordion-content-4}}</p>  
+                      </div>
+                      {%- endif -%}
+                      
+                      {%- if block.settings.accordion-title-5 != blank -%}
+                      <a href="{{block.settings.accordion-content-5}}"><div class="rev_accordion">{{block.settings.accordion-title-5}}</div></a>
+                      <div class="rev_panel">
+                        <p>{{block.settings.accordion-content-5}}</p>  
+                      </div>
+                      {%- endif -%}
+                      
+                      {%- if block.settings.accordion-title-6 != blank -%}
+                      <a href="{{block.settings.accordion-content-6}}"><div class="rev_accordion">{{block.settings.accordion-title-6}}</div></a>
+                      <div class="rev_panel">
+                        <p>{{block.settings.accordion-content-6}}</p>  
+                      </div>
+                      {%- endif -%}
+                      
+                      {%- if block.settings.accordion-title-7 != blank -%}
+                      <a href="{{block.settings.accordion-content-7}}"><div class="rev_accordion">{{block.settings.accordion-title-7}}</div></a>
+                      <div class="rev_panel">
+                        <p>{{block.settings.accordion-content-7}}</p>  
+                      </div>
+                      {%- endif -%}
+                      
+                      {%- if block.settings.accordion-title-8 != blank -%}
+                      <a href="{{block.settings.accordion-content-8}}"><div class="rev_accordion">{{block.settings.accordion-title-8}}</div></a>
+                      <div class="rev_panel">
+                        <p>{{block.settings.accordion-content-8}}</p>  
+                      </div>
+                      {%- endif -%}
+                    </div>
+                    
+                    <div class="comming-soon">
+                      	{%- if block.settings.comming-soon-1 != blank -%}
+                      	<div class="comming-soon-box">{{block.settings.comming-soon-1}}</div>
+                      	{%- endif -%}
+                      
+                      	{%- if block.settings.comming-soon-2 != blank -%}
+                      	<div class="comming-soon-box">{{block.settings.comming-soon-2}}</div>
+                      	{%- endif -%}
+                      
+                        {%- if block.settings.comming-soon-3 != blank -%}
+                      	<div class="comming-soon-box">{{block.settings.comming-soon-3}}</div>
+                      	{%- endif -%}
+                      
+                        {%- if block.settings.comming-soon-4 != blank -%}
+                      	<div class="comming-soon-box">{{block.settings.comming-soon-4}}</div>
+                      	{%- endif -%}
+                      
+                        {%- if block.settings.comming-soon-5 != blank -%}
+                      	<div class="comming-soon-box">{{block.settings.comming-soon-5}}</div>
+                      	{%- endif -%}
+                    </div>
+                    
+                  </div>
+                </div>
+              
+              <div class="m-grid-box-holder m-grid-box-holder-exapnd">
+                <div class="m-grid-box-left"><span>Expand to see more</span></div>
+                <div class="m-grid-box-right"><span class="g_plus">+</span></div>
+              </div>
+              <div class="m-grid-box-holder m-grid-box-holder-collaps">
+                <div class="m-grid-box-left"><span>Collapse</span></div>
+                <div class="m-grid-box-right"><span class="g_minus">-</span></div>
+              </div>
+            </div>
+            
+            
+            
+            
+          </div>
+      {% endfor %}
+    </div>
+  </div>
+</div>
+
+
+{% schema %}
+  {
+    "name": "Wifi grid box",
+    "tag": "section",
+    "class": "section-wifi-grid-box",
+    "max_blocks": 20,
+    "settings": [
+      {
+        "type": "text",
+        "id": "sub-title",
+        "label": "Sub Title",
+        "default": "Sub Title"
+      },
+	  {
+        "type": "text",
+        "id": "title",
+        "label": "Heading",
+        "default": "Collection list"
+      },
+      {
+        "type": "checkbox",
+        "id": "enlarge_title",
+        "label": "Enlarge heading",
+        "default": false
+      },
+      {
+        "type": "range",
+        "id": "grid",
+        "label": "Collections per row",
+        "min": 2,
+        "max": 5,
+        "step": 1,
+        "default": 2
+      }
+    ],
+    "blocks": [
+      {
+        "type": "box",
+        "name": "Grid box",
+        "settings": [
+		  {
+            "type": "image_picker",
+            "id": "grid-banner",
+            "label": "Grid Banner"
+          },
+		  {
+          	"type": "text",
+          	"id": "grid-main-title",
+          	"label": "Grid Title"
+          },
+		  {
+          	"type": "text",
+          	"id": "grid-sub-title",
+          	"label": "Grid Sub Title"
+          },
+		  {
+        	"type": "header",
+        	"content": "Accordiun Box"
+          },
+		  {
+          	"type": "text",
+          	"id": "accordion-title-1",
+          	"label": "Accordion Title (1)"
+          },
+		  {
+          	"type": "url",
+          	"id": "accordion-content-1",
+          	"label": "Accordion URL (1)"
+          },
+		  {
+          	"type": "text",
+          	"id": "accordion-title-2",
+          	"label": "Accordion Title (2)"
+          },
+		  {
+          	"type": "url",
+          	"id": "accordion-content-2",
+          	"label": "Accordion URL (2)"
+          },
+		  {
+          	"type": "text",
+          	"id": "accordion-title-3",
+          	"label": "Accordion Title (3)"
+          },
+		  {
+          	"type": "url",
+          	"id": "accordion-content-3",
+          	"label": "Accordion URL (3)"
+          },
+		  {
+          	"type": "text",
+          	"id": "accordion-title-4",
+          	"label": "Accordion Title (4)"
+          },
+		  {
+          	"type": "url",
+          	"id": "accordion-content-4",
+          	"label": "Accordion URL (4)"
+          },
+		  {
+          	"type": "text",
+          	"id": "accordion-title-5",
+          	"label": "Accordion Title (5)"
+          },
+		  {
+          	"type": "url",
+          	"id": "accordion-content-5",
+          	"label": "Accordion URL (5)"
+          },
+		  {
+          	"type": "text",
+          	"id": "accordion-title-6",
+          	"label": "Accordion Title (6)"
+          },
+		  {
+          	"type": "url",
+          	"id": "accordion-content-6",
+          	"label": "Accordion URL (6)"
+          },
+		  {
+          	"type": "text",
+          	"id": "accordion-title-7",
+          	"label": "Accordion Title (7)"
+          },
+		  {
+          	"type": "url",
+          	"id": "accordion-content-7",
+          	"label": "Accordion URL (7)"
+          },
+		  {
+          	"type": "text",
+          	"id": "accordion-title-8",
+          	"label": "Accordion Title (8)"
+          },
+		  {
+          	"type": "url",
+          	"id": "accordion-content-8",
+          	"label": "Accordion URL (8)"
+          },
+          {
+        	"type": "header",
+        	"content": "Comming Soon Box"
+          },
+          {
+          	"type": "text",
+          	"id": "comming-soon-1",
+          	"label": "Comming soon (1)"
+          },
+          {
+          	"type": "text",
+          	"id": "comming-soon-2",
+          	"label": "Comming soon (2)"
+          },
+          {
+          	"type": "text",
+          	"id": "comming-soon-3",
+          	"label": "Comming soon (3)"
+          },
+          {
+          	"type": "text",
+          	"id": "comming-soon-4",
+          	"label": "Comming soon (4)"
+          },
+          {
+          	"type": "text",
+          	"id": "comming-soon-5",
+          	"label": "Comming soon (5)"
+          }
+		
+        ]
+      }
+    ],
+    "presets": [
+      {
+        "name": "Wifi grid box",
+        "blocks": [
+          {
+            "type": "box"
+          }
+        ]
+      }
+    ]
+  }
+{% endschema %}

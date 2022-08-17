@@ -2,12 +2,136 @@
   "sections": {
     "main": {
       "type": "main-page-left",
+      "disabled": true,
       "settings": {
+      }
+    },
+    "1658333392ac827300": {
+      "type": "image-with-text",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Vers._2_Blog_and_social_posts_-_large_image_9.png",
+        "image_link": "",
+        "image_size": "0",
+        "image_position": "right",
+        "title": "Ways to Give",
+        "text": "<p>When you're building a world class health system, every supporter makes a big difference. <\/p><p>Each year, tens of thousands of people like you rally to support the health of our community by giving back to Grand River Hospital. Whether you make a one-time gift, a recurring gift, donate in memory of someone special or choose another option that's right for you, you will ensure care. never. stops. and bring us one step closer to a world class health care system right here in Kitchener-Waterloo. <\/p>",
+        "button_label": "",
+        "button_link": "",
+        "url_style": "button_1",
+        "enlarge_title": true,
+        "enlarge_text": false,
+        "text_alignment": "left",
+        "color_bg": "#ffffff",
+        "color_text": "#333333"
+      }
+    },
+    "164001939406078ad4": {
+      "type": "logo-list-give",
+      "blocks": {
+        "16400193941d1c9f56-0": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Square_Posts_9.png",
+            "image_width": 280,
+            "link": "shopify:\/\/products\/care-never-stops-donation",
+            "title": "<b>Make a Donation<\/b>"
+          }
+        },
+        "16400193941d1c9f56-1": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Square_Posts_5_2590264e-c919-4781-a426-710175cfc159.png",
+            "image_width": 280,
+            "link": "shopify:\/\/products\/care-never-stops-donation",
+            "title": "<b>Donate Monthly<\/b>"
+          }
+        },
+        "16400193941d1c9f56-2": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Square_Posts_e919e741-b14d-4c0f-8652-27ee2193265c.png",
+            "image_width": 280,
+            "link": "shopify:\/\/products\/donate-memory",
+            "title": "<b>Donate in Memory<\/b>"
+          }
+        },
+        "67c65cb2-e498-4f40-b5bd-9bd0e2086a4f": {
+          "type": "logo",
+          "disabled": true,
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Square_Posts_3_68a9d499-3989-439e-b57a-48616ceea988.png",
+            "image_width": 280,
+            "link": "shopify:\/\/products\/donate-to-the-work-of-kw4oht",
+            "title": "<b>Donate to KW4 OHT<\/b>"
+          }
+        },
+        "d3e2d0ae-4a22-41a8-8a60-a8e5c1f06537": {
+          "type": "logo",
+          "disabled": true,
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Square_Posts_8.png",
+            "image_width": 280,
+            "link": "https:\/\/donatecar.ca\/org\/charitypage\/donate.php?charity=GrandRiverHospitalFoundation",
+            "title": "Donate-A-Car"
+          }
+        },
+        "6430628e-abd2-4e15-ad0d-4aba937e9b0f": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/XfPpHmsA.jpg",
+            "image_width": 160,
+            "link": "https:\/\/grhf.ca\/pages\/volunteer",
+            "title": "<b>Volunteer<\/b>"
+          }
+        }
+      },
+      "block_order": [
+        "16400193941d1c9f56-0",
+        "16400193941d1c9f56-1",
+        "16400193941d1c9f56-2",
+        "67c65cb2-e498-4f40-b5bd-9bd0e2086a4f",
+        "d3e2d0ae-4a22-41a8-8a60-a8e5c1f06537",
+        "6430628e-abd2-4e15-ad0d-4aba937e9b0f"
+      ],
+      "settings": {
+        "title": "",
+        "color_bg": "#ecf1f2",
+        "color_title": "#333333",
+        "color_text": "#333333",
+        "enlarge_title": false,
+        "enlarge_text": false,
+        "image_opacity": 100
       }
     },
     "1636398521ca2e0d54": {
       "type": "image-gallery",
       "blocks": {
+        "553e3370-7468-473d-a652-a022148d1482": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/img_carousel2_happy-couple2.jpg",
+            "alignment": "center center",
+            "enlarge_image": false,
+            "link": "https:\/\/kw5050.ca",
+            "title": "Play 50\/50",
+            "text": "",
+            "button_label": "Over $300,000 in cash prizes to date",
+            "overlay_position": "bottom-center"
+          }
+        },
+        "e49ef7db-492e-4ccb-ba38-7e6f26baeed3": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/golf-bag-with-clubs-at-golf-course.jpg",
+            "alignment": "top center",
+            "enlarge_image": false,
+            "link": "shopify:\/\/pages\/community-events",
+            "title": "Community Events",
+            "text": "",
+            "button_label": "Host your own event",
+            "overlay_position": "bottom-center"
+          }
+        },
         "1636398521ca2e0d54-1": {
           "type": "image",
           "settings": {
@@ -15,7 +139,7 @@
             "alignment": "bottom center",
             "enlarge_image": false,
             "link": "shopify:\/\/pages\/gift-in-will",
-            "title": "Leave a Legacy",
+            "title": "Make a Planned Gift",
             "text": "",
             "button_label": "Leave your mark with a gift in your Will",
             "overlay_position": "bottom-center"
@@ -56,8 +180,34 @@
             "link": "shopify:\/\/pages\/bibliotake",
             "title": "BiblioTake",
             "text": "",
-            "button_label": "Donate to support the purchase of new books for our NICU Families",
-            "overlay_position": "center-center"
+            "button_label": "Donate in support of new books for NICU families",
+            "overlay_position": "bottom-center"
+          }
+        },
+        "cf8e20ee-ae57-4105-a814-bdabf443ec8f": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Vers._2_Blog_and_social_posts_-_large_image_8.png",
+            "alignment": "center center",
+            "enlarge_image": false,
+            "link": "https:\/\/donatecar.ca\/org\/donate.php?charitypage=1569&oem=off",
+            "title": "Donate-A-Car",
+            "text": "",
+            "button_label": "Donate your vehicle to support local care",
+            "overlay_position": "bottom-center"
+          }
+        },
+        "e34c371c-d193-4705-8d3a-ec2150b69a95": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/crypto-investor-gold-btc-coin.jpg",
+            "alignment": "center center",
+            "enlarge_image": false,
+            "link": "https:\/\/www.canadahelps.org\/en\/cryptocurrency\/62945\/donate",
+            "title": "Donate Crypto",
+            "text": "",
+            "button_label": "Donate Bitcoin or Ether",
+            "overlay_position": "bottom-center"
           }
         },
         "1636398521ca2e0d54-0": {
@@ -69,16 +219,20 @@
             "link": "shopify:\/\/pages\/non-monetary-gifts",
             "title": "Gifts from the Heart",
             "text": "",
-            "button_label": "Make a non-monetary gift",
+            "button_label": "Make a non-monetary donation",
             "overlay_position": "bottom-center"
           }
         }
       },
       "block_order": [
+        "553e3370-7468-473d-a652-a022148d1482",
+        "e49ef7db-492e-4ccb-ba38-7e6f26baeed3",
         "1636398521ca2e0d54-1",
         "1636398521ca2e0d54-3",
         "1636398521ca2e0d54-2",
         "16d41027-7482-4ee2-b7a3-212f9ef6bfa7",
+        "cf8e20ee-ae57-4105-a814-bdabf443ec8f",
+        "e34c371c-d193-4705-8d3a-ec2150b69a95",
         "1636398521ca2e0d54-0"
       ],
       "settings": {
@@ -87,89 +241,23 @@
         "image_height_mobile": 300,
         "enable_margin": true,
         "enable_carousel": true,
-        "overlay_style": "box",
-        "color_overlay_bg": "#ffffff",
-        "overlay_opacity": 80,
+        "overlay_style": "full",
+        "color_overlay_bg": "#ecf1f2",
+        "overlay_opacity": 42,
         "color_overlay_text": "#333333",
         "overlay_url_style": "button_1"
-      }
-    },
-    "164001939406078ad4": {
-      "type": "logo-list-give",
-      "blocks": {
-        "16400193941d1c9f56-0": {
-          "type": "logo",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Square_Posts_9.png",
-            "image_width": 280,
-            "link": "shopify:\/\/products\/care-never-stops-donation",
-            "title": "One-time Donation"
-          }
-        },
-        "16400193941d1c9f56-1": {
-          "type": "logo",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Square_Posts_5_2590264e-c919-4781-a426-710175cfc159.png",
-            "image_width": 280,
-            "link": "shopify:\/\/products\/care-never-stops-donation",
-            "title": "Recurring Donation"
-          }
-        },
-        "16400193941d1c9f56-2": {
-          "type": "logo",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Square_Posts_e919e741-b14d-4c0f-8652-27ee2193265c.png",
-            "image_width": 280,
-            "link": "shopify:\/\/products\/donate-memory",
-            "title": "Donate in Memory"
-          }
-        },
-        "67c65cb2-e498-4f40-b5bd-9bd0e2086a4f": {
-          "type": "logo",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Square_Posts_3_68a9d499-3989-439e-b57a-48616ceea988.png",
-            "image_width": 280,
-            "link": "shopify:\/\/products\/donate-to-the-work-of-kw4oht",
-            "title": "Donate to KW4 OHT"
-          }
-        },
-        "d3e2d0ae-4a22-41a8-8a60-a8e5c1f06537": {
-          "type": "logo",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Square_Posts_8.png",
-            "image_width": 280,
-            "link": "https:\/\/donatecar.ca\/org\/charitypage\/donate.php?charity=GrandRiverHospitalFoundation",
-            "title": "Donate-A-Car"
-          }
-        }
-      },
-      "block_order": [
-        "16400193941d1c9f56-0",
-        "16400193941d1c9f56-1",
-        "16400193941d1c9f56-2",
-        "67c65cb2-e498-4f40-b5bd-9bd0e2086a4f",
-        "d3e2d0ae-4a22-41a8-8a60-a8e5c1f06537"
-      ],
-      "settings": {
-        "title": "Make a Donation",
-        "color_bg": "#ecf1f2",
-        "color_title": "#333333",
-        "color_text": "#333333",
-        "enlarge_title": false,
-        "enlarge_text": false,
-        "image_opacity": 100
       }
     },
     "16400193982fb955a3": {
       "type": "featured-collection",
       "settings": {
-        "title": "Areas of Care",
+        "title": "Donate by Area of Care",
         "enlarge_title": false,
-        "link_text": "Donate now",
+        "link_text": "Donate today",
         "collection": "donate-by-care-area",
         "show_vendor": false,
         "enable_carousel": true,
-        "grid": 4,
+        "grid": 5,
         "row_count": 1,
         "grid_mobile": "2"
       }
@@ -177,8 +265,9 @@
   },
   "order": [
     "main",
-    "1636398521ca2e0d54",
+    "1658333392ac827300",
     "164001939406078ad4",
+    "1636398521ca2e0d54",
     "16400193982fb955a3"
   ]
 }

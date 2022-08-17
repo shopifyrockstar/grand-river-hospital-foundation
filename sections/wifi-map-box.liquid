@@ -1,0 +1,121 @@
+<div id="wifi_map_section" class="wifi_map_section relative large-row container" data-section-id="{{ section.id }}" data-section-type="wifi-map-box">
+  <div class="page-width">
+    {% if section.settings.title != blank %}
+      
+     
+          <div class="wifi-full-row wifi-map-full-row">
+            <div class="wifi_map_title_contaainer">
+            	<div class="text-left sub-title">{{ section.settings.sub-title | escape }}</div>
+            	<h2 class="text-left {% if section.settings.enlarge_title %}giant-title{% else %}large-title{% endif%}">{{ section.settings.title | escape }}</h2>
+            </div>
+            
+            
+                      
+           <div class="wifi-tab-master">
+                	<div class="tab-header" id="map_tab">
+                      <a class="tab-link selected" data-index="1">{{section.settings.tab_header_title_1}}</a>
+                      <a class="tab-link tab-link-last" data-index="2">{{section.settings.tab_header_title_2}}</a>
+             		</div>
+           </div>
+            
+          </div>
+
+    {% endif %}
+
+    <div class="grid-flex map-box-holder">
+       
+          <div class="grid-flex__item one-full" >
+            <div class="care-list-holder selected map-image-box" data-map_tab="1">
+              	{% render 'wifi-responsive-image', image: section.settings.image, nomax: true %}              
+              <br>
+              <a href="{{section.settings.tab1_url}}" class="map_link" href="">{{section.settings.tab1_link_text}}</a>
+            </div>
+            <div class="care-list-holder map-image-box" data-map_tab="2">
+              	{% render 'wifi-responsive-image', image: section.settings.image_2, nomax: true %}
+                <br>
+                <a href="{{section.settings.tab2_url}}" class="map_link" href="">{{section.settings.tab2_link_text}}</a>
+            </div>
+          </div>
+    </div>
+  </div>
+</div>
+
+
+{% schema %}
+  {
+    "name": "Wifi map box",
+    "tag": "section",
+    "class": "section-wifi-care-box",
+    "settings": [
+      {
+        "type": "text",
+        "id": "sub-title",
+        "label": "Sub Title"
+      },
+	  {
+        "type": "text",
+        "id": "title",
+        "label": "Heading"
+      },
+      {
+        "type": "checkbox",
+        "id": "enlarge_title",
+        "label": "Enlarge heading",
+        "default": false
+      },
+      {
+            "type": "image_picker",
+            "id": "image",
+            "label": "First Map Image"
+          },
+		  {
+          	"type": "text",
+          	"id": "tab_header_title_1",
+          	"label": "First Tab Header Text"
+          },
+          {
+            "type": "image_picker",
+            "id": "image_2",
+            "label": "Second Map Image"
+          },
+          {
+          	"type": "text",
+          	"id": "tab_header_title_2",
+          	"label": "Second Tab Header Text"
+          },
+
+		  {
+          	"type": "text",
+          	"id": "tab1_link_text",
+          	"label": "Tab1 link text"
+          },
+		  {
+          	"type": "url",
+          	"id": "tab1_url",
+          	"label": "Tab1 url"
+          },
+		  {
+          	"type": "text",
+          	"id": "tab2_link_text",
+          	"label": "Tab2 link text"
+          },
+		  {
+          	"type": "url",
+          	"id": "tab2_url",
+          	"label": "Tab2 url"
+          }
+    ],
+    "presets": [
+      {
+        "name": "Wifi map box"
+        
+      }
+    ]
+  }
+{% endschema %}
+
+{% stylesheet %}
+{% endstylesheet %}
+
+{% javascript %}
+{% endjavascript %}

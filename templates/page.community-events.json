@@ -12,8 +12,8 @@
             "color_overlay_bg": "#ffffff",
             "overlay_opacity": 80,
             "color_overlay_text": "#333333",
-            "overlay_title": "Community Events",
-            "overlay_text": "Interested in running your own event? Do you have a cool idea to raise money for Grand River Hospital? We're here to help!",
+            "overlay_title": "",
+            "overlay_text": "Do you have a cool idea to raise money for Grand River Hospital? Interested in running your own Community Event? We're here to help!",
             "overlay_url_text_1": "Download our Toolkit",
             "overlay_url_1": "https:\/\/cdn.shopify.com\/s\/files\/1\/0363\/5363\/8540\/files\/Community_Champion_Toolkit_as_of_April_2022.pdf?v=1651696579",
             "overlay_url_text_2": "Connect with Us",
@@ -49,13 +49,45 @@
         "slideshow_autoplay_speed": 6
       }
     },
+    "165600289843ee224c": {
+      "type": "custom-liquid",
+      "disabled": true,
+      "settings": {
+        "custom_liquid": "<h2 style=\"text-align:center;\">Community Events<\/h2>"
+      }
+    },
+    "165600299360b4cca3": {
+      "type": "rich-text-about-fdn",
+      "disabled": true,
+      "settings": {
+        "title": "Community Events",
+        "text": "<p>Thank you so much for taking the first step to champion and fundraise for Grand River Hospital Foundation. Your time and talents will support Grand River Hospital and help provide our communities with exceptional health care.<\/p><p>Plan your event step-by-step with our downloadable <a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0363\/5363\/8540\/files\/Community_Champion_Toolkit_as_of_April_2022.pdf?v=1651696579\" target=\"_blank\"><span style=\"text-decoration:underline\">Fundraising & Community Events Guide<\/span><\/a> — use as many or as few of the resources as you'd like! We want to make fundraising fun and easy, and we are here to help you make your event a success.<\/p><p>Please fill out the<a href=\"https:\/\/hrzt8xom4lq.typeform.com\/to\/CFVKeO8u\" title=\"Community Events Form Grand River Hospital Foundation\">Fundraising & Community Events Proposal Form<\/a> below so a member from our team can connect with you as soon as possible to offer support. We want to ensure that you are being provided with all you need to know in order to fundraise on behalf of Grand River Hospital Foundation and be a part of shaping the future of local health care. <\/p>",
+        "button_label": "",
+        "button_link": "",
+        "url_style": "button_1",
+        "enlarge_title": false,
+        "enlarge_text": false,
+        "full_width": false,
+        "color_bg": "#ecf1f2",
+        "color_title": "#333333",
+        "color_text": "#333333"
+      }
+    },
     "main": {
       "type": "main-page",
       "settings": {
       }
     },
+    "16560027876f3fd68c": {
+      "type": "custom-liquid",
+      "disabled": true,
+      "settings": {
+        "custom_liquid": "<h3 style=\"text-align:center;\">Event Ideas<\/h3>"
+      }
+    },
     "16516964649f37d029": {
       "type": "featured-collection",
+      "disabled": true,
       "settings": {
         "title": "Current Events",
         "enlarge_title": false,
@@ -67,11 +99,103 @@
         "row_count": 5,
         "grid_mobile": "2"
       }
+    },
+    "1656002631ef12d323": {
+      "type": "featured-collection",
+      "disabled": true,
+      "settings": {
+        "title": "Past Community Events",
+        "enlarge_title": false,
+        "link_text": "Thank you for your support",
+        "collection": "",
+        "show_vendor": false,
+        "enable_carousel": false,
+        "grid": 4,
+        "row_count": 1,
+        "grid_mobile": "2"
+      }
+    },
+    "16560027729a56b835": {
+      "type": "image-gallery",
+      "disabled": true,
+      "blocks": {
+        "16560027724e102823-0": {
+          "type": "image",
+          "settings": {
+            "alignment": "center center",
+            "enlarge_image": false,
+            "link": "",
+            "title": "",
+            "text": "<p>TBD<\/p>",
+            "button_label": "",
+            "overlay_position": "center-center"
+          }
+        },
+        "16560027724e102823-1": {
+          "type": "image",
+          "settings": {
+            "alignment": "center center",
+            "enlarge_image": false,
+            "link": "",
+            "title": "",
+            "text": "<p>Host a Grill, BBQ or Picnic<\/p>",
+            "button_label": "",
+            "overlay_position": "bottom-center"
+          }
+        },
+        "16560027724e102823-2": {
+          "type": "image",
+          "settings": {
+            "alignment": "center center",
+            "enlarge_image": false,
+            "link": "",
+            "title": "Image title",
+            "text": "",
+            "button_label": "",
+            "overlay_position": "center-center"
+          }
+        },
+        "16560027724e102823-3": {
+          "type": "image",
+          "settings": {
+            "alignment": "center center",
+            "enlarge_image": false,
+            "link": "",
+            "title": "Image title",
+            "text": "",
+            "button_label": "",
+            "overlay_position": "center-center"
+          }
+        }
+      },
+      "block_order": [
+        "16560027724e102823-0",
+        "16560027724e102823-1",
+        "16560027724e102823-2",
+        "16560027724e102823-3"
+      ],
+      "settings": {
+        "grid": 4,
+        "image_height": 300,
+        "image_height_mobile": 300,
+        "enable_margin": true,
+        "enable_carousel": true,
+        "overlay_style": "box",
+        "color_overlay_bg": "#ffffff",
+        "overlay_opacity": 80,
+        "color_overlay_text": "#333333",
+        "overlay_url_style": "button_1"
+      }
     }
   },
   "order": [
     "16516964370c811c93",
+    "165600289843ee224c",
+    "165600299360b4cca3",
     "main",
-    "16516964649f37d029"
+    "16560027876f3fd68c",
+    "16516964649f37d029",
+    "1656002631ef12d323",
+    "16560027729a56b835"
   ]
 }

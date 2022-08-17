@@ -1,0 +1,67 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page-impact",
+      "disabled": true,
+      "settings": {
+      }
+    },
+    "165392312540137d95": {
+      "type": "image-with-text",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/GRH_June_2022-40.jpg",
+        "image_link": "",
+        "image_size": "0",
+        "image_position": "left",
+        "title": "Grand Welcome",
+        "text": "<p>Greet patients and visitors and provide wayfinding and portering support in this essential volunteer role. As a Grand Welcome Volunteer, you will be the first point of contact for everyone who comes to the hospital.<\/p><p><em><strong>500 Grand Welcome Volunteers are needed by the end of July to support key hospital programming.<\/strong><\/em><\/p><p>If you are interested in becoming a Grand Welcome Volunteer, please register through our volunteer portal below.<\/p>",
+        "button_label": "Register now",
+        "button_link": "https:\/\/grhf.getcommunal.com\/login",
+        "url_style": "button_1",
+        "enlarge_title": false,
+        "enlarge_text": false,
+        "text_alignment": "left",
+        "color_bg": "#dae4e6",
+        "color_text": "#333333"
+      }
+    },
+    "1656101370c446cd17": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<h3 style=\"text-align:center;\">Grand Welcome Volunteer Position Details<\/h3>"
+      }
+    },
+    "1643143933e06b2bac": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<div style=\"padding-bottom:2%;\"><p style=\"color:#333333;padding-right:2%;padding-left:2%\">Be a part of making Grand River Hospital a welcoming place for all. When patients and visitors arrive at the hospital, Grand Welcome Volunteers are their first point of contact. The focus of this role is to greet patients and set the tone for a positive patient experience while providing support through wayfinding or portering patients to appointments in the hospital. The primary responsibilities of a Grand Welcome Volunteer are as follows:<\/p>\n<ul style=\"color:#333333;padding-right:7%;padding-left:7%\">\n<li>● Greet and assist visitors and patients arriving at the hospital in a friendly and helpful manner <\/li>\n<li> ● Accompany visitors and patients to their destination throughout the hospital<\/li>\n<li> ● Porter patients requiring wheelchair assistance\n <\/li>\n<li>● Provide general information regarding hospital facilities and services\n <\/li> \n<li>● Ensure a supply of wheelchairs is available at the Main Lobby\n <\/li>\n<li>● Deliver flowers\/packages as needed, with a focus on assisting patients first<\/li>\n<\/ul>\n<p style=\"color:#333333;padding-right:2%;padding-left:2%\"> Grand Welcome Volunteer opportunities are available at the Kitchener-Waterloo Campus' Main Entrance, the Freeport Campus and Grand River Regional Cancer Centre and require a minimum of a six-month time commitment. Once you have registered through our volunteer portal, you will be able to schedule an interview with our volunteer team. All volunteers in the Grand Welcome program will then need to successfully complete a volunteer orientation and all necessary health and safety checks, including completing a vulnerable sector screening with your local police department, providing proof of vaccination for measles, mumps, rubella and COVID-19 and completing a two-step TB test. For more information about the onboarding process, visit our main <a href=http:\/\/grhf.ca\/pages\/volunteer>volunteer page<\/a>. <\/p>\n\n<p style=\"color:#333333;padding-right:2%;padding-left:2%\"><i>*Please note that Grand Welcome is not a mentorship opportunity, co-op program or opportunity to practice clinical skills. Grand Welcome Volunteers play an important role in their interactions with patients and visitors at the hospital, but they are not involved in observing physicians or performing clinical care.<\/i> \n<\/p>\n<\/div>"
+      }
+    },
+    "1651845310ff656e9c": {
+      "type": "image-with-text",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/GRH_June_2022-4.jpg",
+        "image_link": "",
+        "image_size": "0",
+        "image_position": "left",
+        "title": "",
+        "text": "<p>For more details about Grand River Hospital's volunteer program, access to our volunteer portal, answers to FAQs and our list of training resources, please visit our main volunteer page.<\/p>",
+        "button_label": "Return to Volunteer Page",
+        "button_link": "shopify:\/\/pages\/volunteer",
+        "url_style": "button_1",
+        "enlarge_title": false,
+        "enlarge_text": false,
+        "text_alignment": "center",
+        "color_bg": "#ecf1f2",
+        "color_text": "#333333"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "165392312540137d95",
+    "1656101370c446cd17",
+    "1643143933e06b2bac",
+    "1651845310ff656e9c"
+  ]
+}

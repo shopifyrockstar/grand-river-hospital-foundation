@@ -1,0 +1,241 @@
+
+{%- if section.settings.show_subscribe_form -%}
+<div class="wifi-subscribe-form">
+  
+  <img class="newsletter_icon_1 inline-photo show-on-scroll" src="{{ 'newsletter_icon_1.png' | asset_img_url }}" />
+  <img class="newsletter_icon_2 inline-photo show-on-scroll" src="{{ 'newsletter_icon_2.png' | asset_img_url }}" />
+  
+  <div class="page-footer__subscribe subscribe-form">
+    
+    <div class="subscribe_text_container">
+      
+
+      {%- if section.settings.subscribe_description != blank -%}
+      <div class="subscribe-form__heading">
+        {{- section.settings.subscribe_description -}}
+      </div>
+      {%- endif -%}
+      
+      
+      <div class="subscribe-form__text rte small-text">  
+        {{- section.settings.subscribe_title -}}
+      </div>
+      
+      <div class="subscribe_text_con">
+        {{- section.settings.subscribe_text -}}
+      </div>
+    </div>
+
+    {%- form 'customer' -%}
+    {%- if form.posted_successfully? -%}
+    <div class="subscribe-form__response footer-subscribe-form__response--success">
+      <h4>{{ 'layout.footer.subscribe_success' | t }}</h4>
+    </div>
+    {%- else -%}
+    {%- if form.errors -%}
+    <div class="subscribe-form__response">
+      {%- for field in form.errors -%}
+      <p class="error-message">{{ field | capitalize }} - {{ form.errors.messages[field] }}</p>
+      {%- endfor -%}
+    </div>
+    {%- endif -%}
+
+    <input type="hidden" id="contact_tags" name="contact[tags]" value="prospect,newsletter">
+    
+    <label class="subscribe-form__label" for="footer_mailinglist_email">
+          {{- section.settings.subscribe_label -}}
+    </label>
+    <div class="subscribe-form__inputs">
+      <div class="input-wrapper">
+        <input type="email" placeholder="e.g. mail@gmail.com" required class="subscribe-form__email required" value="" id="footer_mailinglist_email" name="contact[email]">
+      </div>
+      <button class="btn btn--secondary-- subscribe-form__submit" type="submit">
+        {{- section.settings.subscribe_button -}}
+      </button>
+    </div>
+    {%- endif -%}
+    {%- endform -%}
+  </div>
+</div>
+{%- endif -%}
+
+
+<footer class="page-footer" data-section-id="{{ section.id }}" data-section-type="footer">
+  <div class="page-footer__inner">
+    <div class="container">
+      <div class="page-width">
+        
+        <a href="{{ routes.root_url }}" class="site-footer-logo">
+          <meta itemprop="name" content="{{ shop.name }}">
+          {%- if section.settings.footer_logo != blank -%}            
+          	<img class="footer_logo" src="{{ section.settings.footer_logo | img_url: '200x' }}" />
+          {%- else -%}
+            {{ shop.name }}
+          {%- endif -%}
+        </a>
+        
+        <div class="contact_us">Contact us</div>
+                
+        <div class="page-footer__end">          
+          <div class="page-footer__blocks grid">
+            <div class="footer-block grid__item small-down--one-whole one-quarter">
+                <div class="f_text_1">
+                   {{ section.settings.f_text_1 }}
+                </div>
+                <div class="f_text_2">
+                   {{ section.settings.f_text_2 }}
+                </div>
+            </div>
+            <div class="footer-block grid__item small-down--one-whole one-quarter">
+                <div class="f_text_3">
+                   {{ section.settings.f_text_3 }}
+                </div>
+                <div class="f_text_4">
+                   {{ section.settings.f_text_4 }}
+                </div>                    
+            </div>
+            <div class="footer-block grid__item grid__item2 small-down--one-whole one-quarter">
+               <div class="f_text_5">
+                   {{ section.settings.f_text_5 }}
+                </div>
+                <div class="f_text_6">
+                   {{ section.settings.f_text_6 }}
+                </div>
+			</div>
+            <div class="footer-block footer-block-social grid__item grid__item2 grid__item3 small-down--one-whole one-quarter">
+               <div>
+                {%- assign small_linklist = section.settings.small_linklist -%}
+                {%- if linklists[small_linklist].links.size > 0 -%}
+                  <ul class="small-nav">
+                    {%- for link in linklists[small_linklist].links -%}
+                      {%- comment %}<locksmith:0a25>{% endcomment -%}
+                        {%- capture var %}{% render 'locksmith-variables', scope: 'subject', subject: link, subject_parent: linklists[small_linklist], variable: 'transparent' %}{% endcapture %}{% if var == "true" %}{% else %}{% continue %}{% endif -%}
+                      {%- comment %}</locksmith:0a25>{% endcomment -%}
+                      <li class="small-nav__item">
+                        <a class="small-nav__link" href="{{ link.url }}">{{ link.title }}</a>
+                      </li>
+                    {%- endfor -%}
+                  </ul>
+                {%- endif -%}
+
+              </div>
+              
+              <a class="footer_btn_text" href="{{ section.settings.footer_btn_url }}">{{ section.settings.footer_btn_text }}</a>
+              
+			</div>
+          </div>
+          
+          
+          
+          
+          
+
+
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>
+
+{% schema %}
+  {
+    "name": "Wifi footer",
+    "settings": [      
+      {
+        "type": "header",
+        "content": "Newsletter"
+      },
+      {
+        "type": "checkbox",
+        "id": "show_subscribe_form",
+        "label": "Show newsletter signup",
+        "default": true
+      },	  
+      {
+        "type": "text",
+        "id": "subscribe_description",
+        "label": "Subheading"
+      },		
+      {
+        "type": "text",
+        "id": "subscribe_title",
+        "label": "Heading",
+        "default": "Get updates"
+      },
+      {
+        "type": "richtext",
+        "id": "subscribe_text",
+        "label": "text"
+      },
+      {
+        "type": "text",
+        "id": "subscribe_label",
+        "label": "Label",
+        "default": "Email address"
+      },
+      {
+        "type": "text",
+        "id": "subscribe_button",
+        "label": "Submit button text",
+        "default": "Sign up"
+      },
+      {
+        "type": "header",
+        "content": "Footer content"
+      },
+	  {
+        "type": "image_picker",
+        "id": "footer_logo",
+        "label": "Image"
+      },
+      {
+        "type": "link_list",
+        "id": "small_linklist",
+        "label": "Secondary menu",
+        "info": "This menu won't show dropdown items"
+      },
+      {
+        "type": "richtext",
+        "id": "f_text_1",
+        "label": "Footer text 1"
+      },	  
+      {
+        "type": "richtext",
+        "id": "f_text_2",
+        "label": "Footer text 2"
+      },
+      {
+        "type": "richtext",
+        "id": "f_text_3",
+        "label": "Footer text 3"
+      },	  
+      {
+        "type": "richtext",
+        "id": "f_text_4",
+        "label": "Footer text 4"
+      },
+      {
+        "type": "richtext",
+        "id": "f_text_5",
+        "label": "Footer text 5"
+      },	  
+      {
+        "type": "richtext",
+        "id": "f_text_6",
+        "label": "Footer text 6"
+      },
+      {
+        "type": "text",
+        "id": "footer_btn_text",
+        "label": "Label",
+        "default": "Button text"
+      },
+	  {
+         "type": "url",
+         "id": "footer_btn_url",
+         "label": "Button Link"
+      }	
+    ]
+  }
+
+{% endschema %}

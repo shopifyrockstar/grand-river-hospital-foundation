@@ -9,10 +9,10 @@
     "1654721674af211037": {
       "type": "image-with-text",
       "settings": {
-        "image": "shopify:\/\/shop_images\/Image_with_Text_Med_-_Web.png",
+        "image": "shopify:\/\/shop_images\/MmFwqAMw.jpg",
         "image_link": "",
         "image_size": "0",
-        "image_position": "right",
+        "image_position": "left",
         "title": "Donate by Area of Care",
         "text": "<p>At Grand River Hospital Foundation, we want to ensure that your support of the Hospital reflects your experiences and priorities. To make it easy for supporters of all kinds, we have defined eight distinct Areas of Care that encompass the health services we offer: Cancer Care, Grand River Kids, Mental Health Care, Kidney Care, Continuum of Care, Emergency & Critical Care, Patience Experience and Learning + Innovation.<\/p>",
         "button_label": "",
@@ -20,8 +20,8 @@
         "url_style": "button_1",
         "enlarge_title": false,
         "enlarge_text": false,
-        "text_alignment": "left",
-        "color_bg": "#ECF1F2",
+        "text_alignment": "center",
+        "color_bg": "#ecf1f2",
         "color_text": "#333333"
       }
     },

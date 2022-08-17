@@ -1,7 +1,97 @@
 {
   "sections": {
+    "165765646353380882": {
+      "type": "banner",
+      "blocks": {
+        "1657656462b5c5bc75-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Thank_you_11.png",
+            "image_position": "center center",
+            "image_link": "",
+            "color_overlay_bg": "#ffffff",
+            "overlay_opacity": 80,
+            "color_overlay_text": "#333333",
+            "overlay_title": "",
+            "overlay_text": "",
+            "overlay_url_text_1": "",
+            "overlay_url_1": "",
+            "overlay_url_text_2": "",
+            "overlay_url_2": "",
+            "overlay_url_style": "button_1",
+            "enlarge_title": false,
+            "enlarge_text": false,
+            "overlay_position_x": 50,
+            "overlay_position_y": 80,
+            "color_label_background": "#ffffff",
+            "color_label_text": "#333333",
+            "show_chevron": true,
+            "product_id_1": "",
+            "chevron_position_1": "right",
+            "label_position_x_1": 20,
+            "label_position_y_1": 30,
+            "product_id_2": "",
+            "chevron_position_2": "right",
+            "label_position_x_2": 80,
+            "label_position_y_2": 50
+          }
+        },
+        "1657656462b5c5bc75-1": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "image_position": "center center",
+            "image_link": "",
+            "color_overlay_bg": "#ffffff",
+            "overlay_opacity": 80,
+            "color_overlay_text": "#333333",
+            "overlay_title": "Banner",
+            "overlay_text": "Use this full width section to welcome customers to your store, share some news or say something about your brand",
+            "overlay_url_text_1": "Optional buttons",
+            "overlay_url_1": "",
+            "overlay_url_text_2": "Optional buttons",
+            "overlay_url_2": "",
+            "overlay_url_style": "button_1",
+            "enlarge_title": false,
+            "enlarge_text": false,
+            "overlay_position_x": 50,
+            "overlay_position_y": 80,
+            "color_label_background": "#ffffff",
+            "color_label_text": "#333333",
+            "show_chevron": true,
+            "product_id_1": "",
+            "chevron_position_1": "right",
+            "label_position_x_1": 20,
+            "label_position_y_1": 30,
+            "product_id_2": "",
+            "chevron_position_2": "right",
+            "label_position_x_2": 80,
+            "label_position_y_2": 50
+          }
+        }
+      },
+      "block_order": [
+        "1657656462b5c5bc75-0",
+        "1657656462b5c5bc75-1"
+      ],
+      "settings": {
+        "height": "fixed",
+        "height_desktop": 500,
+        "height_mobile": 400,
+        "mobile_text_below": true,
+        "slideshow_autoplay": true,
+        "slideshow_autoplay_speed": 6
+      }
+    },
+    "16576625537f22ced2": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<h2 style=\"text-align:center;color:#333333;padding-bottom:15px;padding-top:35px;\">Want to be part of next year's event?<\/h2>\n<p style=\"text-align:center;color:#333333;padding-bottom:15px;padding-top:0x;\">Fill out the form below and let us know how you want to get involved.<\/p><div data-tf-widget=\"li52h6Vm\" data-tf-iframe-props=\"title=SY Road Hockey Future Interest\" data-tf-medium=\"snippet\" style=\"width:100%;height:400px;\"><\/div><script src=\"\/\/embed.typeform.com\/next\/embed.js\"><\/script>"
+      }
+    },
     "16512479011843aca1": {
       "type": "background-video",
+      "disabled": true,
       "settings": {
         "video": "https:\/\/cdn.shopify.com\/s\/files\/1\/0363\/5363\/8540\/files\/AnyConv.com__MensLondon.mp4",
         "cover_image": "shopify:\/\/shop_images\/Website_Banner_2048_x_1024_9.png",
@@ -12,10 +102,10 @@
         "overlay_opacity": 80,
         "color_overlay_text": "#333333",
         "overlay_title": "Scotland's Yard Road Hockey Classic",
-        "overlay_text": "Friday, July 8, 2022 at Catalyst 137 parking lot",
-        "overlay_url_text_1": "Register Now",
-        "overlay_url_1": "https:\/\/app.eventconnect.io\/events\/20758\/registration-type\/create?nav=hidden",
-        "overlay_url_text_2": "Donate to a team",
+        "overlay_text": "Friday, July 8, 2022 from 8 a.m to 6 p.m in the parking lot at Catalyst137 (137 Glasgow St, Kitchener, ON)",
+        "overlay_url_text_1": "Volunteer",
+        "overlay_url_1": "https:\/\/grhf.getcommunal.com\/volunteer-opportunities\/112",
+        "overlay_url_text_2": "Donate to a Team",
         "overlay_url_2": "shopify:\/\/collections\/sy-road-hockey-classic",
         "overlay_url_style": "button_2",
         "enlarge_title": false,
@@ -88,11 +178,45 @@
     },
     "main": {
       "type": "main-page",
+      "disabled": true,
       "settings": {
+      }
+    },
+    "1656343778fc2e1c36": {
+      "type": "featured-collection",
+      "disabled": true,
+      "settings": {
+        "title": "LAST CHANCE Silent Auction",
+        "enlarge_title": true,
+        "link_text": "BID NOW",
+        "collection": "single-auction",
+        "show_vendor": false,
+        "enable_carousel": true,
+        "grid": 4,
+        "row_count": 1,
+        "grid_mobile": "2"
+      }
+    },
+    "1647959892fc71857a": {
+      "type": "rich-text-left-and-centre",
+      "disabled": true,
+      "settings": {
+        "title": "Officially Sold Out",
+        "text": "<p>Thank you to all those who have registered and those who were interested — we have officially sold out of the first ever SY Road Hockey Classic! Spectators are welcome and encouraged on game day if you would like to come out and cheer on our local teams. See you on July 8th from 8 a.m. to 6 p.m. at Catalyst137!<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "url_style": "button_2",
+        "enlarge_title": false,
+        "enlarge_text": false,
+        "full_width": false,
+        "color_bg": "#1c75bc",
+        "color_title": "#ffffff",
+        "color_text": "#ffffff"
       }
     },
     "16512458306761c1c7": {
       "type": "image-gallery",
+      "disabled": true,
       "blocks": {
         "165124582945f03875-0": {
           "type": "image",
@@ -278,24 +402,41 @@
         "overlay_url_style": "button_1"
       }
     },
-    "1647959892fc71857a": {
-      "type": "rich-text-left-and-centre",
+    "165766214844c37716": {
+      "type": "rich-text",
       "settings": {
-        "title": "Corporate & Adult Division",
-        "text": "<p>After over two years of Zoom calls, we all need a little play time! <\/p><p>Get your colleagues together (yep…even the ones you haven’t met in person yet!) for a day of road hockey fun for a great cause.<\/p><p>It’s classic road hockey style without the “car!” Teams play 3-on-3 plus a goalie (that’s 7 players per team) on rinks half the size of NHL rinks. There’s real rink boards, nets, refs, music and a whole lot of fun!<\/p><p>It’s a great team building event. Hey, you might even discover that Melanie in accounting has a wicked slapshot or that nothing gets by Joel from engineering when he’s in net. It’s a game for all skill levels and all genders. <\/p><p>Grab your gear, your sticks and your team to take a shot at children’s cancer!<\/p><p>Team registration fee: $2000\/team<\/p><p>*No experience necessary<\/p>",
-        "button_label": "REGISTER NOW",
-        "button_link": "https:\/\/app.eventconnect.io\/events\/20758\/registration-type\/create?nav=hidden",
-        "url_style": "button_2",
+        "title": "2022 Photo Gallery",
+        "text": "<p>Check out some of the pictures our photographer and committee captured  the day of the tournament. <\/p>",
+        "button_label": "",
+        "button_link": "",
+        "url_style": "button_1",
         "enlarge_title": false,
         "enlarge_text": false,
         "full_width": false,
         "color_bg": "#1c75bc",
-        "color_title": "#ffffff",
-        "color_text": "#ffffff"
+        "color_title": "#fdfdfd",
+        "color_text": "#fdfdfd"
+      }
+    },
+    "165765724997fb51a7": {
+      "type": "apps",
+      "blocks": {
+        "1f53736e-cd43-42a8-8310-9afab6864c95": {
+          "type": "shopify:\/\/apps\/cozy-image-gallery\/blocks\/Cozy_Gallery_Block\/9808695d-eb84-434d-80d6-cfbcef2d7548",
+          "settings": {
+            "cz_img_gallery_code": "<div class=\"cz-embed-gallery\" id=\"cz-embed-gallery40905\"><!-- ALWAYS KEEP THIS EMPTY --><\/div>"
+          }
+        }
+      },
+      "block_order": [
+        "1f53736e-cd43-42a8-8310-9afab6864c95"
+      ],
+      "settings": {
       }
     },
     "1648226440423b38f7": {
       "type": "rich-text-left-and-centre",
+      "disabled": true,
       "settings": {
         "title": "Youth Division",
         "text": "<p><\/p><p>Calling all kids! Get your friends or family together for a day filled with road hockey fun. <\/p><p>Teams play in rinks half the size of NHL rinks with real rink boards, nets, refs, music and a whole lot of fun!<\/p><p>You get a three-game guarantee plus winning teams move on to the playoff rounds. <\/p><p>Teams ages 9-18 play 3-on-3 plus a goalie (total 7 players per team). Teams under 9 play 4-on-4 plus a goalie (9 players per team).<\/p><p>Team registration fee: $650\/team <\/p><p><\/p>",
@@ -313,7 +454,7 @@
     "165056743718acefc3": {
       "type": "image-with-text-overlay",
       "settings": {
-        "image": "shopify:\/\/shop_images\/iStock-854509514.jpg",
+        "image": "shopify:\/\/shop_images\/PXL_20220708_180335082_2.jpg",
         "image_link": "shopify:\/\/products\/donate-to-sy-road-hockey-classic",
         "image_position": "center center",
         "height": "adapt",
@@ -322,8 +463,8 @@
         "color_overlay_bg": "#ffffff",
         "overlay_opacity": 80,
         "color_overlay_text": "#333333",
-        "overlay_title": "Support the SY Road Hockey Classic",
-        "overlay_text": "Can't participate in the SY Road Hockey Classic but still looking to support us?Consider making a donation today!",
+        "overlay_title": "Support the Scotland's Yard Road Hockey Classic",
+        "overlay_text": "Consider making a donation today to help Scotland's Yard enhance care for children in our community.",
         "overlay_url_text_1": "Donate Now",
         "overlay_url_1": "https:\/\/grhf.ca\/products\/donate-to-sy-road-hockey-classic",
         "overlay_url_text_2": "",
@@ -347,23 +488,9 @@
         "label_position_y_2": 50
       }
     },
-    "1649775829796ca185": {
-      "type": "featured-product",
-      "settings": {
-        "product": "sponsor-a-rink-board",
-        "description": "<p>Show your support for children's cancer care with a rink board sponsorship<\/p>",
-        "show_vendor": false,
-        "url_style": "button_2",
-        "enlarge_title": false,
-        "enlarge_text": false,
-        "section_background_colour": "#dae4e6",
-        "section_text_colour": "#333333",
-        "enable_video_looping": false,
-        "layout": "image_before"
-      }
-    },
     "1647960706abf0a6ed": {
       "type": "featured-collection",
+      "disabled": true,
       "settings": {
         "title": "Our Top Fundraising Teams",
         "enlarge_title": false,
@@ -379,6 +506,24 @@
     "1655134991b101a63d": {
       "type": "logo-list-give",
       "blocks": {
+        "b0326a7f-d553-4be6-a5c9-f8b4577e448b": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/MB.png",
+            "image_width": 280,
+            "link": "",
+            "title": ""
+          }
+        },
+        "d9a1967a-e82b-4bdf-b8c3-9860cf98d2e1": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Steed_and_Evans.png",
+            "image_width": 280,
+            "link": "",
+            "title": ""
+          }
+        },
         "1655134991aac6d2e7-0": {
           "type": "logo",
           "settings": {
@@ -478,15 +623,6 @@
             "title": ""
           }
         },
-        "d9a1967a-e82b-4bdf-b8c3-9860cf98d2e1": {
-          "type": "logo",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Steed_and_Evans.png",
-            "image_width": 160,
-            "link": "",
-            "title": ""
-          }
-        },
         "34fc5485-30ae-4afa-be6a-f4f2071611e1": {
           "type": "logo",
           "settings": {
@@ -545,15 +681,6 @@
           "type": "logo",
           "settings": {
             "image": "shopify:\/\/shop_images\/Sky_Physio.png",
-            "image_width": 160,
-            "link": "",
-            "title": ""
-          }
-        },
-        "b0326a7f-d553-4be6-a5c9-f8b4577e448b": {
-          "type": "logo",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/MB.png",
             "image_width": 160,
             "link": "",
             "title": ""
@@ -831,6 +958,8 @@
         }
       },
       "block_order": [
+        "b0326a7f-d553-4be6-a5c9-f8b4577e448b",
+        "d9a1967a-e82b-4bdf-b8c3-9860cf98d2e1",
         "1655134991aac6d2e7-0",
         "1655134991aac6d2e7-1",
         "1655134991aac6d2e7-2",
@@ -842,7 +971,6 @@
         "0fe16285-b0ec-4b2d-9044-5316f3efe832",
         "94155255-c030-4749-b733-98fd57e12f21",
         "35b848c8-6972-4c74-83c6-891d33c63350",
-        "d9a1967a-e82b-4bdf-b8c3-9860cf98d2e1",
         "34fc5485-30ae-4afa-be6a-f4f2071611e1",
         "f31e1c8c-b61e-4caf-a5e1-eedf3176d53c",
         "fcc915cb-85d7-4d09-8832-242dcf193aa0",
@@ -850,7 +978,6 @@
         "5976f931-6779-4a36-879a-01eadeadedec",
         "c84e5771-d58b-4ca9-87c0-1277125b6096",
         "a8673b8e-4b62-48c9-8c2a-4f20d3164f0f",
-        "b0326a7f-d553-4be6-a5c9-f8b4577e448b",
         "5a57d30a-4a47-4b76-a788-396ecd6f6bbb",
         "445071ac-fb21-4eda-b5b5-4ced747d06d4",
         "406df8a9-9ffa-4a21-8dbd-683fda7a6a94",
@@ -892,32 +1019,31 @@
         "image_opacity": 75
       }
     },
-    "16551372992328a79d": {
+    "1657034287d8f631d1": {
       "type": "logo-list-give",
       "blocks": {
-        "165513729996694c68-0": {
+        "4ff180fc-010b-4a83-a3fe-13ca221099ca": {
           "type": "logo",
-          "disabled": true,
           "settings": {
-            "image": "shopify:\/\/shop_images\/SYRHC_Logos_1.png",
+            "image": "shopify:\/\/shop_images\/SYRHC_Logos_2.png",
             "image_width": 160,
             "link": "",
             "title": ""
           }
         },
-        "165513729996694c68-1": {
+        "1657034287c97c39d4-1": {
           "type": "logo",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Catalyst_137.png",
+            "image": "shopify:\/\/shop_images\/SYRHC_Logos_3.png",
             "image_width": 160,
             "link": "",
             "title": ""
           }
         },
-        "d40d92b8-c21c-49bd-893a-fcfb2af5e8b0": {
+        "55035ca0-64e8-475b-89d9-8ae46bb07508": {
           "type": "logo",
           "settings": {
-            "image": "shopify:\/\/shop_images\/AEC.png",
+            "image": "shopify:\/\/shop_images\/SYRHC_Logos_4.png",
             "image_width": 160,
             "link": "",
             "title": ""
@@ -925,12 +1051,12 @@
         }
       },
       "block_order": [
-        "165513729996694c68-0",
-        "165513729996694c68-1",
-        "d40d92b8-c21c-49bd-893a-fcfb2af5e8b0"
+        "4ff180fc-010b-4a83-a3fe-13ca221099ca",
+        "1657034287c97c39d4-1",
+        "55035ca0-64e8-475b-89d9-8ae46bb07508"
       ],
       "settings": {
-        "title": "Logo list",
+        "title": "",
         "color_bg": "#dae4e6",
         "color_title": "#333333",
         "color_text": "#333333",
@@ -941,16 +1067,20 @@
     }
   },
   "order": [
+    "165765646353380882",
+    "16576625537f22ced2",
     "16512479011843aca1",
     "1647956359e1701bc6",
     "main",
-    "16512458306761c1c7",
+    "1656343778fc2e1c36",
     "1647959892fc71857a",
+    "16512458306761c1c7",
+    "165766214844c37716",
+    "165765724997fb51a7",
     "1648226440423b38f7",
     "165056743718acefc3",
-    "1649775829796ca185",
     "1647960706abf0a6ed",
     "1655134991b101a63d",
-    "16551372992328a79d"
+    "1657034287d8f631d1"
   ]
 }

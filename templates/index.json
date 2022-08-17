@@ -244,16 +244,16 @@
         "7bf6ddd2-8160-4e5d-9cad-7d8f6c6b6a39": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/wTWMMvag.jpg",
-            "image_position": "center center",
+            "image": "shopify:\/\/shop_images\/golf-bag-with-clubs-at-golf-course.jpg",
+            "image_position": "top center",
             "image_link": "",
             "color_overlay_bg": "#ffffff",
             "overlay_opacity": 80,
             "color_overlay_text": "#333333",
-            "overlay_title": "",
-            "overlay_text": "Volunteer at Grand River's Gift Shop, and help patients, families and staff alike. The Gift Shop raises funds in support of patient experience at the hospital.",
-            "overlay_url_text_1": "Learn more",
-            "overlay_url_1": "shopify:\/\/blogs\/grand-ideas\/gift-shop-volunteer",
+            "overlay_title": "Short Grass Golf Tournament Presented by AirBoss",
+            "overlay_text": "You are invited to join us to make the vision for Scotland's Yard a reality in this brand new, high-quality golf tournament designed for busy corporate leaders. ",
+            "overlay_url_text_1": "Learn More",
+            "overlay_url_1": "shopify:\/\/pages\/shortgrass",
             "overlay_url_text_2": "",
             "overlay_url_2": "",
             "overlay_url_style": "button_1",
@@ -316,11 +316,12 @@
     },
     "1652812435c5e3e940": {
       "type": "rich-text",
+      "disabled": true,
       "settings": {
         "title": "Scotland's Yard Road Hockey Classic",
         "text": "<p>On Friday, July 8th we will be hosting the first ever Scotland’s Yard Road Hockey Classic at Catalyst 137. <\/p><p>There will be many NHL players, OHL players and other professional hockey players in attendance like co-chair Ben Chiarot as well as Mike Hoffman, Nick Suzuki, Logan Stanley, Boris Katchouk, Dennis Wideman to name a few. <\/p><p>Scotland’s Yard is an initiative in partnership with Grand River Hospital to improve children’s cancer care. <\/p><p><\/p>",
-        "button_label": "SOLD OUT!",
-        "button_link": "https:\/\/app.eventconnect.io\/events\/20758\/registration-type\/create?nav=hidden",
+        "button_label": "CHECK IT OUT",
+        "button_link": "shopify:\/\/pages\/about-sy-road-hockey-classic",
         "url_style": "button_1",
         "enlarge_title": false,
         "enlarge_text": false,
@@ -332,6 +333,7 @@
     },
     "1652812085c59edad7": {
       "type": "image-gallery",
+      "disabled": true,
       "blocks": {
         "165281208457c1585b-0": {
           "type": "image",
@@ -452,12 +454,6 @@
     "collection-list": {
       "type": "collection-list",
       "blocks": {
-        "collection-0": {
-          "type": "collection",
-          "settings": {
-            "collection": "scotlands-yard"
-          }
-        },
         "collection-1": {
           "type": "collection",
           "settings": {
@@ -470,17 +466,31 @@
             "collection": "bibliotake"
           }
         },
+        "bbc61101-400e-4702-a67c-d00c0458a64f": {
+          "type": "collection",
+          "settings": {
+            "collection": "shop"
+          }
+        },
+        "collection-0": {
+          "type": "collection",
+          "settings": {
+            "collection": "scotlands-yard"
+          }
+        },
         "collection-2": {
           "type": "collection",
+          "disabled": true,
           "settings": {
             "collection": "grandserve"
           }
         }
       },
       "block_order": [
-        "collection-0",
         "collection-1",
         "collection-3",
+        "bbc61101-400e-4702-a67c-d00c0458a64f",
+        "collection-0",
         "collection-2"
       ],
       "settings": {
@@ -492,10 +502,10 @@
     "featured-blog": {
       "type": "featured-blog",
       "settings": {
-        "heading_image": "shopify:\/\/shop_images\/qfUr9JVg_d74e8b37-621d-4791-87ab-8ef1d258ca11.jpg",
+        "heading_image": "shopify:\/\/shop_images\/KwHiJPDQ.jpg",
         "image_position": "center center",
         "title": "Grand Ideas",
-        "description": "Because Care. Never. Stops. at Grand River Hospital",
+        "description": "Your stories at Grand River Hospital",
         "color_overlay_bg": "#ffffff",
         "overlay_opacity": 80,
         "color_overlay_text": "#333333",
