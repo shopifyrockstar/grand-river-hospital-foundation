@@ -55,9 +55,9 @@
 
           {% for item in search.results %}
 
-            {%- comment %}<locksmith:face>{% endcomment -%}
+            {%- comment %}<locksmith:9173>{% endcomment -%}
               {%- capture var %}{% render 'locksmith-variables', scope: 'subject', subject: item, subject_parent: search, variable: 'transparent' %}{% endcapture %}{% if var == "true" %}{% else %}{% continue %}{% endif -%}
-            {%- comment %}</locksmith:face>{% endcomment -%}
+            {%- comment %}</locksmith:9173>{% endcomment -%}
 
             {% if item.object_type == 'product' %}
 

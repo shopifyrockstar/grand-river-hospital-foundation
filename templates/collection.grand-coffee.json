@@ -1,0 +1,93 @@
+{
+  "sections": {
+    "aad3fa2c-d95f-48ec-bc73-c586fe54de1e": {
+      "type": "banner",
+      "blocks": {
+        "template--15778416099468__aad3fa2c-d95f-48ec-bc73-c586fe54de1e-16673929140e2bbcde-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/coffee-cup-full-in-beans.jpg",
+            "image_position": "center center",
+            "image_link": "",
+            "color_overlay_bg": "#ffffff",
+            "overlay_opacity": 80,
+            "color_overlay_text": "#333333",
+            "overlay_title": "",
+            "overlay_text": "A jolt of caffine for yourself or one of our frontline staff members.",
+            "overlay_url_text_1": "Buy IV Drip Coffee",
+            "overlay_url_1": "shopify:\/\/products\/iv-drip-coffee",
+            "overlay_url_text_2": "",
+            "overlay_url_2": "",
+            "overlay_url_style": "button_2",
+            "enlarge_title": false,
+            "enlarge_text": false,
+            "overlay_position_x": 50,
+            "overlay_position_y": 45,
+            "color_label_background": "#ffffff",
+            "color_label_text": "#333333",
+            "show_chevron": true,
+            "product_id_1": "",
+            "chevron_position_1": "right",
+            "label_position_x_1": 20,
+            "label_position_y_1": 30,
+            "product_id_2": "",
+            "chevron_position_2": "right",
+            "label_position_x_2": 80,
+            "label_position_y_2": 50
+          }
+        }
+      },
+      "block_order": [
+        "template--15778416099468__aad3fa2c-d95f-48ec-bc73-c586fe54de1e-16673929140e2bbcde-0"
+      ],
+      "settings": {
+        "height": "fixed",
+        "height_desktop": 500,
+        "height_mobile": 400,
+        "mobile_text_below": true,
+        "slideshow_autoplay": true,
+        "slideshow_autoplay_speed": 6
+      }
+    },
+    "main": {
+      "type": "left-aligned-collection",
+      "settings": {
+        "enable_feature_header": false,
+        "grid": 4,
+        "grid_mobile": "2",
+        "pagination_limit": 12,
+        "show_total": true,
+        "ajax_products": true,
+        "show_vendor": false,
+        "show_filters": true,
+        "show_filter_prod_counts": true,
+        "show_sort_by": true,
+        "show_featured": false
+      }
+    },
+    "caf0de73-dd03-457e-934d-25846e13fb51": {
+      "type": "image-with-text",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/maxresdefault_1.jpg",
+        "image_link": "",
+        "image_size": "0",
+        "image_position": "left",
+        "title": "Virtual Coffee with the CEO",
+        "text": "<p>Want to share your opinion on the future of health care? <\/p><p>Chat about the latest season of Dr. Who? <\/p><p>Maybe just say hello?<\/p><p>Grand River Hospital Foundation CEO Paul McIntyre Royston (known as PMR in these parts) would love to get a virtual coffee with you.<\/p>",
+        "button_label": "Book Now",
+        "button_link": "https:\/\/calendly.com\/grhf\/15?back=1&month=2022-11",
+        "url_style": "button_1",
+        "enlarge_title": false,
+        "enlarge_text": false,
+        "text_alignment": "center",
+        "color_bg": "#000000",
+        "color_text": "#ffffff"
+      }
+    }
+  },
+  "order": [
+    "aad3fa2c-d95f-48ec-bc73-c586fe54de1e",
+    "main",
+    "caf0de73-dd03-457e-934d-25846e13fb51"
+  ]
+}

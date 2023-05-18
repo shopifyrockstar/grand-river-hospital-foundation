@@ -1,0 +1,205 @@
+{
+  "sections": {
+    "199a017a-f263-4505-b5a8-fbf955618376": {
+      "type": "wifi-banner",
+      "disabled": true,
+      "settings": {
+        "image_mobile": "shopify:\/\/shop_images\/in_celebrating_and_shaping_the_future_of_our_health_system-together._2.png",
+        "image_link": "",
+        "image_position": "center center",
+        "height": "adapt",
+        "height_desktop": 460,
+        "height_mobile": 500,
+        "color_overlay_bg": "#000000",
+        "overlay_opacity": 100,
+        "color_overlay_text": "#ffffff",
+        "overlay_title": "",
+        "overlay_text": "",
+        "overlay_url_text_1": "",
+        "overlay_url_1": "",
+        "overlay_url_text_2": "",
+        "overlay_url_2": "",
+        "overlay_url_style": "button_1",
+        "enlarge_title": false,
+        "enlarge_text": true,
+        "mobile_text_below": false,
+        "color_label_background": "#ffffff",
+        "color_label_text": "#333333",
+        "show_chevron": false,
+        "product_id_1": "",
+        "chevron_position_1": "right",
+        "label_position_x_1": 40,
+        "label_position_y_1": 50,
+        "product_id_2": "",
+        "chevron_position_2": "right",
+        "label_position_x_2": 80,
+        "label_position_y_2": 50
+      }
+    },
+    "f668bf0b-391f-48f1-9bf0-536a6584387e": {
+      "type": "rich-text-left-and-centre",
+      "disabled": true,
+      "custom_css": [
+
+      ],
+      "settings": {
+        "title": "Care Never Stops Week",
+        "text": "<p>We are shaping the future of our community: an inclusive, compassionate, and welcoming environment where we take care of each other. This remarkable shift has gained significant momentum in the past two years and has strong foundational support in our community.<\/p><p>That is why—with great enthusiasm—we are introducing ‘Care Never Stops’ through a week-long series of events and activities. The aim is to inspire and bring people together to achieve the goal of creating a world class health system in our own backyard. The time is now to harness the desire for better health care that exists in our community.<\/p><p><strong>Join us in celebrating and shaping the future of our health system—together.<br\/><br\/>Click on any of the events below to learn more information.<\/strong><\/p>",
+        "button_label": "",
+        "button_link": "",
+        "url_style": "button_1",
+        "enlarge_title": false,
+        "enlarge_text": false,
+        "full_width": false,
+        "color_bg": "#ffffff",
+        "color_title": "#333333",
+        "color_text": "#333333"
+      }
+    },
+    "6866cd8f-d7d7-4f28-bb38-e1461dfbf8cd": {
+      "type": "rich-text",
+      "custom_css": [
+        "p {text-align: left;}"
+      ],
+      "settings": {
+        "title": "Care Never Stops Week",
+        "text": "<p>Care Never Stops Week is a celebration of our community's dedication to the future of local health care and marks the official launch of Grand River Hospital Foundation’s $258 million Care Never Stops Campaign.<\/p><p>From May 23 to 28, this week-long series of events will engage and inspire the members of our community, bringing them together for a common cause and shared vision: a world class health system right here in Waterloo Region. It is a celebration of the greatness that already exists within our local health system while also championing the need to take it to the next level.<\/p><p>Care Never Stops Week events include <a href=\"https:\/\/grhf.ca\/pages\/mural-for-heroes\" title=\"https:\/\/grhf.ca\/pages\/mural-for-heroes\">Mural for Heroes<\/a>, the <a href=\"https:\/\/grhf.ca\/pages\/launch-of-after-dark\" title=\"https:\/\/grhf.ca\/pages\/launch-of-after-dark\">Launch of After Dark<\/a>, the <a href=\"https:\/\/grhf.ca\/pages\/health-innovation-challenge\" title=\"https:\/\/grhf.ca\/pages\/health-innovation-challenge\">Health Innovation Challenge<\/a>, the <a href=\"https:\/\/grhf.ca\/pages\/ai-in-health\" title=\"https:\/\/grhf.ca\/pages\/ai-in-health\">AI In Health Talk<\/a>, the <a href=\"https:\/\/grhf.ca\/pages\/rally-for-health\" title=\"https:\/\/grhf.ca\/pages\/rally-for-health\">Rally for Health<\/a>, and more. <\/p><p>Building on a remarkable shift in health care and the foundational support the community has shown for our health care workers and health system over the past few years, the Care Never Stops Campaign strives to rally our communities for a world class health system right here. With the help of our incredible supporters, we’ve already raised $232 million towards the Care Never Stops Campaign to invest in our community's health and well-being.<\/p>",
+        "button_label": "View the Care Never Stops Week Sponsorship Opportunities",
+        "button_link": "https:\/\/cdn.shopify.com\/s\/files\/1\/0363\/5363\/8540\/files\/Official_Care_Never_Stops_Week_Deck.pdf?v=1683662765",
+        "url_style": "button_1",
+        "enlarge_title": true,
+        "enlarge_text": false,
+        "full_width": false,
+        "color_bg": "#ffffff",
+        "color_title": "#333333",
+        "color_text": "#333333"
+      }
+    },
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "custom_css": [
+        "h1 {display: none;}"
+      ],
+      "settings": {
+      }
+    },
+    "0cdee890-a50c-429a-be72-170a11e38b08": {
+      "type": "banner",
+      "blocks": {
+        "template--15873260748940__0cdee890-a50c-429a-be72-170a11e38b08-1675704870c901718f-0": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Untitled_design_cd4a048f-a12b-4d33-b3c2-5c722cccee5b.png",
+            "image_position": "bottom center",
+            "image_link": "",
+            "color_overlay_bg": "#ffffff",
+            "overlay_opacity": 80,
+            "color_overlay_text": "#333333",
+            "overlay_title": "",
+            "overlay_text": "",
+            "overlay_url_text_1": "",
+            "overlay_url_1": "",
+            "overlay_url_text_2": "",
+            "overlay_url_2": "",
+            "overlay_url_style": "button_1",
+            "enlarge_title": false,
+            "enlarge_text": false,
+            "overlay_position_x": 50,
+            "overlay_position_y": 80,
+            "color_label_background": "#ffffff",
+            "color_label_text": "#333333",
+            "show_chevron": true,
+            "product_id_1": "",
+            "chevron_position_1": "right",
+            "label_position_x_1": 20,
+            "label_position_y_1": 30,
+            "product_id_2": "",
+            "chevron_position_2": "right",
+            "label_position_x_2": 80,
+            "label_position_y_2": 50
+          }
+        },
+        "992981b1-370f-4743-b33a-26c6ffcd7a1f": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Untitled_design_1_f3f5c41b-045f-427c-b6e2-e08e6ef1c7c4.png",
+            "image_position": "center center",
+            "image_link": "",
+            "color_overlay_bg": "#ffffff",
+            "overlay_opacity": 80,
+            "color_overlay_text": "#333333",
+            "overlay_title": "",
+            "overlay_text": "",
+            "overlay_url_text_1": "",
+            "overlay_url_1": "",
+            "overlay_url_text_2": "",
+            "overlay_url_2": "",
+            "overlay_url_style": "button_1",
+            "enlarge_title": false,
+            "enlarge_text": false,
+            "overlay_position_x": 50,
+            "overlay_position_y": 80,
+            "color_label_background": "#ffffff",
+            "color_label_text": "#333333",
+            "show_chevron": true,
+            "product_id_1": "",
+            "chevron_position_1": "right",
+            "label_position_x_1": 20,
+            "label_position_y_1": 30,
+            "product_id_2": "",
+            "chevron_position_2": "right",
+            "label_position_x_2": 80,
+            "label_position_y_2": 50
+          }
+        }
+      },
+      "block_order": [
+        "template--15873260748940__0cdee890-a50c-429a-be72-170a11e38b08-1675704870c901718f-0",
+        "992981b1-370f-4743-b33a-26c6ffcd7a1f"
+      ],
+      "settings": {
+        "height": "adapt",
+        "height_desktop": 500,
+        "height_mobile": 400,
+        "mobile_text_below": true,
+        "slideshow_autoplay": false,
+        "slideshow_autoplay_speed": 6
+      }
+    },
+    "167779628644bb7c2c": {
+      "type": "apps",
+      "blocks": {
+        "03e7aee4-3a03-4066-b7c9-36a521bdcfe2": {
+          "type": "shopify:\/\/apps\/cozy-image-gallery\/blocks\/Cozy_Gallery_Block\/9808695d-eb84-434d-80d6-cfbcef2d7548",
+          "settings": {
+            "cz_img_gallery_code": "<div class=\"cz-embed-gallery\" id=\"cz-embed-gallery46064\"><!-- ALWAYS KEEP THIS EMPTY --><\/div>"
+          }
+        }
+      },
+      "block_order": [
+        "03e7aee4-3a03-4066-b7c9-36a521bdcfe2"
+      ],
+      "settings": {
+      }
+    },
+    "c97a8ed7-dcaa-48c3-b3da-03b2fa362f68": {
+      "type": "custom-liquid",
+      "disabled": true,
+      "settings": {
+        "custom_liquid": "<div class=\"ae-emd-cal\" data-calendar=\"NJ581045\" data-configure=\"false\"><\/div><script type=\"text\/javascript\">(function(){var e = document.createElement(\"script\");e.type = \"text\/javascript\";e.async = true;e.src = \"https:\/\/cdn.addevent.com\/libs\/cal\/js\/cal.embed.t1.init.js\";e.className = \"ae-emd-script\";document.getElementsByTagName(\"body\")[0].appendChild(e);})();<\/script>"
+      }
+    }
+  },
+  "order": [
+    "199a017a-f263-4505-b5a8-fbf955618376",
+    "f668bf0b-391f-48f1-9bf0-536a6584387e",
+    "6866cd8f-d7d7-4f28-bb38-e1461dfbf8cd",
+    "main",
+    "0cdee890-a50c-429a-be72-170a11e38b08",
+    "167779628644bb7c2c",
+    "c97a8ed7-dcaa-48c3-b3da-03b2fa362f68"
+  ]
+}

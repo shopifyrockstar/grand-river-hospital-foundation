@@ -1,0 +1,361 @@
+{
+  "sections": {
+    "4a871b8e-a9bd-4cf4-a5e3-60dd33f0308a": {
+      "type": "banner",
+      "blocks": {
+        "template--15781179457676__4a871b8e-a9bd-4cf4-a5e3-60dd33f0308a-16795803272e004855-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/kd.jpg",
+            "image_position": "center center",
+            "image_link": "",
+            "color_overlay_bg": "#ffffff",
+            "overlay_opacity": 88,
+            "color_overlay_text": "#333333",
+            "overlay_title": "Donation",
+            "overlay_text": "Can't attend but would like to donate?",
+            "overlay_url_text_1": "Donate Here",
+            "overlay_url_1": "shopify:\/\/products\/donate-to-the-grand-derby",
+            "overlay_url_text_2": "",
+            "overlay_url_2": "",
+            "overlay_url_style": "button_1",
+            "enlarge_title": false,
+            "enlarge_text": false,
+            "overlay_position_x": 50,
+            "overlay_position_y": 80,
+            "color_label_background": "#ffffff",
+            "color_label_text": "#333333",
+            "show_chevron": true,
+            "product_id_1": "",
+            "chevron_position_1": "right",
+            "label_position_x_1": 20,
+            "label_position_y_1": 30,
+            "product_id_2": "",
+            "chevron_position_2": "right",
+            "label_position_x_2": 80,
+            "label_position_y_2": 50
+          }
+        }
+      },
+      "block_order": [
+        "template--15781179457676__4a871b8e-a9bd-4cf4-a5e3-60dd33f0308a-16795803272e004855-1"
+      ],
+      "settings": {
+        "height": "fixed",
+        "height_desktop": 500,
+        "height_mobile": 400,
+        "mobile_text_below": true,
+        "slideshow_autoplay": true,
+        "slideshow_autoplay_speed": 6
+      }
+    },
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+      }
+    },
+    "1647959892fc71857a": {
+      "type": "rich-text-left-and-centre",
+      "settings": {
+        "title": "Event Details",
+        "text": "<p><strong>Date:<\/strong> Saturday, May 6th, 2023<\/p><p><strong>Time:<\/strong> 4:00pm - 11:00pm<\/p><p><strong>Venue<\/strong>: a Private Country Estate<\/p><p><strong>This bespoke experience is limited to 100 guests<\/strong><\/p><p>First to the gate ticket price is $1,000 per person. Tickets purchased after March 1st will be $1,500 per person (includes tax receipt for a portion of ticket price)<\/p><p>All proceeds support Scotland’s Yard, enhancing kids cancer care in Waterloo Region<\/p><p>Dress to impress! A complete Kentucky Derby experience with betting, hats, food, mint juleps, bourbon, live musical entertainment, and more!<\/p><p>Location and transportation details will be revealed closer to the date. <\/p>",
+        "button_label": "",
+        "button_link": "",
+        "url_style": "button_2",
+        "enlarge_title": false,
+        "enlarge_text": false,
+        "full_width": false,
+        "color_bg": "#1c75bc",
+        "color_title": "#ffffff",
+        "color_text": "#ffffff"
+      }
+    },
+    "b219b59b-83f3-42f4-888c-329b1e160090": {
+      "type": "image-with-text",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Feeling_Passionate.png",
+        "image_link": "",
+        "image_size": "0",
+        "image_position": "left",
+        "title": "RSVP",
+        "text": "<p>Spots are limited to 100 guests.<\/p>",
+        "button_label": "SOLD OUT",
+        "button_link": "shopify:\/\/products\/the-grand-derby",
+        "url_style": "button_2",
+        "enlarge_title": false,
+        "enlarge_text": false,
+        "text_alignment": "center",
+        "color_bg": "#ec008c",
+        "color_text": "#ffffff"
+      }
+    },
+    "8f3b40e5-9464-4365-897f-be7a8baa616d": {
+      "type": "logo-list-give",
+      "blocks": {
+        "template--15781179457676__8f3b40e5-9464-4365-897f-be7a8baa616d-167845750865a4fe40-2": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Untitled_design_2_d08d2c7e-7100-4905-bf2f-b22e29b58b0f.png",
+            "image_width": 230,
+            "link": "",
+            "title": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--15781179457676__8f3b40e5-9464-4365-897f-be7a8baa616d-167845750865a4fe40-2"
+      ],
+      "settings": {
+        "title": "Presenting Sponsor",
+        "color_bg": "#f2f2f2",
+        "color_title": "#333333",
+        "color_text": "#333333",
+        "enlarge_title": false,
+        "enlarge_text": false,
+        "image_opacity": 75
+      }
+    },
+    "592b2b19-5f1e-423b-a899-8b6d5ef79cea": {
+      "type": "logo-list",
+      "blocks": {
+        "template--15781179457676__592b2b19-5f1e-423b-a899-8b6d5ef79cea-1681398927cdcdb2ce-0": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/cookhomes_logo_300.png",
+            "image_width": 160,
+            "link": "",
+            "title": ""
+          }
+        },
+        "4cf489e3-76cc-4a27-b111-43cd68be8323": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/willibald.png",
+            "image_width": 160,
+            "link": "",
+            "title": ""
+          }
+        },
+        "2735cae0-b475-45fa-9aae-c6f61afca0d1": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/PLP_Logo_4C.png",
+            "image_width": 160,
+            "link": "",
+            "title": ""
+          }
+        },
+        "d0682c77-304e-4194-9781-8f567bac57bf": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Insight_Eye_Care_1.png",
+            "image_width": 160,
+            "link": "",
+            "title": ""
+          }
+        },
+        "2e378328-8712-4f21-b9b6-ebeb57577356": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/fiddleheads_logo_1.png",
+            "image_width": 160,
+            "link": "",
+            "title": ""
+          }
+        },
+        "436238cd-2bd6-4233-847d-7f5cd365af44": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/LHD_Logo_RGB_Vertical_Lockup_Black.png",
+            "image_width": 160,
+            "link": "",
+            "title": ""
+          }
+        },
+        "7d87e071-019a-41e3-a018-a6570994a6b7": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Channer_s_Logo.png",
+            "image_width": 160,
+            "link": "",
+            "title": ""
+          }
+        },
+        "fe46b6ac-88ca-4c61-8f2b-fc8d5f2e5178": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/2_104bba08-7d7a-4c8a-8e69-da737015ddd1.png",
+            "image_width": 160,
+            "link": "",
+            "title": ""
+          }
+        },
+        "9754e62d-18c6-429e-bb43-43264bd875d3": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Untitled_design_9ebf2b94-ca1e-4b2b-809b-90bb3538e359.png",
+            "image_width": 160,
+            "link": "",
+            "title": ""
+          }
+        },
+        "template--15781179457676__592b2b19-5f1e-423b-a899-8b6d5ef79cea-1681398927cdcdb2ce-2": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Makeup_Artist.png",
+            "image_width": 160,
+            "link": "",
+            "title": ""
+          }
+        },
+        "template--15781179457676__592b2b19-5f1e-423b-a899-8b6d5ef79cea-1681398927cdcdb2ce-1": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/DDS_a1efa7da-c39a-4578-846d-6d2bae5d3bb4.png",
+            "image_width": 160,
+            "link": "",
+            "title": ""
+          }
+        },
+        "34c25bfd-1886-4392-9871-4d1607e806b6": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Erban_Corner.png",
+            "image_width": 160,
+            "link": "",
+            "title": ""
+          }
+        },
+        "baa911f4-dc18-46a5-8911-06d6ebb1fff5": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/RJ-contact-2022-navy.png",
+            "image_width": 160,
+            "link": "",
+            "title": ""
+          }
+        },
+        "67ae6958-bafa-45ae-b028-bad957a4ab3e": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/401group-logo2x.png",
+            "image_width": 160,
+            "link": "",
+            "title": ""
+          }
+        },
+        "e3a4f850-c910-4cfd-b83c-fa1c204be0e3": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/REMAX_Twin_City_Logo.png",
+            "image_width": 160,
+            "link": "",
+            "title": ""
+          }
+        },
+        "2957d9e7-2d95-4c32-8ac6-6f6f0b73cfb3": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Untitled_design_1_dbfb1cf9-1e3b-43bb-ac01-c0e1fd0e4f10.png",
+            "image_width": 160,
+            "link": "",
+            "title": ""
+          }
+        },
+        "8d25a168-cd35-463e-b138-7852e21ba6c3": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/f-217023-BASD-Brand-Logo-RGB-BLK.jpg",
+            "image_width": 160,
+            "link": "",
+            "title": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--15781179457676__592b2b19-5f1e-423b-a899-8b6d5ef79cea-1681398927cdcdb2ce-0",
+        "4cf489e3-76cc-4a27-b111-43cd68be8323",
+        "2735cae0-b475-45fa-9aae-c6f61afca0d1",
+        "d0682c77-304e-4194-9781-8f567bac57bf",
+        "2e378328-8712-4f21-b9b6-ebeb57577356",
+        "436238cd-2bd6-4233-847d-7f5cd365af44",
+        "7d87e071-019a-41e3-a018-a6570994a6b7",
+        "fe46b6ac-88ca-4c61-8f2b-fc8d5f2e5178",
+        "9754e62d-18c6-429e-bb43-43264bd875d3",
+        "template--15781179457676__592b2b19-5f1e-423b-a899-8b6d5ef79cea-1681398927cdcdb2ce-2",
+        "template--15781179457676__592b2b19-5f1e-423b-a899-8b6d5ef79cea-1681398927cdcdb2ce-1",
+        "34c25bfd-1886-4392-9871-4d1607e806b6",
+        "baa911f4-dc18-46a5-8911-06d6ebb1fff5",
+        "67ae6958-bafa-45ae-b028-bad957a4ab3e",
+        "e3a4f850-c910-4cfd-b83c-fa1c204be0e3",
+        "2957d9e7-2d95-4c32-8ac6-6f6f0b73cfb3",
+        "8d25a168-cd35-463e-b138-7852e21ba6c3"
+      ],
+      "settings": {
+        "title": "Supporting Partners",
+        "color_bg": "#dae4e6",
+        "color_title": "#333333",
+        "color_text": "#333333",
+        "enlarge_title": false,
+        "enlarge_text": false,
+        "image_opacity": 75
+      }
+    },
+    "ecd0f32b-3fe5-412a-abcd-e5a021f26eb6": {
+      "type": "logo-list",
+      "blocks": {
+        "11912cbf-84a8-4fe1-9058-9d3b026e2371": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/The_London_Lights_Quartets..png",
+            "image_width": 160,
+            "link": "",
+            "title": ""
+          }
+        },
+        "template--15781179457676__ecd0f32b-3fe5-412a-abcd-e5a021f26eb6-1681136233a4d1bed6-0": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/amc_logo_big_darkbkgnd.png",
+            "image_width": 160,
+            "link": "",
+            "title": ""
+          }
+        },
+        "template--15781179457676__ecd0f32b-3fe5-412a-abcd-e5a021f26eb6-1681136233a4d1bed6-2": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/london_essentials_black.svg",
+            "image_width": 160,
+            "link": "",
+            "title": ""
+          }
+        }
+      },
+      "block_order": [
+        "11912cbf-84a8-4fe1-9058-9d3b026e2371",
+        "template--15781179457676__ecd0f32b-3fe5-412a-abcd-e5a021f26eb6-1681136233a4d1bed6-0",
+        "template--15781179457676__ecd0f32b-3fe5-412a-abcd-e5a021f26eb6-1681136233a4d1bed6-2"
+      ],
+      "settings": {
+        "title": "Entertainment",
+        "color_bg": "#dae4e6",
+        "color_title": "#333333",
+        "color_text": "#333333",
+        "enlarge_title": false,
+        "enlarge_text": false,
+        "image_opacity": 75
+      }
+    }
+  },
+  "order": [
+    "4a871b8e-a9bd-4cf4-a5e3-60dd33f0308a",
+    "main",
+    "1647959892fc71857a",
+    "b219b59b-83f3-42f4-888c-329b1e160090",
+    "8f3b40e5-9464-4365-897f-be7a8baa616d",
+    "592b2b19-5f1e-423b-a899-8b6d5ef79cea",
+    "ecd0f32b-3fe5-412a-abcd-e5a021f26eb6"
+  ]
+}

@@ -117,6 +117,7 @@ p.ql-align-center{
   float: left;
   margin-right: 10px;
   margin-top: 5px;
+  appearance: auto;
 }
 #smoothie-job-content .smoothie-gdpr-container{
   margin-bottom: 10px;
@@ -138,6 +139,13 @@ p.ql-align-center{
 #smoothie-job-content .custom-field-label{
   clear: both;
 }
+
+
+
+
+
+
+
 
 
 
@@ -218,6 +226,7 @@ p.ql-align-center{
 {% endif %}
 
 <div id="smoothie-job-content" class="smoothie-listing-page" style="">
+  
 
 
  <div class="job-page description">
@@ -233,8 +242,10 @@ p.ql-align-center{
      </a>
    </div>
 
-    <h1>{{ page.title }} <span class="job-apply" onclick="smoothScroll(document.getElementById('af'))">APPLY NOW</span></h1>
+   
+      <h1>{{ page.title }} <span class="job-apply" onclick="smoothScroll(document.getElementById('af'))">APPLY NOW</span></h1>
     
+      
 
    <div class="details">
     {% if location != "" %}
@@ -303,20 +314,26 @@ p.ql-align-center{
       </span>
     </span>
     {% endif %}
-
-
   </div>
-   
+
+
+  <div class="smoothie-job-editor-content">
   {{ page.content }}
+  </div>
+  
    
   </div>
+
+ 
   
   <div id="af" class="job-page">
     <h2 style="margin-top: 5px; float: left;">APPLICATION FORM</h2>
     <span style="float:right;">* Required</span>
     <div style="clear: both;"></div>
+
     
-    <form method="post" class="job-form" action="https://careers.smooth.ie/application/submit" enctype="multipart/form-data" onsubmit="return (typeof submitted == 'undefined') ? (submitted = true) : !submitted">
+    <form id="smoothie-careers-form" method="post" class="job-form" action="https://careers.smooth.ie/application/submit" enctype="multipart/form-data">
+    
       <input type="hidden" name="job_id" value="{{ job_id }}" />
       <input type="hidden" name="page_url" value="{{ page.url }}" />
       <input type="hidden" name="shop_domain" value="{{ shop.domain }}" />
@@ -338,7 +355,7 @@ p.ql-align-center{
           <label for="email">Email address *</label>
           <input type="email" id="email" name="email" required />
         </span><span class="right smoothie-resume">
-          <label for="resume">Resume (optional) </label>
+          <label for="resume">Resume  </label>
           <input type="file" name="resume" id="resume" accept="application/pdf, .doc, .docx, application/msword, application/vnd.openxmlformats-officedocument.wordprocessingml.document, text/plain"  />
         </span>
       </div
@@ -346,26 +363,54 @@ p.ql-align-center{
         
         
           
-          <label for="customField0" class="custom-field-label">Phone</label>
-          <input id="customField0" class="job-form-custom custom-field-input" type="tel" name="fields_Phone" required />
+          <label for="customField0" class="custom-field-label">Phone Number</label>
+          <input 
+            id="customField0"
+            class="job-form-custom custom-field-input" type="tel"
+            
+            name="fields_Phone Number"
+            
+            required
+          />
           
           
         
           
-          <label for="customField1" class="custom-field-label">Email</label>
-          <input id="customField1" class="job-form-custom custom-field-input" type="email" name="fields_Email" required />
+          <label for="customField1" class="custom-field-label">Web Presence </label>
+          <input 
+            id="customField1"
+            class="job-form-custom custom-field-input" type="text"
+            
+            name="fields_Web Presence "
+            
+            
+          />
           
           
         
           
-          <label for="customField2" class="custom-field-label">Web Presence</label>
-          <input id="customField2" class="job-form-custom custom-field-input" type="text" name="fields_Web Presence"  />
+          <label for="customField2" class="custom-field-label">In one sentence please share what excites you about the role:</label>
+          <input 
+            id="customField2"
+            class="job-form-custom custom-field-input" type="text"
+            
+            name="fields_In one sentence please share what excites you about the role:"
+            
+            required
+          />
           
           
         
           
-          <label for="customField3" class="custom-field-label">In one sentence please share what excites you about the role:</label>
-          <input id="customField3" class="job-form-custom custom-field-input" type="text" name="fields_In one sentence please share what excites you about the role:" required />
+          <label for="customField3" class="custom-field-label">Preferred Pronouns </label>
+          <input 
+            id="customField3"
+            class="job-form-custom custom-field-input" type="text"
+            
+            name="fields_Preferred Pronouns "
+            
+            
+          />
           
           
         
@@ -374,7 +419,17 @@ p.ql-align-center{
         <textarea id="cover_letter" name="cover_letter"></textarea>
       </div>
 
+      
+      <div style="float: right; width: auto">
+        <div class="g-recaptcha" data-sitekey="6LeStRQiAAAAALqZDQWt-w8Up0xCuwCipf0Dt40l"></div>
+        <p id="smoothie-careers-recaptcha-error" style="display: none !important;">Please verify that you are not a robot.</p>
+      </div>
+      <div style="display: block; width: 100%; clear: both;"></div>
+      
+
+      
       <h2 class="thank-you-text">Thank you. Your application has been received successfully.</h2>
+      
 
       <a href="/pages/career-opportunities">
       <button type="button" class="desktop-button back-button">View all listings</button>
@@ -383,6 +438,9 @@ p.ql-align-center{
       <button type="submit">SUBMIT APPLICATION</button>
       
     </form>
+
+
+    
 
     
   </div>
@@ -395,6 +453,26 @@ p.ql-align-center{
 
 
 </div>
+
+
+<script src="https://www.google.com/recaptcha/api.js" async defer></script>
+<script type="text/javascript">
+  (function(){
+    document.getElementById("smoothie-careers-form").addEventListener("submit", function(e) {
+      if(grecaptcha.getResponse().length == 0){
+        console.log('fail')
+        document.getElementById('smoothie-careers-recaptcha-error').style.display="block";
+        e.preventDefault();
+        return false;
+      }else{
+        console.log('pass')
+        document.getElementById('smoothie-careers-recaptcha-error').style.display="none";
+        return true; 
+      }
+    });
+  })()
+</script>
+
 
 
 <script>

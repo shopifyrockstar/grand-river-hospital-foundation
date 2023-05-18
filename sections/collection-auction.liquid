@@ -1,4 +1,5 @@
 {{ '_auction.css' | asset_url | stylesheet_tag }}
+{% assign auction_description_size = 'collection_auctions.auction_description' | t | size %}
 <div id="_a-auction-grid">
     <div class="_a-grid-container _a-padding-20m">
         <div class="_a-row _a-banner _a-banner-error _a-display-none _a-margin-bottom-10" id="_a-banner-div">
@@ -6,6 +7,9 @@
             <div class="_a-display-inline-block _a-float-right"><span class="_a-banner-close" id="_a-banner-close-btn">X</span></div>
         </div>
         <h1 class="_a-margin-bottom-0">{{ 'collection_auctions.auction_title' | t }}</h1>
+        {%- if auction_description_size > 0 -%}
+            <div class="_a-margin-bottom-0 _a-auction-description-style">{{ 'collection_auctions.auction_description' | t }}</div>
+        {%- endif -%}
     </div>
     {%- paginate collection.products by section.settings.products_per_page -%}
         {%- if collection.products.size == 0 -%}
@@ -19,7 +23,7 @@
             <div class="_a-margin-vertical-50-100 _a-text-center" id="_a-auction-loading">
                 <div class="_a-lds-ring _a-lds-ring-dark"><div></div><div></div><div></div><div></div></div>
             </div>
-            <div class="_a-display-none" id="_a-auction-container" data-shop-domain="{{ shop.domain }}" data-shop-id="{{ shop.id }}" data-anonymous-derples="{{ anonymous_derples }}" data-currency="{{ shop.money_with_currency_format }}" data-shop-currency="{{ shop.currency }}">
+            <div class="_a-display-none" id="_a-auction-container" data-shop-domain="{{ shop.domain }}" data-shop-id="{{ shop.id }}" data-anonymous-derples="{{ anonymous_derples }}" data-currency="{{ shop.money_with_currency_format }}" data-shop-currency="{{ shop.currency }}" data-primary-locale="{{ request.locale.primary }}" data-root-url="{{ request.locale.root_url }}">
                 <div class="_a-grid-container _a-padding-20m">
                     <form class="_a-display-flex">
                         <input class="_a-current-bid-input _a-search-input _a-search-input-box" name="q" id="_a-auction-form-q" type="search" placeholder="{{ 'collection_auctions.search' | t }}">
@@ -48,9 +52,6 @@
                 </div>
                 <div class="_a-grid-container _a-grid-flex _a-padding-20" id="_a-auction-grid-items">
                     {%- for product in collection.products -%}
-                        {%- comment %}<locksmith:9755>{% endcomment -%}
-                          {%- capture var %}{% render 'locksmith-variables', scope: 'subject', subject: product, subject_parent: collection, variable: 'transparent' %}{% endcapture %}{% if var == "true" %}{% else %}{% continue %}{% endif -%}
-                        {%- comment %}</locksmith:9755>{% endcomment -%}
                         <div class="_a-width-2m _a-margin-bottom-20" data-product-id="{{ product.id }}">
                         <a href="{{ product.url | default: '#' }}" class="_a-unstyled-link">
                             {% if product.featured_image %}
@@ -75,10 +76,16 @@
                                 </div>
                             {% endif %}
                             <a href="{{ product.url | default: '#' }}" class="_a-unstyled-link">
-                            <h3>{{ product.title | escape }}</h3>
-                            <span class="_a-display-block"></span>
-                            <span class="_a-display-block">{{ product.metafields.___auction_pro.end_date | date: "%s" | times: 1000 }}</span>
-                            <span class="_a-display-block">{{ product.metafields.___auction_pro.end_date | date: "%m-%d-%Y, %l:%M %p" }}</span>
+                                <h3>{{ product.title | escape }}</h3>
+                                <span class="_a-display-block"></span>
+                                <span class="_a-display-block">{{ product.metafields.___auction_pro.end_date | date: "%s" | times: 1000 }}</span>
+                                <span class="_a-display-block">
+                                    {% if request.locale.iso_code == 'en' %}
+                                        {{ product.metafields.___auction_pro.end_date | date: "%m-%d-%Y - %r" }}
+                                    {% else %}
+                                        {{ product.metafields.___auction_pro.end_date | date: "%F - %T" }}
+                                    {% endif %}
+                                </span>
                             </a>
                         </a>
                         </div>
@@ -113,7 +120,7 @@
                                     <a href="{{ part.url }}" class="_a-grid-pagination-item" aria-label="{{ 'general.pagination.page' | t: number: part.title }}">{{ part.title }}</a>
                                 {%- else -%}
                                     {%- if part.title == paginate.current_page -%}
-                                    <span class="_a-grid-pagination-item-current" aria-current="page" aria-label="{{ 'general.pagination.page' | t: number: part.title }}">{{ part.title }}</span>
+                                    <span class="_a-grid-pagination-item-current _a-grid-pagination-item-flex" aria-current="page" aria-label="{{ 'general.pagination.page' | t: number: part.title }}">{{ part.title }}</span>
                                     {%- else -%}
                                     <span class="_a-grid-pagination-item">{{ part.title }}</span>
                                     {%- endif -%}

@@ -10,7 +10,7 @@
         "title": "H Partners",
         "text": "<p><em>We provide tailored solutions to our H partners while aiming high to solve for exceptional, world class health care in Waterloo Region for families, children, seniors and our community.<\/em><\/p>",
         "button_label": "Become an H Partner Today",
-        "button_link": "",
+        "button_link": "https:\/\/hrzt8xom4lq.typeform.com\/to\/x84ZyLtP",
         "url_style": "button_1",
         "enlarge_title": true,
         "enlarge_text": true,
@@ -19,14 +19,32 @@
         "color_text": "#333333"
       }
     },
+    "e8b1f76a-73db-4e3c-81d7-8c1c8739a7b7": {
+      "type": "rich-text-left-and-centre",
+      "settings": {
+        "title": "What Is an H Partner?",
+        "text": "<p>A mutually beneficial relationship with YOU where together we pursue our common goal of world class healthcare for our community over the longer term, for at least three years. Our H partners embrace shared values and inspires leadership philanthropy in everyone — it's a commitment to corporate social responsibility at it's very best.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "url_style": "button_1",
+        "enlarge_title": false,
+        "enlarge_text": false,
+        "full_width": false,
+        "color_bg": "#fdfdfd",
+        "color_title": "#333333",
+        "color_text": "#333333"
+      }
+    },
     "1646330456e70728ad": {
       "type": "custom-liquid",
+      "disabled": true,
       "settings": {
-        "custom_liquid": "<h2 style=\"text-align:center;color:#333333;padding-bottom:7px;padding-top:25px;\">What is an H Partner?<\/h2>"
+        "custom_liquid": "<h2 style=\"text-align:center;color:#333333;padding-bottom:7px;padding-top:25px;\">What Is an H Partner?<\/h2>"
       }
     },
     "1643143933e06b2bac": {
       "type": "custom-liquid",
+      "disabled": true,
       "settings": {
         "custom_liquid": "<h7 style=\"padding-bottom:2%;\"><p style=\"color:#333333;padding-right:2%;padding-left:2%\">A mutually beneficial relationship with YOU where together we pursue our common goal of world class healthcare for our community over the longer term, for at least three years. \n<br><\/br>\nOur H partner embraces shared values and inspires leadership philanthropy in everyone - it's a commitment to corporate social responsibility at it's very best. \n<\/p>"
       }
@@ -109,13 +127,14 @@
     "16583499225fc3f526": {
       "type": "video",
       "settings": {
-        "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+        "video_url": "https:\/\/youtu.be\/znO0mYLDs0s",
+        "cover_image": "shopify:\/\/shop_images\/PMR_Still-_Hpartner.png",
         "image_position": "center center",
         "color_overlay_bg": "#ffffff",
         "overlay_opacity": 80,
         "color_overlay_text": "#333333",
-        "overlay_title": "Video",
-        "overlay_text": "Add a video to tell your story",
+        "overlay_title": "HPartner",
+        "overlay_text": "Our President & CEO Paul McIntyre Royston on the important role HPartner will play in our communities",
         "enlarge_title": false,
         "enlarge_text": false,
         "overlay_position_x": 50,
@@ -126,11 +145,32 @@
     "1656509554982a4b21": {
       "type": "custom-liquid",
       "settings": {
-        "custom_liquid": "<h3 style=\"text-align:center;color:#333333;padding-bottom:7px;padding-top:25px;\">Ways to Give<\/h3>"
+        "custom_liquid": "<h3 style=\"text-align:center;color:#333333;padding-bottom:7px;padding-top:25px;\">Ways to Engage<\/h3>"
+      }
+    },
+    "1665774518efe23a4e": {
+      "type": "apps",
+      "blocks": {
+        "90819c70-cda4-420e-8371-d0ffab9a5792": {
+          "type": "shopify:\/\/apps\/helphub-faq-page-product-faqs\/blocks\/app-block\/89f30064-d200-4f10-b92c-a16fc4c5815c",
+          "settings": {
+            "heading": "",
+            "heading_text_type": "h2",
+            "heading_alignment": "left",
+            "faq_embed_code": "<div class=\"ef-faqs-plus-app-cats-content\" data-category=\"H Partner\" id=\"ef-faqs-6349afaeb2a983ee8a8e1bd6\"><\/div>",
+            "faqs_width": 100
+          }
+        }
+      },
+      "block_order": [
+        "90819c70-cda4-420e-8371-d0ffab9a5792"
+      ],
+      "settings": {
       }
     },
     "16583501397ac8eeae": {
       "type": "image-gallery",
+      "disabled": true,
       "blocks": {
         "16583501398cb1e5d9-0": {
           "type": "image",
@@ -194,14 +234,14 @@
         "image_link": "",
         "image_size": "0",
         "image_position": "right",
-        "title": "H PARTNER BENEFITS",
+        "title": "H Partner Benefits",
         "text": "<p>Increased customer retention and loyalty<br\/><\/p><p>Increased employee engagement and team building opportunities with us<br\/><\/p><p>Improved and elevated brand imagepotential to attract investment opportunities and top talent<br\/><\/p><p>Optimize your tax deductionsutilize your excess inventory in a meaningful way<br\/><\/p><p>Fulfill your Corporate Social Responsibility to make a difference in health care for our community<\/p>",
         "button_label": "Become an H Partner Today",
         "button_link": "https:\/\/hrzt8xom4lq.typeform.com\/to\/HiM5Opfd",
         "url_style": "button_1",
         "enlarge_title": false,
         "enlarge_text": false,
-        "text_alignment": "center",
+        "text_alignment": "left",
         "color_bg": "#dae4e6",
         "color_text": "#333333"
       }
@@ -214,19 +254,20 @@
         "image_size": "0",
         "image_position": "left",
         "title": "Your Perks",
-        "text": "<p>Our H Partner decal to display proudly in your place of business<\/p><p>H Partner posting on social media and other advertising on Foundation website<\/p><p>H Partner features in GRH Staff news letter (4000 employees)<\/p><p>Lunch with our CEOs & foundation staff<\/p><p>Custom t-shirts and bulk discount on store items<\/p><p>H Partner pins - a symbol of your commitment to health care<\/p><p>Custom Swag for H Partners <strong>ONLY<\/strong> (toques, yeti mugs, pens, key chains)available on our store<\/p><p>Event group functions - coffee or food tastings<\/p><p>Featured guest at Meet the Board night\/offer you advice and insight to our leadership volunteers<\/p><p>your Logo on specific donor print mailers<\/p>",
+        "text": "<p>Our H Partner decal to display proudly in your place of business<\/p><p>H Partner posting on social media and other advertising on Foundation website<\/p><p>H Partner features in GRH Staff news letter (4000 employees)<\/p><p>Lunch with our CEOs & foundation staff<\/p><p>Custom t-shirts and bulk discount on store items<\/p><p>H Partner pins - a symbol of your commitment to health care<\/p><p>Custom Swag for H Partners <strong>ONLY<\/strong> (toques, yeti mugs, pens, key chains) available on our store<\/p><p>Event group functions - coffee or food tastings<\/p><p>Featured guest at Meet the Board night\/offer you advice and insight to our leadership volunteers<\/p><p>your Logo on specific donor print mailers<\/p>",
         "button_label": "Become an H Partner Today",
         "button_link": "",
         "url_style": "button_1",
         "enlarge_title": false,
         "enlarge_text": false,
-        "text_alignment": "center",
-        "color_bg": "#dae4e6",
+        "text_alignment": "left",
+        "color_bg": "#ecf1f2",
         "color_text": "#333333"
       }
     },
     "1658350008b817472b": {
       "type": "testimonials",
+      "disabled": true,
       "blocks": {
         "1658350008da345a0b-0": {
           "type": "testimonial",
@@ -244,11 +285,20 @@
             "testimonial": "<p>We couldn't be more pleased, the products and services are absolutely fantastic!<\/p>",
             "author": ""
           }
+        },
+        "940ef8d0-2a6f-4a46-aa0f-07f40dca5c59": {
+          "type": "testimonial",
+          "settings": {
+            "star_rating": 5,
+            "testimonial": "<p>We couldn't be more pleased, the products and services are absolutely fantastic!<\/p>",
+            "author": ""
+          }
         }
       },
       "block_order": [
         "1658350008da345a0b-0",
-        "1658350008da345a0b-1"
+        "1658350008da345a0b-1",
+        "940ef8d0-2a6f-4a46-aa0f-07f40dca5c59"
       ],
       "settings": {
         "title": "Testimonials",
@@ -266,47 +316,67 @@
     "1658348892aa93bd66": {
       "type": "logo-list",
       "blocks": {
-        "16583488928a5d62c0-0": {
+        "445c3631-ec86-4067-a6df-0240ec3f6223": {
           "type": "logo",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Silicon.png",
-            "image_width": 160,
-            "link": "",
-            "title": ""
+            "image": "shopify:\/\/shop_images\/equitable-life-of-canada.png",
+            "image_width": 280,
+            "link": "https:\/\/www.equitable.ca\/",
+            "title": "National Partner"
           }
         },
-        "16583488928a5d62c0-1": {
+        "9e9a692a-91c6-4123-8b46-357984dc2652": {
           "type": "logo",
           "settings": {
-            "image": "shopify:\/\/shop_images\/siliconsponsor.png",
-            "image_width": 160,
-            "link": "",
-            "title": ""
+            "image": "shopify:\/\/shop_images\/29-Bingemans-Logo.jpg",
+            "image_width": 240,
+            "link": "https:\/\/bingemans.com\/",
+            "title": "H Supporter"
           }
         },
-        "16583488928a5d62c0-2": {
+        "698f2791-d075-4fd4-852a-fc0c633b06c3": {
           "type": "logo",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Del-sponsor.png",
-            "image_width": 160,
-            "link": "",
-            "title": ""
+            "image": "shopify:\/\/shop_images\/Untitled_design_39.png",
+            "image_width": 170,
+            "link": "https:\/\/www.heffner.ca\/lexus\/",
+            "title": "H Supplier"
+          }
+        },
+        "a9f443d5-4c76-4d8f-a349-1b4ad422a79e": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/roberts-onsite.png",
+            "image_width": 170,
+            "link": "https:\/\/robertsonsite.ca\/",
+            "title": "H Supplier"
+          }
+        },
+        "889ad9b1-6e1b-4a67-b22a-06e4a55c23fb": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/GinasClosetFull.png",
+            "image_width": 140,
+            "link": "https:\/\/ginascloset.ca\/",
+            "title": "H Provider"
           }
         }
       },
       "block_order": [
-        "16583488928a5d62c0-0",
-        "16583488928a5d62c0-1",
-        "16583488928a5d62c0-2"
+        "445c3631-ec86-4067-a6df-0240ec3f6223",
+        "9e9a692a-91c6-4123-8b46-357984dc2652",
+        "698f2791-d075-4fd4-852a-fc0c633b06c3",
+        "a9f443d5-4c76-4d8f-a349-1b4ad422a79e",
+        "889ad9b1-6e1b-4a67-b22a-06e4a55c23fb"
       ],
       "settings": {
-        "title": "Thank you to our H Partners",
+        "title": "Thank You to Our H Partners",
         "color_bg": "rgba(0,0,0,0)",
         "color_title": "#333333",
         "color_text": "#333333",
         "enlarge_title": true,
-        "enlarge_text": false,
-        "image_opacity": 75
+        "enlarge_text": true,
+        "image_opacity": 100
       }
     },
     "main": {
@@ -317,6 +387,7 @@
     },
     "165835325782b753dd": {
       "type": "image-gallery",
+      "disabled": true,
       "blocks": {
         "16583532574a391208-1": {
           "type": "image",
@@ -346,21 +417,48 @@
         "color_overlay_text": "#333333",
         "overlay_url_style": "button_1"
       }
+    },
+    "c003a8d4-865e-444e-944a-fb8612fb6818": {
+      "type": "rich-text-left-and-centre",
+      "settings": {
+        "title": "Become a Partner",
+        "text": "<p>For more information or to become an H Partner, please reach out to Trevor Eaton, Corporate Partnerships Directorvia email (<a href=\"mailto:trevor@grhf.ca\" target=\"_blank\" title=\"mailto:trevor@grhf.ca\">trevor@grhf.ca<\/a>), or  phone at 519-654-2134.<\/p>",
+        "button_label": "Contact Us",
+        "button_link": "https:\/\/hrzt8xom4lq.typeform.com\/to\/x84ZyLtP",
+        "url_style": "button_1",
+        "enlarge_title": false,
+        "enlarge_text": false,
+        "full_width": false,
+        "color_bg": "#fdfdfd",
+        "color_title": "#333333",
+        "color_text": "#333333"
+      }
+    },
+    "683c47d5-7930-40dd-b9c8-0696e21c71c7": {
+      "type": "custom-liquid",
+      "disabled": true,
+      "settings": {
+        "custom_liquid": ""
+      }
     }
   },
   "order": [
     "165834852236ee9b0b",
+    "e8b1f76a-73db-4e3c-81d7-8c1c8739a7b7",
     "1646330456e70728ad",
     "1643143933e06b2bac",
     "1658349297f048cdb5",
     "16583499225fc3f526",
     "1656509554982a4b21",
+    "1665774518efe23a4e",
     "16583501397ac8eeae",
     "165392312540137d95",
     "16583504384e89551a",
     "1658350008b817472b",
     "1658348892aa93bd66",
     "main",
-    "165835325782b753dd"
+    "165835325782b753dd",
+    "c003a8d4-865e-444e-944a-fb8612fb6818",
+    "683c47d5-7930-40dd-b9c8-0696e21c71c7"
   ]
 }

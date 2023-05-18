@@ -8,7 +8,7 @@
         "image_size": "0",
         "image_position": "right",
         "title": "Mental Health",
-        "text": "<p>One in five Canadians will experience mental illness each year, and the remaining four in five will know and love someone who does. That’s why Grand River Hospital is proud to be our community’s leading authority on mental health and the sole provider of acute mental health care for the region. <br\/><br\/>We are committed to providing exceptional mental health care by working in partnership with patients and their loved ones, community based services, and interdisciplinary hospital teams. <\/p>",
+        "text": "<p>One in five Canadians will experience mental illness each year, and the remaining four in five will know and love someone who does. That's why Grand River Hospital is proud to play a critical role in both youth and adult mental health care in our community. <br\/><\/p><p>We are committed to providing exceptional care by working in partnership with patients and their loved ones, community based services, and interdisciplinary hospital teams. <\/p>",
         "button_label": "",
         "button_link": "",
         "url_style": "button_1",
@@ -35,10 +35,29 @@
         "show_featured": false
       }
     },
+    "39e34670-ad44-405d-a977-0a2da60544bd": {
+      "type": "image-with-text",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Square_Image_Template_2023_7.png",
+        "image_link": "",
+        "image_size": "0",
+        "image_position": "left",
+        "title": "Mental Health Services Include",
+        "text": "<ul><li>Adult Mental Health Inpatient<\/li><li>Adult Mental Health Outpatient<\/li><li>Crisis Team<\/li><li>Addictions<\/li><li>Mental Health Emergency Care<\/li><li>Withdrawal Management<\/li><li>Specialized Mental Health<\/li><li>Children’s Mental Health<\/li><li>Child & Adolescent Inpatient Mental Health<\/li><\/ul>",
+        "button_label": "Learn more about the Areas of Care",
+        "button_link": "https:\/\/grhf.ca\/blogs\/grand-ideas\/areas-of-care",
+        "url_style": "button_1",
+        "enlarge_title": false,
+        "enlarge_text": false,
+        "text_alignment": "left",
+        "color_bg": "#ffffff",
+        "color_text": "#333333"
+      }
+    },
     "1653918892b632a33b": {
       "type": "custom-liquid",
       "settings": {
-        "custom_liquid": "<h3 style=\"text-align: center; padding-top: 1em; padding-bottom: 1em;\">About Mental Health at Grand River<\/h3>"
+        "custom_liquid": "<h3 style=\"text-align: center; padding-top: 1em; padding-bottom: 1em;\">About Mental Health at Grand River Hospital<\/h3>"
       }
     },
     "1651514185bf83a553": {
@@ -120,6 +139,7 @@
   "order": [
     "16515136939c0e21c5",
     "main",
+    "39e34670-ad44-405d-a977-0a2da60544bd",
     "1653918892b632a33b",
     "1651514185bf83a553"
   ]

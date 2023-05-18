@@ -1,0 +1,215 @@
+{
+  "sections": {
+    "199a017a-f263-4505-b5a8-fbf955618376": {
+      "type": "wifi-banner",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Special_Events_f2202f69-404e-4170-a8e5-57f92a1f3c5d.png",
+        "image_mobile": "shopify:\/\/shop_images\/Special_Events_1.png",
+        "image_link": "shopify:\/\/products\/rally-for-health-registration",
+        "image_position": "center center",
+        "height": "adapt",
+        "height_desktop": 460,
+        "height_mobile": 500,
+        "color_overlay_bg": "#000000",
+        "overlay_opacity": 100,
+        "color_overlay_text": "#ffffff",
+        "overlay_title": "",
+        "overlay_text": "",
+        "overlay_url_text_1": "",
+        "overlay_url_1": "",
+        "overlay_url_text_2": "",
+        "overlay_url_2": "",
+        "overlay_url_style": "button_1",
+        "enlarge_title": false,
+        "enlarge_text": true,
+        "mobile_text_below": false,
+        "color_label_background": "#ffffff",
+        "color_label_text": "#333333",
+        "show_chevron": false,
+        "product_id_1": "",
+        "chevron_position_1": "right",
+        "label_position_x_1": 40,
+        "label_position_y_1": 50,
+        "product_id_2": "",
+        "chevron_position_2": "right",
+        "label_position_x_2": 80,
+        "label_position_y_2": 50
+      }
+    },
+    "33b4d8fe-00f4-4a35-a135-52a0f4cb2785": {
+      "type": "rich-text",
+      "custom_css": [
+        ".large-section {padding-bottom: 0em; padding-top: 0.5em; margin-bottom: 0em;}",
+        "p {text-align: left;}"
+      ],
+      "settings": {
+        "title": "Special Events for Health",
+        "text": "<p>In celebration of the launch of the campaign and the vision for a world class health system for our community, we are championing four special events for health taking place during Care Never Stops Week: <\/p>",
+        "button_label": "",
+        "button_link": "",
+        "url_style": "button_1",
+        "enlarge_title": false,
+        "enlarge_text": false,
+        "full_width": false,
+        "color_bg": "#ffffff",
+        "color_title": "#333333",
+        "color_text": "#333333"
+      }
+    },
+    "6866cd8f-d7d7-4f28-bb38-e1461dfbf8cd": {
+      "type": "rich-text",
+      "custom_css": [
+        ".large-section {padding-bottom: 1.5em; padding-top: 0em;}"
+      ],
+      "settings": {
+        "title": "",
+        "text": "<p><a href=\"https:\/\/grhf.ca\/blogs\/grand-ideas\/a-car-show-for-a-cause\" title=\"https:\/\/grhf.ca\/blogs\/grand-ideas\/a-car-show-for-a-cause\"><strong>Legacy Spring Open Car Show<\/strong><\/a><strong>: May 28<br\/><\/strong>Graffiti Market - 137 Glasgow St, Kitchener, ON from 12 p.m. to 5 p.m.<br\/>(Please drop by)<\/p><p><strong>Alain Vienneau Memorial Golf: May 28<\/strong><br\/>(To participate, please visit  <a href=\"https:\/\/www.alainvienneaumemorialgolf.ca\" title=\"https:\/\/www.alainvienneaumemorialgolf.ca\">www.alainvienneaumemorialgolf.ca<\/a>)<\/p><p><strong>Jeremy Brubacher and Friends Cancer Benefit Concert: May 28<\/strong><br\/>Rhythm and Brews - 1000 Bishop Street North, Cambridge, ON at 7 p.m.<br\/>(Purchase tickets at the door or visit <a href=\"https:\/\/www.rhythmandbrews.ca\" target=\"_blank\" title=\"https:\/\/www.rhythmandbrews.ca\">www.rhythmandbrews.ca<\/a>)<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "url_style": "button_1",
+        "enlarge_title": false,
+        "enlarge_text": false,
+        "full_width": false,
+        "color_bg": "#ffffff",
+        "color_title": "#333333",
+        "color_text": "#333333"
+      }
+    },
+    "f335f58d-2bbc-49c8-ac76-1da4668501c0": {
+      "type": "rich-text",
+      "custom_css": [
+        "p {text-align: left;}"
+      ],
+      "settings": {
+        "title": "Want to host your own event for health?",
+        "text": "<p>If you have a great idea for a community event or fundraiser of your own, <a href=\"https:\/\/hrzt8xom4lq.typeform.com\/to\/CFVKeO8u?typeform-source=grhf.ca\" target=\"_blank\" title=\"https:\/\/hrzt8xom4lq.typeform.com\/to\/CFVKeO8u?typeform-source=grhf.ca\">register online<\/a>, and we will set you up with a custom website to promote it! <\/p><p>Special event web pages include a custom web address, the ability to receive a notification when someone donates to or signs up for your fundraiser, live donation tracking for all to see, and customized messages on the donation receipts that are sent to your supporters.<\/p><p>Community support is integral to our ability to support Grand River Hospital and the health and well-being of our community at large.We want to support you as you rally your friends, family, and the community to make an incredible difference for everyone at the hospital. <\/p>",
+        "button_label": "Register an event",
+        "button_link": "https:\/\/hrzt8xom4lq.typeform.com\/to\/CFVKeO8u?typeform-source=grhf.ca",
+        "url_style": "button_1",
+        "enlarge_title": false,
+        "enlarge_text": false,
+        "full_width": false,
+        "color_bg": "#ecf1f2",
+        "color_title": "#333333",
+        "color_text": "#333333"
+      }
+    },
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "custom_css": [
+        "h1 {display: none;}"
+      ],
+      "settings": {
+      }
+    },
+    "0cdee890-a50c-429a-be72-170a11e38b08": {
+      "type": "banner",
+      "disabled": true,
+      "blocks": {
+        "template--15873260748940__0cdee890-a50c-429a-be72-170a11e38b08-1675704870c901718f-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Untitled_design_cd4a048f-a12b-4d33-b3c2-5c722cccee5b.png",
+            "image_position": "bottom center",
+            "image_link": "",
+            "color_overlay_bg": "#ffffff",
+            "overlay_opacity": 80,
+            "color_overlay_text": "#333333",
+            "overlay_title": "",
+            "overlay_text": "",
+            "overlay_url_text_1": "",
+            "overlay_url_1": "",
+            "overlay_url_text_2": "",
+            "overlay_url_2": "",
+            "overlay_url_style": "button_1",
+            "enlarge_title": false,
+            "enlarge_text": false,
+            "overlay_position_x": 50,
+            "overlay_position_y": 80,
+            "color_label_background": "#ffffff",
+            "color_label_text": "#333333",
+            "show_chevron": true,
+            "product_id_1": "",
+            "chevron_position_1": "right",
+            "label_position_x_1": 20,
+            "label_position_y_1": 30,
+            "product_id_2": "",
+            "chevron_position_2": "right",
+            "label_position_x_2": 80,
+            "label_position_y_2": 50
+          }
+        },
+        "992981b1-370f-4743-b33a-26c6ffcd7a1f": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Untitled_design_1_f3f5c41b-045f-427c-b6e2-e08e6ef1c7c4.png",
+            "image_position": "center center",
+            "image_link": "",
+            "color_overlay_bg": "#ffffff",
+            "overlay_opacity": 80,
+            "color_overlay_text": "#333333",
+            "overlay_title": "",
+            "overlay_text": "",
+            "overlay_url_text_1": "",
+            "overlay_url_1": "",
+            "overlay_url_text_2": "",
+            "overlay_url_2": "",
+            "overlay_url_style": "button_1",
+            "enlarge_title": false,
+            "enlarge_text": false,
+            "overlay_position_x": 50,
+            "overlay_position_y": 80,
+            "color_label_background": "#ffffff",
+            "color_label_text": "#333333",
+            "show_chevron": true,
+            "product_id_1": "",
+            "chevron_position_1": "right",
+            "label_position_x_1": 20,
+            "label_position_y_1": 30,
+            "product_id_2": "",
+            "chevron_position_2": "right",
+            "label_position_x_2": 80,
+            "label_position_y_2": 50
+          }
+        }
+      },
+      "block_order": [
+        "template--15873260748940__0cdee890-a50c-429a-be72-170a11e38b08-1675704870c901718f-0",
+        "992981b1-370f-4743-b33a-26c6ffcd7a1f"
+      ],
+      "settings": {
+        "height": "adapt",
+        "height_desktop": 500,
+        "height_mobile": 400,
+        "mobile_text_below": true,
+        "slideshow_autoplay": false,
+        "slideshow_autoplay_speed": 6
+      }
+    },
+    "a35f32cc-7808-4ad1-af83-41ba70c55e29": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "",
+        "enlarge_title": false,
+        "link_text": "",
+        "collection": "special-events-for-health",
+        "show_vendor": false,
+        "enable_carousel": false,
+        "grid": 3,
+        "row_count": 1,
+        "grid_mobile": "2"
+      }
+    }
+  },
+  "order": [
+    "199a017a-f263-4505-b5a8-fbf955618376",
+    "33b4d8fe-00f4-4a35-a135-52a0f4cb2785",
+    "6866cd8f-d7d7-4f28-bb38-e1461dfbf8cd",
+    "f335f58d-2bbc-49c8-ac76-1da4668501c0",
+    "main",
+    "0cdee890-a50c-429a-be72-170a11e38b08",
+    "a35f32cc-7808-4ad1-af83-41ba70c55e29"
+  ]
+}

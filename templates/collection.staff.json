@@ -6,23 +6,23 @@
         "1636657842e55732e9-0": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Website_Banner_2048_x_1024.jpg",
+            "image": "shopify:\/\/shop_images\/Website_Banner_2048_x_1024_2_27166a93-9a55-4f6d-a4ac-6a43319dc204.png",
             "image_position": "center center",
-            "image_link": "",
+            "image_link": "https:\/\/hrzt8xom4lq.typeform.com\/to\/MKGKs96R",
             "color_overlay_bg": "#ffffff",
             "overlay_opacity": 80,
             "color_overlay_text": "#333333",
-            "overlay_title": "Say Hello",
-            "overlay_text": "Just want to get in touch without looking for a specific staff member below? Call us at 519-749-4205 or email us now and a staff member at Grand River Hospital Foundation will be happy to assist you.",
-            "overlay_url_text_1": "Connect",
-            "overlay_url_1": "mailto:info@grhf.ca",
+            "overlay_title": "Leadership Toolkit",
+            "overlay_text": "Tell us what you want to see.",
+            "overlay_url_text_1": "Take a Survey",
+            "overlay_url_1": "https:\/\/hrzt8xom4lq.typeform.com\/to\/MKGKs96R",
             "overlay_url_text_2": "",
             "overlay_url_2": "",
             "overlay_url_style": "button_1",
             "enlarge_title": false,
             "enlarge_text": false,
             "overlay_position_x": 50,
-            "overlay_position_y": 50,
+            "overlay_position_y": 95,
             "color_label_background": "#ffffff",
             "color_label_text": "#333333",
             "show_chevron": true,
@@ -49,6 +49,25 @@
         "slideshow_autoplay_speed": 6
       }
     },
+    "261d163a-0eaa-4ce9-b00b-79234fef4e8e": {
+      "type": "image-with-text",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/FxCohUUY.jpg",
+        "image_link": "",
+        "image_size": "0",
+        "image_position": "left",
+        "title": "E-Cards",
+        "text": "<p>Looking for a quick e-card to send a team member? <br\/>We have you covered!<\/p>",
+        "button_label": "Explore E-Cards",
+        "button_link": "https:\/\/ecardwidget.com\/widget\/3264",
+        "url_style": "link_style",
+        "enlarge_title": false,
+        "enlarge_text": false,
+        "text_alignment": "center",
+        "color_bg": "#000000",
+        "color_text": "#ffffff"
+      }
+    },
     "main": {
       "type": "main-collection",
       "settings": {
@@ -68,13 +87,13 @@
     "1636659109a46b8ff4": {
       "type": "rich-text-about-fdn",
       "settings": {
-        "title": "About Grand River Hospital Foundation",
-        "text": "<p>At the core of every world class community are people who care — people who care about the work they do, the community they live in and the chance to make a difference.  At Grand River Hospital Foundation, we share that passion and dedicate ourselves to our great community by working in partnership with people from all walks of life to make every health care experience exceptional.<\/p><p>With the continued dedication of our donors, supporters and the community at large, Grand River Hospital Foundation is helping our community stay healthy and providing access to quality health care right here, in the places where we work and live. We're investing in a world class health care system. The kind that transforms health care delivery, provides an exceptional experience for all, and works collaboratively to improve the health of our community — the kind where care never stops.<\/p><p>But we can't do it without your help. We need to rally donors, supporters and community members alike to help our hospital<\/p><p><strong>Provide world class care<\/strong> that addresses the unique and specialized needs of people throughout the region<\/p><p><strong>Acquire new and replacement equipment<\/strong> so hospital staff can provide the best possible screening, treatment and patient experience<\/p><p><strong>Seed new initiatives<\/strong> to give patients access to the most innovative treatments and programs<\/p><p><strong>Educate health care workers<\/strong> by providing ongoing training opportunities to upgrade their skill sets and ensure they're well-versed in the latest clinical and technological advancements<\/p><p><strong>Conduct important research<\/strong> so we can continue to advance treatment and care for generations to come<\/p><p>Originally created by our community for our community, you have already done so much to make Grand River Hospital an epicentre for quality health care. Now, we need you to join us and help us transform Grand River into one of the best in the world.<\/p>",
-        "button_label": "",
-        "button_link": "",
-        "url_style": "button_1",
+        "title": "Connect with Grand River Hospital Foundation",
+        "text": "<p>Grand River Hospital Foundation receives donated items from the general public or will purchase items to help support staff and departments.<\/p><p>If you are looking for something specific please contact Jesse Borden.<\/p>",
+        "button_label": "Contact Jesse",
+        "button_link": "mailto:jesse@grhf.ca",
+        "url_style": "button_3",
         "enlarge_title": false,
-        "enlarge_text": false,
+        "enlarge_text": true,
         "full_width": false,
         "color_bg": "#ecf1f2",
         "color_title": "#333333",
@@ -84,6 +103,7 @@
   },
   "order": [
     "1636657842e55732e9",
+    "261d163a-0eaa-4ce9-b00b-79234fef4e8e",
     "main",
     "1636659109a46b8ff4"
   ]

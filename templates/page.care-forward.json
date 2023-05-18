@@ -1,0 +1,353 @@
+{
+  "sections": {
+    "163763124004913a5e": {
+      "type": "banner",
+      "disabled": true,
+      "blocks": {
+        "fc1cec7f-9ddf-415e-b901-a57a5b28513a": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Home_page_image_template.png",
+            "image_position": "center center",
+            "image_link": "",
+            "color_overlay_bg": "#ffffff",
+            "overlay_opacity": 82,
+            "color_overlay_text": "#333333",
+            "overlay_title": "",
+            "overlay_text": "",
+            "overlay_url_text_1": "",
+            "overlay_url_1": "",
+            "overlay_url_text_2": "",
+            "overlay_url_2": "",
+            "overlay_url_style": "button_1",
+            "enlarge_title": false,
+            "enlarge_text": true,
+            "overlay_position_x": 50,
+            "overlay_position_y": 80,
+            "color_label_background": "#ffffff",
+            "color_label_text": "#333333",
+            "show_chevron": false,
+            "product_id_1": "",
+            "chevron_position_1": "right",
+            "label_position_x_1": 16,
+            "label_position_y_1": 20,
+            "product_id_2": "",
+            "chevron_position_2": "right",
+            "label_position_x_2": 80,
+            "label_position_y_2": 50
+          }
+        }
+      },
+      "block_order": [
+        "fc1cec7f-9ddf-415e-b901-a57a5b28513a"
+      ],
+      "settings": {
+        "height": "fixed",
+        "height_desktop": 500,
+        "height_mobile": 400,
+        "mobile_text_below": true,
+        "slideshow_autoplay": true,
+        "slideshow_autoplay_speed": 6
+      }
+    },
+    "166327538568066f9c": {
+      "type": "image-with-text",
+      "disabled": true,
+      "settings": {
+        "image_link": "",
+        "image_size": "0",
+        "image_position": "right",
+        "title": "About Care Forward",
+        "text": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<\/p>",
+        "button_label": "Optional button",
+        "button_link": "",
+        "url_style": "button_1",
+        "enlarge_title": false,
+        "enlarge_text": false,
+        "text_alignment": "left",
+        "color_bg": "#dae4e6",
+        "color_text": "#333333"
+      }
+    },
+    "16632752177050241f": {
+      "type": "image-with-text-overlay",
+      "disabled": true,
+      "settings": {
+        "image": "shopify:\/\/shop_images\/CARE_FORWARD2.png",
+        "image_link": "",
+        "image_position": "center center",
+        "height": "adapt",
+        "height_desktop": 600,
+        "height_mobile": 500,
+        "color_overlay_bg": "#ffffff",
+        "overlay_opacity": 80,
+        "color_overlay_text": "#333333",
+        "overlay_title": "",
+        "overlay_text": "",
+        "overlay_url_text_1": "",
+        "overlay_url_1": "",
+        "overlay_url_text_2": "",
+        "overlay_url_2": "",
+        "overlay_url_style": "button_1",
+        "enlarge_title": false,
+        "enlarge_text": false,
+        "overlay_position_x": 50,
+        "overlay_position_y": 70,
+        "mobile_text_below": false,
+        "color_label_background": "#ffffff",
+        "color_label_text": "#333333",
+        "show_chevron": true,
+        "product_id_1": "",
+        "chevron_position_1": "right",
+        "label_position_x_1": 20,
+        "label_position_y_1": 30,
+        "product_id_2": "",
+        "chevron_position_2": "right",
+        "label_position_x_2": 80,
+        "label_position_y_2": 50
+      }
+    },
+    "16633463060e5a86fa": {
+      "type": "image-with-text-overlay",
+      "disabled": true,
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Home_page_image_template.jpg",
+        "image_link": "",
+        "image_position": "center center",
+        "height": "adapt",
+        "height_desktop": 600,
+        "height_mobile": 500,
+        "color_overlay_bg": "#ffffff",
+        "overlay_opacity": 80,
+        "color_overlay_text": "#333333",
+        "overlay_title": "",
+        "overlay_text": "",
+        "overlay_url_text_1": "",
+        "overlay_url_1": "",
+        "overlay_url_text_2": "",
+        "overlay_url_2": "",
+        "overlay_url_style": "button_1",
+        "enlarge_title": false,
+        "enlarge_text": false,
+        "overlay_position_x": 50,
+        "overlay_position_y": 70,
+        "mobile_text_below": false,
+        "color_label_background": "#ffffff",
+        "color_label_text": "#333333",
+        "show_chevron": true,
+        "product_id_1": "",
+        "chevron_position_1": "right",
+        "label_position_x_1": 20,
+        "label_position_y_1": 30,
+        "product_id_2": "",
+        "chevron_position_2": "right",
+        "label_position_x_2": 80,
+        "label_position_y_2": 50
+      }
+    },
+    "16636871887f7ca8f2": {
+      "type": "split-image",
+      "disabled": true,
+      "blocks": {
+        "1663687188922170cf-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/CARE_FORWARD.png",
+            "image_link": "",
+            "image_position": "center center",
+            "color_overlay_bg": "#ffffff",
+            "overlay_opacity": 80,
+            "color_overlay_text": "#333333",
+            "overlay_title": "",
+            "overlay_text": "",
+            "overlay_url_text": "",
+            "overlay_url": "",
+            "overlay_url_style": "button_1",
+            "enlarge_title": false,
+            "enlarge_text": false,
+            "overlay_position_x": 50,
+            "overlay_position_y": 20,
+            "mobile_text_below": false,
+            "color_label_background": "#ffffff",
+            "color_label_text": "#333333",
+            "product_id": "",
+            "show_chevron": true,
+            "chevron_position": "right",
+            "label_position_x": 80,
+            "label_position_y": 80
+          }
+        },
+        "1663687188922170cf-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Home_page_image_template_782a5582-f235-4721-8130-d6aa762d42cd.png",
+            "image_link": "",
+            "image_position": "center center",
+            "color_overlay_bg": "#ffffff",
+            "overlay_opacity": 80,
+            "color_overlay_text": "#333333",
+            "overlay_title": "",
+            "overlay_text": "",
+            "overlay_url_text": "",
+            "overlay_url": "",
+            "overlay_url_style": "button_1",
+            "enlarge_title": false,
+            "enlarge_text": false,
+            "overlay_position_x": 50,
+            "overlay_position_y": 80,
+            "mobile_text_below": false,
+            "color_label_background": "#ffffff",
+            "color_label_text": "#333333",
+            "product_id": "",
+            "show_chevron": true,
+            "chevron_position": "right",
+            "label_position_x": 20,
+            "label_position_y": 20
+          }
+        }
+      },
+      "block_order": [
+        "1663687188922170cf-1",
+        "1663687188922170cf-0"
+      ],
+      "settings": {
+        "height_desktop": 600,
+        "height_mobile": 500
+      }
+    },
+    "1643996848292cb4e7": {
+      "type": "rich-text-about-fdn",
+      "settings": {
+        "title": "About Care Forward",
+        "text": "<p>When you're building a world class health system, every planned gift makes a difference. Planned giving secures our hospital's future. When you make a planned gift, you make it possible to provide exceptional, patient-centred care to everyone who comes through the doors of Grand River Hospital, today and in the future.<\/p><p>Care Forward is our community of generous supporters who have made the meaningful decision to leave a gift in their Will or estate plans to ensure exceptional health care for future generations. Their compassionate foresight has a lasting impact on the health of our community and advances health care right here for all of us.<\/p><p>When you become a member of our Care Forward community, you make a difference for the generations to come. Because at Grand River Hospital, care. never. stops.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "url_style": "button_1",
+        "enlarge_title": true,
+        "enlarge_text": false,
+        "full_width": false,
+        "color_bg": "#ffffff",
+        "color_title": "#333333",
+        "color_text": "#333333"
+      }
+    },
+    "16632748042fc54a5e": {
+      "type": "image-with-text",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/A-SHcvPM_1.jpg",
+        "image_link": "",
+        "image_size": "0",
+        "image_position": "left",
+        "title": "Program Features",
+        "text": "<p>When you join Care Forward, you enjoy special benefits that bring you closer to the excellent health care you make possible:<\/p><p>● Welcome package <br\/>● Invitation to our Care Forward Luncheon and Induction Ceremony<br\/>● Annual Care Forward newsletter <\/p><p>Our Care Forward<em> <\/em>community is incredibly special to our organization, and we want to make sure that our donors know how grateful we are for their gift.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "url_style": "button_1",
+        "enlarge_title": false,
+        "enlarge_text": false,
+        "text_alignment": "left",
+        "color_bg": "#ecf1f2",
+        "color_text": "#333333"
+      }
+    },
+    "1637632803d07f9c3f": {
+      "type": "rich-text-about-fdn",
+      "settings": {
+        "title": "Have You Left a Gift Already?",
+        "text": "<p>If you have already included us in your Will, thank you! We would like to know so we can ensure your gift is recognized the way you would like it to be. For further information or to join our Care Forward community, please reach out to Deborah Barton, Director of Philanthropy & Planned Giving at 226-753-0846 or <a href=\"mailto:deborah@grhf.ca\" target=\"_blank\">deborah@grhf.ca<\/a> or <a href=\"https:\/\/calendly.com\/deborah-grhf\" target=\"_blank\" title=\"https:\/\/calendly.com\/deborah-grhf\">book a meeting with her directly<\/a>. Thank you again for your generous support!<\/p><p><\/p>",
+        "button_label": "",
+        "button_link": "",
+        "url_style": "button_1",
+        "enlarge_title": false,
+        "enlarge_text": false,
+        "full_width": false,
+        "color_bg": "#ffffff",
+        "color_title": "#333333",
+        "color_text": "#333333"
+      }
+    },
+    "main": {
+      "type": "main-page-impact",
+      "disabled": true,
+      "settings": {
+      }
+    },
+    "16469486733fe7a505": {
+      "type": "featured-blog",
+      "settings": {
+        "heading_image": "shopify:\/\/shop_images\/GRH_April2022-16.jpg",
+        "image_position": "center center",
+        "title": "Legacy Champions",
+        "description": "Read the stories of our generous Care Forward community members",
+        "color_overlay_bg": "#ffffff",
+        "overlay_opacity": 80,
+        "color_overlay_text": "#333333",
+        "show_view_all": false,
+        "overlay_url_style": "button_2",
+        "enlarge_title": false,
+        "enlarge_text": false,
+        "overlay_position_y": 72,
+        "blog": "legacy-champions",
+        "post_limit": 4,
+        "show_author": false,
+        "show_date": true,
+        "show_tags": false,
+        "show_featured_products": false
+      }
+    },
+    "1646153886024653a0": {
+      "type": "image-with-text",
+      "disabled": true,
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Vers._2_Blog_and_social_posts_-_large_image_13.png",
+        "image_link": "",
+        "image_size": "0",
+        "image_position": "left",
+        "title": "Leave a gift in your Will.",
+        "text": "<p>XXX Basically a return to planned giving option at the bottom of the page XX. <\/p>",
+        "button_label": "Learn more about making a planned gift",
+        "button_link": "shopify:\/\/blogs\/legacy-champions",
+        "url_style": "button_1",
+        "enlarge_title": false,
+        "enlarge_text": false,
+        "text_alignment": "left",
+        "color_bg": "#ecf1f2",
+        "color_text": "#333333"
+      }
+    },
+    "164693600495bdada7": {
+      "type": "image-with-text",
+      "disabled": true,
+      "settings": {
+        "image": "shopify:\/\/shop_images\/CARE_FORWARD.png",
+        "image_link": "",
+        "image_size": "0",
+        "image_position": "left",
+        "title": "",
+        "text": "<p> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. <\/p>",
+        "button_label": "Learn more about Care Forward",
+        "button_link": "",
+        "url_style": "button_1",
+        "enlarge_title": false,
+        "enlarge_text": false,
+        "text_alignment": "center",
+        "color_bg": "#ffffff",
+        "color_text": "#333333"
+      }
+    }
+  },
+  "order": [
+    "163763124004913a5e",
+    "166327538568066f9c",
+    "16632752177050241f",
+    "16633463060e5a86fa",
+    "16636871887f7ca8f2",
+    "1643996848292cb4e7",
+    "16632748042fc54a5e",
+    "1637632803d07f9c3f",
+    "main",
+    "16469486733fe7a505",
+    "1646153886024653a0",
+    "164693600495bdada7"
+  ]
+}

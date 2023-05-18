@@ -15,7 +15,7 @@
             "overlay_title": "",
             "overlay_text": "Do you have a cool idea to raise money for Grand River Hospital? Interested in running your own Community Event? We're here to help!",
             "overlay_url_text_1": "Download our Toolkit",
-            "overlay_url_1": "https:\/\/cdn.shopify.com\/s\/files\/1\/0363\/5363\/8540\/files\/Community_Champion_Toolkit_as_of_April_2022.pdf?v=1651696579",
+            "overlay_url_1": "https:\/\/cdn.shopify.com\/s\/files\/1\/0363\/5363\/8540\/files\/Community_Champion_Toolkit_2023.pdf.pdf?v=1684246991",
             "overlay_url_text_2": "Connect with Us",
             "overlay_url_2": "mailto:paul@grhf.ca",
             "overlay_url_style": "button_1",
@@ -58,10 +58,9 @@
     },
     "165600299360b4cca3": {
       "type": "rich-text-about-fdn",
-      "disabled": true,
       "settings": {
         "title": "Community Events",
-        "text": "<p>Thank you so much for taking the first step to champion and fundraise for Grand River Hospital Foundation. Your time and talents will support Grand River Hospital and help provide our communities with exceptional health care.<\/p><p>Plan your event step-by-step with our downloadable <a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0363\/5363\/8540\/files\/Community_Champion_Toolkit_as_of_April_2022.pdf?v=1651696579\" target=\"_blank\"><span style=\"text-decoration:underline\">Fundraising & Community Events Guide<\/span><\/a> — use as many or as few of the resources as you'd like! We want to make fundraising fun and easy, and we are here to help you make your event a success.<\/p><p>Please fill out the<a href=\"https:\/\/hrzt8xom4lq.typeform.com\/to\/CFVKeO8u\" title=\"Community Events Form Grand River Hospital Foundation\">Fundraising & Community Events Proposal Form<\/a> below so a member from our team can connect with you as soon as possible to offer support. We want to ensure that you are being provided with all you need to know in order to fundraise on behalf of Grand River Hospital Foundation and be a part of shaping the future of local health care. <\/p>",
+        "text": "<p>Thank you so much for taking the first step to champion and fundraise for Grand River Hospital Foundation. Your time and talents will support Grand River Hospital and help provide our communities with exceptional health care.<\/p><p>Plan your event step-by-step with our downloadable <a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0363\/5363\/8540\/files\/Community_Champion_Toolkit_2023.pdf.pdf?v=1684246991\" target=\"_blank\" title=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0363\/5363\/8540\/files\/Community_Champion_Toolkit_2023.pdf.pdf?v=1684246991\"><span style=\"text-decoration:underline\">Fundraising & Community Events Guide<\/span><\/a> — use as many or as few of the resources as you'd like! We want to make fundraising fun and easy, and we are here to help you make your event a success.<\/p><p>Please fill out the<a href=\"https:\/\/hrzt8xom4lq.typeform.com\/to\/CFVKeO8u\" title=\"Community Events Form Grand River Hospital Foundation\">Fundraising & Community Events Proposal Form<\/a> below so a member from our team can connect with you as soon as possible to offer support. We want to ensure that you are being provided with all you need to know in order to fundraise on behalf of Grand River Hospital Foundation and be a part of shaping the future of local health care. <\/p>",
         "button_label": "",
         "button_link": "",
         "url_style": "button_1",
@@ -75,6 +74,7 @@
     },
     "main": {
       "type": "main-page",
+      "disabled": true,
       "settings": {
       }
     },

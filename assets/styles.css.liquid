@@ -12946,6 +12946,11 @@ select[data-listed][data-colour-swatch="true"] + .clickyboxes a.unavailable::bef
     padding: 45px 30px;
     margin: 0 !important;
   }
+  .temp-campaign-landing-page .overlay-standard.mobile-overlay-under{
+    width: 100%;
+    max-width: unset;
+    border-radius: unset;
+  }
   .split-image-section .overlay,
   .standout-collection-section .overlay {
     padding: 45px 30px;
@@ -13400,7 +13405,7 @@ select[data-listed][data-colour-swatch="true"] + .clickyboxes a.unavailable::bef
     padding-right: 20px;
   }
   .article-page .split-column-layout .article-container {
-    margin-top: -40px;
+    margin-top: 0px;
     padding-top: 0;
     padding-left: 20px;
     padding-right: 20px;
@@ -17029,6 +17034,7 @@ body .wifi_banner_container .avoid-overlaps__item{
   
 #wifi_map_section .map-image-box{
   text-align: center;
+  min-height: 600px;
 }
   
 #wifi_map_section .care-list-holder:hover{
@@ -17036,6 +17042,11 @@ body .wifi_banner_container .avoid-overlaps__item{
 }  
   
 @media screen and (max-width: 767px) {
+  #wifi_map_section .map-image-box{
+    text-align: center;
+    min-height: 180px;
+  }
+  
   #wifi_map_section .map-box-holder{
     padding-bottom: 40px;
   }
@@ -17162,6 +17173,9 @@ body .wifi_banner_container .avoid-overlaps__item{
   .wifi_banner_container .overlay__bg {
     background-color: #F9F3F9 !important;
   }
+  .temp-campaign-landing-page .wifi_banner_container .overlay__bg {
+    background-color: #000 !important;
+  }
 }
   
 @media screen and (max-width: 1024px) {
@@ -17242,7 +17256,26 @@ body .wifi_banner_container .avoid-overlaps__item{
   color:#000000;
   text-decoration: none;
 }  
-  
+.wifi_map_frame{
+  width:100% !important;  
+  min-height: 600px!important;
+}
+
+@media screen and (min-width: 768px) and (max-width: 1400px) {
+  #mappedin-map {
+    max-width: 94% !important;
+    margin: 0 auto !important;
+  }
+}  
+
+@media screen and (max-width: 767px) {
+  #mappedin-map {
+    max-width: 90% !important;
+    margin: 0 auto !important;
+  }
+}
+
+    
   
   
 

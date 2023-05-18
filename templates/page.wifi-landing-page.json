@@ -5,6 +5,55 @@
       "settings": {
       }
     },
+    "47e52c1b-05db-464f-ba29-e1354d448b1a": {
+      "type": "slideshow",
+      "blocks": {
+        "template--15774472208524__47e52c1b-05db-464f-ba29-e1354d448b1a-1683081412302c4d94-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Rally_Save_The_Date_3.png",
+            "image_position": "center center",
+            "image_link": "https:\/\/grhf.ca\/pages\/rally-for-health",
+            "color_overlay_bg": "#ffffff",
+            "overlay_opacity": 80,
+            "color_overlay_text": "#333333",
+            "overlay_title": "",
+            "overlay_text": "",
+            "overlay_url_text_1": "",
+            "overlay_url_1": "",
+            "overlay_url_text_2": "",
+            "overlay_url_2": "",
+            "overlay_url_style": "button_1",
+            "enlarge_title": false,
+            "enlarge_text": false,
+            "overlay_position_x": 50,
+            "overlay_position_y": 80,
+            "color_label_background": "#ffffff",
+            "color_label_text": "#333333",
+            "show_chevron": true,
+            "product_id_1": "",
+            "chevron_position_1": "right",
+            "label_position_x_1": 20,
+            "label_position_y_1": 30,
+            "product_id_2": "",
+            "chevron_position_2": "right",
+            "label_position_x_2": 80,
+            "label_position_y_2": 50
+          }
+        }
+      },
+      "block_order": [
+        "template--15774472208524__47e52c1b-05db-464f-ba29-e1354d448b1a-1683081412302c4d94-0"
+      ],
+      "settings": {
+        "height": "adapt",
+        "height_desktop": 600,
+        "height_mobile": 500,
+        "mobile_text_below": true,
+        "slideshow_autoplay": true,
+        "slideshow_autoplay_speed": 6
+      }
+    },
     "1655191031d35861dc": {
       "type": "wifi-banner",
       "settings": {
@@ -186,6 +235,24 @@
         "grid": 2
       }
     },
+    "16611774449087ea26": {
+      "type": "video",
+      "settings": {
+        "video_url": "https:\/\/www.youtube.com\/watch?v=SEv0Rkylpgc&ab_channel=TAMVOESHealthInc",
+        "cover_image": "shopify:\/\/shop_images\/Screenshot_2022-08-22_8.17.10_AM.png",
+        "image_position": "center center",
+        "color_overlay_bg": "#ffffff",
+        "overlay_opacity": 80,
+        "color_overlay_text": "#333333",
+        "overlay_title": "Care Coordination at Grand River Hospital",
+        "overlay_text": "Grand River Hospital and Tamvoes are working together to improve the outcome of patient experiences while at Grand River Hospital. <br><br><p><a href=\"https:\/\/services.tamvoes.com\/grh-landing-page\/\" target=\"_blank\">Click here to learn more<\/a>.<\/p>",
+        "enlarge_title": false,
+        "enlarge_text": false,
+        "overlay_position_x": 50,
+        "overlay_position_y": 52,
+        "mobile_text_below": false
+      }
+    },
     "16552758929cc9a929": {
       "type": "wifi-divider",
       "settings": {
@@ -252,14 +319,14 @@
         "sub-title": "INTERACTIVE MAP",
         "title": "Find your way around the hospital",
         "enlarge_title": false,
-        "image": "shopify:\/\/shop_images\/Interactive_Map_Coming_Soon.png",
+        "image": "shopify:\/\/shop_images\/KW_MAIN_CAMPUS_MAP_1.png",
         "tab_header_title_1": "KW Campus",
-        "image_2": "shopify:\/\/shop_images\/Interactive_Map_Coming_Soon.png",
+        "image_2": "shopify:\/\/shop_images\/KW_MAIN_CAMPUS_MAP.png",
         "tab_header_title_2": "Freeport Campus",
-        "tab1_link_text": "",
-        "tab1_url": "",
-        "tab2_link_text": "",
-        "tab2_url": ""
+        "tab1_link_text": "Click Here to View Map",
+        "tab1_url": "shopify:\/\/pages\/kw-main-campus-map",
+        "tab2_link_text": "Click Here to View Map",
+        "tab2_url": "shopify:\/\/pages\/freeport-map"
       }
     },
     "165529997295bde8e4": {
@@ -454,36 +521,36 @@
       "type": "wifi-image-with-text",
       "settings": {
         "hsub-title": "NEWS & STORIES",
-        "htitle": "Grand ideas",
-        "image": "shopify:\/\/shop_images\/jrn042_20_1_copy_520x500_fa160b1c-af0d-44c9-9ea3-6dc8c488822d.webp",
+        "htitle": "Grand Ideas",
+        "image": "shopify:\/\/shop_images\/copyChangeInMotion_1.png",
         "image_link": "",
         "image_size": "0",
         "image_position": "left",
-        "sub_title": "Featured Story",
-        "title": "Creating a Better Hospital Experience for Local Families",
-        "text": "<p>Additional MRI services in Kitchener-Waterloo will have a positive and profound impact on patients and families in our community. The current wait time for an MRI is much too long, with only a single MRI machine serving our local hospitals. With the addition of two more MRI machines, patients will be able to receive their scans much sooner and without the need to travel between hospitals. This will not only improve patient care but also the quality of life for families who are struggling to cope with the long wait times and the uncertainty of awaiting a diagnosis or treatment options.<\/p>",
+        "sub_title": "",
+        "title": "24 Hour Walk for Families Raises Funds for Mental Health",
+        "text": "<p>Grand River Hospital volunteer Chris Costa was inspired to take action and raise money for local health care after seeing the need in the community while volunteering in the hospital’s emergency department. On May 6, 2023, Chris will embark on a 24-hour walk to raise money for Camino Wellbeing + Mental Health, Women's Crisis Services, and Grand River Hospital as part of an initiative he created called Change In Motion.<\/p><p>\"Walking for 24 hours shows a commitment to putting in the work to create change and impact,” explained Chris. “ Action is what we're all about. Speaking is great to create awareness, but … action says more.\"<\/p>",
         "button_label": "Read more",
-        "button_link": "shopify:\/\/blogs\/grand-ideas\/better-hospital-experience-for-families",
+        "button_link": "https:\/\/grhf.ca\/blogs\/grand-ideas\/change-in-motion-24-hour-walk",
         "url_style": "link_style",
-        "image_2": "shopify:\/\/shop_images\/DSC00163_520x500_66a1e13c-699d-4c31-ba34-5d434efd90b8.webp",
+        "image_2": "shopify:\/\/shop_images\/Volunteer_Week_Social_Media_Post_2_Option_2.png",
         "image_link_2": "",
         "image_size_2": "0",
         "image_position_2": "left",
-        "sub_title_2": "News",
-        "title_2": "Enhance Mental Health Care for Children and Youth Through Music",
+        "sub_title_2": "Hospital Stories",
+        "title_2": "A Grateful Patient's Thank You Message to Grand River's Volunteers",
         "text_2": "",
         "button_label_2": "Read more",
-        "button_link_2": "shopify:\/\/blogs\/grand-ideas\/enhancing-mental-health-care-through-music",
+        "button_link_2": "shopify:\/\/blogs\/grand-ideas\/a-grateful-patients-thank-you-message-to-volunteers",
         "url_style_2": "link_style",
-        "image_3": "shopify:\/\/shop_images\/286172782_130652422973823_690800376347169557_n_520x500_969437e9-a7d0-4ef7-b404-4ba904eecde7.webp",
+        "image_3": "shopify:\/\/shop_images\/copy2IMG_1314.jpg",
         "image_link_3": "",
         "image_size_3": "0",
         "image_position_3": "left",
-        "sub_title_3": "Staff Stories",
-        "title_3": "Supporting Cancer Treatment for Patients in Ghana and Beyond",
+        "sub_title_3": "Community Stories",
+        "title_3": "Enhancing the Hospital Experience for Our Children and Grandchildren",
         "text_3": "",
         "button_label_3": "Read more",
-        "button_link_3": "shopify:\/\/blogs\/grand-ideas\/acce",
+        "button_link_3": "shopify:\/\/blogs\/grand-ideas\/enhancing-the-hospital-experience",
         "url_style_3": "link_style",
         "enlarge_title": false,
         "enlarge_text": false,
@@ -510,9 +577,11 @@
   },
   "order": [
     "main-page-wifi-5",
+    "47e52c1b-05db-464f-ba29-e1354d448b1a",
     "1655191031d35861dc",
     "165606651590284196",
     "16552953476a7e41c3",
+    "16611774449087ea26",
     "16552758929cc9a929",
     "16552956528ce0452a",
     "1655299734d7133499",

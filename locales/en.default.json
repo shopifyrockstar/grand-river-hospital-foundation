@@ -776,6 +776,56 @@
         "lh_4x1g4o_item": "Privacy Policy",
         "lh_a168_bottom": "© 2020, Greenliving.com"
       }
+    },
+    "layouthub-606f7ebbe7fcd90d036e9a72": {
+      "85epj550bx": {
+        "lh_omvs9d_title": "a",
+        "lh_8kwg_title": "a",
+        "lh_8kwg_sale": "a"
+      },
+      "im6ci6i1c2g": {
+        "title": "Non-Monetary Gifts"
+      },
+      "ed65g6rmbsc": {
+        "btn": "donate now"
+      },
+      "j05n2rasv9": {
+        "lh_nkyb1a_banner": "faq"
+      },
+      "4igtdwodg6t": {
+        "lh_a168_title": "The Marsland Family",
+        "lh_a168_desc_html": "<div style=\"text-align: left;\"><span style=\"color: rgb(85, 85, 85); font-size: calc(var(--lh-font-size) * 0.8) ;\">\"If you’ve been at Grand River Hospital in recent months, you may be struck, as\nwe were by the added pressures COVID has placed on hospital staff, and how\nhard they are working to provide the best possible care in very difficult\ncircumstances. As the hospital braces for the third and perhaps worst phase\nof Covid 19, Larry and I have made a commitment to help our local health care\nheroes at Grand River Hospital by providing inspiration and support that is\noutside the envelope the government can support. We’ve made a\ncommitment to use our experience, and compassion for health care workers\nas a catalyst for a grass roots, community-wide, demonstration of support.\nPlease join us.\"<\/span><\/div><!--lh-live-editor-->"
+      }
+    },
+    "layouthub-62a262e623a8bb646d608762": {
+      "hmcnNAgeFE": {
+        "lh_8huk_link": "Register Now"
+      },
+      "9z1fifqpj7d": {
+        "text1": "JOIN US AUGUST 12, 2022 at NEW DUNDEE GOLF & COUNTRY CLUB  -"
+      },
+      "dwp78wf2cke": {
+        "lh_4mruur_title": "Silicon Meets Grass",
+        "lh_4mruur_content_html": "Join us in supporting 2 new MRI's  in Waterloo Region at this brand new, high-quality golf tournament designed to foster connection and support from industry and the IT experts &amp; leaders at these two great hospitals.<div><\/div><!--lh-live-editor-->"
+      },
+      "jzzk6lj31zn": {
+        "heading": "SPONSOR",
+        "description": "Become a partner and sponsor one of many opportunities for this inaugural event.",
+        "lh_tnnsbt_sale": "$200",
+        "lh_tnnsbt_main": "$199",
+        "btn": "SPONSOR"
+      },
+      "iami5uvyf6i": {
+        "heading": "DONATE",
+        "description_html": "Can't join and want to donate for 2 new MRI machines in the region?<br> Support us today",
+        "lh_tnnsbt_sale": "$200",
+        "lh_tnnsbt_main": "$199",
+        "btn": "DONATE"
+      },
+      "pzwH9Vi7P1": {
+        "lh_a168_title_html": "PLAY.<div>Register your Corporate Four<br><\/div>",
+        "lh_8huk_link": "CORPORATE FOUR"
+      }
     }
   },
   "shopify": {
@@ -783,7 +833,8 @@
       "contact": {
         "first_name_label": "First name (used for tax receipt purposes)",
         "last_name_label": "Last name (used for tax receipt purposes)",
-        "company_label": "Company (if information is entered here you will receive your donation receipt in the business name)"
+        "company_label": "Company (info entered here will default your donation receipt to be in the business name)",
+        "optional_company_label": "Company (info entered here will default your donation receipt to be in the business name)"
       }
     }
   },
@@ -851,6 +902,7 @@
   },
   "collection_auctions": {
     "auction_title": "Auctions",
+    "auction_description": "",
     "empty": "No products found",
     "search": "Search",
     "search_no_results": "No search results",

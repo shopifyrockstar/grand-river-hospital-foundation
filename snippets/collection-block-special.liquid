@@ -52,9 +52,6 @@
     <div class="product-carousel-peek standout-collection-slider">
       <div class="js-list-collection-slider will-slick">
         {% for product in collection.products limit: 15 %}
-          {%- comment %}<locksmith:c021>{% endcomment -%}
-            {%- capture var %}{% render 'locksmith-variables', scope: 'subject', subject: product, subject_parent: collection, variable: 'transparent' %}{% endcapture %}{% if var == "true" %}{% else %}{% continue %}{% endif -%}
-          {%- comment %}</locksmith:c021>{% endcomment -%}
           <div class="slide relative js-contains-quickbuy">
             {% assign quickbuy_toggle = settings.quickbuy_buttons_toggle %}
             {% render 'product-block', grid_class: 'ignore', quickbuy: quickbuy_toggle, product: product, show_vendor: settings.grid_show_vendor %}

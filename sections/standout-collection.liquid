@@ -87,9 +87,6 @@
         <div class="js-standout-collection-slider will-slick">
           {% assign quickbuy_toggle = settings.quickbuy_buttons_toggle %}
           {% for product in collection.products limit: 15 %}
-            {%- comment %}<locksmith:5770>{% endcomment -%}
-              {%- capture var %}{% render 'locksmith-variables', scope: 'subject', subject: product, subject_parent: collection, variable: 'transparent' %}{% endcapture %}{% if var == "true" %}{% else %}{% continue %}{% endif -%}
-            {%- comment %}</locksmith:5770>{% endcomment -%}
             <div class="slide relative js-contains-quickbuy">
               {% render 'product-block', grid_class: 'ignore', quickbuy: quickbuy_toggle, product: product, show_vendor: section.settings.show_vendor %}
             </div>

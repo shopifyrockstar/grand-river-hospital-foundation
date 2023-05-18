@@ -1,0 +1,174 @@
+{
+  "sections": {
+    "199a017a-f263-4505-b5a8-fbf955618376": {
+      "type": "wifi-banner",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Launch_Of_After_Dark.png",
+        "image_mobile": "shopify:\/\/shop_images\/Launch_Of_After_Dark_1.png",
+        "image_link": "shopify:\/\/products\/rally-for-health-registration",
+        "image_position": "center center",
+        "height": "adapt",
+        "height_desktop": 460,
+        "height_mobile": 500,
+        "color_overlay_bg": "#000000",
+        "overlay_opacity": 100,
+        "color_overlay_text": "#ffffff",
+        "overlay_title": "",
+        "overlay_text": "",
+        "overlay_url_text_1": "",
+        "overlay_url_1": "",
+        "overlay_url_text_2": "",
+        "overlay_url_2": "",
+        "overlay_url_style": "button_1",
+        "enlarge_title": false,
+        "enlarge_text": true,
+        "mobile_text_below": false,
+        "color_label_background": "#ffffff",
+        "color_label_text": "#333333",
+        "show_chevron": false,
+        "product_id_1": "",
+        "chevron_position_1": "right",
+        "label_position_x_1": 40,
+        "label_position_y_1": 50,
+        "product_id_2": "",
+        "chevron_position_2": "right",
+        "label_position_x_2": 80,
+        "label_position_y_2": 50
+      }
+    },
+    "6866cd8f-d7d7-4f28-bb38-e1461dfbf8cd": {
+      "type": "rich-text",
+      "custom_css": [
+        "p {text-align: left;}"
+      ],
+      "settings": {
+        "title": "Launch of After Dark",
+        "text": "<p>We are launching a new product collection designed in honour of the night shift  -  the hard working team members who put in the hours on the other side of the clock to ensure care never stops.<\/p><p>Join us at this late night event taking place over Wednesday night into Thursday morning at Grand River Hospital's Kitchener-Waterloo Campus (835 King Street West, Kitchener) in the main lobby. Celebrate the night shift, enjoy a free coffee, and be a part of the exciting After Dark collection launch!<\/p>",
+        "button_label": "",
+        "button_link": "shopify:\/\/products\/launch-of-after-dark-registration",
+        "url_style": "button_1",
+        "enlarge_title": false,
+        "enlarge_text": false,
+        "full_width": false,
+        "color_bg": "#ffffff",
+        "color_title": "#333333",
+        "color_text": "#333333"
+      }
+    },
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "custom_css": [
+        "h1 {display: none;}"
+      ],
+      "settings": {
+      }
+    },
+    "0cdee890-a50c-429a-be72-170a11e38b08": {
+      "type": "banner",
+      "disabled": true,
+      "blocks": {
+        "template--15873260748940__0cdee890-a50c-429a-be72-170a11e38b08-1675704870c901718f-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Untitled_design_cd4a048f-a12b-4d33-b3c2-5c722cccee5b.png",
+            "image_position": "bottom center",
+            "image_link": "",
+            "color_overlay_bg": "#ffffff",
+            "overlay_opacity": 80,
+            "color_overlay_text": "#333333",
+            "overlay_title": "",
+            "overlay_text": "",
+            "overlay_url_text_1": "",
+            "overlay_url_1": "",
+            "overlay_url_text_2": "",
+            "overlay_url_2": "",
+            "overlay_url_style": "button_1",
+            "enlarge_title": false,
+            "enlarge_text": false,
+            "overlay_position_x": 50,
+            "overlay_position_y": 80,
+            "color_label_background": "#ffffff",
+            "color_label_text": "#333333",
+            "show_chevron": true,
+            "product_id_1": "",
+            "chevron_position_1": "right",
+            "label_position_x_1": 20,
+            "label_position_y_1": 30,
+            "product_id_2": "",
+            "chevron_position_2": "right",
+            "label_position_x_2": 80,
+            "label_position_y_2": 50
+          }
+        },
+        "992981b1-370f-4743-b33a-26c6ffcd7a1f": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Untitled_design_1_f3f5c41b-045f-427c-b6e2-e08e6ef1c7c4.png",
+            "image_position": "center center",
+            "image_link": "",
+            "color_overlay_bg": "#ffffff",
+            "overlay_opacity": 80,
+            "color_overlay_text": "#333333",
+            "overlay_title": "",
+            "overlay_text": "",
+            "overlay_url_text_1": "",
+            "overlay_url_1": "",
+            "overlay_url_text_2": "",
+            "overlay_url_2": "",
+            "overlay_url_style": "button_1",
+            "enlarge_title": false,
+            "enlarge_text": false,
+            "overlay_position_x": 50,
+            "overlay_position_y": 80,
+            "color_label_background": "#ffffff",
+            "color_label_text": "#333333",
+            "show_chevron": true,
+            "product_id_1": "",
+            "chevron_position_1": "right",
+            "label_position_x_1": 20,
+            "label_position_y_1": 30,
+            "product_id_2": "",
+            "chevron_position_2": "right",
+            "label_position_x_2": 80,
+            "label_position_y_2": 50
+          }
+        }
+      },
+      "block_order": [
+        "template--15873260748940__0cdee890-a50c-429a-be72-170a11e38b08-1675704870c901718f-0",
+        "992981b1-370f-4743-b33a-26c6ffcd7a1f"
+      ],
+      "settings": {
+        "height": "adapt",
+        "height_desktop": 500,
+        "height_mobile": 400,
+        "mobile_text_below": true,
+        "slideshow_autoplay": false,
+        "slideshow_autoplay_speed": 6
+      }
+    },
+    "a35f32cc-7808-4ad1-af83-41ba70c55e29": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "",
+        "enlarge_title": false,
+        "link_text": "",
+        "collection": "launch-of-after-dark",
+        "show_vendor": false,
+        "enable_carousel": false,
+        "grid": 3,
+        "row_count": 1,
+        "grid_mobile": "2"
+      }
+    }
+  },
+  "order": [
+    "199a017a-f263-4505-b5a8-fbf955618376",
+    "6866cd8f-d7d7-4f28-bb38-e1461dfbf8cd",
+    "main",
+    "0cdee890-a50c-429a-be72-170a11e38b08",
+    "a35f32cc-7808-4ad1-af83-41ba70c55e29"
+  ]
+}

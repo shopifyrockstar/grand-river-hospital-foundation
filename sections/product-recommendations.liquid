@@ -19,9 +19,6 @@
             {% capture grid_class_list %}{{ grid_class }} grid-flex__item{% endcapture %}
 
             {%- for product in recommendations.products -%}
-              {%- comment %}<locksmith:d55f>{% endcomment -%}
-                {%- capture var %}{% render 'locksmith-variables', scope: 'subject', subject: product, subject_parent: recommendations, variable: 'transparent' %}{% endcapture %}{% if var == "true" %}{% else %}{% continue %}{% endif -%}
-              {%- comment %}</locksmith:d55f>{% endcomment -%}
               {% render 'product-block', product: product, grid_class: 'grid-flex__item', show_vendor: settings.grid_show_vendor %}
             {%- endfor -%}
           </div>

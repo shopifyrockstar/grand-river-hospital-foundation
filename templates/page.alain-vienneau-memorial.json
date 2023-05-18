@@ -1,0 +1,182 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+      }
+    },
+    "165056743718acefc3": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/2C2FD14F-AE96-4844-BCED-1ABB48A71936_1_105_c.jpg",
+        "image_link": "shopify:\/\/products\/alain-vienneau-memorial-golf-tournament-for-the-grand-river-hospital-kidney-care-program",
+        "image_position": "center center",
+        "height": "adapt",
+        "height_desktop": 600,
+        "height_mobile": 500,
+        "color_overlay_bg": "#ffffff",
+        "overlay_opacity": 80,
+        "color_overlay_text": "#333333",
+        "overlay_title": "Alain Vienneau Memorial Golf Tournament for the Grand River Hospital Kidney Care Program",
+        "overlay_text": "Join us for an afternoon on the greens as we support a worthy cause at the Grand River Hospital Kidney Care Program Golf Tournament. Your participation will help make a difference in the lives of those affected by kidney disease",
+        "overlay_url_text_1": "REGISTER NOW",
+        "overlay_url_1": "shopify:\/\/products\/alain-vienneau-memorial-golf-tournament-for-the-grand-river-hospital-kidney-care-program",
+        "overlay_url_text_2": "",
+        "overlay_url_2": "",
+        "overlay_url_style": "button_1",
+        "enlarge_title": false,
+        "enlarge_text": false,
+        "overlay_position_x": 50,
+        "overlay_position_y": 70,
+        "mobile_text_below": false,
+        "color_label_background": "#ffffff",
+        "color_label_text": "#333333",
+        "show_chevron": true,
+        "product_id_1": "",
+        "chevron_position_1": "right",
+        "label_position_x_1": 20,
+        "label_position_y_1": 30,
+        "product_id_2": "",
+        "chevron_position_2": "right",
+        "label_position_x_2": 80,
+        "label_position_y_2": 50
+      }
+    },
+    "1655141099fe0b6383": {
+      "type": "image-with-text-overlay",
+      "disabled": true,
+      "settings": {
+        "image_link": "",
+        "image_position": "center center",
+        "height": "adapt",
+        "height_desktop": 600,
+        "height_mobile": 500,
+        "color_overlay_bg": "#ffffff",
+        "overlay_opacity": 80,
+        "color_overlay_text": "#333333",
+        "overlay_title": "Full width image",
+        "overlay_text": "Show off your images, display a promotion with product links",
+        "overlay_url_text_1": "",
+        "overlay_url_1": "",
+        "overlay_url_text_2": "",
+        "overlay_url_2": "",
+        "overlay_url_style": "button_1",
+        "enlarge_title": false,
+        "enlarge_text": false,
+        "overlay_position_x": 50,
+        "overlay_position_y": 70,
+        "mobile_text_below": false,
+        "color_label_background": "#ffffff",
+        "color_label_text": "#333333",
+        "show_chevron": true,
+        "product_id_1": "",
+        "chevron_position_1": "right",
+        "label_position_x_1": 20,
+        "label_position_y_1": 30,
+        "product_id_2": "",
+        "chevron_position_2": "right",
+        "label_position_x_2": 80,
+        "label_position_y_2": 50
+      }
+    },
+    "b9c511f3-0759-454e-b48b-c8b3db173d8c": {
+      "type": "rich-text-about-fdn",
+      "settings": {
+        "title": "Event Details",
+        "text": "<ul><li>Sunday, May 28, 2023<\/li><li>Beaverdale Golf Club, 171 Kossuth R, Cambridge<\/li><li>9 Holes<\/li><li>2:30 pm Shotgun Start<\/li><li>$135 per person, includes shared cart, BBQ dinner<\/li><\/ul>",
+        "button_label": "",
+        "button_link": "",
+        "url_style": "button_1",
+        "enlarge_title": false,
+        "enlarge_text": false,
+        "full_width": false,
+        "color_bg": "#ecf1f2",
+        "color_title": "#333333",
+        "color_text": "#333333"
+      }
+    },
+    "d86fc0a8-5163-408c-b81a-6388e757be1c": {
+      "type": "image-gallery",
+      "blocks": {
+        "template--15874795339916__d86fc0a8-5163-408c-b81a-6388e757be1c-1675718594064d0a9d-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Screenshot_2023-01-26_10.30.37.png",
+            "alignment": "center center",
+            "enlarge_image": false,
+            "link": "",
+            "title": "",
+            "text": "",
+            "button_label": "",
+            "overlay_position": "center-center"
+          }
+        },
+        "template--15874795339916__d86fc0a8-5163-408c-b81a-6388e757be1c-1675718594064d0a9d-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_202209_Renal_patient_3E_dialysis_and_Nurse_5.jpg",
+            "alignment": "center center",
+            "enlarge_image": false,
+            "link": "",
+            "title": "",
+            "text": "",
+            "button_label": "",
+            "overlay_position": "center-center"
+          }
+        },
+        "template--15874795339916__d86fc0a8-5163-408c-b81a-6388e757be1c-1675718594064d0a9d-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_20220502_Renal_nurse_smiling_with_diaylsis_patient.jpg",
+            "alignment": "center center",
+            "enlarge_image": false,
+            "link": "",
+            "title": "",
+            "text": "",
+            "button_label": "",
+            "overlay_position": "center-center"
+          }
+        },
+        "template--15874795339916__d86fc0a8-5163-408c-b81a-6388e757be1c-1675718594064d0a9d-3": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/unnamed_4_1.jpg",
+            "alignment": "center center",
+            "enlarge_image": false,
+            "link": "",
+            "title": "",
+            "text": "",
+            "button_label": "",
+            "overlay_position": "center-center"
+          }
+        }
+      },
+      "block_order": [
+        "template--15874795339916__d86fc0a8-5163-408c-b81a-6388e757be1c-1675718594064d0a9d-0",
+        "template--15874795339916__d86fc0a8-5163-408c-b81a-6388e757be1c-1675718594064d0a9d-1",
+        "template--15874795339916__d86fc0a8-5163-408c-b81a-6388e757be1c-1675718594064d0a9d-2",
+        "template--15874795339916__d86fc0a8-5163-408c-b81a-6388e757be1c-1675718594064d0a9d-3"
+      ],
+      "settings": {
+        "grid": 2,
+        "image_height": 300,
+        "image_height_mobile": 300,
+        "enable_margin": true,
+        "enable_carousel": true,
+        "overlay_style": "box",
+        "color_overlay_bg": "#ffffff",
+        "overlay_opacity": 80,
+        "color_overlay_text": "#333333",
+        "overlay_url_style": "button_1"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "165056743718acefc3",
+    "1655141099fe0b6383",
+    "b9c511f3-0759-454e-b48b-c8b3db173d8c",
+    "d86fc0a8-5163-408c-b81a-6388e757be1c"
+  ]
+}

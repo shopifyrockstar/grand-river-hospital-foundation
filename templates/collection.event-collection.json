@@ -1,0 +1,60 @@
+{
+  "sections": {
+    "a7c46765-4545-4bec-b522-c2344e901a8d": {
+      "type": "image-with-text",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Untitled_design_37.png",
+        "image_link": "",
+        "image_size": "0",
+        "image_position": "left",
+        "title": "Art$Pay: Hearts, Arts & Healing",
+        "text": "<p>This show is about how artists express trauma and the healing power of the artistic practice and results, with proceeds supporting Grand River Hospital.<\/p><p>Artists exhibiting: Catherine Mellinger, Claire Donnison, Esther Slevinsky, Jim Blomfield, Michael ManChoi Chow, Roshan James, Roslyn Ramsay<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "url_style": "button_1",
+        "enlarge_title": false,
+        "enlarge_text": false,
+        "text_alignment": "center",
+        "color_bg": "#9e7777",
+        "color_text": "#ffffff"
+      }
+    },
+    "2bb2ba32-d96b-4433-9c30-5f1edc124d9f": {
+      "type": "rich-text",
+      "settings": {
+        "title": "Hearts, Arts & Healing Tea and Talk",
+        "text": "<p>Attend the Tea and Talk on February 19th, featuring an artist talk, a special guest speaker from Grand River Hospital Foundation and special gift from <a href=\"https:\/\/www.allthingstea.com\" title=\"https:\/\/www.allthingstea.com\">All Things Tea<\/a>. Tickets are $30. <\/p>",
+        "button_label": "Buy tickets",
+        "button_link": "shopify:\/\/products\/hearts-art-and-healing-tea-talk",
+        "url_style": "button_1",
+        "enlarge_title": false,
+        "enlarge_text": false,
+        "full_width": false,
+        "color_bg": "#ECF1F2",
+        "color_title": "#333333",
+        "color_text": "#333333"
+      }
+    },
+    "main": {
+      "type": "left-aligned-collection",
+      "settings": {
+        "enable_feature_header": false,
+        "grid": 4,
+        "grid_mobile": "2",
+        "pagination_limit": 12,
+        "show_total": false,
+        "ajax_products": true,
+        "show_vendor": false,
+        "show_filters": true,
+        "show_filter_prod_counts": true,
+        "show_sort_by": true,
+        "show_featured": false
+      }
+    }
+  },
+  "order": [
+    "a7c46765-4545-4bec-b522-c2344e901a8d",
+    "2bb2ba32-d96b-4433-9c30-5f1edc124d9f",
+    "main"
+  ]
+}
