@@ -106,6 +106,19 @@
     "1636398521ca2e0d54": {
       "type": "image-gallery",
       "blocks": {
+        "62c27585-60bc-4a7a-996b-a95b936089a4": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/three-friends-pose-for-the-camera-in-an-open-field.jpg",
+            "alignment": "center center",
+            "enlarge_image": false,
+            "link": "shopify:\/\/collections\/indigenous-careship",
+            "title": "Indigenous Careship",
+            "text": "",
+            "button_label": "Support Indigenous Care",
+            "overlay_position": "bottom-center"
+          }
+        },
         "553e3370-7468-473d-a652-a022148d1482": {
           "type": "image",
           "settings": {
@@ -225,6 +238,7 @@
         }
       },
       "block_order": [
+        "62c27585-60bc-4a7a-996b-a95b936089a4",
         "553e3370-7468-473d-a652-a022148d1482",
         "e49ef7db-492e-4ccb-ba38-7e6f26baeed3",
         "1636398521ca2e0d54-1",

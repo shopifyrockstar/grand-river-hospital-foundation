@@ -65,9 +65,9 @@
                     <p class="footer-block__heading">{{ block.settings.heading | escape }}</p>
                     <ul class="nav">
                       {%- for link in block.settings.menu.links -%}
-                        {%- comment %}<locksmith:df3d>{% endcomment -%}
+                        {%- comment %}<locksmith:1efb>{% endcomment -%}
                           {%- capture var %}{% render 'locksmith-variables', scope: 'subject', subject: link, subject_parent: block.settings.menu, variable: 'transparent' %}{% endcapture %}{% if var == "true" %}{% else %}{% continue %}{% endif -%}
-                        {%- comment %}</locksmith:df3d>{% endcomment -%}
+                        {%- comment %}</locksmith:1efb>{% endcomment -%}
                         <li class="nav__item">
                           <a href="{{ link.url }}" class="nav__link">{{ link.title }}</a>
                         </li>
@@ -96,9 +96,9 @@
             {%- if linklists[small_linklist].links.size > 0 -%}
               <ul class="small-nav">
                 {%- for link in linklists[small_linklist].links -%}
-                  {%- comment %}<locksmith:0a25>{% endcomment -%}
+                  {%- comment %}<locksmith:a205>{% endcomment -%}
                     {%- capture var %}{% render 'locksmith-variables', scope: 'subject', subject: link, subject_parent: linklists[small_linklist], variable: 'transparent' %}{% endcapture %}{% if var == "true" %}{% else %}{% continue %}{% endif -%}
-                  {%- comment %}</locksmith:0a25>{% endcomment -%}
+                  {%- comment %}</locksmith:a205>{% endcomment -%}
                   <li class="small-nav__item">
                     <a class="small-nav__link" href="{{ link.url }}">{{ link.title }}</a>
                   </li>

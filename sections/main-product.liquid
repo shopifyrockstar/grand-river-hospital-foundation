@@ -241,13 +241,13 @@
                       {% endfor %}
                     </select>
 
-                    <div class="product-detail__quantity-row row {% if block.settings.enable_payment_button and product.selling_plan_groups == empty %} with-payment-buttons{% endif %}" {{ block.shopify_attributes }}>
+                    <div class="product-detail__quantity-row row {% if block.settings.enable_payment_button and product.selling_plan_groups == empty %} with-payment-buttons{% endif %}" {{ block.shopify_attributes }} data-c="{{ product.metafields.subscriptions.has_subscription }}">
                       
                       
                       {% assign subscription_product = product.metafields.subscriptions %}
-                      {% if subscription_product.has_subscription == 'True' %}      
+                      {% if subscription_product.has_subscription == 'True' or template.suffix == 'donate-new' %}      
                       
-                      <div class="custom-recharge-wrapper">
+                      <div class="custom-recharge-wrapper" data-c="{{product.selling_plan_groups[0].selling_plans[0].id}}" data-cs="{{product.selling_plan_groups}}">
                         
                         <ul id="tabs">                  
                           

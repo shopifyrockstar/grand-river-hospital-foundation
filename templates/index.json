@@ -7,23 +7,23 @@
           "type": "image",
           "disabled": true,
           "settings": {
-            "image": "shopify:\/\/shop_images\/11_b95292c3-b682-496c-afed-92bf7b4d2dfc.png",
+            "image": "shopify:\/\/shop_images\/December_5050_Winner_1200_x_600_px_4.png",
             "image_position": "center center",
             "image_link": "",
             "color_overlay_bg": "#ffffff",
-            "overlay_opacity": 80,
+            "overlay_opacity": 100,
             "color_overlay_text": "#333333",
             "overlay_title": "",
-            "overlay_text": "Care. Never. Stops. at Grand River Hospital. We're building a world class health system that transforms health care delivery, provides an exceptional experience for all, and works collaboratively to improve the health of our community.",
-            "overlay_url_text_1": "Donate",
-            "overlay_url_1": "shopify:\/\/products\/care-never-stops-donation",
-            "overlay_url_text_2": "Shop",
-            "overlay_url_2": "shopify:\/\/collections\/shop",
-            "overlay_url_style": "button_1",
+            "overlay_text": "The January 50\/50 lottery draw in support of Grand River Hospital was a massive success with Victoria M. of Kitchener taking home the big jackpot of $18,225! Get a head start on the Februrary 50\/50 draw today",
+            "overlay_url_text_1": "Buy Tickets",
+            "overlay_url_1": "https:\/\/www.kw5050.ca\/",
+            "overlay_url_text_2": "",
+            "overlay_url_2": "",
+            "overlay_url_style": "button_2",
             "enlarge_title": false,
             "enlarge_text": false,
             "overlay_position_x": 50,
-            "overlay_position_y": 50,
+            "overlay_position_y": 80,
             "color_label_background": "#ffffff",
             "color_label_text": "#333333",
             "show_chevron": true,
@@ -243,24 +243,92 @@
         },
         "7bf6ddd2-8160-4e5d-9cad-7d8f6c6b6a39": {
           "type": "image",
+          "disabled": true,
           "settings": {
-            "image": "shopify:\/\/shop_images\/golf-bag-with-clubs-at-golf-course.jpg",
+            "image": "shopify:\/\/shop_images\/santa-fixes-the-bow-on-a-gift.jpg",
             "image_position": "top center",
             "image_link": "",
             "color_overlay_bg": "#ffffff",
             "overlay_opacity": 80,
             "color_overlay_text": "#333333",
-            "overlay_title": "Short Grass Golf Tournament Presented by AirBoss",
-            "overlay_text": "You are invited to join us to make the vision for Scotland's Yard a reality in this brand new, high-quality golf tournament designed for busy corporate leaders. ",
-            "overlay_url_text_1": "Learn More",
-            "overlay_url_1": "shopify:\/\/pages\/shortgrass",
+            "overlay_title": "Gift Wrapping Volunteers",
+            "overlay_text": "We are looking for volunteers to help gift wrap at Conestoga Mall from December 5th to 24th.",
+            "overlay_url_text_1": "Volunteer Today",
+            "overlay_url_1": "https:\/\/grhf.getcommunal.com\/volunteer-opportunities\/235",
             "overlay_url_text_2": "",
             "overlay_url_2": "",
             "overlay_url_style": "button_1",
             "enlarge_title": false,
             "enlarge_text": false,
             "overlay_position_x": 50,
-            "overlay_position_y": 80,
+            "overlay_position_y": 50,
+            "color_label_background": "#ffffff",
+            "color_label_text": "#333333",
+            "show_chevron": true,
+            "product_id_1": "",
+            "chevron_position_1": "right",
+            "label_position_x_1": 20,
+            "label_position_y_1": 30,
+            "product_id_2": "",
+            "chevron_position_2": "right",
+            "label_position_x_2": 80,
+            "label_position_y_2": 50
+          }
+        },
+        "5dd0bb08-f811-434f-b570-eab8ac3a1b82": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Rally_For_Health.jpg",
+            "image_position": "center center",
+            "image_link": "",
+            "color_overlay_bg": "#ffffff",
+            "overlay_opacity": 80,
+            "color_overlay_text": "#333333",
+            "overlay_title": "Support Grand River Kids for the Holidays",
+            "overlay_text": "All donations up to $250,000 will be matched by a generous donor until December 31, 2022.",
+            "overlay_url_text_1": "Donate",
+            "overlay_url_1": "shopify:\/\/collections\/grand-river-kids",
+            "overlay_url_text_2": "",
+            "overlay_url_2": "",
+            "overlay_url_style": "button_2",
+            "enlarge_title": false,
+            "enlarge_text": false,
+            "overlay_position_x": 50,
+            "overlay_position_y": 50,
+            "color_label_background": "#ffffff",
+            "color_label_text": "#333333",
+            "show_chevron": true,
+            "product_id_1": "",
+            "chevron_position_1": "right",
+            "label_position_x_1": 20,
+            "label_position_y_1": 30,
+            "product_id_2": "",
+            "chevron_position_2": "right",
+            "label_position_x_2": 80,
+            "label_position_y_2": 50
+          }
+        },
+        "e6bd77dd-307e-456a-ba21-3271c5f41e1c": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Rally_Save_The_Date_3.png",
+            "image_position": "center center",
+            "image_link": "shopify:\/\/pages\/care-never-stops-week",
+            "color_overlay_bg": "#ffffff",
+            "overlay_opacity": 90,
+            "color_overlay_text": "#333333",
+            "overlay_title": "",
+            "overlay_text": "",
+            "overlay_url_text_1": "",
+            "overlay_url_1": "",
+            "overlay_url_text_2": "",
+            "overlay_url_2": "",
+            "overlay_url_style": "button_1",
+            "enlarge_title": false,
+            "enlarge_text": false,
+            "overlay_position_x": 74,
+            "overlay_position_y": 69,
             "color_label_background": "#ffffff",
             "color_label_text": "#333333",
             "show_chevron": true,
@@ -283,52 +351,21 @@
         "2bbd9388-fe79-464a-999b-f3a5b5c24904",
         "70ba951c-9067-4b05-8fe8-565eed7ce10e",
         "3bc2360b-10ec-4192-b793-e1b881f7cf40",
-        "7bf6ddd2-8160-4e5d-9cad-7d8f6c6b6a39"
+        "7bf6ddd2-8160-4e5d-9cad-7d8f6c6b6a39",
+        "5dd0bb08-f811-434f-b570-eab8ac3a1b82",
+        "e6bd77dd-307e-456a-ba21-3271c5f41e1c"
+      ],
+      "custom_css": [
+        "h2 {text-align: left;}",
+        ".overlay-text {text-align: left;}"
       ],
       "settings": {
         "height": "fixed",
         "height_desktop": 500,
         "height_mobile": 400,
         "mobile_text_below": true,
-        "slideshow_autoplay": true,
-        "slideshow_autoplay_speed": 6
-      }
-    },
-    "image-with-text": {
-      "type": "image-with-text",
-      "disabled": true,
-      "settings": {
-        "image": "shopify:\/\/shop_images\/Website_Banner_2048_x_1024_4.png",
-        "image_link": "shopify:\/\/products\/mri-machine",
-        "image_size": "0",
-        "image_position": "left",
-        "title": "MRI Machine",
-        "text": "<p>We need your help to raise $2.4M for a second MRI machine at Grand River Hospital by June 2022.<\/p>",
-        "button_label": "Donate Now",
-        "button_link": "shopify:\/\/products\/mri-machine",
-        "url_style": "button_1",
-        "enlarge_title": false,
-        "enlarge_text": false,
-        "text_alignment": "center",
-        "color_bg": "#e6e6e6",
-        "color_text": "#333333"
-      }
-    },
-    "1652812435c5e3e940": {
-      "type": "rich-text",
-      "disabled": true,
-      "settings": {
-        "title": "Scotland's Yard Road Hockey Classic",
-        "text": "<p>On Friday, July 8th we will be hosting the first ever Scotland’s Yard Road Hockey Classic at Catalyst 137. <\/p><p>There will be many NHL players, OHL players and other professional hockey players in attendance like co-chair Ben Chiarot as well as Mike Hoffman, Nick Suzuki, Logan Stanley, Boris Katchouk, Dennis Wideman to name a few. <\/p><p>Scotland’s Yard is an initiative in partnership with Grand River Hospital to improve children’s cancer care. <\/p><p><\/p>",
-        "button_label": "CHECK IT OUT",
-        "button_link": "shopify:\/\/pages\/about-sy-road-hockey-classic",
-        "url_style": "button_1",
-        "enlarge_title": false,
-        "enlarge_text": false,
-        "full_width": false,
-        "color_bg": "#ecf1f2",
-        "color_title": "#333333",
-        "color_text": "#333333"
+        "slideshow_autoplay": false,
+        "slideshow_autoplay_speed": 7
       }
     },
     "1652812085c59edad7": {
@@ -435,20 +472,145 @@
         "overlay_url_style": "button_1"
       }
     },
-    "1634577193da2505a6": {
-      "type": "rich-text",
+    "361e0645-0882-47af-b804-f4c52e95226a": {
+      "type": "rich-text-about-fdn",
+      "disabled": true,
+      "custom_css": [
+        ".large-section {padding-top: 0.5em; padding-bottom: 0.5em;}"
+      ],
       "settings": {
-        "title": "",
-        "text": "<p>At the core of every world class community are people who care—people who care about the work they do, the community they live in and the chance to make a difference.<strong> <\/strong>At Grand River Hospital Foundation, we share that passion and dedicate ourselves to our great community by working in partnership with people from all walks of life to make every health care experience exceptional. <\/p>",
+        "title": "Grand River Hospital Foundation",
+        "text": "<p>At the core of every world class community are people who care—people who care about the work they do, they community they live in and the chance to make a difference. <\/p><p>At Grand River Hospital Foundation, we share this passion and dedicate ourselves to our great community by working in partnership with people from all walks of life to make every health care experience exceptional. Every time you support Grand River Hospital, you bringing us one step closer to a world class health care system right here in our community.<\/p>",
         "button_label": "",
         "button_link": "",
         "url_style": "button_1",
         "enlarge_title": false,
         "enlarge_text": false,
         "full_width": false,
-        "color_bg": "#ecf1f2",
+        "color_bg": "#ffffff",
         "color_title": "#333333",
         "color_text": "#333333"
+      }
+    },
+    "cc10c0e5-ea27-4bfa-8cf1-ec3757c3f868": {
+      "type": "image-with-text",
+      "custom_css": [
+        "h2 {font-size: 24px;}"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Website_Image_with_Text_Template_2023_1.png",
+        "image_link": "",
+        "image_size": "30",
+        "image_position": "right",
+        "title": "Our winning aspiration: to rally the citizens of our communities to ensure world class health care right here.",
+        "text": "<p>At the core of every world class community are people who care—people who care about the work they do, they community they live in and the chance to make a difference. <\/p><p>At Grand River Hospital Foundation, we share this passion and dedicate ourselves to our great community by working in partnership with people from all walks of life to make every health care experience exceptional. Every time you support Grand River Hospital, you bringing us one step closer to a world class health care system right here in our community.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "url_style": "button_1",
+        "enlarge_title": false,
+        "enlarge_text": false,
+        "text_alignment": "left",
+        "color_bg": "#ffffff",
+        "color_text": "#333333"
+      }
+    },
+    "694d2aff-eb63-462e-bfeb-9257c596cd82": {
+      "type": "logo-list-give",
+      "disabled": true,
+      "blocks": {
+        "template--15774470406284__694d2aff-eb63-462e-bfeb-9257c596cd82-16765760113d075960-0": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Square_Web_Image_Template_2023_37.png",
+            "image_width": 200,
+            "link": "https:\/\/grhf.ca\/products\/care-never-stops-donation",
+            "title": "Donate"
+          }
+        },
+        "template--15774470406284__694d2aff-eb63-462e-bfeb-9257c596cd82-16765760113d075960-1": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Square_Web_Image_Template_2023_35.png",
+            "image_width": 200,
+            "link": "https:\/\/grhf.ca\/pages\/community-events",
+            "title": "Fundraise"
+          }
+        },
+        "template--15774470406284__694d2aff-eb63-462e-bfeb-9257c596cd82-16765760113d075960-2": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Square_Web_Image_Template_2023_33.png",
+            "image_width": 200,
+            "link": "https:\/\/grhf.ca\/pages\/volunteer",
+            "title": "Volunteer"
+          }
+        },
+        "f7cd06e4-67c6-4de0-9499-d986442a516f": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Square_Web_Image_Template_2023_36.png",
+            "image_width": 200,
+            "link": "https:\/\/grhf.ca\/pages\/non-monetary-gifts",
+            "title": "Gifts-in-Kind"
+          }
+        },
+        "fc3a43c8-30f8-4cca-a6c3-14efd8d68327": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Square_Web_Image_Template_2023_32.png",
+            "image_width": 200,
+            "link": "https:\/\/kw5050.ca\/",
+            "title": "50\/50 Lottery"
+          }
+        },
+        "4aaa2774-8430-40e4-a120-230f33cb5c22": {
+          "type": "logo",
+          "settings": {
+            "image_width": 160,
+            "link": "",
+            "title": "Shop"
+          }
+        },
+        "956d8e09-92a9-4b38-8f4a-8d8aa9956e1d": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Square_Image_Template_2023.svg",
+            "image_width": 160,
+            "link": "",
+            "title": "Attend an Event"
+          }
+        },
+        "2ce6d1ac-3062-4d20-89ac-c8c0559afd5e": {
+          "type": "logo",
+          "settings": {
+            "image_width": 160,
+            "link": "",
+            "title": "Grand Memory"
+          }
+        }
+      },
+      "block_order": [
+        "template--15774470406284__694d2aff-eb63-462e-bfeb-9257c596cd82-16765760113d075960-0",
+        "template--15774470406284__694d2aff-eb63-462e-bfeb-9257c596cd82-16765760113d075960-1",
+        "template--15774470406284__694d2aff-eb63-462e-bfeb-9257c596cd82-16765760113d075960-2",
+        "f7cd06e4-67c6-4de0-9499-d986442a516f",
+        "fc3a43c8-30f8-4cca-a6c3-14efd8d68327",
+        "4aaa2774-8430-40e4-a120-230f33cb5c22",
+        "956d8e09-92a9-4b38-8f4a-8d8aa9956e1d",
+        "2ce6d1ac-3062-4d20-89ac-c8c0559afd5e"
+      ],
+      "custom_css": [
+        ".logo-list {font-weight: bold; text-decoration-line: underline;}",
+        ".large-section {padding-top: 1em; padding-bottom: 0em;}"
+      ],
+      "settings": {
+        "title": "Ways to Support",
+        "color_bg": "#ffffff",
+        "color_title": "#333333",
+        "color_text": "#333333",
+        "enlarge_title": false,
+        "enlarge_text": false,
+        "image_opacity": 100
       }
     },
     "collection-list": {
@@ -456,20 +618,28 @@
       "blocks": {
         "collection-1": {
           "type": "collection",
+          "disabled": true,
           "settings": {
             "collection": "gifts-of-care"
           }
         },
-        "collection-3": {
+        "c773b840-471c-4178-a9d4-1288aea0143e": {
           "type": "collection",
+          "disabled": true,
           "settings": {
-            "collection": "bibliotake"
+            "collection": "patient-experience"
           }
         },
         "bbc61101-400e-4702-a67c-d00c0458a64f": {
           "type": "collection",
           "settings": {
             "collection": "shop"
+          }
+        },
+        "collection-3": {
+          "type": "collection",
+          "settings": {
+            "collection": "bibliotake"
           }
         },
         "collection-0": {
@@ -488,91 +658,179 @@
       },
       "block_order": [
         "collection-1",
-        "collection-3",
+        "c773b840-471c-4178-a9d4-1288aea0143e",
         "bbc61101-400e-4702-a67c-d00c0458a64f",
+        "collection-3",
         "collection-0",
         "collection-2"
       ],
       "settings": {
         "title": "Ways to Support",
         "enlarge_title": false,
+        "grid": 3
+      }
+    },
+    "4a2e832c-411b-4f4a-bf65-02625b6d68f5": {
+      "type": "image-with-text",
+      "disabled": true,
+      "custom_css": [
+        ".image-with-text__text {text-align: right;}",
+        "h2 {text-align: right;}",
+        ".btn {position: relative; float: right;}"
+      ],
+      "settings": {
+        "image_link": "",
+        "image_size": "60",
+        "image_position": "right",
+        "title": "Scotland's Yard",
+        "text": "<p>TBD<\/p>",
+        "button_label": "Learn more",
+        "button_link": "",
+        "url_style": "button_1",
+        "enlarge_title": false,
+        "enlarge_text": false,
+        "text_alignment": "center",
+        "color_bg": "#ffffff",
+        "color_text": "#333333"
+      }
+    },
+    "7d785b92-ed4d-455d-9f04-56519f2bf464": {
+      "type": "image-with-text",
+      "disabled": true,
+      "settings": {
+        "image_link": "",
+        "image_size": "60",
+        "image_position": "left",
+        "title": "BiblioTake",
+        "text": "<p>TBD<\/p>",
+        "button_label": "Learn more",
+        "button_link": "",
+        "url_style": "button_1",
+        "enlarge_title": false,
+        "enlarge_text": false,
+        "text_alignment": "left",
+        "color_bg": "#ffffff",
+        "color_text": "#333333"
+      }
+    },
+    "122f72fc-7e46-4898-9699-7cbc623bc832": {
+      "type": "custom-liquid",
+      "custom_css": [
+        "p {margin-right: 2em; margin-left: 2em; text-align: center; color: #333333; padding-bottom: 0.25em; padding-top: 0em; font-size: 17px;}",
+        ".button {background-color: #333333; padding: 10px; font-size: 16px;}",
+        ".container {text-align: center; margin-bottom: 4em;}"
+      ],
+      "settings": {
+        "custom_liquid": "<p>Learn more about all the ways you can make a difference and support the health and well-being of our community.<\/p>\n<div class=\"container\"><button class=\"button\" >More Ways to Support<\/button><div>"
+      }
+    },
+    "e9a736e6-16b9-48ff-9592-e1c6ddfbf3e4": {
+      "type": "collection-list",
+      "disabled": true,
+      "blocks": {
+        "template--15774470406284__e9a736e6-16b9-48ff-9592-e1c6ddfbf3e4-1678126165327d0fed-0": {
+          "type": "collection",
+          "settings": {
+            "collection": "cancer-care"
+          }
+        },
+        "template--15774470406284__e9a736e6-16b9-48ff-9592-e1c6ddfbf3e4-1678126165327d0fed-1": {
+          "type": "collection",
+          "settings": {
+            "collection": "continuum-of-care"
+          }
+        },
+        "template--15774470406284__e9a736e6-16b9-48ff-9592-e1c6ddfbf3e4-1678126165327d0fed-2": {
+          "type": "collection",
+          "settings": {
+            "collection": "grand-river-kids"
+          }
+        },
+        "template--15774470406284__e9a736e6-16b9-48ff-9592-e1c6ddfbf3e4-1678126165327d0fed-3": {
+          "type": "collection",
+          "settings": {
+            "collection": "emergency-and-critical-care"
+          }
+        },
+        "28e667f4-57ee-4f04-8552-2a31bbb0f7a4": {
+          "type": "collection",
+          "settings": {
+            "collection": "kidney-care"
+          }
+        },
+        "68fbbe20-4f4b-4cc3-b4de-6c37fbff9f2d": {
+          "type": "collection",
+          "settings": {
+            "collection": "learning-and-innovation"
+          }
+        },
+        "b7584346-1ccf-44a8-bcc2-345ec2cd1019": {
+          "type": "collection",
+          "settings": {
+            "collection": "mental-health"
+          }
+        },
+        "a0d0fdbd-ee3f-4548-8e74-e7127c16d229": {
+          "type": "collection",
+          "settings": {
+            "collection": "patient-experience"
+          }
+        }
+      },
+      "block_order": [
+        "template--15774470406284__e9a736e6-16b9-48ff-9592-e1c6ddfbf3e4-1678126165327d0fed-0",
+        "template--15774470406284__e9a736e6-16b9-48ff-9592-e1c6ddfbf3e4-1678126165327d0fed-1",
+        "template--15774470406284__e9a736e6-16b9-48ff-9592-e1c6ddfbf3e4-1678126165327d0fed-2",
+        "template--15774470406284__e9a736e6-16b9-48ff-9592-e1c6ddfbf3e4-1678126165327d0fed-3",
+        "28e667f4-57ee-4f04-8552-2a31bbb0f7a4",
+        "68fbbe20-4f4b-4cc3-b4de-6c37fbff9f2d",
+        "b7584346-1ccf-44a8-bcc2-345ec2cd1019",
+        "a0d0fdbd-ee3f-4548-8e74-e7127c16d229"
+      ],
+      "settings": {
+        "title": "Areas of Care",
+        "enlarge_title": false,
         "grid": 4
+      }
+    },
+    "1634577193da2505a6": {
+      "type": "rich-text",
+      "disabled": true,
+      "settings": {
+        "title": "",
+        "text": "<p><strong>Learn more about all the ways you can make a difference and support the health and well-being of our community.<\/strong><\/p>",
+        "button_label": "More Ways to Support",
+        "button_link": "shopify:\/\/pages\/ways-to-give",
+        "url_style": "button_1",
+        "enlarge_title": false,
+        "enlarge_text": true,
+        "full_width": false,
+        "color_bg": "#ecf1f2",
+        "color_title": "#333333",
+        "color_text": "#333333"
       }
     },
     "featured-blog": {
       "type": "featured-blog",
       "settings": {
-        "heading_image": "shopify:\/\/shop_images\/KwHiJPDQ.jpg",
-        "image_position": "center center",
-        "title": "Grand Ideas",
-        "description": "Your stories at Grand River Hospital",
+        "heading_image": "shopify:\/\/shop_images\/C7wQJ0MA.jpg",
+        "image_position": "top center",
+        "title": "Supporter Stories",
+        "description": "Stay connected to Grand River Hospital",
         "color_overlay_bg": "#ffffff",
-        "overlay_opacity": 80,
+        "overlay_opacity": 100,
         "color_overlay_text": "#333333",
         "show_view_all": true,
-        "overlay_url_style": "button_1",
+        "overlay_url_style": "button_2",
         "enlarge_title": false,
         "enlarge_text": false,
-        "overlay_position_y": 79,
+        "overlay_position_y": 78,
         "blog": "grand-ideas",
         "post_limit": 3,
         "show_author": false,
         "show_date": true,
         "show_tags": false,
         "show_featured_products": true
-      }
-    },
-    "163457606848a8cb40": {
-      "type": "featured-collection",
-      "disabled": true,
-      "settings": {
-        "title": "Featured collection",
-        "enlarge_title": false,
-        "link_text": "Shop now",
-        "collection": "",
-        "show_vendor": false,
-        "enable_carousel": false,
-        "grid": 4,
-        "row_count": 1,
-        "grid_mobile": "2"
-      }
-    },
-    "16371306005893eda8": {
-      "type": "standout-collection",
-      "disabled": true,
-      "settings": {
-        "collection": "",
-        "collection_background": "#dae4e6",
-        "image_position": "center center",
-        "layout": "left",
-        "show_vendor": false,
-        "color_overlay_bg": "#ffffff",
-        "overlay_opacity": 80,
-        "color_overlay_text": "#333333",
-        "overlay_url_text": "Shop now",
-        "url_style": "button_1",
-        "enlarge_title": false,
-        "overlay_position_y": 70,
-        "color_label_background": "#ffffff",
-        "color_label_text": "#333333",
-        "product_id": "",
-        "show_chevron": true,
-        "chevron_position": "right",
-        "label_position_x": 10,
-        "label_position_y": 30
-      }
-    },
-    "1647017147788aa78b": {
-      "type": "newsletter",
-      "disabled": true,
-      "settings": {
-        "title": "Find out how you make a difference.",
-        "section_subtitle": "<p>Sign up for Grand River Hospital Foundation's e-newsletter:<\/p>",
-        "section_background_colour": "#ecf1f2",
-        "section_text_colour": "#333333",
-        "button_style": "button_1",
-        "enlarge_title": false,
-        "enlarge_text": false
       }
     },
     "1648064345a928f84e": {
@@ -584,15 +842,17 @@
   },
   "order": [
     "1634575833d7ac1f09",
-    "image-with-text",
-    "1652812435c5e3e940",
     "1652812085c59edad7",
-    "1634577193da2505a6",
+    "361e0645-0882-47af-b804-f4c52e95226a",
+    "cc10c0e5-ea27-4bfa-8cf1-ec3757c3f868",
+    "694d2aff-eb63-462e-bfeb-9257c596cd82",
     "collection-list",
+    "4a2e832c-411b-4f4a-bf65-02625b6d68f5",
+    "7d785b92-ed4d-455d-9f04-56519f2bf464",
+    "122f72fc-7e46-4898-9699-7cbc623bc832",
+    "e9a736e6-16b9-48ff-9592-e1c6ddfbf3e4",
+    "1634577193da2505a6",
     "featured-blog",
-    "163457606848a8cb40",
-    "16371306005893eda8",
-    "1647017147788aa78b",
     "1648064345a928f84e"
   ]
 }

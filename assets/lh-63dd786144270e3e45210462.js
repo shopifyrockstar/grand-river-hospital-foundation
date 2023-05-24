@@ -1,0 +1,1 @@
+!function(t){(function(t,e){}).bind(t('section[data-section-id="6ui5sznzcp"]').get(0))({url:"https://library.layouthub.com/HUB/files/U2VwLS0yMDIw/NTk5NDQ1MzA1/shopify-third-release/pages/4iw08LhxMG3uKtYZ/collection/",settings:{}},jQuery)}(jQuery),console.log("This page layout has been built by https://www.layouthub.com");

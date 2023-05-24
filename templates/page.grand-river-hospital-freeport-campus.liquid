@@ -1,0 +1,44 @@
+<link href="https://d1p5cqqchvbqmy.cloudfront.net/web2/release/mappedin-web.css" rel="stylesheet" />
+<style>
+  body,
+  html,
+  #mappedin-map {
+    width: 100%;
+    height: 100%;
+    margin: 0px;
+    position: relative;
+    touch-action: none;
+    height: 700px !important;
+  }
+   @media screen and (max-width: 767px){
+    #mappedin-map {
+      height: calc(100vh - 330px) !important;
+      width: calc(100% - 60px) !important;
+      margin-left: 20px !important;
+    }
+    .map-page-width{
+      overflow: scroll !important;
+    }
+  }
+  
+</style>
+
+<div class="page-width map-page-width">
+  <div data-key="externalId" id="mappedin-map"></div>
+</div> 
+<script type="text/javascript">
+  window.mappedin = {
+    miKey: {
+      id: "62d994e39a340c001c75002d",
+      key: "StP5OmANWTwzIeeShMTQUKYMmEHmlgC6QpE09C1B4PME9IBb",
+    },
+    searchKey: {
+      id: "",
+      secret: "",
+    },
+    venue: "grand-river-hospital-freeport-campus",
+    vertical: "mall",
+    language: "en",
+  };
+</script>
+<script src="https://d1p5cqqchvbqmy.cloudfront.net/web2/release/mappedin-web.js"></script>

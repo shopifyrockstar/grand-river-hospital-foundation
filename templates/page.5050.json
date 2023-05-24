@@ -12,14 +12,14 @@
         "16505690248f0b425e-0": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/GRHF_Hero.jpg",
+            "image": "shopify:\/\/shop_images\/GRHF_LPHeader_NewYear.jpg",
             "image_position": "center center",
             "image_link": "https:\/\/kw5050.ca",
             "color_overlay_bg": "#ffffff",
             "overlay_opacity": 80,
             "color_overlay_text": "#333333",
-            "overlay_title": "50\/50",
-            "overlay_text": "We have awarded over $320,000 in cash jackpots and early bird prizes to our winners. With all the proceeds from the 50\/50 going back to supporting the patients and staff at Grand River Hospital.",
+            "overlay_title": "Win This Month's 50\/50 Jackpot",
+            "overlay_text": "Win big in 2023 with our monthly 50\/50 draws! Last year, the average jackpot size was $15,115 with additional early bird cash prizes totalling over $21,000 awarded! Not only do you get 250 chances to win for $50, you'll also be supporting the patients and staff at Grand River Hospital.",
             "overlay_url_text_1": "PLAY NOW",
             "overlay_url_1": "https:\/\/kw5050.ca",
             "overlay_url_text_2": "",
@@ -41,10 +41,44 @@
             "label_position_x_2": 80,
             "label_position_y_2": 50
           }
+        },
+        "6e2be0cd-e850-4983-83f5-4afe2c7ece72": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "image_position": "center center",
+            "image_link": "",
+            "color_overlay_bg": "#ffffff",
+            "overlay_opacity": 80,
+            "color_overlay_text": "#333333",
+            "overlay_title": "Banner",
+            "overlay_text": "Use this full width section to welcome customers to your store, share some news or say something about your brand",
+            "overlay_url_text_1": "Optional buttons",
+            "overlay_url_1": "",
+            "overlay_url_text_2": "Optional buttons",
+            "overlay_url_2": "",
+            "overlay_url_style": "button_1",
+            "enlarge_title": false,
+            "enlarge_text": false,
+            "overlay_position_x": 50,
+            "overlay_position_y": 80,
+            "color_label_background": "#ffffff",
+            "color_label_text": "#333333",
+            "show_chevron": true,
+            "product_id_1": "",
+            "chevron_position_1": "right",
+            "label_position_x_1": 20,
+            "label_position_y_1": 30,
+            "product_id_2": "",
+            "chevron_position_2": "right",
+            "label_position_x_2": 80,
+            "label_position_y_2": 50
+          }
         }
       },
       "block_order": [
-        "16505690248f0b425e-0"
+        "16505690248f0b425e-0",
+        "6e2be0cd-e850-4983-83f5-4afe2c7ece72"
       ],
       "settings": {
         "height": "fixed",
@@ -54,10 +88,34 @@
         "slideshow_autoplay": true,
         "slideshow_autoplay_speed": 6
       }
+    },
+    "115979a0-6d4b-4981-999c-8da577a367de": {
+      "type": "featured-blog",
+      "settings": {
+        "heading_image": "shopify:\/\/shop_images\/GRHF_Carousel2_NewYear.jpg",
+        "image_position": "center center",
+        "title": "50\/50 Prizes",
+        "description": "Check out the stories from all our winners!",
+        "color_overlay_bg": "#ffffff",
+        "overlay_opacity": 80,
+        "color_overlay_text": "#333333",
+        "show_view_all": true,
+        "overlay_url_style": "button_1",
+        "enlarge_title": false,
+        "enlarge_text": false,
+        "overlay_position_y": 70,
+        "blog": "grand-50-50",
+        "post_limit": 3,
+        "show_author": false,
+        "show_date": true,
+        "show_tags": true,
+        "show_featured_products": true
+      }
     }
   },
   "order": [
     "main",
-    "165056902439cbc34a"
+    "165056902439cbc34a",
+    "115979a0-6d4b-4981-999c-8da577a367de"
   ]
 }

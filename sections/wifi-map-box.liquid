@@ -26,14 +26,18 @@
        
           <div class="grid-flex__item one-full" >
             <div class="care-list-holder selected map-image-box" data-map_tab="1">
-              	{% render 'wifi-responsive-image', image: section.settings.image, nomax: true %}              
+                <div data-href="{{section.settings.tab1_url}}" class="wifi_map_link">
+              	{% render 'wifi-responsive-image', image: section.settings.image, nomax: true %}   
+                </div>  
               <br>
-              <a href="{{section.settings.tab1_url}}" class="map_link" href="">{{section.settings.tab1_link_text}}</a>
+              <a href="{{section.settings.tab1_url}}" class="map_link">{{section.settings.tab1_link_text}}</a>
             </div>
             <div class="care-list-holder map-image-box" data-map_tab="2">
-              	{% render 'wifi-responsive-image', image: section.settings.image_2, nomax: true %}
+                <div data-href="{{section.settings.tab2_url}}" class="wifi_map_link"> 
+                	{% render 'wifi-responsive-image', image: section.settings.image_2, nomax: true %}
+                </div> 
                 <br>
-                <a href="{{section.settings.tab2_url}}" class="map_link" href="">{{section.settings.tab2_link_text}}</a>
+                <a href="{{section.settings.tab2_url}}" class="map_link">{{section.settings.tab2_link_text}}</a>
             </div>
           </div>
     </div>

@@ -1,0 +1,230 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-blog",
+      "disabled": true,
+      "settings": {
+        "blog_show_rss": true,
+        "blog_show_tags": true,
+        "blog_show_author": false,
+        "blog_show_date": true,
+        "article_show_tags": true,
+        "show_featured_products": true,
+        "blog_magazine_layout": true,
+        "description": "",
+        "color_overlay_bg": "#ffffff",
+        "overlay_opacity": 10,
+        "color_overlay_text": "#333333",
+        "overlay_position_y": 70,
+        "mobile_text_below": false
+      }
+    },
+    "3182ee4a-a63d-4fac-83c6-89d5875760c5": {
+      "type": "featured-blog-pg",
+      "disabled": true,
+      "settings": {
+        "image_position": "center center",
+        "title": "Happy Holidays!",
+        "description": "",
+        "color_overlay_bg": "#ffffff",
+        "overlay_opacity": 80,
+        "color_overlay_text": "#333333",
+        "show_view_all": true,
+        "overlay_url_style": "button_1",
+        "enlarge_title": false,
+        "enlarge_text": false,
+        "overlay_position_y": 70,
+        "blog": "news",
+        "post_limit": 3,
+        "show_author": false,
+        "show_date": true,
+        "show_tags": true,
+        "show_featured_products": true
+      }
+    },
+    "b6059213-0976-4ba9-a592-d523476bd3b2": {
+      "type": "image-with-text",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Square_Posts_84.png",
+        "image_link": "",
+        "image_size": "0",
+        "image_position": "right",
+        "title": "",
+        "text": "<p>While community groups can't come to the hospital to visit <a href=\"\/collections\/grand-river-kids\" title=\"Grand River Kids\">Grand River Kids<\/a> this holiday season, our fantastic community partners have taken the time to put together online content to celebrate with you virtually instead!<\/p><p>Watch videos below provided by Kitchener Fire Department's Everyday Heroes program, with more videos from our other community partners coming soon.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "url_style": "button_1",
+        "enlarge_title": false,
+        "enlarge_text": false,
+        "text_alignment": "left",
+        "color_bg": "#dae4e6",
+        "color_text": "#333333"
+      }
+    },
+    "47dc16ec-ec30-4726-9347-f0a27c147111": {
+      "type": "image-gallery",
+      "blocks": {
+        "template--15809194918028__47dc16ec-ec30-4726-9347-f0a27c147111-1669661788470b75cb-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Screenshot_2022-12-19_11.01.20.png",
+            "alignment": "center center",
+            "enlarge_image": false,
+            "link": "https:\/\/grhf.ca\/blogs\/grand-river-kids-holidays\/aerial-truck-tour",
+            "title": "",
+            "text": "",
+            "button_label": "Kitchener Fire Aerial Truck Tour",
+            "overlay_position": "bottom-center"
+          }
+        },
+        "template--15809194918028__47dc16ec-ec30-4726-9347-f0a27c147111-1669661788470b75cb-3": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Screenshot_2022-12-19_11.12.58.png",
+            "alignment": "center center",
+            "enlarge_image": false,
+            "link": "https:\/\/grhf.ca\/blogs\/grand-river-kids-holidays\/kitchen-fire-safety",
+            "title": "",
+            "text": "",
+            "button_label": "Kitchener Fire: Fire Safety in the Kitchen",
+            "overlay_position": "bottom-center"
+          }
+        },
+        "template--15809194918028__47dc16ec-ec30-4726-9347-f0a27c147111-1669661788470b75cb-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Screenshot_2022-12-19_13.23.56.png",
+            "alignment": "center center",
+            "enlarge_image": false,
+            "link": "https:\/\/grhf.ca\/blogs\/grand-river-kids-holidays\/fire-truck-tour",
+            "title": "",
+            "text": "",
+            "button_label": "Kitchener Fire: Virtual Fire Truck Tour",
+            "overlay_position": "bottom-center"
+          }
+        },
+        "template--15809194918028__47dc16ec-ec30-4726-9347-f0a27c147111-1669661788470b75cb-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Screenshot_2022-12-19_13.19.00.png",
+            "alignment": "center center",
+            "enlarge_image": false,
+            "link": "https:\/\/grhf.ca\/blogs\/grand-river-kids-holidays\/ice-rescue-training",
+            "title": "",
+            "text": "",
+            "button_label": "Kitchener Fire: Ice Rescue Training",
+            "overlay_position": "bottom-center"
+          }
+        },
+        "79e39a26-b637-49dd-ba40-5f802336e21b": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Screenshot_2022-12-19_13.51.42.png",
+            "alignment": "center center",
+            "enlarge_image": false,
+            "link": "https:\/\/grhf.ca\/blogs\/grand-river-kids-holidays\/becoming-a-female-firefighter",
+            "title": "",
+            "text": "",
+            "button_label": "Becoming a Female Firefighter with Stacey Hemstock",
+            "overlay_position": "bottom-center"
+          }
+        },
+        "65070c95-c09f-4bc8-b7fb-fda2bdd56612": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Screenshot_2022-12-19_13.26.10.png",
+            "alignment": "center center",
+            "enlarge_image": false,
+            "link": "https:\/\/grhf.ca\/blogs\/grand-river-kids-holidays\/kitchener-fire-response",
+            "title": "",
+            "text": "",
+            "button_label": "Kitchener Fire Response",
+            "overlay_position": "bottom-center"
+          }
+        },
+        "50d45010-36fb-4870-ac4a-de4128fcebfb": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Screenshot_2022-12-19_13.32.21.png",
+            "alignment": "center center",
+            "enlarge_image": false,
+            "link": "https:\/\/grhf.ca\/blogs\/grand-river-kids-holidays\/water-rescue-training",
+            "title": "",
+            "text": "",
+            "button_label": "Kitchener Fire: Water Rescue Training",
+            "overlay_position": "bottom-center"
+          }
+        },
+        "e995c9b5-272a-4848-ba4e-5747fcd093f4": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Screenshot_2022-12-19_13.36.21.png",
+            "alignment": "center center",
+            "enlarge_image": false,
+            "link": "https:\/\/grhf.ca\/blogs\/grand-river-kids-holidays\/emergency-services-parade",
+            "title": "",
+            "text": "",
+            "button_label": "Emergency Services Parade at Grand River",
+            "overlay_position": "bottom-center"
+          }
+        },
+        "cdc7f36d-3091-488e-8578-3240b4e44204": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Screenshot_2022-12-19_13.39.59.png",
+            "alignment": "center center",
+            "enlarge_image": false,
+            "link": "https:\/\/grhf.ca\/blogs\/grand-river-kids-holidays\/a-day-in-the-life",
+            "title": "",
+            "text": "",
+            "button_label": "A Day in the Life of a Toronto Firefighter",
+            "overlay_position": "bottom-center"
+          }
+        },
+        "7f7267f6-666b-44d9-b7ce-52b9b5b9713c": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Screenshot_2022-12-19_13.23.56_0ff940ac-b281-47fd-b1c0-4ed2f35f641e.png",
+            "alignment": "center center",
+            "enlarge_image": false,
+            "link": "https:\/\/www.kitchener.ca\/en\/living-in-kitchener\/kitchener-fire-department.aspx",
+            "title": "Thank you Kitchener Fire Department!",
+            "text": "",
+            "button_label": "",
+            "overlay_position": "bottom-center"
+          }
+        }
+      },
+      "block_order": [
+        "template--15809194918028__47dc16ec-ec30-4726-9347-f0a27c147111-1669661788470b75cb-1",
+        "template--15809194918028__47dc16ec-ec30-4726-9347-f0a27c147111-1669661788470b75cb-3",
+        "template--15809194918028__47dc16ec-ec30-4726-9347-f0a27c147111-1669661788470b75cb-2",
+        "template--15809194918028__47dc16ec-ec30-4726-9347-f0a27c147111-1669661788470b75cb-0",
+        "79e39a26-b637-49dd-ba40-5f802336e21b",
+        "65070c95-c09f-4bc8-b7fb-fda2bdd56612",
+        "50d45010-36fb-4870-ac4a-de4128fcebfb",
+        "e995c9b5-272a-4848-ba4e-5747fcd093f4",
+        "cdc7f36d-3091-488e-8578-3240b4e44204",
+        "7f7267f6-666b-44d9-b7ce-52b9b5b9713c"
+      ],
+      "settings": {
+        "grid": 2,
+        "image_height": 300,
+        "image_height_mobile": 300,
+        "enable_margin": true,
+        "enable_carousel": true,
+        "overlay_style": "box",
+        "color_overlay_bg": "#ffffff",
+        "overlay_opacity": 80,
+        "color_overlay_text": "#333333",
+        "overlay_url_style": "button_1"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "3182ee4a-a63d-4fac-83c6-89d5875760c5",
+    "b6059213-0976-4ba9-a592-d523476bd3b2",
+    "47dc16ec-ec30-4726-9347-f0a27c147111"
+  ]
+}

@@ -1,0 +1,209 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+      }
+    },
+    "165056743718acefc3": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Added_AirBoss-Shortgrass.png",
+        "image_link": "shopify:\/\/products\/shortgrass-donation",
+        "image_position": "center center",
+        "height": "adapt",
+        "height_desktop": 800,
+        "height_mobile": 800,
+        "color_overlay_bg": "#ffffff",
+        "overlay_opacity": 81,
+        "color_overlay_text": "#333333",
+        "overlay_title": "Short Grass Golf 4 Kids Cancer Care",
+        "overlay_text": "Join us on Tuesday, September 20, 2022 for an amazing day of golf for corporate leaders like you. Lunch, gifts, prizes, and a casual reception with appetizers and wine to finish the day. Proceeds will enhance cancer care for kids and families in our community.",
+        "overlay_url_text_1": "REGISTER NOW",
+        "overlay_url_1": "shopify:\/\/products\/airboss-golf-4-kids-cancer-care-corporate-foursome",
+        "overlay_url_text_2": "",
+        "overlay_url_2": "",
+        "overlay_url_style": "button_1",
+        "enlarge_title": false,
+        "enlarge_text": true,
+        "overlay_position_x": 50,
+        "overlay_position_y": 70,
+        "mobile_text_below": false,
+        "color_label_background": "#ffffff",
+        "color_label_text": "#333333",
+        "show_chevron": true,
+        "product_id_1": "",
+        "chevron_position_1": "right",
+        "label_position_x_1": 20,
+        "label_position_y_1": 30,
+        "product_id_2": "",
+        "chevron_position_2": "right",
+        "label_position_x_2": 80,
+        "label_position_y_2": 50
+      }
+    },
+    "1648226440423b38f7": {
+      "type": "rich-text-left-and-centre",
+      "settings": {
+        "title": "Sponsorship",
+        "text": "<p>Looking to support with a sponsorship?<\/p><p>Sponsor benefits include:<\/p><p>- Corporate Foursome. An incredible golf day for four (4)<\/p><p>- Signage at a hole with your logo<\/p><p>- Recognition in thank you email for your gift to kids cancer care at Grand River Hospital<\/p><p>- Golf cart to keep the pace with appetizers and beverages<\/p>",
+        "button_label": "Download Sponsorship Package",
+        "button_link": "https:\/\/grhf.ca\/products\/short-grass-gold-4-kids-sponsorship?pr_prod_strat=collection_fallback&pr_rec_id=998968e96&pr_rec_pid=7002245431436&pr_ref_pid=7002234388620&pr_seq=uniform",
+        "url_style": "button_2",
+        "enlarge_title": false,
+        "enlarge_text": false,
+        "full_width": false,
+        "color_bg": "#ffffff",
+        "color_title": "#000000",
+        "color_text": "#000000"
+      }
+    },
+    "1647960706abf0a6ed": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "See you on the course!",
+        "enlarge_title": false,
+        "link_text": "",
+        "collection": "shortgrass",
+        "show_vendor": false,
+        "enable_carousel": false,
+        "grid": 4,
+        "row_count": 2,
+        "grid_mobile": "2"
+      }
+    },
+    "1655222635aa2a5c24": {
+      "type": "image-gallery",
+      "blocks": {
+        "165522263558aba663-2": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "alignment": "center center",
+            "enlarge_image": false,
+            "link": "",
+            "title": "Image title",
+            "text": "",
+            "button_label": "",
+            "overlay_position": "center-center"
+          }
+        },
+        "165522263558aba663-3": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "alignment": "center center",
+            "enlarge_image": false,
+            "link": "",
+            "title": "Image title",
+            "text": "",
+            "button_label": "",
+            "overlay_position": "center-center"
+          }
+        }
+      },
+      "block_order": [
+        "165522263558aba663-2",
+        "165522263558aba663-3"
+      ],
+      "settings": {
+        "grid": 1,
+        "image_height": 290,
+        "image_height_mobile": 300,
+        "enable_margin": true,
+        "enable_carousel": true,
+        "overlay_style": "box",
+        "color_overlay_bg": "#ffffff",
+        "overlay_opacity": 80,
+        "color_overlay_text": "#333333",
+        "overlay_url_style": "button_1"
+      }
+    },
+    "16587715515cd074e5": {
+      "type": "image-gallery",
+      "blocks": {
+        "165877155148638502-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Altruck-Revised_1.png",
+            "alignment": "center center",
+            "enlarge_image": false,
+            "link": "",
+            "title": "",
+            "text": "",
+            "button_label": "",
+            "overlay_position": "top-center"
+          }
+        },
+        "165877155148638502-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Altruck-Revised_4.png",
+            "alignment": "center center",
+            "enlarge_image": false,
+            "link": "",
+            "title": "",
+            "text": "",
+            "button_label": "",
+            "overlay_position": "top-center"
+          }
+        },
+        "165877155148638502-3": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Altruck-Revised_2.png",
+            "alignment": "center center",
+            "enlarge_image": false,
+            "link": "",
+            "title": "",
+            "text": "",
+            "button_label": "",
+            "overlay_position": "center-center"
+          }
+        }
+      },
+      "block_order": [
+        "165877155148638502-0",
+        "165877155148638502-1",
+        "165877155148638502-3"
+      ],
+      "settings": {
+        "grid": 3,
+        "image_height": 300,
+        "image_height_mobile": 300,
+        "enable_margin": true,
+        "enable_carousel": false,
+        "overlay_style": "box",
+        "color_overlay_bg": "#ffffff",
+        "overlay_opacity": 0,
+        "color_overlay_text": "#333333",
+        "overlay_url_style": "button_1"
+      }
+    },
+    "16595480689fec65e9": {
+      "type": "image-gallery",
+      "settings": {
+        "grid": 1,
+        "image_height": 300,
+        "image_height_mobile": 300,
+        "enable_margin": true,
+        "enable_carousel": true,
+        "overlay_style": "box",
+        "color_overlay_bg": "#ffffff",
+        "overlay_opacity": 80,
+        "color_overlay_text": "#333333",
+        "overlay_url_style": "button_1"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "165056743718acefc3",
+    "1648226440423b38f7",
+    "1647960706abf0a6ed",
+    "1655222635aa2a5c24",
+    "16587715515cd074e5",
+    "16595480689fec65e9"
+  ]
+}

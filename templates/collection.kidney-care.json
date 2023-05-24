@@ -51,80 +51,69 @@
         "show_featured": false
       }
     },
-    "1651519999e053c80a": {
-      "type": "image-gallery",
+    "a1e2882f-10f5-4f44-8a45-b44f9e43a797": {
+      "type": "image-with-text",
       "disabled": true,
-      "blocks": {
-        "1651519999efb4b10e-0": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Website_Stats_Graphics_4.png",
-            "alignment": "center center",
-            "enlarge_image": false,
-            "link": "",
-            "title": "800,000",
-            "text": "<p>The population served by Grand River Regional Cancer Centre<\/p>",
-            "button_label": "",
-            "overlay_position": "center-center"
-          }
-        },
-        "1651519999efb4b10e-1": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Website_Stats_Graphics_5.png",
-            "alignment": "center center",
-            "enlarge_image": false,
-            "link": "",
-            "title": "100,000+",
-            "text": "<p>Patient visits take place at the Cancer Centre each year<\/p>",
-            "button_label": "",
-            "overlay_position": "center-center"
-          }
-        },
-        "1651519999efb4b10e-2": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Website_Stats_Graphics_6.png",
-            "alignment": "center center",
-            "enlarge_image": false,
-            "link": "",
-            "title": "Sole Provider",
-            "text": "<p>of radiation therapy in the region<\/p>",
-            "button_label": "",
-            "overlay_position": "center-center"
-          }
-        },
-        "1651519999efb4b10e-3": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Website_Stats_Graphics_7.png",
-            "alignment": "center center",
-            "enlarge_image": false,
-            "link": "",
-            "title": "Shortest Wait Times",
-            "text": "<p>for cancer services in Ontario<\/p>",
-            "button_label": "",
-            "overlay_position": "center-center"
-          }
-        }
-      },
-      "block_order": [
-        "1651519999efb4b10e-0",
-        "1651519999efb4b10e-1",
-        "1651519999efb4b10e-2",
-        "1651519999efb4b10e-3"
+      "custom_css": [
+        ".image-with-text__content {padding-top: 0px; padding-bottom: 0px;}"
       ],
       "settings": {
-        "grid": 2,
-        "image_height": 300,
-        "image_height_mobile": 300,
-        "enable_margin": true,
-        "enable_carousel": true,
-        "overlay_style": "box",
+        "image": "shopify:\/\/shop_images\/Square_Image_Template_2023_8.png",
+        "image_link": "",
+        "image_size": "120",
+        "image_position": "left",
+        "title": "Kidney Care Services Include",
+        "text": "<ul><li>Renal<\/li><li>Guelph Renal<\/li><li>Palmerston Renal<\/li><li>Dialysis<\/li><\/ul>",
+        "button_label": "Learn more about the Areas of Care",
+        "button_link": "https:\/\/grhf.ca\/blogs\/grand-ideas\/areas-of-care",
+        "url_style": "button_1",
+        "enlarge_title": false,
+        "enlarge_text": false,
+        "text_alignment": "left",
+        "color_bg": "#ffffff",
+        "color_text": "#333333"
+      }
+    },
+    "8dc711b2-7866-45cd-b17a-30560d65c782": {
+      "type": "image-with-text-overlay",
+      "disabled": true,
+      "custom_css": [
+        ".overlay-text {text-align: left; column-count: 2;}",
+        "h2 {font-size: 25px;}"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Large_Banner_Template_2023_6.png",
+        "image_link": "",
+        "image_position": "center center",
+        "height": "fixed",
+        "height_desktop": 260,
+        "height_mobile": 260,
         "color_overlay_bg": "#ffffff",
-        "overlay_opacity": 80,
+        "overlay_opacity": 85,
         "color_overlay_text": "#333333",
-        "overlay_url_style": "button_1"
+        "overlay_title": "Kidney Care Services Include",
+        "overlay_text": "● Renal<br>● Guelph Renal<br>● Palmerston Renal<br>● Dialysis",
+        "overlay_url_text_1": "",
+        "overlay_url_1": "",
+        "overlay_url_text_2": "",
+        "overlay_url_2": "",
+        "overlay_url_style": "button_1",
+        "enlarge_title": false,
+        "enlarge_text": false,
+        "overlay_position_x": 50,
+        "overlay_position_y": 50,
+        "mobile_text_below": false,
+        "color_label_background": "#ffffff",
+        "color_label_text": "#333333",
+        "show_chevron": false,
+        "product_id_1": "",
+        "chevron_position_1": "right",
+        "label_position_x_1": 20,
+        "label_position_y_1": 30,
+        "product_id_2": "",
+        "chevron_position_2": "right",
+        "label_position_x_2": 80,
+        "label_position_y_2": 50
       }
     },
     "165151972348c13df1": {
@@ -133,7 +122,7 @@
         "image": "shopify:\/\/shop_images\/Website_Image_with_Text_Template_9_c1047397-7c31-4338-9f9f-e393f1f32dd9.png",
         "image_link": "",
         "image_size": "0",
-        "image_position": "right",
+        "image_position": "left",
         "title": "Understanding Kidney Care",
         "text": "<p>Kidneys are the body’s filtration system, and when the kidneys begin to fail, whether from physical injury or diseases like diabetes, the body needs help. Dialysis helps patients by cleaning their blood and removing potentially harmful waste, water and chemicals.<\/p>",
         "button_label": "",
@@ -150,7 +139,8 @@
   "order": [
     "1649873152578a5a39",
     "main",
-    "1651519999e053c80a",
+    "a1e2882f-10f5-4f44-8a45-b44f9e43a797",
+    "8dc711b2-7866-45cd-b17a-30560d65c782",
     "165151972348c13df1"
   ]
 }

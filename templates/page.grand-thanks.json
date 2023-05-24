@@ -1,0 +1,246 @@
+{
+  "sections": {
+    "1643996848292cb4e7": {
+      "type": "rich-text-about-fdn",
+      "settings": {
+        "title": "Thank You",
+        "text": "<p>We cannot thank you enough for the incredible work you do every day.  No words we can write can do justice to the last few years. <\/p><p><\/p><p>This holiday gift is a chance for us to say thank you and recognize the incredible team that contributes to Grand River Hospital to help create a world class health system. <\/p><p><\/p><p>We have been able to work with the Foundation, through a donor, to enable them to provide you with this year's special holiday gift. Please celebrate this time with those you care about. <\/p>",
+        "button_label": "",
+        "button_link": "",
+        "url_style": "button_1",
+        "enlarge_title": true,
+        "enlarge_text": false,
+        "full_width": false,
+        "color_bg": "#ffffff",
+        "color_title": "#333333",
+        "color_text": "#333333"
+      }
+    },
+    "653b86f5-9952-456c-8767-2cbadea27698": {
+      "type": "rich-text",
+      "settings": {
+        "title": "Additional Pickup Date",
+        "text": "<p>We have added additional pick up times for both Freeport and KW Campus.<\/p><p><strong>Pickup will be Wednesday December 21 from 11:00am to 3:00pm.<\/strong><\/p><p>KW Campus pickup will take place in the cefeteria on Level 3.<\/p><p>Freeport pickup will take place near the Tim Horton's.<\/p><p>Please bring a government issued photo ID.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "url_style": "button_1",
+        "enlarge_title": false,
+        "enlarge_text": false,
+        "full_width": false,
+        "color_bg": "#ecf1f2",
+        "color_title": "#333333",
+        "color_text": "#333333"
+      }
+    },
+    "1670260247749ab9f8": {
+      "type": "apps",
+      "blocks": {
+        "462b4674-9de9-4791-ae6d-6123ce268d31": {
+          "type": "shopify:\/\/apps\/helphub-faq-page-product-faqs\/blocks\/app-block\/89f30064-d200-4f10-b92c-a16fc4c5815c",
+          "settings": {
+            "heading": "Frequently Asked Questions",
+            "heading_text_type": "h2",
+            "heading_alignment": "left",
+            "faq_embed_code": "<div class=\"ef-faqs-plus-app-cats-content\" data-category=\"Staff Gift Card\" id=\"ef-faqs-638e1f527fd50a5d0e4ff987\"><\/div>",
+            "faqs_width": 100
+          }
+        }
+      },
+      "block_order": [
+        "462b4674-9de9-4791-ae6d-6123ce268d31"
+      ],
+      "settings": {
+      }
+    },
+    "07ff72e6-117b-44aa-8296-4a3c0cf14238": {
+      "type": "image-gallery",
+      "blocks": {
+        "template--15816472920204__07ff72e6-117b-44aa-8296-4a3c0cf14238-1670261434752c6246-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Garage_Level_4_-_Main_Hospital_1_c582b3d1-8526-40a0-aa9c-b7357458eb42.jpg",
+            "alignment": "center center",
+            "enlarge_image": false,
+            "link": "shopify:\/\/products\/kw-gift-card-pickup",
+            "title": "KW Campus Pickup",
+            "text": "<p><\/p>",
+            "button_label": "Schedule Pickup",
+            "overlay_position": "center-center"
+          }
+        },
+        "template--15816472920204__07ff72e6-117b-44aa-8296-4a3c0cf14238-1670261434752c6246-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/FreeportExterior_0883.jpg",
+            "alignment": "center center",
+            "enlarge_image": false,
+            "link": "shopify:\/\/products\/freeport-campus-gift-card-pickup",
+            "title": "Freeport Campus Pickup",
+            "text": "<p><\/p>",
+            "button_label": "Schedule Pickup",
+            "overlay_position": "center-center"
+          }
+        }
+      },
+      "block_order": [
+        "template--15816472920204__07ff72e6-117b-44aa-8296-4a3c0cf14238-1670261434752c6246-0",
+        "template--15816472920204__07ff72e6-117b-44aa-8296-4a3c0cf14238-1670261434752c6246-1"
+      ],
+      "settings": {
+        "grid": 2,
+        "image_height": 300,
+        "image_height_mobile": 300,
+        "enable_margin": true,
+        "enable_carousel": true,
+        "overlay_style": "box",
+        "color_overlay_bg": "#ffffff",
+        "overlay_opacity": 80,
+        "color_overlay_text": "#333333",
+        "overlay_url_style": "button_1"
+      }
+    },
+    "1637632803d07f9c3f": {
+      "type": "rich-text-about-fdn",
+      "settings": {
+        "title": "Foundation Support",
+        "text": "<p>Supporting staff is an important part of our work at Grand River Hospital Foundation that cannot be done without the generosity of our donors, supporters and volunteers. <\/p><p>As a staff member, you also support the foundation when you play our 50\/50 lottery, buy a t-shirt from our store or make a donation. Please consider supporting the foundation this holiday season.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "url_style": "button_1",
+        "enlarge_title": false,
+        "enlarge_text": false,
+        "full_width": false,
+        "color_bg": "#ffffff",
+        "color_title": "#333333",
+        "color_text": "#333333"
+      }
+    },
+    "860e2a29-2886-4ee5-9435-2e6c4e0ac941": {
+      "type": "image-gallery",
+      "blocks": {
+        "template--15816472920204__860e2a29-2886-4ee5-9435-2e6c4e0ac941-16702562363db7e056-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/GRHF_Carousel2_Mom-Daughter.jpg",
+            "alignment": "center center",
+            "enlarge_image": false,
+            "link": "https:\/\/cdn.shopify.com\/s\/files\/1\/0363\/5363\/8540\/files\/5050_Payroll_Form.pdf?v=1670349814",
+            "title": "Staff 50\/50",
+            "text": "<p>Through payroll deductions the staff 50\/50 has raised over $160,000 to date. Starting at $2.50 per ticket. Sign up now for your chance to win.<\/p>",
+            "button_label": "Sign Up",
+            "overlay_position": "center-center"
+          }
+        },
+        "template--15816472920204__860e2a29-2886-4ee5-9435-2e6c4e0ac941-16702562363db7e056-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Website_Banner_2048_x_1024_2_27166a93-9a55-4f6d-a4ac-6a43319dc204.png",
+            "alignment": "center center",
+            "enlarge_image": false,
+            "link": "shopify:\/\/products\/staff-learning-development-fund",
+            "title": "Learning & Development",
+            "text": "<p>Donate today to support the staff learning and development fund.<\/p>",
+            "button_label": "Donate",
+            "overlay_position": "center-center"
+          }
+        },
+        "template--15816472920204__860e2a29-2886-4ee5-9435-2e6c4e0ac941-16702562363db7e056-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Image_20221206_133642_964.jpg",
+            "alignment": "center center",
+            "enlarge_image": false,
+            "link": "https:\/\/grhf.ca\/discount\/TEAM30",
+            "title": "30% OFF",
+            "text": "<p>Looking for some last minute gifts? Click the link below to shop and a 30% discount will be automatically applied to your cart on checkout. Discount code is TEAM30 if it is not immediately added. Valid until March 31, 2023.<\/p>",
+            "button_label": "Shop",
+            "overlay_position": "center-center"
+          }
+        }
+      },
+      "block_order": [
+        "template--15816472920204__860e2a29-2886-4ee5-9435-2e6c4e0ac941-16702562363db7e056-0",
+        "template--15816472920204__860e2a29-2886-4ee5-9435-2e6c4e0ac941-16702562363db7e056-1",
+        "template--15816472920204__860e2a29-2886-4ee5-9435-2e6c4e0ac941-16702562363db7e056-2"
+      ],
+      "settings": {
+        "grid": 2,
+        "image_height": 300,
+        "image_height_mobile": 300,
+        "enable_margin": true,
+        "enable_carousel": true,
+        "overlay_style": "box",
+        "color_overlay_bg": "#ffffff",
+        "overlay_opacity": 80,
+        "color_overlay_text": "#333333",
+        "overlay_url_style": "button_2"
+      }
+    },
+    "c4f66d4b-72f3-4ed8-8903-a0923d565688": {
+      "type": "banner",
+      "disabled": true,
+      "blocks": {
+        "template--15816472920204__c4f66d4b-72f3-4ed8-8903-a0923d565688-1670255977aaad5a46-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Untitled_design_47.png",
+            "image_position": "center center",
+            "image_link": "",
+            "color_overlay_bg": "#ffffff",
+            "overlay_opacity": 80,
+            "color_overlay_text": "#333333",
+            "overlay_title": "Care Never Stops",
+            "overlay_text": "We believe that inspiring thriving community engagement is the key to world class health care.",
+            "overlay_url_text_1": "Learn more about Care Never Stops",
+            "overlay_url_1": "",
+            "overlay_url_text_2": "",
+            "overlay_url_2": "",
+            "overlay_url_style": "button_2",
+            "enlarge_title": false,
+            "enlarge_text": false,
+            "overlay_position_x": 50,
+            "overlay_position_y": 80,
+            "color_label_background": "#ffffff",
+            "color_label_text": "#333333",
+            "show_chevron": true,
+            "product_id_1": "",
+            "chevron_position_1": "right",
+            "label_position_x_1": 20,
+            "label_position_y_1": 30,
+            "product_id_2": "",
+            "chevron_position_2": "right",
+            "label_position_x_2": 80,
+            "label_position_y_2": 50
+          }
+        }
+      },
+      "block_order": [
+        "template--15816472920204__c4f66d4b-72f3-4ed8-8903-a0923d565688-1670255977aaad5a46-0"
+      ],
+      "settings": {
+        "height": "fixed",
+        "height_desktop": 500,
+        "height_mobile": 400,
+        "mobile_text_below": true,
+        "slideshow_autoplay": true,
+        "slideshow_autoplay_speed": 6
+      }
+    },
+    "main": {
+      "type": "main-page-impact",
+      "disabled": true,
+      "settings": {
+      }
+    }
+  },
+  "order": [
+    "1643996848292cb4e7",
+    "653b86f5-9952-456c-8767-2cbadea27698",
+    "1670260247749ab9f8",
+    "07ff72e6-117b-44aa-8296-4a3c0cf14238",
+    "1637632803d07f9c3f",
+    "860e2a29-2886-4ee5-9435-2e6c4e0ac941",
+    "c4f66d4b-72f3-4ed8-8903-a0923d565688",
+    "main"
+  ]
+}

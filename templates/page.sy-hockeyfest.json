@@ -6,23 +6,23 @@
         "1657656462b5c5bc75-0": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Thank_you_11.png",
+            "image": "shopify:\/\/shop_images\/Pics_for_SYRH_website_2048_x_1024_px.png",
             "image_position": "center center",
             "image_link": "",
             "color_overlay_bg": "#ffffff",
             "overlay_opacity": 80,
             "color_overlay_text": "#333333",
-            "overlay_title": "",
+            "overlay_title": "Scotland's Yard Road Hockey Classic 2023",
             "overlay_text": "",
-            "overlay_url_text_1": "",
-            "overlay_url_1": "",
-            "overlay_url_text_2": "",
-            "overlay_url_2": "",
+            "overlay_url_text_1": "REGISTER",
+            "overlay_url_1": "shopify:\/\/products\/sy-road-hockey-classic-registration",
+            "overlay_url_text_2": "DONATE",
+            "overlay_url_2": "shopify:\/\/products\/donate-to-sy-road-hockey-classic",
             "overlay_url_style": "button_1",
             "enlarge_title": false,
             "enlarge_text": false,
             "overlay_position_x": 50,
-            "overlay_position_y": 80,
+            "overlay_position_y": 50,
             "color_label_background": "#ffffff",
             "color_label_text": "#333333",
             "show_chevron": true,
@@ -83,10 +83,12 @@
         "slideshow_autoplay_speed": 6
       }
     },
-    "16576625537f22ced2": {
-      "type": "custom-liquid",
+    "main": {
+      "type": "main-page",
+      "custom_css": [
+
+      ],
       "settings": {
-        "custom_liquid": "<h2 style=\"text-align:center;color:#333333;padding-bottom:15px;padding-top:35px;\">Want to be part of next year's event?<\/h2>\n<p style=\"text-align:center;color:#333333;padding-bottom:15px;padding-top:0x;\">Fill out the form below and let us know how you want to get involved.<\/p><div data-tf-widget=\"li52h6Vm\" data-tf-iframe-props=\"title=SY Road Hockey Future Interest\" data-tf-medium=\"snippet\" style=\"width:100%;height:400px;\"><\/div><script src=\"\/\/embed.typeform.com\/next\/embed.js\"><\/script>"
       }
     },
     "16512479011843aca1": {
@@ -176,12 +178,6 @@
         "slideshow_autoplay_speed": 6
       }
     },
-    "main": {
-      "type": "main-page",
-      "disabled": true,
-      "settings": {
-      }
-    },
     "1656343778fc2e1c36": {
       "type": "featured-collection",
       "disabled": true,
@@ -190,6 +186,20 @@
         "enlarge_title": true,
         "link_text": "BID NOW",
         "collection": "single-auction",
+        "show_vendor": false,
+        "enable_carousel": true,
+        "grid": 4,
+        "row_count": 1,
+        "grid_mobile": "2"
+      }
+    },
+    "2f5a9e8f-c6f8-432f-968b-bf9f6f1cde59": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Support A Team",
+        "enlarge_title": false,
+        "link_text": "See All Teams",
+        "collection": "sy-road-hockey-classic",
         "show_vendor": false,
         "enable_carousel": true,
         "grid": 4,
@@ -212,6 +222,36 @@
         "color_bg": "#1c75bc",
         "color_title": "#ffffff",
         "color_text": "#ffffff"
+      }
+    },
+    "3a20b846-8aff-47a8-9a7c-74ad3b843a67": {
+      "type": "featured-product",
+      "settings": {
+        "product": "sponsor-a-rink-board-1",
+        "description": "",
+        "show_vendor": false,
+        "url_style": "button_1",
+        "enlarge_title": false,
+        "enlarge_text": false,
+        "section_background_colour": "#1c75bc",
+        "section_text_colour": "#fdfdfd",
+        "enable_video_looping": false,
+        "layout": "image_before"
+      }
+    },
+    "91279cf7-414d-4b7c-ab56-2a43b7ebbecd": {
+      "type": "featured-product",
+      "settings": {
+        "product": "host-an-activation-tent",
+        "description": "",
+        "show_vendor": false,
+        "url_style": "button_1",
+        "enlarge_title": false,
+        "enlarge_text": false,
+        "section_background_colour": "#1c75bc",
+        "section_text_colour": "#fdfdfd",
+        "enable_video_looping": false,
+        "layout": "image_after"
       }
     },
     "16512458306761c1c7": {
@@ -402,60 +442,11 @@
         "overlay_url_style": "button_1"
       }
     },
-    "165766214844c37716": {
-      "type": "rich-text",
-      "settings": {
-        "title": "2022 Photo Gallery",
-        "text": "<p>Check out some of the pictures our photographer and committee captured  the day of the tournament. <\/p>",
-        "button_label": "",
-        "button_link": "",
-        "url_style": "button_1",
-        "enlarge_title": false,
-        "enlarge_text": false,
-        "full_width": false,
-        "color_bg": "#1c75bc",
-        "color_title": "#fdfdfd",
-        "color_text": "#fdfdfd"
-      }
-    },
-    "165765724997fb51a7": {
-      "type": "apps",
-      "blocks": {
-        "1f53736e-cd43-42a8-8310-9afab6864c95": {
-          "type": "shopify:\/\/apps\/cozy-image-gallery\/blocks\/Cozy_Gallery_Block\/9808695d-eb84-434d-80d6-cfbcef2d7548",
-          "settings": {
-            "cz_img_gallery_code": "<div class=\"cz-embed-gallery\" id=\"cz-embed-gallery40905\"><!-- ALWAYS KEEP THIS EMPTY --><\/div>"
-          }
-        }
-      },
-      "block_order": [
-        "1f53736e-cd43-42a8-8310-9afab6864c95"
-      ],
-      "settings": {
-      }
-    },
-    "1648226440423b38f7": {
-      "type": "rich-text-left-and-centre",
-      "disabled": true,
-      "settings": {
-        "title": "Youth Division",
-        "text": "<p><\/p><p>Calling all kids! Get your friends or family together for a day filled with road hockey fun. <\/p><p>Teams play in rinks half the size of NHL rinks with real rink boards, nets, refs, music and a whole lot of fun!<\/p><p>You get a three-game guarantee plus winning teams move on to the playoff rounds. <\/p><p>Teams ages 9-18 play 3-on-3 plus a goalie (total 7 players per team). Teams under 9 play 4-on-4 plus a goalie (9 players per team).<\/p><p>Team registration fee: $650\/team <\/p><p><\/p>",
-        "button_label": "REGISTER NOW",
-        "button_link": "https:\/\/app.eventconnect.io\/events\/20758\/registration-type\/create?nav=hidden",
-        "url_style": "button_2",
-        "enlarge_title": false,
-        "enlarge_text": false,
-        "full_width": false,
-        "color_bg": "#ec008c",
-        "color_title": "#ffffff",
-        "color_text": "#ffffff"
-      }
-    },
     "165056743718acefc3": {
       "type": "image-with-text-overlay",
       "settings": {
-        "image": "shopify:\/\/shop_images\/PXL_20220708_180335082_2.jpg",
-        "image_link": "shopify:\/\/products\/donate-to-sy-road-hockey-classic",
+        "image": "shopify:\/\/shop_images\/Pics_for_SYRH_website_2048_x_1024_px_1.png",
+        "image_link": "",
         "image_position": "center center",
         "height": "adapt",
         "height_desktop": 600,
@@ -463,10 +454,10 @@
         "color_overlay_bg": "#ffffff",
         "overlay_opacity": 80,
         "color_overlay_text": "#333333",
-        "overlay_title": "Support the Scotland's Yard Road Hockey Classic",
-        "overlay_text": "Consider making a donation today to help Scotland's Yard enhance care for children in our community.",
-        "overlay_url_text_1": "Donate Now",
-        "overlay_url_1": "https:\/\/grhf.ca\/products\/donate-to-sy-road-hockey-classic",
+        "overlay_title": "Sponsorship",
+        "overlay_text": "Looking to support the event? Email us to discuss sponsorship options that work best for you!",
+        "overlay_url_text_1": "Contact Now",
+        "overlay_url_1": "mailto:syhockey@grhf.ca",
         "overlay_url_text_2": "",
         "overlay_url_2": "",
         "overlay_url_style": "button_1",
@@ -488,23 +479,25 @@
         "label_position_y_2": 50
       }
     },
-    "1647960706abf0a6ed": {
-      "type": "featured-collection",
-      "disabled": true,
+    "1648226440423b38f7": {
+      "type": "rich-text-left-and-centre",
       "settings": {
-        "title": "Our Top Fundraising Teams",
+        "title": "Fundraising Levels",
+        "text": "<p><strong>Every team has the chance to fundraise and win prizes when they reach different tier levels. Any donations get an automatic tax receipt emailed to the donor immediately. Thank you for supporting a great cause!<\/strong><\/p><p><strong>Tier 1:<\/strong> $500 raised - each team member will receive an SY water bottle<\/p><p><strong>Tier 2:<\/strong> $1,000 raised - each team member will receive an SY hat<\/p><p><strong>Tier 3: <\/strong>$5,000 raised - each team member will receive an SY branded sports bag<br\/><\/p><p><strong>Tier 4: <\/strong>$10,000 raised - you will win a team party at Morty’s Pub in Waterloo<\/p><p><strong>TOP YOUTH<\/strong> fundraising team will win an autograph session and professional photos with special guest players on day of the event <br\/><\/p><p><strong>TOP ADULT<\/strong> fundraising team will win 4 tickets to a Detroit Red Wings HOME game of your choice for 2023-2024 season<\/p>",
+        "button_label": "REGISTER NOW",
+        "button_link": "shopify:\/\/products\/sy-road-hockey-classic-registration",
+        "url_style": "button_2",
         "enlarge_title": false,
-        "link_text": "See all teams",
-        "collection": "sy-road-hockey-classic",
-        "show_vendor": false,
-        "enable_carousel": false,
-        "grid": 4,
-        "row_count": 2,
-        "grid_mobile": "2"
+        "enlarge_text": false,
+        "full_width": false,
+        "color_bg": "#1c75bc",
+        "color_title": "#ffffff",
+        "color_text": "#ffffff"
       }
     },
     "1655134991b101a63d": {
       "type": "logo-list-give",
+      "disabled": true,
       "blocks": {
         "b0326a7f-d553-4be6-a5c9-f8b4577e448b": {
           "type": "logo",
@@ -1021,6 +1014,7 @@
     },
     "1657034287d8f631d1": {
       "type": "logo-list-give",
+      "disabled": true,
       "blocks": {
         "4ff180fc-010b-4a83-a3fe-13ca221099ca": {
           "type": "logo",
@@ -1064,23 +1058,71 @@
         "enlarge_text": false,
         "image_opacity": 75
       }
+    },
+    "677aa918-949d-45e1-8bbc-3055552baf84": {
+      "type": "image-with-text",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Pics_for_SYRH_website.png",
+        "image_link": "",
+        "image_size": "0",
+        "image_position": "left",
+        "title": "Thank you!",
+        "text": "<p>What an incredible inaugural event 2022 was! Plus, it was so much fun.<br\/><br\/>After watching our best friend’s daughter, Scottie, fight cancer with a daughter of our own the same age, we knew we had to do something to help. <br\/><br\/>Last year we were given the opportunity to help raise money to improve children’s cancer care in our community with Scotland’s Yard. We called on some NHL, OHL and Gold Medal Olympic Hockey Players to join us, and the results were incredible!<\/p><ul><li>13 Professional Hockey Players<\/li><li>Over 100 Volunteers<\/li><li>1500+ players, families & spectators<\/li><li>Over $315,000 raised<\/li><li>Tournament picked up by CTV<\/li><\/ul><p>We are so excited to see what we can do together this year, and we hope you will join us!<\/p><p>Jacqueline & Ben Chiarot (#8 Detroit Red Wings) <\/p>",
+        "button_label": "",
+        "button_link": "",
+        "url_style": "button_1",
+        "enlarge_title": false,
+        "enlarge_text": false,
+        "text_alignment": "center",
+        "color_bg": "#dae4e6",
+        "color_text": "#333333"
+      }
+    },
+    "165765724997fb51a7": {
+      "type": "apps",
+      "blocks": {
+        "1f53736e-cd43-42a8-8310-9afab6864c95": {
+          "type": "shopify:\/\/apps\/cozy-image-gallery\/blocks\/Cozy_Gallery_Block\/9808695d-eb84-434d-80d6-cfbcef2d7548",
+          "disabled": true,
+          "settings": {
+            "cz_img_gallery_code": "<div class=\"cz-embed-gallery\" id=\"cz-embed-gallery40905\"><!-- ALWAYS KEEP THIS EMPTY --><\/div>"
+          }
+        },
+        "d6e13bf2-f582-4719-943b-0e7d0ae1a9a7": {
+          "type": "shopify:\/\/apps\/helphub-faq-page-product-faqs\/blocks\/app-block\/89f30064-d200-4f10-b92c-a16fc4c5815c",
+          "settings": {
+            "heading": "Frequently Asked Questions",
+            "heading_text_type": "h2",
+            "heading_alignment": "left",
+            "faq_embed_code": "<div class=\"ef-faqs-plus-app-cats-content\" data-category=\"SY Road Hockey\" id=\"ef-faqs-642702345c876f9d066fd0a7\"><\/div>",
+            "faqs_width": 100
+          }
+        }
+      },
+      "block_order": [
+        "1f53736e-cd43-42a8-8310-9afab6864c95",
+        "d6e13bf2-f582-4719-943b-0e7d0ae1a9a7"
+      ],
+      "settings": {
+      }
     }
   },
   "order": [
     "165765646353380882",
-    "16576625537f22ced2",
+    "main",
     "16512479011843aca1",
     "1647956359e1701bc6",
-    "main",
     "1656343778fc2e1c36",
+    "2f5a9e8f-c6f8-432f-968b-bf9f6f1cde59",
     "1647959892fc71857a",
+    "3a20b846-8aff-47a8-9a7c-74ad3b843a67",
+    "91279cf7-414d-4b7c-ab56-2a43b7ebbecd",
     "16512458306761c1c7",
-    "165766214844c37716",
-    "165765724997fb51a7",
-    "1648226440423b38f7",
     "165056743718acefc3",
-    "1647960706abf0a6ed",
+    "1648226440423b38f7",
     "1655134991b101a63d",
-    "1657034287d8f631d1"
+    "1657034287d8f631d1",
+    "677aa918-949d-45e1-8bbc-3055552baf84",
+    "165765724997fb51a7"
   ]
 }

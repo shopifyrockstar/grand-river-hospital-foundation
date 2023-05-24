@@ -7921,6 +7921,12 @@ $(document).ready(function(){
       }
     });
   });  
+
+
+    $(".wifi_map_link").click(function (e) {
+      //alert($(this).attr('data-href'));
+      window.location.href = $(this).attr('data-href');
+    });  
   
   
 });

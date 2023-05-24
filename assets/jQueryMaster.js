@@ -5,8 +5,14 @@ void 0!==c?e&&"set"in e&&void 0!==(d=e.set(a,c,b))?d:a[b]=c:e&&"get"in e&&null!=
 
 if (typeof JQM !== 'undefined'){
 	JQM( document ).ready(function() {
+
+        
+  
+        
+
+      
     	
-  		document.getElementById("wi-fi-landing-page").style.fontSize = 'medium'; 
+  		//document.getElementById("wi-fi-landing-page").style.fontSize = 'medium'; 
   		/*var rev_acc = document.querySelectorAll(".rev_accordion_container > .rev_accordion");
         var rev_panel = document.querySelectorAll(".rev_accordion_container > .rev_panel");
 
@@ -89,7 +95,9 @@ if (typeof JQM !== 'undefined'){
           }
         }
   
-  
+  //document.addEventListener("shopify:section:load", loop);
+     
+      
       //---------------------------------------------
   
       // Detect request animation frame
@@ -176,4 +184,25 @@ if (typeof JQM !== 'undefined'){
       });
   
 	});
+
+  /*
+  if (JQM(".wifi_map_con_1")[0]){
+    //JQM(".wifi_map_con_1").html('helloz');  
+
+    search_url = "pages/grand-river-hospital";
+    
+    JQM.ajax({
+      type:"GET",
+      dataType: 'html',
+      url: search_url,
+      success: function(res){
+        //console.log(res);
+        JQM(".wifi_map_con_1").html(res); 
+      }
+    });
+
+    
+  }*/
+
+  
 }

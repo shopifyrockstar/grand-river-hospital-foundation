@@ -2,9 +2,9 @@
 {%- paginate search.results by 6 -%}
   {%- capture products_output -%}
   {%- for result in search.results -%}
-    {%- comment %}<locksmith:5739>{% endcomment -%}
+    {%- comment %}<locksmith:75b7>{% endcomment -%}
       {%- capture var %}{% render 'locksmith-variables', scope: 'subject', subject: result, subject_parent: search, variable: 'transparent' %}{% endcapture %}{% if var == "true" %}{% else %}{% continue %}{% endif -%}
-    {%- comment %}</locksmith:5739>{% endcomment -%}
+    {%- comment %}</locksmith:75b7>{% endcomment -%}
     {%- if result.object_type == 'product' -%}
       ,{"title":{{ result.title | json }},"url":{{ result.url  | json }},"available":{{ result.available | json }}
       {%- if result.featured_media -%}
@@ -20,9 +20,9 @@
 
   {%- capture pages_output -%}
   {%- for result in search.results -%}
-    {%- comment %}<locksmith:46b7>{% endcomment -%}
+    {%- comment %}<locksmith:73ab>{% endcomment -%}
       {%- capture var %}{% render 'locksmith-variables', scope: 'subject', subject: result, subject_parent: search, variable: 'transparent' %}{% endcapture %}{% if var == "true" %}{% else %}{% continue %}{% endif -%}
-    {%- comment %}</locksmith:46b7>{% endcomment -%}
+    {%- comment %}</locksmith:73ab>{% endcomment -%}
     {%- if result.object_type == 'page' -%}
       ,{"title":{{ result.title | json }},"url":{{ result.url  | json }}}
     {%- endif -%}
@@ -31,9 +31,9 @@
 
   {%- capture articles_output -%}
   {%- for result in search.results -%}
-    {%- comment %}<locksmith:dac2>{% endcomment -%}
+    {%- comment %}<locksmith:aca6>{% endcomment -%}
       {%- capture var %}{% render 'locksmith-variables', scope: 'subject', subject: result, subject_parent: search, variable: 'transparent' %}{% endcapture %}{% if var == "true" %}{% else %}{% continue %}{% endif -%}
-    {%- comment %}</locksmith:dac2>{% endcomment -%}
+    {%- comment %}</locksmith:aca6>{% endcomment -%}
     {%- if result.object_type == 'article' -%}
       ,{"title":{{ result.title | json }},"url":{{ result.url  | json }}
       {%- if result.image -%}

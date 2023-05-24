@@ -1,0 +1,236 @@
+{
+  "sections": {
+    "d71b47f9-d1e2-4762-9ff6-e355c12c5f04": {
+      "type": "banner",
+      "blocks": {
+        "template--15809194918028__d71b47f9-d1e2-4762-9ff6-e355c12c5f04-1671482709e7fb0276-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/copy_2_GRH_July_2022-2_1.jpg",
+            "image_position": "center center",
+            "image_link": "",
+            "color_overlay_bg": "#ffffff",
+            "overlay_opacity": 80,
+            "color_overlay_text": "#333333",
+            "overlay_title": "",
+            "overlay_text": "",
+            "overlay_url_text_1": "",
+            "overlay_url_1": "",
+            "overlay_url_text_2": "",
+            "overlay_url_2": "",
+            "overlay_url_style": "button_1",
+            "enlarge_title": false,
+            "enlarge_text": false,
+            "overlay_position_x": 23,
+            "overlay_position_y": 80,
+            "color_label_background": "#ffffff",
+            "color_label_text": "#333333",
+            "show_chevron": false,
+            "product_id_1": "",
+            "chevron_position_1": "right",
+            "label_position_x_1": 20,
+            "label_position_y_1": 30,
+            "product_id_2": "",
+            "chevron_position_2": "right",
+            "label_position_x_2": 80,
+            "label_position_y_2": 50
+          }
+        }
+      },
+      "block_order": [
+        "template--15809194918028__d71b47f9-d1e2-4762-9ff6-e355c12c5f04-1671482709e7fb0276-0"
+      ],
+      "settings": {
+        "height": "fixed",
+        "height_desktop": 500,
+        "height_mobile": 400,
+        "mobile_text_below": true,
+        "slideshow_autoplay": false,
+        "slideshow_autoplay_speed": 6
+      }
+    },
+    "5a91a006-c1be-4772-b70c-15653c5306ac": {
+      "type": "rich-text",
+      "settings": {
+        "title": "Grand Reel",
+        "text": "<p>Grand River Hospital is full of amazing people who make it a great place to work and receive care — every single person in the Grand River Hospital community has a unique story. The goal of Grand Reel is to share these stories with you and give you the chance to get to know the people who make our hospital exceptional!<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "url_style": "button_1",
+        "enlarge_title": false,
+        "enlarge_text": false,
+        "full_width": false,
+        "color_bg": "#ecf1f2",
+        "color_title": "#333333",
+        "color_text": "#333333"
+      }
+    },
+    "main": {
+      "type": "main-blog",
+      "disabled": true,
+      "settings": {
+        "blog_show_rss": true,
+        "blog_show_tags": true,
+        "blog_show_author": false,
+        "blog_show_date": true,
+        "article_show_tags": true,
+        "show_featured_products": true,
+        "blog_magazine_layout": true,
+        "description": "TBD",
+        "color_overlay_bg": "#ffffff",
+        "overlay_opacity": 10,
+        "color_overlay_text": "#333333",
+        "overlay_position_y": 70,
+        "mobile_text_below": false
+      }
+    },
+    "62a08d65-75a6-4f96-a732-9fbb4de351e3": {
+      "type": "featured-blog",
+      "disabled": true,
+      "settings": {
+        "image_position": "center center",
+        "title": "Recent Highlights",
+        "description": "Watch clips from our most recent Grand Reel interviews!",
+        "color_overlay_bg": "#ffffff",
+        "overlay_opacity": 80,
+        "color_overlay_text": "#333333",
+        "show_view_all": true,
+        "overlay_url_style": "button_1",
+        "enlarge_title": false,
+        "enlarge_text": false,
+        "overlay_position_y": 70,
+        "blog": "grand-reel",
+        "post_limit": 3,
+        "show_author": false,
+        "show_date": true,
+        "show_tags": true,
+        "show_featured_products": true
+      }
+    },
+    "5829fdf3-2c9c-4e82-85ae-2ce7568338a9": {
+      "type": "custom-liquid",
+      "disabled": true,
+      "settings": {
+        "custom_liquid": "<center><h3>Interviews by Date<\/h3>"
+      }
+    },
+    "f650e391-4083-4737-92b3-71d7d4d8354b": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<center><b><p style=\"font-size: 20px; padding-top: 15px;\">November 2022<\/p><\/b><\/center>"
+      }
+    },
+    "47dc16ec-ec30-4726-9347-f0a27c147111": {
+      "type": "image-gallery",
+      "blocks": {
+        "template--15809194918028__47dc16ec-ec30-4726-9347-f0a27c147111-1669661788470b75cb-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Screenshot_2022-12-19_16.32.30.png",
+            "alignment": "center center",
+            "enlarge_image": false,
+            "link": "https:\/\/grhf.ca\/blogs\/grand-reel\/andrea-customer-service-specialist",
+            "title": "",
+            "text": "",
+            "button_label": "Andrea, Customer Service Specialist",
+            "overlay_position": "bottom-center"
+          }
+        },
+        "template--15809194918028__47dc16ec-ec30-4726-9347-f0a27c147111-1669661788470b75cb-3": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Screenshot_2022-12-19_16.30.27.png",
+            "alignment": "center center",
+            "enlarge_image": false,
+            "link": "https:\/\/grhf.ca\/blogs\/grand-reel\/darlene-renal-clinic",
+            "title": "",
+            "text": "",
+            "button_label": "Darlene, Clinical Secretary, Renal Program",
+            "overlay_position": "bottom-center"
+          }
+        },
+        "template--15809194918028__47dc16ec-ec30-4726-9347-f0a27c147111-1669661788470b75cb-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Screenshot_2022-12-19_16.26.56.png",
+            "alignment": "center center",
+            "enlarge_image": false,
+            "link": "https:\/\/grhf.ca\/blogs\/grand-reel\/elliot-clinical-admin",
+            "title": "",
+            "text": "",
+            "button_label": "Elliot, Clinical Admin",
+            "overlay_position": "bottom-center"
+          }
+        },
+        "template--15809194918028__47dc16ec-ec30-4726-9347-f0a27c147111-1669661788470b75cb-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Vers._2_Blog_and_social_posts_-_large_image_18.png",
+            "alignment": "center center",
+            "enlarge_image": false,
+            "link": "https:\/\/grand-river-hospital-foundation.myshopify.com\/blogs\/grand-reel\/lisa-mdrd",
+            "title": "",
+            "text": "",
+            "button_label": "Lisa, Supervisor, MDRD",
+            "overlay_position": "bottom-center"
+          }
+        },
+        "65070c95-c09f-4bc8-b7fb-fda2bdd56612": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Screenshot_2022-12-19_15.58.54.png",
+            "alignment": "center center",
+            "enlarge_image": false,
+            "link": "https:\/\/grhf.ca\/blogs\/grand-reel\/li-learning-organizational-development",
+            "title": "",
+            "text": "",
+            "button_label": "Li, Manager, Learning & Organizational Development",
+            "overlay_position": "bottom-center"
+          }
+        },
+        "50d45010-36fb-4870-ac4a-de4128fcebfb": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Screenshot_2022-12-19_15.53.29.png",
+            "alignment": "center center",
+            "enlarge_image": false,
+            "link": "https:\/\/grhf.ca\/blogs\/grand-reel\/tabitha-mdrd-or-coordinator",
+            "title": "",
+            "text": "",
+            "button_label": "Tabitha, OR\/MDRD Coordinator",
+            "overlay_position": "bottom-center"
+          }
+        }
+      },
+      "block_order": [
+        "template--15809194918028__47dc16ec-ec30-4726-9347-f0a27c147111-1669661788470b75cb-1",
+        "template--15809194918028__47dc16ec-ec30-4726-9347-f0a27c147111-1669661788470b75cb-3",
+        "template--15809194918028__47dc16ec-ec30-4726-9347-f0a27c147111-1669661788470b75cb-2",
+        "template--15809194918028__47dc16ec-ec30-4726-9347-f0a27c147111-1669661788470b75cb-0",
+        "65070c95-c09f-4bc8-b7fb-fda2bdd56612",
+        "50d45010-36fb-4870-ac4a-de4128fcebfb"
+      ],
+      "settings": {
+        "grid": 2,
+        "image_height": 300,
+        "image_height_mobile": 300,
+        "enable_margin": true,
+        "enable_carousel": true,
+        "overlay_style": "box",
+        "color_overlay_bg": "#ffffff",
+        "overlay_opacity": 80,
+        "color_overlay_text": "#333333",
+        "overlay_url_style": "button_1"
+      }
+    }
+  },
+  "order": [
+    "d71b47f9-d1e2-4762-9ff6-e355c12c5f04",
+    "5a91a006-c1be-4772-b70c-15653c5306ac",
+    "main",
+    "62a08d65-75a6-4f96-a732-9fbb4de351e3",
+    "5829fdf3-2c9c-4e82-85ae-2ce7568338a9",
+    "f650e391-4083-4737-92b3-71d7d4d8354b",
+    "47dc16ec-ec30-4726-9347-f0a27c147111"
+  ]
+}

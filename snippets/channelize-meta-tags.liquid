@@ -1,0 +1,19 @@
+{%- if request.path contains "/pages/streams/"  -%}
+            {%- assign ChannelizeShowId = request.path | split: "/" | last -%}
+              
+            {%- if ChannelizeShowId and page.metafields[ChannelizeShowId].title_tag -%}
+              {%- assign page_title = page.metafields[ChannelizeShowId].title_tag -%}
+            {%- endif -%}
+          
+            {%- if ChannelizeShowId and page.metafields[ChannelizeShowId].description_tag -%}
+              {%- assign page_description = page.metafields[ChannelizeShowId].description_tag -%}
+            {%- endif -%}
+          
+            {%- if ChannelizeShowId and page.metafields[ChannelizeShowId].image_tag -%}
+              {%- assign page_image = nil -%}
+              {%- comment %}<locksmith:1dd4>{% endcomment -%}
+                {%- capture var %}{% render 'locksmith-variables', variable: 'transparent', hiding_scope: 'resource' %}{% endcapture %}{% if var == 'true' %}<meta property="og:image" content="{{page.metafields[ChannelizeShowId].image_tag}}">{% endif -%}
+                {%- comment %}original: <meta property="og:image" content="{{page.metafields[ChannelizeShowId].image_tag}}">{%- endcomment %}
+              {%- comment %}</locksmith:1dd4>{% endcomment -%}
+            {%- endif -%}
+          {%- endif -%}

@@ -28,7 +28,16 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   <!-- Boost 2.0.1 -->
   {% render 'head-tag' %}
   <meta name="theme-color" content="{{ settings.primary_btn_background }}">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-7GYHF71FJ8"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
 
+  gtag('config', 'G-7GYHF71FJ8');
+</script>
   {% capture seo_title %}
     {{ page_title }}
     {% if current_tags %}
@@ -104,6 +113,9 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     var variant_data_object ={};
     {% endif %}
     var shouldadd_subscription_id;
+    {% if template contains 'product' and product.handle == 'pledge-to-rally-for-health-care' %}
+      window.location.href="/";
+    {% endif %}
   </script>
 
   {%- if template.directory == 'customers' -%}
