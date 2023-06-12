@@ -3360,11 +3360,17 @@ function _typeof(obj) { "@babel/helpers - typeof"; if (typeof Symbol === "functi
     updateAddToCartState: function updateAddToCartState(evt) {
       var variant = evt.variant;
       
-      var variant_order = "variant_" + variant.id;
+      // var variant_order = "variant_" + variant.id;
       
-      if ( !$.isEmptyObject(variant_data_object) ){
-        shouldadd_subscription_id = variant_data_object[variant_order];
-      }
+      // if ( !$.isEmptyObject(variant_data_object) ){
+      //   shouldadd_subscription_id = variant_data_object[variant_order];
+      // }
+      actual_variant_with_selling_plan_id = [];
+      variant_data_object.forEach((element) => {        
+        if ( Object.keys(element) == variant.id ){
+          actual_variant_with_selling_plan_id.push(element);
+        }
+      });      
       
 //       console.log(shouldadd_subscription_id);
       
@@ -7832,6 +7838,15 @@ $(document).ready(function(){
   $('.subscription-product-form').addClass(get_add_class);
   
 
+  
+  $('.donate-new .custom-recharge-wrapper #tabs li a').click(function(){
+    var t = $(this).attr('id');
+    if (t == 'custom-tab1'){
+      subscription_order = 0;
+    }else{
+      subscription_order = 1;
+    }    
+  })
   $('.custom-recharge-wrapper #tabs li a').click(function(){
     $(".product-single__quantity").addClass("invisible");
     
@@ -7920,6 +7935,33 @@ $(document).ready(function(){
         window.location.href = '/cart';
       }
     });
+  });
+
+  $(".new-subscription-btn").click(function (e) {
+    formData = {
+      "quantity": $("#Quantity").val(),
+      'id': parseInt(Object.keys(actual_variant_with_selling_plan_id[subscription_order]), 10),
+      'selling_plan': parseInt(Object.values(actual_variant_with_selling_plan_id[subscription_order]), 10)
+    }
+    fetch('/cart/add.js', {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json'
+      },
+      body: JSON.stringify(formData)
+    })
+    .then(response => {
+      return response.json();
+    })
+    .then(data=> window.location.href="/cart")
+    .catch((error) => {
+      console.error('Error:', error);
+    });
+  });
+
+  $(".wifi_map_link").click(function (e) {
+    //alert($(this).attr('data-href'));
+    window.location.href = $(this).attr('data-href');
   });  
   
   

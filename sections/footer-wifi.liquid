@@ -1,4 +1,3 @@
-
 {%- if section.settings.show_subscribe_form -%}
 <div class="wifi-subscribe-form">
   
@@ -108,9 +107,9 @@
                 {%- if linklists[small_linklist].links.size > 0 -%}
                   <ul class="small-nav">
                     {%- for link in linklists[small_linklist].links -%}
-                      {%- comment %}<locksmith:0a25>{% endcomment -%}
+                      {%- comment %}<locksmith:53b3>{% endcomment -%}
                         {%- capture var %}{% render 'locksmith-variables', scope: 'subject', subject: link, subject_parent: linklists[small_linklist], variable: 'transparent' %}{% endcapture %}{% if var == "true" %}{% else %}{% continue %}{% endif -%}
-                      {%- comment %}</locksmith:0a25>{% endcomment -%}
+                      {%- comment %}</locksmith:53b3>{% endcomment -%}
                       <li class="small-nav__item">
                         <a class="small-nav__link" href="{{ link.url }}">{{ link.title }}</a>
                       </li>

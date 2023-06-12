@@ -3,12 +3,12 @@
     "1649873152578a5a39": {
       "type": "image-with-text",
       "settings": {
-        "image": "shopify:\/\/shop_images\/Website_Images_14.png",
+        "image": "shopify:\/\/shop_images\/2oDjUYFecopy.jpg",
         "image_link": "",
         "image_size": "0",
         "image_position": "left",
         "title": "Emergency & Critical Care",
-        "text": "<p>When every minute counts, it’s critical to have world class care close to home. Grand River Hospital’s emergency department is always at the ready, providing critical and lifesaving care when we need it most.<\/p>",
+        "text": "<p>When every minute counts, it’s critical to have world class care close to home. Grand River Hospital’s emergency and critical care teams are always at the ready, providing lifesaving care when we need it most.<\/p>",
         "button_label": "",
         "button_link": "",
         "url_style": "button_1",
@@ -39,7 +39,7 @@
       ],
       "settings": {
         "enable_feature_header": false,
-        "grid": 5,
+        "grid": 4,
         "grid_mobile": "2",
         "pagination_limit": 8,
         "show_total": false,
@@ -53,6 +53,7 @@
     },
     "1651520005d5b74044": {
       "type": "custom-liquid",
+      "disabled": true,
       "settings": {
         "custom_liquid": "<h3 style=\"text-align: center; padding-top: 1em; padding-bottom: 1em;\">About Emergency & Critical Care<\/h3>"
       }

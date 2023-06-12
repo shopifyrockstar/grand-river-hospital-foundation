@@ -21,6 +21,19 @@
             "overlay_position": "center-center"
           }
         },
+        "86b8204b-1a88-44a9-b248-b199683a701f": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Untitled_design.jpg",
+            "alignment": "center center",
+            "enlarge_image": false,
+            "link": "https:\/\/grhf.ca\/products\/donate-to-support-the-purchase-of-3-new-books?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web",
+            "title": "Donate 3 Books",
+            "text": "",
+            "button_label": "Donate $25 to support the purchase of 3 new books",
+            "overlay_position": "center-center"
+          }
+        },
         "1db4e0a7-92b8-4b77-8f73-3d82a81aff80": {
           "type": "image",
           "settings": {
@@ -120,6 +133,7 @@
       },
       "block_order": [
         "78fa0aa2-1c49-47be-82c9-7fd258185e7b",
+        "86b8204b-1a88-44a9-b248-b199683a701f",
         "1db4e0a7-92b8-4b77-8f73-3d82a81aff80",
         "a0b074f2-6e80-474b-a179-15c1e5d45101",
         "d5515221-32d2-44d8-838d-5d7ef92a4a58",

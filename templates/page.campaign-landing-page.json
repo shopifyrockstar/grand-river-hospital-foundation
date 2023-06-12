@@ -1,0 +1,440 @@
+{
+  "sections": {
+    "199a017a-f263-4505-b5a8-fbf955618376": {
+      "type": "wifi-banner",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/GRHF_LandingPage_HeroBanner.jpg",
+        "image_mobile": "shopify:\/\/shop_images\/GRHF_LandingPage_HeroBanner.jpg",
+        "image_link": "",
+        "image_position": "center center",
+        "height": "fixed",
+        "height_desktop": 460,
+        "height_mobile": 500,
+        "color_overlay_bg": "#000000",
+        "overlay_opacity": 100,
+        "color_overlay_text": "#ffffff",
+        "overlay_title": "",
+        "overlay_text": "<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0363\/5363\/8540\/t\/28\/assets\/GRHF_LandingPage_LotusIcon.svg?v=74214213518020771821675960964\" alt=\"Grand River\"><p style=\"font-size: 33px; line-height: 1.0;\"><b>We believe that inspiring thriving community engagement is the key to enabling world class health care.<\/b><\/p>",
+        "overlay_url_text_1": "",
+        "overlay_url_1": "",
+        "overlay_url_text_2": "",
+        "overlay_url_2": "",
+        "overlay_url_style": "button_1",
+        "enlarge_title": false,
+        "enlarge_text": true,
+        "mobile_text_below": false,
+        "color_label_background": "#ffffff",
+        "color_label_text": "#333333",
+        "show_chevron": false,
+        "product_id_1": "",
+        "chevron_position_1": "right",
+        "label_position_x_1": 40,
+        "label_position_y_1": 50,
+        "product_id_2": "",
+        "chevron_position_2": "right",
+        "label_position_x_2": 80,
+        "label_position_y_2": 50
+      }
+    },
+    "e7e1defe-7f62-487a-8b50-dae60b231b22": {
+      "type": "banner",
+      "blocks": {
+        "92136d7e-3e82-439f-8d16-a309fc16e726": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/GRHF_LandingPage_IntroBanner.png",
+            "image_position": "center center",
+            "image_link": "",
+            "color_overlay_bg": "#000000",
+            "overlay_opacity": 0,
+            "color_overlay_text": "#ffffff",
+            "overlay_title": "What is Care Never Stops?",
+            "overlay_text": "It's the compelling local rally cry that inspires everyone in our community to help us ensure that we can deliver world class health care right here.",
+            "overlay_url_text_1": "",
+            "overlay_url_1": "",
+            "overlay_url_text_2": "",
+            "overlay_url_2": "",
+            "overlay_url_style": "button_1",
+            "enlarge_title": false,
+            "enlarge_text": false,
+            "overlay_position_x": 50,
+            "overlay_position_y": 50,
+            "color_label_background": "#ffffff",
+            "color_label_text": "#333333",
+            "show_chevron": false,
+            "product_id_1": "",
+            "chevron_position_1": "right",
+            "label_position_x_1": 20,
+            "label_position_y_1": 30,
+            "product_id_2": "",
+            "chevron_position_2": "right",
+            "label_position_x_2": 80,
+            "label_position_y_2": 50
+          }
+        },
+        "ca5fc731-ee4b-49da-a447-05b75b51b72d": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Untitled_design_3_9d8afd32-93ac-4cee-8f18-860003f639b4.png",
+            "image_position": "center center",
+            "image_link": "",
+            "color_overlay_bg": "#000000",
+            "overlay_opacity": 0,
+            "color_overlay_text": "#ffffff",
+            "overlay_title": "What is Care Never Stops?",
+            "overlay_text": "It's the compelling local rally cry that inspires everyone in our community to help us ensure that we can deliver world class health care right here.",
+            "overlay_url_text_1": "",
+            "overlay_url_1": "",
+            "overlay_url_text_2": "",
+            "overlay_url_2": "",
+            "overlay_url_style": "button_1",
+            "enlarge_title": false,
+            "enlarge_text": false,
+            "overlay_position_x": 50,
+            "overlay_position_y": 33,
+            "color_label_background": "#000000",
+            "color_label_text": "#ffffff",
+            "show_chevron": false,
+            "product_id_1": "",
+            "chevron_position_1": "right",
+            "label_position_x_1": 20,
+            "label_position_y_1": 30,
+            "product_id_2": "",
+            "chevron_position_2": "right",
+            "label_position_x_2": 80,
+            "label_position_y_2": 50
+          }
+        }
+      },
+      "block_order": [
+        "92136d7e-3e82-439f-8d16-a309fc16e726",
+        "ca5fc731-ee4b-49da-a447-05b75b51b72d"
+      ],
+      "settings": {
+        "height": "adapt",
+        "height_desktop": 300,
+        "height_mobile": 420,
+        "mobile_text_below": true,
+        "slideshow_autoplay": false,
+        "slideshow_autoplay_speed": 6
+      }
+    },
+    "6866cd8f-d7d7-4f28-bb38-e1461dfbf8cd": {
+      "type": "rich-text",
+      "settings": {
+        "title": "Why does it exist?",
+        "text": "<p>The Care Never Stops campaign exists to empower everyone in our community to celebrate our strongest aspects and build a better health care system together. We rally the community to contribute their time, money or voice to help ensure we all share an exceptional health care experience.<strong> We are committed to achieving our goal of raising $258 million by 2026 to help elevate care, attract top talent, adapt to changing patient volumes, and provide advanced care in state-of-the-art environements for patients and their families.<\/strong><\/p>",
+        "button_label": "Donate now",
+        "button_link": "shopify:\/\/products\/care-never-stops-donation",
+        "url_style": "button_1",
+        "enlarge_title": false,
+        "enlarge_text": false,
+        "full_width": false,
+        "color_bg": "#ffffff",
+        "color_title": "#333333",
+        "color_text": "#333333"
+      }
+    },
+    "8b5868ac-2403-471b-a9cd-d44ac561024f": {
+      "type": "wifi-banner",
+      "disabled": true,
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Untitled_design_2.png",
+        "image_link": "",
+        "image_position": "center center",
+        "height": "adapt",
+        "height_desktop": 600,
+        "height_mobile": 500,
+        "color_overlay_bg": "#ffffff",
+        "overlay_opacity": 80,
+        "color_overlay_text": "#333333",
+        "overlay_title": "",
+        "overlay_text": "",
+        "overlay_url_text_1": "",
+        "overlay_url_1": "",
+        "overlay_url_text_2": "",
+        "overlay_url_2": "",
+        "overlay_url_style": "button_1",
+        "enlarge_title": false,
+        "enlarge_text": false,
+        "mobile_text_below": false,
+        "color_label_background": "#ffffff",
+        "color_label_text": "#333333",
+        "show_chevron": true,
+        "product_id_1": "",
+        "chevron_position_1": "right",
+        "label_position_x_1": 20,
+        "label_position_y_1": 30,
+        "product_id_2": "",
+        "chevron_position_2": "right",
+        "label_position_x_2": 80,
+        "label_position_y_2": 50
+      }
+    },
+    "2d0906bf-d3c6-4975-b029-bb744702a43d": {
+      "type": "logo-list-give",
+      "blocks": {
+        "template--15873260748940__2d0906bf-d3c6-4975-b029-bb744702a43d-16754556543aa4fbeb-0": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/GRHF_LandingPage_HeartIcon.svg",
+            "image_width": 80,
+            "link": "",
+            "title": "<p><b>Care is always there.<\/b><\/p>We help everyone in our community shape the future of health care by giving them a chance to engage and share their experiences.<p><a href=\"%E2%80%9Chttps:\/\/grhf.ca\/pages\/volunteer%E2%80%9D\"><u>Volunteer<\/u><\/a><\/p>"
+          }
+        },
+        "template--15873260748940__2d0906bf-d3c6-4975-b029-bb744702a43d-16754556543aa4fbeb-1": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/GRHF_LandingPage_CoinIcon.svg",
+            "image_width": 80,
+            "link": "",
+            "title": "<p><b>Care is everywhere.<\/b><\/p>We help everyone in our community shape the future of health care by enabling them to donate what they can afford to contribute.<p><a href=\"%E2%80%9Chttps:\/\/grhf.ca\/products\/care-never-stops-donation%E2%80%9D\"><u>Donate<\/u><\/a><\/p>"
+          }
+        },
+        "template--15873260748940__2d0906bf-d3c6-4975-b029-bb744702a43d-16754556543aa4fbeb-2": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/GRHF_LandingPage_PeopleIcon.svg",
+            "image_width": 80,
+            "link": "",
+            "title": "<p><b>Care is what we share.<\/b><\/p>We help everyone in our community shape the future of health care by giving them a chance to advocate for the types of care that matter to them.<p><a href=\"%E2%80%9Chttps:\/\/linktr.ee\/careneverstops%E2%80%9D\"><u>Find us on social<\/u><\/a><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--15873260748940__2d0906bf-d3c6-4975-b029-bb744702a43d-16754556543aa4fbeb-0",
+        "template--15873260748940__2d0906bf-d3c6-4975-b029-bb744702a43d-16754556543aa4fbeb-1",
+        "template--15873260748940__2d0906bf-d3c6-4975-b029-bb744702a43d-16754556543aa4fbeb-2"
+      ],
+      "settings": {
+        "title": "How do we ensure that care never stops?",
+        "color_bg": "#ecf1f2",
+        "color_title": "#333333",
+        "color_text": "#333333",
+        "enlarge_title": false,
+        "enlarge_text": false,
+        "image_opacity": 100
+      }
+    },
+    "be9425b7-4cee-450e-8afa-44b608a2a936": {
+      "type": "custom-liquid",
+      "disabled": true,
+      "settings": {
+        "custom_liquid": "<div style=\"padding-bottom: 1em;padding-top:1em;\"><h3 style=\"text-align: center; font-color: #333333;\">The Areas of Care<\/h3><p style=\"text-align: center; font-color: #333333; padding-left: 3.5em; padding-right: 3.5em;\">We want to ensure that your support of the hospital reflects your values, experiences and priorities. To make it easy for supporters of all kinds, we have created eight distinct Areas of Care.<\/p><\/div>"
+      }
+    },
+    "7aea826f-deda-4e62-9baa-17f288d1dd3e": {
+      "type": "rich-text",
+      "disabled": true,
+      "settings": {
+        "title": "The Areas of Care",
+        "text": "<p>We want to ensure that your support of the hospital reflects your values, experiences and priorities. To make it easy for supporters of all kinds, we have created eight distinct Areas of Care.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "url_style": "button_1",
+        "enlarge_title": false,
+        "enlarge_text": false,
+        "full_width": false,
+        "color_bg": "#ffffff",
+        "color_title": "#333333",
+        "color_text": "#333333"
+      }
+    },
+    "main": {
+      "type": "main-page",
+      "custom_css": [
+        "h1 {display: none;}"
+      ],
+      "settings": {
+      }
+    },
+    "266cc2e7-e36b-43f3-819d-188a1f7626c9": {
+      "type": "wifi-banner",
+      "disabled": true,
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Untitled_design_cd4a048f-a12b-4d33-b3c2-5c722cccee5b.png",
+        "image_link": "",
+        "image_position": "bottom center",
+        "height": "adapt",
+        "height_desktop": 600,
+        "height_mobile": 460,
+        "color_overlay_bg": "#ffffff",
+        "overlay_opacity": 80,
+        "color_overlay_text": "#333333",
+        "overlay_title": "",
+        "overlay_text": "",
+        "overlay_url_text_1": "",
+        "overlay_url_1": "",
+        "overlay_url_text_2": "",
+        "overlay_url_2": "",
+        "overlay_url_style": "button_1",
+        "enlarge_title": false,
+        "enlarge_text": false,
+        "mobile_text_below": false,
+        "color_label_background": "#ffffff",
+        "color_label_text": "#333333",
+        "show_chevron": false,
+        "product_id_1": "",
+        "chevron_position_1": "right",
+        "label_position_x_1": 20,
+        "label_position_y_1": 30,
+        "product_id_2": "",
+        "chevron_position_2": "right",
+        "label_position_x_2": 80,
+        "label_position_y_2": 50
+      }
+    },
+    "b8046883-1352-4ae6-996f-7c876d7d5f1c": {
+      "type": "image-with-text",
+      "disabled": true,
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Untitled_design_cd4a048f-a12b-4d33-b3c2-5c722cccee5b.png",
+        "image_link": "",
+        "image_size": "0",
+        "image_position": "right",
+        "title": "The Areas of Care",
+        "text": "<p>We want to ensure that your support of the hospital reflects your values, experiences and priorities. To make it easy for supporters of all kinds, we have created eight distinct Areas of Care.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "url_style": "button_1",
+        "enlarge_title": false,
+        "enlarge_text": false,
+        "text_alignment": "center",
+        "color_bg": "#ffffff",
+        "color_text": "#333333"
+      }
+    },
+    "0cdee890-a50c-429a-be72-170a11e38b08": {
+      "type": "banner",
+      "disabled": true,
+      "blocks": {
+        "template--15873260748940__0cdee890-a50c-429a-be72-170a11e38b08-1675704870c901718f-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Untitled_design_cd4a048f-a12b-4d33-b3c2-5c722cccee5b.png",
+            "image_position": "bottom center",
+            "image_link": "",
+            "color_overlay_bg": "#ffffff",
+            "overlay_opacity": 80,
+            "color_overlay_text": "#333333",
+            "overlay_title": "",
+            "overlay_text": "",
+            "overlay_url_text_1": "",
+            "overlay_url_1": "",
+            "overlay_url_text_2": "",
+            "overlay_url_2": "",
+            "overlay_url_style": "button_1",
+            "enlarge_title": false,
+            "enlarge_text": false,
+            "overlay_position_x": 50,
+            "overlay_position_y": 80,
+            "color_label_background": "#ffffff",
+            "color_label_text": "#333333",
+            "show_chevron": true,
+            "product_id_1": "",
+            "chevron_position_1": "right",
+            "label_position_x_1": 20,
+            "label_position_y_1": 30,
+            "product_id_2": "",
+            "chevron_position_2": "right",
+            "label_position_x_2": 80,
+            "label_position_y_2": 50
+          }
+        },
+        "992981b1-370f-4743-b33a-26c6ffcd7a1f": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Untitled_design_1_f3f5c41b-045f-427c-b6e2-e08e6ef1c7c4.png",
+            "image_position": "center center",
+            "image_link": "",
+            "color_overlay_bg": "#ffffff",
+            "overlay_opacity": 80,
+            "color_overlay_text": "#333333",
+            "overlay_title": "",
+            "overlay_text": "",
+            "overlay_url_text_1": "",
+            "overlay_url_1": "",
+            "overlay_url_text_2": "",
+            "overlay_url_2": "",
+            "overlay_url_style": "button_1",
+            "enlarge_title": false,
+            "enlarge_text": false,
+            "overlay_position_x": 50,
+            "overlay_position_y": 80,
+            "color_label_background": "#ffffff",
+            "color_label_text": "#333333",
+            "show_chevron": true,
+            "product_id_1": "",
+            "chevron_position_1": "right",
+            "label_position_x_1": 20,
+            "label_position_y_1": 30,
+            "product_id_2": "",
+            "chevron_position_2": "right",
+            "label_position_x_2": 80,
+            "label_position_y_2": 50
+          }
+        }
+      },
+      "block_order": [
+        "template--15873260748940__0cdee890-a50c-429a-be72-170a11e38b08-1675704870c901718f-0",
+        "992981b1-370f-4743-b33a-26c6ffcd7a1f"
+      ],
+      "settings": {
+        "height": "adapt",
+        "height_desktop": 500,
+        "height_mobile": 400,
+        "mobile_text_below": true,
+        "slideshow_autoplay": false,
+        "slideshow_autoplay_speed": 6
+      }
+    },
+    "167546083836e71b2d": {
+      "type": "apps",
+      "blocks": {
+        "ea948631-71de-4068-af99-e4cb32f12abc": {
+          "type": "shopify:\/\/apps\/cozy-image-gallery\/blocks\/Cozy_Gallery_Block\/9808695d-eb84-434d-80d6-cfbcef2d7548",
+          "settings": {
+            "cz_img_gallery_code": "<div class=\"cz-embed-gallery cozy-gallery-lazy-load\" id=\"cz-embed-gallery45177\">\n<!-- ALWAYS KEEP THIS EMPTY -->\n<\/div>"
+          }
+        },
+        "a1e762bd-24bc-44b7-9182-2262bc76ffd2": {
+          "type": "shopify:\/\/apps\/helphub-faq-page-product-faqs\/blocks\/app-block\/89f30064-d200-4f10-b92c-a16fc4c5815c",
+          "settings": {
+            "heading": "Frequently Asked Questions",
+            "heading_text_type": "h3",
+            "heading_alignment": "center",
+            "faq_embed_code": "<div class=\"ef-faqs-plus-app-cats-content\" data-category=\"Care Never Stops Campaign\" id=\"ef-faqs-63dd78d54cf4aef43a065b6f\"><\/div>",
+            "faqs_width": 80
+          }
+        }
+      },
+      "block_order": [
+        "ea948631-71de-4068-af99-e4cb32f12abc",
+        "a1e762bd-24bc-44b7-9182-2262bc76ffd2"
+      ],
+      "custom_css": [
+        "h3 {color: #333333; margin-top: 80px;}",
+        ".ef-faqs-plus-app-cats-content {margin-bottom: 80px;}"
+      ],
+      "settings": {
+      }
+    }
+  },
+  "order": [
+    "199a017a-f263-4505-b5a8-fbf955618376",
+    "e7e1defe-7f62-487a-8b50-dae60b231b22",
+    "6866cd8f-d7d7-4f28-bb38-e1461dfbf8cd",
+    "8b5868ac-2403-471b-a9cd-d44ac561024f",
+    "2d0906bf-d3c6-4975-b029-bb744702a43d",
+    "be9425b7-4cee-450e-8afa-44b608a2a936",
+    "7aea826f-deda-4e62-9baa-17f288d1dd3e",
+    "main",
+    "266cc2e7-e36b-43f3-819d-188a1f7626c9",
+    "b8046883-1352-4ae6-996f-7c876d7d5f1c",
+    "0cdee890-a50c-429a-be72-170a11e38b08",
+    "167546083836e71b2d"
+  ]
+}

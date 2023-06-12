@@ -1,5 +1,43 @@
 {
   "sections": {
+    "b3339fb7-6658-433b-ac86-222c351e2ebe": {
+      "type": "image-with-text",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/GrandKayak_April_2022_Instagram_Post.webp",
+        "image_link": "",
+        "image_size": "0",
+        "image_position": "left",
+        "title": "Grand Kayak",
+        "text": "<p>We're raising money for Grand River Hospital, and we need your support. Join us, or make a donation to support one of our registered teams below!<\/p>",
+        "button_label": "Register a team",
+        "button_link": "https:\/\/hrzt8xom4lq.typeform.com\/to\/boMOeHit",
+        "url_style": "button_1",
+        "enlarge_title": false,
+        "enlarge_text": true,
+        "text_alignment": "center",
+        "color_bg": "#42467e",
+        "color_text": "#ffffff"
+      }
+    },
+    "0fa85c26-c69d-4f69-b34e-21fa73557d80": {
+      "type": "rich-text-about-fdn",
+      "custom_css": [
+        ".large-section {padding-top: 0em; padding-bottom: 1.5em;}"
+      ],
+      "settings": {
+        "title": "",
+        "text": "<p>On May 7th, 2023 (rain or shine!), participants will kayak, canoe or paddle board down the Grand River, finishing at Grand River Hospital's Freeport Campus. Bring your own craft (kayak, canoe, SUP board, bottle raft), don't forget a paddle! <\/p><p>Teams can choose either the 46km eight-hour journey or a leisurely four-hour afternoon paddle—all to raise money for Grand River Hospital in support of our vision of a world class health system! <a href=\"https:\/\/grand-river-hospital-foundation.myshopify.com\/pages\/grand-kayak-routes\">View the routes and starting points.<\/a><\/p><p>Teams can choose which of the hospital's Areas of Care they would like to fundraise for: Cancer Care, Continuum of Care, Emergency Care, Grand River Kids, Kidney Care, Learning + Innovation, Mental Health or Patient Experience.<\/p>",
+        "button_label": "",
+        "button_link": "https:\/\/hrzt8xom4lq.typeform.com\/to\/boMOeHit",
+        "url_style": "button_1",
+        "enlarge_title": false,
+        "enlarge_text": false,
+        "full_width": false,
+        "color_bg": "#ffffff",
+        "color_title": "#333333",
+        "color_text": "#333333"
+      }
+    },
     "main": {
       "type": "main-collection",
       "blocks": {
@@ -8,7 +46,7 @@
           "settings": {
             "collection": "grand-kayak",
             "product": "",
-            "collection_colour": "#43467F",
+            "collection_colour": "#43467f",
             "color_overlay_bg": "#ffffff",
             "overlay_opacity": 10,
             "color_overlay_text": "#333333"
@@ -18,11 +56,14 @@
       "block_order": [
         "a1ecdc91-07b4-422f-b0d7-5ffc271b4c76"
       ],
+      "custom_css": [
+        ".collection-header {display: none;}"
+      ],
       "settings": {
-        "enable_feature_header": true,
+        "enable_feature_header": false,
         "grid": 4,
         "grid_mobile": "2",
-        "pagination_limit": 12,
+        "pagination_limit": 8,
         "show_total": true,
         "ajax_products": true,
         "show_vendor": false,
@@ -32,15 +73,115 @@
         "show_featured": false
       }
     },
+    "7e3f5dd1-0b34-4cde-9885-e9ffeb83c3bf": {
+      "type": "featured-collection",
+      "disabled": true,
+      "settings": {
+        "title": "",
+        "enlarge_title": false,
+        "link_text": "",
+        "collection": "grand-kayak",
+        "show_vendor": false,
+        "enable_carousel": true,
+        "grid": 4,
+        "row_count": 3,
+        "grid_mobile": "2"
+      }
+    },
+    "1949cd89-7856-4978-bb4e-5ba3c4408620": {
+      "type": "rich-text-left-and-centre",
+      "settings": {
+        "title": "Boat Rentals",
+        "text": "<p><em>Take advantage of our amazing offer with Canoeing The Grand! When you book and pre-pay for your boat rental through Canoeing The Grand, you'll receive a 50% discount. To reserve your spot, simply call Shelly at (519) 896-0290 or email us at <\/em><a href=\"mailto:customerservice@canoethegrand.com\"><em>customerservice@canoethegrand.com<\/em><\/a><em>.<\/em><\/p><p><em>They offer a variety of rental options for you to choose from. The regular price for a two-person canoe rental in Breslau is $99.99. If you prefer kayaks, they are available for $69.99 per person plus tax, and tandem kayaks are available for $129.99. Please note that taxes apply to all rental prices. <\/em><\/p><p><em>On May 7th, check in with Shelly and her team will transport you to the starting location. <\/em><\/p><p><em>Don't miss out on this opportunity to create unforgettable memories on the water. Contact Shelly at Canoeing The Grand today to book your rental.<\/em><\/p><p><\/p>",
+        "button_label": "",
+        "button_link": "",
+        "url_style": "button_1",
+        "enlarge_title": false,
+        "enlarge_text": false,
+        "full_width": false,
+        "color_bg": "#ecf1f2",
+        "color_title": "#333333",
+        "color_text": "#333333"
+      }
+    },
+    "f985455c-b376-4676-87f9-da6ba5db072f": {
+      "type": "image-gallery",
+      "blocks": {
+        "template--15774469619852__f985455c-b376-4676-87f9-da6ba5db072f-1677115196fd5466d5-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Grand_Kayak_Routes.png",
+            "alignment": "center center",
+            "enlarge_image": false,
+            "link": "shopify:\/\/pages\/grand-kayak-routes",
+            "title": "Route Map",
+            "text": "",
+            "button_label": "",
+            "overlay_position": "center-center"
+          }
+        },
+        "template--15774469619852__f985455c-b376-4676-87f9-da6ba5db072f-1677115196fd5466d5-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Untitled_design_bc800d85-9f6a-461d-84df-8a728005422a.png",
+            "alignment": "center center",
+            "enlarge_image": false,
+            "link": "shopify:\/\/products\/grand-kayak-picnic",
+            "title": "Let Us Bring You Lunch",
+            "text": "<p>Want some delicious bbq post paddle? Sign up here<\/p>",
+            "button_label": "",
+            "overlay_position": "center-center"
+          }
+        }
+      },
+      "block_order": [
+        "template--15774469619852__f985455c-b376-4676-87f9-da6ba5db072f-1677115196fd5466d5-0",
+        "template--15774469619852__f985455c-b376-4676-87f9-da6ba5db072f-1677115196fd5466d5-1"
+      ],
+      "settings": {
+        "grid": 2,
+        "image_height": 300,
+        "image_height_mobile": 300,
+        "enable_margin": true,
+        "enable_carousel": true,
+        "overlay_style": "box",
+        "color_overlay_bg": "#ffffff",
+        "overlay_opacity": 80,
+        "color_overlay_text": "#333333",
+        "overlay_url_style": "button_1"
+      }
+    },
     "1649681310760c2297": {
       "type": "custom-liquid",
       "settings": {
         "custom_liquid": "<div data-tf-widget=\"boMOeHit\" data-tf-iframe-props=\"title=Grand Kayak Signup\" data-tf-medium=\"snippet\" style=\"width:100%;height:400px;\"><\/div><script src=\"\/\/embed.typeform.com\/next\/embed.js\"><\/script>"
       }
+    },
+    "4585dfaa-0b4a-45ab-8251-a61b09e95084": {
+      "type": "rich-text-about-fdn",
+      "settings": {
+        "title": "FAQs",
+        "text": "<p><strong>Event Parking<\/strong><\/p><p>Canoeing The Grand customers are the only ones who can only park at Canoeing The Grand. If you are not renting a canoe or kayak from Canoeing The Grand for the event, you are responsible for finding your own parking near the event route.<\/p><p><strong>Shuttle Service<\/strong><\/p><p>Shuttle service is available, please contact Canoeing The Grand to arrange. It will be $20\/boat, and ALL SHUTTLE SERVICE MUST BE PRE-BOOKED and PRE-PAID<\/p><ul><li>Shuttles for 8-hour trip will leave on May 7 at 7:30 am sharp. <\/li><li>Shuttles for the 4-hour trip will leave on May 7 at 10:30 am sharp. <\/li><\/ul><p><strong>Event Route<\/strong><\/p><ul><li>4-hour trip will start at Kaufman Flats (546 Woolwich Pl, Waterloo, ON N2J 4G8)<\/li><li>8-hour trip will start at Wilson's Flats #4 (6285 8 Line W, West Montrose, ON N0B 2V0)<\/li><\/ul>",
+        "button_label": "",
+        "button_link": "",
+        "url_style": "button_1",
+        "enlarge_title": false,
+        "enlarge_text": false,
+        "full_width": false,
+        "color_bg": "#ecf1f2",
+        "color_title": "#333333",
+        "color_text": "#333333"
+      }
     }
   },
   "order": [
+    "b3339fb7-6658-433b-ac86-222c351e2ebe",
+    "0fa85c26-c69d-4f69-b34e-21fa73557d80",
     "main",
-    "1649681310760c2297"
+    "7e3f5dd1-0b34-4cde-9885-e9ffeb83c3bf",
+    "1949cd89-7856-4978-bb4e-5ba3c4408620",
+    "f985455c-b376-4676-87f9-da6ba5db072f",
+    "1649681310760c2297",
+    "4585dfaa-0b4a-45ab-8251-a61b09e95084"
   ]
 }

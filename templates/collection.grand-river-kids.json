@@ -8,7 +8,7 @@
         "image_size": "0",
         "image_position": "left",
         "title": "Grand River Kids",
-        "text": "<p>Grand River Hospital cares for the kids in our community starting on the day they are born, helping babies get healthy and stay healthy. As kids get older (and bigger), we help them through accidents, illness, ongoing treatment and mental health care. <\/p><p>Kids have unique health care needs—they can’t just be treated like small adults—so Grand River Kids provides specialized care that has been designed just for them.<\/p>",
+        "text": "<p>Grand River Hospital cares for the kids in our community starting on the day they are born, helping babies get healthy and stay healthy. As kids get older (and bigger), we help them through accidents, illness, ongoing treatment and mental health care. <\/p><p>Kids also have unique health care needs—they can’t just be treated like small adults, so Grand River Kids provides specialized care that has been designed just for them.<\/p>",
         "button_label": "",
         "button_link": "",
         "url_style": "button_1",
@@ -54,7 +54,7 @@
     "165392599421a9267d": {
       "type": "custom-liquid",
       "settings": {
-        "custom_liquid": "<h3 style=\"text-align:center;\">What makes Grand River Kids unique?<\/h3>"
+        "custom_liquid": "<h3 style=\"text-align:center;\">What Makes Grand River Kids Unique?<\/h3>"
       }
     },
     "1653924581dc579190": {
@@ -75,12 +75,32 @@
         "color_bg": "#1c75bc",
         "color_text": "#ffffff"
       }
+    },
+    "88084d88-6bb8-4089-96ba-fa8681b77310": {
+      "type": "image-with-text",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Square_Image_Template_2023_6.png",
+        "image_link": "",
+        "image_size": "0",
+        "image_position": "left",
+        "title": "Grand River Kids Services Include",
+        "text": "<ul><li>Children’s Inpatient<\/li><li>Children’s Outpatient<\/li><li>Childbirth<\/li><li>Partnership with Children’s Hospitals<\/li><li>Children’s Mental Health<\/li><li>Child & Adolescent Inpatient Mental Health<\/li><li>Neonatal Intensive Care Unit (NICU)<\/li><\/ul>",
+        "button_label": "Learn more about the Areas of Care",
+        "button_link": "https:\/\/grhf.ca\/blogs\/grand-ideas\/areas-of-care",
+        "url_style": "button_1",
+        "enlarge_title": false,
+        "enlarge_text": false,
+        "text_alignment": "left",
+        "color_bg": "#fdfdfd",
+        "color_text": "#333333"
+      }
     }
   },
   "order": [
     "1649873152578a5a39",
     "main",
     "165392599421a9267d",
-    "1653924581dc579190"
+    "1653924581dc579190",
+    "88084d88-6bb8-4089-96ba-fa8681b77310"
   ]
 }

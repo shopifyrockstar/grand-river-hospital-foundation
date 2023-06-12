@@ -1,37 +1,71 @@
 {
   "sections": {
+    "1644358084f8a86dbe": {
+      "type": "image-with-text",
+      "disabled": true,
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Untitled_design_97.png",
+        "image_link": "shopify:\/\/pages\/scotties-3rd-birthday",
+        "image_size": "0",
+        "image_position": "left",
+        "title": "Celebrate and Support",
+        "text": "<p>Do you want an easy way to get involved and support a great cause for our community? <\/p><p>Check out our Birthday Balloon Bash to celebrate Scottie turning 3, and see how you can make a difference.<\/p>",
+        "button_label": "LEARN MORE",
+        "button_link": "shopify:\/\/pages\/scotties-3rd-birthday",
+        "url_style": "button_1",
+        "enlarge_title": false,
+        "enlarge_text": false,
+        "text_alignment": "center",
+        "color_bg": "#ecf1f2",
+        "color_text": "#333333"
+      }
+    },
     "1637367423fa649cd0": {
       "type": "image-with-text",
       "settings": {
         "image": "shopify:\/\/shop_images\/Untitled_design_7ac98446-5f30-49b6-90d4-b883f13c197f.png",
         "image_link": "",
         "image_size": "0",
-        "image_position": "left",
+        "image_position": "right",
         "title": "About",
-        "text": "<p>Scotland’s Yard: a vision for enhancing pediatric cancer care here at home in Waterloo Region. Inspired by the courage of Scotland (Scottie), a young girl facing a difficult cancer journey, a group of community members came together to make Scotland’s Yard a reality. Join us to support cancer care for kids in our community.<\/p>",
+        "text": "<p>Scotland’s Yard: a vision for enhancing pediatric cancer care here at home in Waterloo Region. Inspired by the courage of Scotland (Scottie), a young cancer survivor, a group of community members came together to make Scotland’s Yard a reality. Join us in supporting cancer care for the kids in our community.<\/p>",
         "button_label": "",
         "button_link": "",
         "url_style": "button_1",
         "enlarge_title": false,
         "enlarge_text": false,
         "text_alignment": "center",
-        "color_bg": "#dae4e6",
-        "color_text": "#333333"
+        "color_bg": "#1c75bc",
+        "color_text": "#ffffff"
+      }
+    },
+    "1664465256de316808": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "",
+        "enlarge_title": false,
+        "link_text": "Shop now!",
+        "collection": "scotties-3rd-birthday",
+        "show_vendor": false,
+        "enable_carousel": true,
+        "grid": 4,
+        "row_count": 1,
+        "grid_mobile": "2"
       }
     },
     "16373681076ce6218f": {
       "type": "rich-text-about-fdn",
       "settings": {
         "title": "Printable Forms",
-        "text": "<p><a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0363\/5363\/8540\/files\/DONATE_1.pdf?v=1637368859\" target=\"_blank\" title=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0363\/5363\/8540\/files\/DONATE_1.pdf?v=1637368859\">Download<\/a> a one pager to print for your business or organization to fundraise for Scotland's Yard.<\/p><p>Prefer to make a pledge or donate offline? <a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0363\/5363\/8540\/files\/Scotlands_Yard_Give_Form.pdf?v=1637368838\" target=\"_blank\" title=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0363\/5363\/8540\/files\/Scotlands_Yard_Give_Form.pdf?v=1637368838\">Download this fillable donation form<\/a>.<\/p>",
+        "text": "<p><a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0363\/5363\/8540\/files\/DONATE_1.pdf?v=1637368859\" target=\"_blank\" title=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0363\/5363\/8540\/files\/DONATE_1.pdf?v=1637368859\">Download<\/a> a one pager to print for your business or organization to fundraise for Scotland's Yard. Prefer to make a pledge or donate offline? <a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0363\/5363\/8540\/files\/Scotlands_Yard_Give_Form.pdf?v=1637368838\" target=\"_blank\" title=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0363\/5363\/8540\/files\/Scotlands_Yard_Give_Form.pdf?v=1637368838\">Download this fillable donation form<\/a>.<\/p>",
         "button_label": "",
         "button_link": "",
         "url_style": "button_1",
-        "enlarge_title": true,
+        "enlarge_title": false,
         "enlarge_text": true,
         "full_width": false,
         "color_bg": "#ffffff",
-        "color_title": "#1c75bc",
+        "color_title": "#000000",
         "color_text": "#000000"
       }
     },
@@ -53,6 +87,7 @@
     },
     "16373656448fc5074d": {
       "type": "rich-text-about-fdn",
+      "disabled": true,
       "settings": {
         "title": "Community Support",
         "text": "<p>Take a look below at some of the ways local businesses are supporting Scotland's Yard.<\/p>",
@@ -65,44 +100,6 @@
         "color_bg": "#1c75bc",
         "color_title": "#ffffff",
         "color_text": "#ffffff"
-      }
-    },
-    "1644358084f8a86dbe": {
-      "type": "image-with-text",
-      "settings": {
-        "image": "shopify:\/\/shop_images\/Website_Banner_2048_x_1024_2_1024x1024_e058ca5f-3c64-492c-a74f-25b99b65d831.webp",
-        "image_link": "shopify:\/\/pages\/about-sy-road-hockey-classic",
-        "image_size": "0",
-        "image_position": "left",
-        "title": "SY Road Hockey Classic",
-        "text": "<p>Join us July 8th for a classic street hockey tournament with divisions for all genders and ages.<\/p>",
-        "button_label": "LEARN MORE",
-        "button_link": "shopify:\/\/pages\/about-sy-road-hockey-classic",
-        "url_style": "button_1",
-        "enlarge_title": false,
-        "enlarge_text": false,
-        "text_alignment": "center",
-        "color_bg": "#dae4e6",
-        "color_text": "#333333"
-      }
-    },
-    "164435810326abf14e": {
-      "type": "video-with-text",
-      "settings": {
-        "image": "shopify:\/\/shop_images\/stylish-skirt-purse.jpg",
-        "image_link": "shopify:\/\/products\/channers-fashion-show",
-        "image_size": "0",
-        "image_position": "right",
-        "title": "Channer's Fashion Show",
-        "text": "<p>Channer’s Fashion Show is partnering with The Old Bags of Westmount for an epic event in support of Scotland’s Yard. Fashion Show, Live and silent auction, plus a special auction table with gently loved designer handbags.<\/p>",
-        "button_label": "BUY TICKETS",
-        "button_link": "shopify:\/\/products\/channers-fashion-show",
-        "url_style": "button_1",
-        "enlarge_title": false,
-        "enlarge_text": false,
-        "text_alignment": "center",
-        "color_bg": "#dae4e6",
-        "color_text": "#333333"
       }
     },
     "1637365536baaf9e03": {
@@ -241,7 +238,7 @@
       "type": "apps",
       "blocks": {
         "2df67920-5c5d-4585-a51f-bd182a152ef0": {
-          "type": "shopify:\/\/apps\/easy-faq-page-customer-faqs\/blocks\/app-block\/89f30064-d200-4f10-b92c-a16fc4c5815c",
+          "type": "shopify:\/\/apps\/helphub-faq-page-product-faqs\/blocks\/app-block\/89f30064-d200-4f10-b92c-a16fc4c5815c",
           "settings": {
             "heading": "Frequently Asked Questions",
             "heading_text_type": "h2",
@@ -259,12 +256,12 @@
     }
   },
   "order": [
+    "1644358084f8a86dbe",
     "1637367423fa649cd0",
+    "1664465256de316808",
     "16373681076ce6218f",
     "main",
     "16373656448fc5074d",
-    "1644358084f8a86dbe",
-    "164435810326abf14e",
     "1637365536baaf9e03",
     "1639072113b3231253"
   ]

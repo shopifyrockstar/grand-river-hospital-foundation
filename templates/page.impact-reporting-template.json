@@ -3,11 +3,11 @@
     "165392312540137d95": {
       "type": "image-with-text",
       "settings": {
-        "image": "shopify:\/\/shop_images\/Website_Image_with_Text_Template_4.png",
+        "image": "shopify:\/\/shop_images\/Website_Image_with_Text_Template_2023_2.png",
         "image_link": "",
         "image_size": "0",
         "image_position": "right",
-        "title": "Building a World Class Health System Where Care. Never. Stops.",
+        "title": "Building a World Class Health System Where Care Never Stops",
         "text": "<p><em>Your impact at Grand River Hospital<\/em><\/p>",
         "button_label": "",
         "button_link": "",
@@ -15,14 +15,136 @@
         "enlarge_title": false,
         "enlarge_text": false,
         "text_alignment": "left",
-        "color_bg": "#dae4e6",
-        "color_text": "#333333"
+        "color_bg": "#42467e",
+        "color_text": "#ffffff"
       }
     },
     "main": {
       "type": "main-page-impact",
       "disabled": true,
       "settings": {
+      }
+    },
+    "166368854252807526": {
+      "type": "banner",
+      "disabled": true,
+      "blocks": {
+        "16636885420c8324a6-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/LWG92U5w.jpg",
+            "image_position": "center center",
+            "image_link": "",
+            "color_overlay_bg": "#ecf1f2",
+            "overlay_opacity": 81,
+            "color_overlay_text": "#333333",
+            "overlay_title": "Building a World Class Health System Where Care. Never. Stops.",
+            "overlay_text": "<i>Your Impact at Grand River Hospital<\/i>",
+            "overlay_url_text_1": "",
+            "overlay_url_1": "",
+            "overlay_url_text_2": "",
+            "overlay_url_2": "",
+            "overlay_url_style": "button_1",
+            "enlarge_title": false,
+            "enlarge_text": true,
+            "overlay_position_x": 50,
+            "overlay_position_y": 80,
+            "color_label_background": "#ffffff",
+            "color_label_text": "#333333",
+            "show_chevron": true,
+            "product_id_1": "",
+            "chevron_position_1": "right",
+            "label_position_x_1": 20,
+            "label_position_y_1": 30,
+            "product_id_2": "",
+            "chevron_position_2": "right",
+            "label_position_x_2": 80,
+            "label_position_y_2": 50
+          }
+        }
+      },
+      "block_order": [
+        "16636885420c8324a6-0"
+      ],
+      "settings": {
+        "height": "fixed",
+        "height_desktop": 500,
+        "height_mobile": 400,
+        "mobile_text_below": true,
+        "slideshow_autoplay": true,
+        "slideshow_autoplay_speed": 6
+      }
+    },
+    "1643143933e06b2bac": {
+      "type": "custom-liquid",
+      "custom_css": [
+        "p {font-size: 16px; margin-left: 2.5em; margin-right: 2.5em; line-height: 140%; color: #333333;}"
+      ],
+      "settings": {
+        "custom_liquid": "<div style=\"padding-bottom:2%;\"><p>At Grand River Hospital Foundation, we dedicate ourselves to our great community by working in partnership with people from all walks of life to make every health care experience exceptional. The continued dedication of our donors, supporters and the community at large helps our community stay healthy and provides access to quality health care right here in the places where we work and live. Together, we're investing in a world class health care system: the kind that transforms health care delivery, provides an exceptional experience for all, and works collaboratively to improve the health of our community. <b><i>The kind where care never stops.<\/b><\/i><\/p><p>Our main objective is to raise money to support the programs and equipment needs of Grand River Hospital as we transform health care here in Kitchener-Waterloo. Base funding provided by the provincial government covers the costs of supplies, staff and day-to-day operations, but hospitals, and the supporters who donate to and fundraise for them, are solely responsible for funding all new and replacement equipment, along with any programs that are not funded by the government. Last year, you generously raised $12.2M to support Grand River Hospital. <\/p><\/div>"
+      }
+    },
+    "1646074225e4a10313": {
+      "type": "image-with-text",
+      "disabled": true,
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Website_mini_header_-_impact_page_3.png",
+        "image_link": "",
+        "image_size": "0",
+        "image_position": "left",
+        "title": "Areas of Care",
+        "text": "<p>To make it easy for you to ensure that your support of the Hospital reflects your experiences and priorities, we have defined eight distinct Areas of Care that encompass the health services we offer.<\/p>",
+        "button_label": "Learn more",
+        "button_link": "shopify:\/\/blogs\/grand-ideas\/areas-of-care",
+        "url_style": "button_1",
+        "enlarge_title": false,
+        "enlarge_text": false,
+        "text_alignment": "center",
+        "color_bg": "#000000",
+        "color_text": "#ffffff"
+      }
+    },
+    "16539235000e60fe19": {
+      "type": "image-with-text",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Website_Image_with_Text_Template_2023.png",
+        "image_link": "",
+        "image_size": "0",
+        "image_position": "left",
+        "title": "You help the hospital...",
+        "text": "<p>● <strong>Provide world class care<\/strong> that addresses the unique and specialized needs of each patient<\/p><p>● <strong>Acquire new and replacement equipment<\/strong> so hospital staff can provide the best possible screening, treatment and patient experience<\/p><p>● <strong>Seed new initiatives<\/strong> to give patients access to the most innovative treatments and programs<\/p><p>● <strong>Educate health care workers<\/strong> by providing ongoing training opportunities to upgrade their skill sets and ensure they're well-versed in the latest clinical and technological advancements<\/p><p>● <strong>Conduct important research<\/strong> so we can continue to advance treatment and care for years to come<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "url_style": "button_1",
+        "enlarge_title": false,
+        "enlarge_text": false,
+        "text_alignment": "left",
+        "color_bg": "#ffffff",
+        "color_text": "#333333"
+      }
+    },
+    "16636063622ee89d1b": {
+      "type": "custom-liquid",
+      "custom_css": [
+        "h2 {}",
+        "p {font-size: 16px; margin-left: 2.5em; margin-right: 2.5em; line-height: 140%; color: #333333; text-align: left;}"
+      ],
+      "settings": {
+        "custom_liquid": "<h2 style=\"text-align:center;color:#333333;padding-bottom:15px;padding-top:35px;\">Your Impact at Grand River Hospital<\/h2>\n<p>When you support Grand River Hospital, you make it possible to fund the equipment and programs we need to keep our community healthy as we strive toward our vision of a world class health system supporting healthier lives. You make it possible to offer more diagnositic and treatment services right here in Kitchener-Waterloo, helping our community more easily access the care they need whenever they may need it. The following are items and programs that were funded by donors and supporters just like you: <\/p>"
+      }
+    },
+    "1644338838341f147b": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "",
+        "enlarge_title": false,
+        "link_text": "View all of the items supporters like you purchased for our hospital",
+        "collection": "granted-funds-to-the-hospital",
+        "show_vendor": false,
+        "enable_carousel": false,
+        "grid": 5,
+        "row_count": 2,
+        "grid_mobile": "2"
       }
     },
     "1642097468fba38469": {
@@ -380,111 +502,54 @@
         "slideshow_autoplay_speed": 10
       }
     },
-    "16539235000e60fe19": {
-      "type": "image-with-text",
-      "settings": {
-        "image": "shopify:\/\/shop_images\/Website_Image_with_Text_Template_1.png",
-        "image_link": "",
-        "image_size": "0",
-        "image_position": "left",
-        "title": "You help the hospital...",
-        "text": "<p>● <strong>Provide world class care<\/strong> that addresses the unique and specialized needs of each patient<\/p><p>● <strong>Acquire new and replacement equipment<\/strong> so hospital staff can provide the best possible screening, treatment and patient experience<\/p><p>● <strong>Seed new initiatives<\/strong> to give patients access to the most innovative treatments and programs<\/p><p>● <strong>Educate health care workers<\/strong> by providing ongoing training opportunities to upgrade their skill sets and ensure they're well-versed in the latest clinical and technological advancements<\/p><p>● <strong>Conduct important research<\/strong> so we can continue to advance treatment and care for years to come<\/p>",
-        "button_label": "",
-        "button_link": "",
-        "url_style": "button_1",
-        "enlarge_title": false,
-        "enlarge_text": false,
-        "text_alignment": "left",
-        "color_bg": "#ffffff",
-        "color_text": "#333333"
-      }
-    },
-    "1643143933e06b2bac": {
-      "type": "custom-liquid",
-      "settings": {
-        "custom_liquid": "<div style=\"padding-bottom:2%;\"><p style=\"color:#333333;padding-right:2%;padding-left:2%\">At Grand River Hospital Foundation, we dedicate ourselves to our great community by working in partnership with people from all walks of life to make every health care experience exceptional. The continued dedication of our donors, supporters and the community at large helps our community stay healthy and provides access to quality health care right here in the places where we work and live. Together, we're investing in a world class health care system: the kind that transforms health care delivery, provides an exceptional experience for all, and works collaboratively to improve the health of our community. <b><i>The kind where care never stops.<\/b><\/i><\/p><p style=\"padding-right:2%;padding-left:2%\">Our main objective is to raise money to support the programs and equipment needs of Grand River Hospital as we transform health care here in Kitchener-Waterloo. Base funding provided by the provincial government covers the costs of supplies, staff and day-to-day operations, but hospitals, and the supporters who donate to and fundraise for them, are solely responsible for funding all new and replacement equipment, along with any programs that are not funded by the government. Last year, you generously raised $16.4M to support Grand River Hospital. <\/p><\/div>"
-      }
-    },
-    "1651845310ff656e9c": {
-      "type": "image-with-text",
-      "settings": {
-        "image": "shopify:\/\/shop_images\/Impact_image.jpg",
-        "image_link": "",
-        "image_size": "0",
-        "image_position": "left",
-        "title": "Thank you.",
-        "text": "<p>When you support Grand River Hospital,  you make world class possible for patients, families, hospital staff and our community. <\/p>",
-        "button_label": "Read more stories and messages of thanks!",
-        "button_link": "https:\/\/grhf.ca\/blogs\/grand-ideas\/tagged\/impact",
-        "url_style": "button_1",
-        "enlarge_title": false,
-        "enlarge_text": false,
-        "text_alignment": "center",
-        "color_bg": "#dae4e6",
-        "color_text": "#333333"
-      }
-    },
     "1646330456e70728ad": {
       "type": "custom-liquid",
       "settings": {
-        "custom_liquid": "<h2 style=\"text-align:center;color:#333333;padding-bottom:15px;padding-top:35px;\">Impact Updates and Reporting<\/h2>"
-      }
-    },
-    "1646074225e4a10313": {
-      "type": "image-with-text",
-      "settings": {
-        "image": "shopify:\/\/shop_images\/Website_mini_header_-_impact_page_3.png",
-        "image_link": "",
-        "image_size": "0",
-        "image_position": "left",
-        "title": "Areas of Care",
-        "text": "<p>To make it easy for you to ensure that your support of the Hospital reflects your experiences and priorities, we have defined eight distinct Areas of Care that encompass the health services we offer.<\/p>",
-        "button_label": "Learn more",
-        "button_link": "shopify:\/\/blogs\/grand-ideas\/areas-of-care",
-        "url_style": "button_1",
-        "enlarge_title": false,
-        "enlarge_text": false,
-        "text_alignment": "center",
-        "color_bg": "#000000",
-        "color_text": "#ffffff"
-      }
-    },
-    "1644338838341f147b": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "",
-        "enlarge_title": false,
-        "link_text": "Check out what we have granted money over to the hospital for",
-        "collection": "granted-funds-to-the-hospital",
-        "show_vendor": false,
-        "enable_carousel": false,
-        "grid": 5,
-        "row_count": 1,
-        "grid_mobile": "2"
-      }
-    },
-    "16463286463e80babb": {
-      "type": "image-with-text",
-      "settings": {
-        "image": "shopify:\/\/shop_images\/Screenshot_2022-04-29_12.51.32_PM.png",
-        "image_link": "",
-        "image_size": "0",
-        "image_position": "left",
-        "title": "Annual Returns",
-        "text": "<p><strong>Grand River Hospital Foundations' CRA T3010:<\/strong> Registered Charity Information Return<\/p>",
-        "button_label": "Quick View",
-        "button_link": "https:\/\/apps.cra-arc.gc.ca\/ebci\/hacc\/srch\/pub\/dsplyRprtngPrd?q.srchNmFltr=grand+river+hospital+foundation&q.stts=0007&selectedCharityBn=889180394RR0001&dsrdPg=1",
-        "url_style": "button_1",
-        "enlarge_title": false,
-        "enlarge_text": false,
-        "text_alignment": "center",
-        "color_bg": "#ffffff",
-        "color_text": "#333333"
+        "custom_liquid": "<h3 style=\"text-align:center;color:#333333;padding-bottom:15px;padding-top:35px;\">Impact Updates<\/h3>"
       }
     },
     "163552804617c55225": {
       "type": "image-gallery",
       "blocks": {
+        "2531df03-f999-44c9-a668-5f0a4e5da4e5": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/office-woman-hands-on-report.jpg",
+            "alignment": "center center",
+            "enlarge_image": false,
+            "link": "https:\/\/apps.cra-arc.gc.ca\/ebci\/hacc\/srch\/pub\/dsplyQckVw?q.stts=0007&selectedFilingPeriodIndex=0&selectedCharityBn=889180394RR0001&isSingleResult=false",
+            "title": "",
+            "text": "",
+            "button_label": "Annual Returns (CRA T3010)",
+            "overlay_position": "center-center"
+          }
+        },
+        "a3a1f259-e582-4774-a1cc-2fdd98468a69": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/patient-in-wheelchair.jpg",
+            "alignment": "center center",
+            "enlarge_image": false,
+            "link": "https:\/\/grhf.ca\/pages\/impact-reports-2023",
+            "title": "",
+            "text": "",
+            "button_label": "Impact Updates 2023",
+            "overlay_position": "center-center"
+          }
+        },
+        "bda33d11-3578-4f6a-aede-13f863a97917": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/genome-research-lab-tests.jpg",
+            "alignment": "bottom center",
+            "enlarge_image": false,
+            "link": "https:\/\/grhf.ca\/pages\/action-magazine-issue-8",
+            "title": "",
+            "text": "",
+            "button_label": "ACTION Magazine (Winter 2023)",
+            "overlay_position": "center-center"
+          }
+        },
         "9ed15d09-ea6f-424a-aa4e-3aef3d81f098": {
           "type": "image",
           "settings": {
@@ -494,7 +559,7 @@
             "link": "https:\/\/grhf.ca\/pages\/action-issue-7",
             "title": "",
             "text": "",
-            "button_label": "ACTION at Grand River Hospital (Summer 2022)",
+            "button_label": "ACTION Magazine (Summer 2022)",
             "overlay_position": "center-center"
           }
         },
@@ -507,7 +572,7 @@
             "link": "https:\/\/cdn.shopify.com\/s\/files\/1\/0363\/5363\/8540\/files\/Action_Winter_2022.pdf?v=1644245989",
             "title": "",
             "text": "",
-            "button_label": "ACTION at Grand River Hospital (Winter 2022)",
+            "button_label": "ACTION Magazine (Winter 2022)",
             "overlay_position": "center-center"
           }
         },
@@ -533,7 +598,7 @@
             "link": "https:\/\/drive.google.com\/file\/d\/1mXcT3ITgCJ0rCwr6DjszrfQcQOnC0Q1Y\/view?usp=sharing",
             "title": "",
             "text": "",
-            "button_label": "ACTION at Grand River Hospital (Summer 2021)",
+            "button_label": "ACTION Magazine (Summer 2021)",
             "overlay_position": "center-center"
           }
         },
@@ -578,6 +643,9 @@
         }
       },
       "block_order": [
+        "2531df03-f999-44c9-a668-5f0a4e5da4e5",
+        "a3a1f259-e582-4774-a1cc-2fdd98468a69",
+        "bda33d11-3578-4f6a-aede-13f863a97917",
         "9ed15d09-ea6f-424a-aa4e-3aef3d81f098",
         "d584e903-812a-496e-8e83-5f2d07692a6e",
         "dd6910e3-bbed-4b35-a239-58a147d0f1b5",
@@ -599,14 +667,49 @@
         "overlay_url_style": "button_1"
       }
     },
-    "1646328717f5d1b2f2": {
-      "type": "custom-liquid",
+    "1651845310ff656e9c": {
+      "type": "image-with-text",
+      "disabled": true,
       "settings": {
-        "custom_liquid": "<h3 style=\"text-align:center;color:#333333;padding-bottom:8px;padding-top:10px;\">Financial Statments<\/h3>\n<head>\n    <style>\n    {\n        box-sizing: border-box;\n    }\n    \/* Set additional styling options for the columns*\/\n    .column {\n    float: left;\n    width: 50%;\n    }\n\n    .row:after {\n    content: \"\";\n    display: table;\n    clear: both;\n    }\n    <\/style>\n <\/head>\n <body>\n    <div class=\"row\">\n        <div class=\"column\">\n            <a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0363\/5363\/8540\/files\/GRHF_03-31-2022_Financial_Statements_8b41f92e-32c4-4024-a973-5b4b65a8f31f.pdf?v=1660248170\"><p style=\"text-align:center\">2021-2022 Financial Statement<\/p><\/a>\n<a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0363\/5363\/8540\/files\/2021-03-31_GRHF_Audited_Financial_Statements.pdf?v=1629387261\"><p style=\"text-align:center\">2020-2021 Financial Statement<\/p><\/a>\n <a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0363\/5363\/8540\/files\/2019-2020_GRHF_Audited_Financial_Statements.pdf?v=1607609075\"><p style=\"text-align:center;\">2019-2020 Financial Statement<\/p><\/a><\/div>\n        <div class=\"column\">\n            <a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0363\/5363\/8540\/files\/2018-2019_GRHF_Audited_Financial_Statements.pdf?v=1607609075\"><p style=\"text-align:center\">2018-2019 Financial Statement<\/p><\/a>\n<a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0363\/5363\/8540\/files\/2017-2018_GRHF_Audited_Financial_Statements.pdf?v=1607609075\"><p style=\"text-align:center;\">2017-2018 Financial Statement<\/p><\/a>\n        <\/div>\n    <\/div>\n <\/body>\n<\/html>"
+        "image": "shopify:\/\/shop_images\/Impact_image.jpg",
+        "image_link": "",
+        "image_size": "0",
+        "image_position": "left",
+        "title": "Thank you.",
+        "text": "<p>When you support Grand River Hospital,  you make world class possible for patients, families, hospital staff and our community. <\/p>",
+        "button_label": "Read more stories and messages of thanks!",
+        "button_link": "https:\/\/grhf.ca\/blogs\/grand-ideas\/tagged\/impact",
+        "url_style": "button_1",
+        "enlarge_title": false,
+        "enlarge_text": false,
+        "text_alignment": "center",
+        "color_bg": "#dae4e6",
+        "color_text": "#333333"
+      }
+    },
+    "16463286463e80babb": {
+      "type": "image-with-text",
+      "disabled": true,
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Screenshot_2022-04-29_12.51.32_PM.png",
+        "image_link": "",
+        "image_size": "0",
+        "image_position": "left",
+        "title": "Annual Returns",
+        "text": "<p><strong>Grand River Hospital Foundations' CRA T3010:<\/strong> Registered Charity Information Return<\/p>",
+        "button_label": "Quick View",
+        "button_link": "https:\/\/apps.cra-arc.gc.ca\/ebci\/hacc\/srch\/pub\/dsplyRprtngPrd?q.srchNmFltr=grand+river+hospital+foundation&q.stts=0007&selectedCharityBn=889180394RR0001&dsrdPg=1",
+        "url_style": "button_1",
+        "enlarge_title": false,
+        "enlarge_text": false,
+        "text_alignment": "center",
+        "color_bg": "#ffffff",
+        "color_text": "#333333"
       }
     },
     "1646331590a1cbd0f5": {
       "type": "image-with-text",
+      "disabled": true,
       "settings": {
         "image": "shopify:\/\/shop_images\/Garage_Level_7_-_Main_Hospital_Blackberry_Panoramic_1.jpg",
         "image_link": "",
@@ -626,6 +729,7 @@
     },
     "163712360109dce0bc": {
       "type": "image-gallery",
+      "disabled": true,
       "blocks": {
         "16371236015cda2853-0": {
           "type": "image",
@@ -699,22 +803,51 @@
         "overlay_url_style": "button_1"
       }
     },
-    "165834663286a279c9": {
+    "1646328717f5d1b2f2": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<h3 style=\"text-align:center;color:#333333;padding-bottom:8px;padding-top:10px;\">Financial Statements<\/h3>\n<head>\n    <style>\n    {\n        box-sizing: border-box;\n    }\n    \/* Set additional styling options for the columns*\/\n    .column {\n    float: left;\n    width: 50%;\n    }\n\n    .row:after {\n    content: \"\";\n    display: table;\n    clear: both;\n    }\n    <\/style>\n <\/head>\n <body>\n    <div class=\"row\">\n        <div class=\"column\">\n            <a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0363\/5363\/8540\/files\/GRHF_03-31-2022_Financial_Statements_8b41f92e-32c4-4024-a973-5b4b65a8f31f.pdf?v=1660248170\"><p style=\"text-align:center\">2021-2022 Financial Statement<\/p><\/a>\n<a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0363\/5363\/8540\/files\/2021-03-31_GRHF_Audited_Financial_Statements.pdf?v=1629387261\"><p style=\"text-align:center\">2020-2021 Financial Statement<\/p><\/a>\n <a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0363\/5363\/8540\/files\/2019-2020_GRHF_Audited_Financial_Statements.pdf?v=1607609075\"><p style=\"text-align:center;\">2019-2020 Financial Statement<\/p><\/a><\/div>\n        <div class=\"column\">\n            <a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0363\/5363\/8540\/files\/2018-2019_GRHF_Audited_Financial_Statements.pdf?v=1607609075\"><p style=\"text-align:center\">2018-2019 Financial Statement<\/p><\/a>\n<a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0363\/5363\/8540\/files\/2017-2018_GRHF_Audited_Financial_Statements.pdf?v=1607609075\"><p style=\"text-align:center;\">2017-2018 Financial Statement<\/p><\/a>\n        <\/div>\n    <\/div>\n <\/body>\n<\/html>"
+      }
+    },
+    "1663608092027d786d": {
       "type": "image-with-text",
       "settings": {
-        "image": "shopify:\/\/shop_images\/CbpVuneQ_62688ae1-49e0-4d20-9d22-b64b5d346e02.jpg",
+        "image": "shopify:\/\/shop_images\/Annual_Report_202122_4.jpg",
         "image_link": "",
         "image_size": "0",
-        "image_position": "left",
-        "title": "",
-        "text": "<p>The hospital's vision of a world class health system supporting healthier lives is...<br\/><br\/>● guided by their <strong>Values<\/strong>,<br\/>● driven by their <strong>Mission<\/strong>,<br\/>● supported by their <strong>Commitment<\/strong> and<br\/>● enabled by their<strong> Strategic Directions.<\/strong><\/p><p><em>All to bring you the best possible care.<\/em><\/p><p>“The greatest danger for most of us is not that our aim is too high and we miss it, but that it is too low and we reach it.” -<strong> <\/strong>Michelangelo<\/p>",
-        "button_label": "Read their strategic plan, Aiming High",
-        "button_link": "https:\/\/www.grhosp.on.ca\/reports\/strategic-plan",
+        "image_position": "right",
+        "title": "Donor Impact Report",
+        "text": "<p>When you come together in support of Grand River Hospital Foundation, you are coming together for more than just our hospital. You are coming together for every person—every friend, parent, sibling, grandparent and neighbour—in our community. You are coming together to create the future of health care right here for all of us.<\/p>",
+        "button_label": "Read the 2021-2022 Donor Impact Report",
+        "button_link": "https:\/\/grhf.ca\/pages\/donor-impact-21-22",
         "url_style": "button_1",
         "enlarge_title": false,
         "enlarge_text": false,
-        "text_alignment": "left",
-        "color_bg": "#dae4e6",
+        "text_alignment": "center",
+        "color_bg": "#000000",
+        "color_text": "#ffffff"
+      }
+    },
+    "919694c0-0222-4b23-8a43-125f394bf29a": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<style>.embedtool {position: relative;height: 0;padding-top: 56%;overflow: hidden;max-width: 100%;} .embedtool iframe, .embedtool object, .embedtool embed { position: absolute; top: 0; left: 10%; width: 80%; height: 80%; } .embedtool .fluid-vids {position: initial !important}\n<\/style><div class=\"embedtool\"><iframe src=\"https:\/\/www.youtube.com\/embed\/5vEtOjHB1Tg\" frameborder=\"0\" allowfullscreen><\/iframe><\/div><\/div>"
+      }
+    },
+    "16636882318a3eac51": {
+      "type": "rich-text",
+      "disabled": true,
+      "settings": {
+        "title": "Thank you for your support.",
+        "text": "",
+        "button_label": "",
+        "button_link": "",
+        "url_style": "button_1",
+        "enlarge_title": true,
+        "enlarge_text": false,
+        "full_width": false,
+        "color_bg": "#ffffff",
+        "color_title": "#333333",
         "color_text": "#333333"
       }
     }
@@ -722,18 +855,22 @@
   "order": [
     "165392312540137d95",
     "main",
-    "1642097468fba38469",
-    "16539235000e60fe19",
+    "166368854252807526",
     "1643143933e06b2bac",
-    "1651845310ff656e9c",
-    "1646330456e70728ad",
     "1646074225e4a10313",
+    "16539235000e60fe19",
+    "16636063622ee89d1b",
     "1644338838341f147b",
-    "16463286463e80babb",
+    "1642097468fba38469",
+    "1646330456e70728ad",
     "163552804617c55225",
-    "1646328717f5d1b2f2",
+    "1651845310ff656e9c",
+    "16463286463e80babb",
     "1646331590a1cbd0f5",
     "163712360109dce0bc",
-    "165834663286a279c9"
+    "1646328717f5d1b2f2",
+    "1663608092027d786d",
+    "919694c0-0222-4b23-8a43-125f394bf29a",
+    "16636882318a3eac51"
   ]
 }

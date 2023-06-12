@@ -1,2 +1,43 @@
 <link rel="stylesheet" href="//stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+<script src="https://d1p5cqqchvbqmy.cloudfront.net/websdk/v4.0.16/mappedin.js"></script>
+
 <script src="{{ 'jQueryMaster.js' | asset_url }}" defer="defer"></script>
+<script>
+  document.addEventListener("shopify:section:load", wifi_load_img);
+  function wifi_load_img(){
+     var elementsToShow = document.querySelectorAll('.show-on-scroll');
+    elementsToShow.forEach(function (element) {    
+       element.classList.add('is-visible');
+     });
+  }
+  
+</script>
+
+
+   <script>
+      
+      /*document.addEventListener('DOMContentLoaded', init);*/
+     
+  </script>
+  <script>
+    /*
+       function map_init2() {
+          const venue = await Mappedin.getVenue(
+              {
+                  clientId: '62d994e39a340c001c75002d',
+                  clientSecret: 'StP5OmANWTwzIeeShMTQUKYMmEHmlgC6QpE09C1B4PME9IBb',
+                  venue: 'grand-river-hospital-freeport-campus'
+              });
+          const mapView = await Mappedin.showVenue(
+              document.getElementById('mappedin-map2'),
+              venue
+          );
+          mapView.labelAllLocations();
+        return false;
+      }
+    */
+      /*document.addEventListener('DOMContentLoaded', init);*/      
+  </script>
+
+
+        

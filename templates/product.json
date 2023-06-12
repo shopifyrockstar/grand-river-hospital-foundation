@@ -175,51 +175,6 @@
         "color_overlay_text": "#333333",
         "overlay_url_style": "button_1"
       }
-    },
-    "165816893669e261c3": {
-      "type": "logo-list-give",
-      "disabled": true,
-      "blocks": {
-        "1658168936fad3a419-0": {
-          "type": "logo",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/siliconsponsor.png",
-            "image_width": 160,
-            "link": "",
-            "title": ""
-          }
-        },
-        "1658168936fad3a419-1": {
-          "type": "logo",
-          "settings": {
-            "image_width": 160,
-            "link": "",
-            "title": ""
-          }
-        },
-        "1658168936fad3a419-2": {
-          "type": "logo",
-          "settings": {
-            "image_width": 160,
-            "link": "",
-            "title": ""
-          }
-        }
-      },
-      "block_order": [
-        "1658168936fad3a419-0",
-        "1658168936fad3a419-1",
-        "1658168936fad3a419-2"
-      ],
-      "settings": {
-        "title": "Logo list",
-        "color_bg": "#dae4e6",
-        "color_title": "#333333",
-        "color_text": "#333333",
-        "enlarge_title": false,
-        "enlarge_text": false,
-        "image_opacity": 75
-      }
     }
   },
   "order": [
@@ -227,7 +182,6 @@
     "16565986880a05f366",
     "recommendations",
     "recent",
-    "1658168845f43f32cf",
-    "165816893669e261c3"
+    "1658168845f43f32cf"
   ]
 }

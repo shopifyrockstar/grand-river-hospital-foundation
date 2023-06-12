@@ -7,6 +7,7 @@
     },
     "164392536264b96a15": {
       "type": "image-with-text-overlay",
+      "disabled": true,
       "settings": {
         "image": "shopify:\/\/shop_images\/IMG_5053_8c9201ce-71bb-4433-82a8-2eb180274908.jpg",
         "image_link": "shopify:\/\/pages\/grand-river-hospital-foundation-staff",
@@ -45,6 +46,19 @@
     "1643925557103c2aa5": {
       "type": "image-gallery",
       "blocks": {
+        "cbafa4af-afd2-4ee2-bb25-54e48c12eaf9": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_5053_8c9201ce-71bb-4433-82a8-2eb180274908.jpg",
+            "alignment": "center center",
+            "enlarge_image": false,
+            "link": "shopify:\/\/pages\/grand-river-hospital-foundation-staff",
+            "title": "Our Team",
+            "text": "",
+            "button_label": "",
+            "overlay_position": "bottom-center"
+          }
+        },
         "16439255570b1c6c69-0": {
           "type": "image",
           "settings": {
@@ -55,11 +69,12 @@
             "title": "Our Board",
             "text": "",
             "button_label": "",
-            "overlay_position": "center-center"
+            "overlay_position": "bottom-center"
           }
         },
         "16439255570b1c6c69-1": {
           "type": "image",
+          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/colourbar_125.png",
             "alignment": "center center",
@@ -70,11 +85,40 @@
             "button_label": "",
             "overlay_position": "center-center"
           }
+        },
+        "2e5cd9c9-e017-4d3d-a562-7bbd61f50bda": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/taking-notes-at-team-meeting.jpg",
+            "alignment": "bottom center",
+            "enlarge_image": false,
+            "link": "shopify:\/\/pages\/finance-investment-audit-committee-fiac",
+            "title": "Finance, Investment, and Audit Committee(FIAC)",
+            "text": "",
+            "button_label": "",
+            "overlay_position": "bottom-center"
+          }
+        },
+        "385864a0-c619-4047-a3d2-9f6590de556d": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/team-meeting-full-of-happy-young-adults.jpg",
+            "alignment": "center center",
+            "enlarge_image": false,
+            "link": "shopify:\/\/pages\/our-governance-nominating-committee",
+            "title": "Governance & Nominating Committee",
+            "text": "",
+            "button_label": "",
+            "overlay_position": "bottom-center"
+          }
         }
       },
       "block_order": [
+        "cbafa4af-afd2-4ee2-bb25-54e48c12eaf9",
         "16439255570b1c6c69-0",
-        "16439255570b1c6c69-1"
+        "16439255570b1c6c69-1",
+        "2e5cd9c9-e017-4d3d-a562-7bbd61f50bda",
+        "385864a0-c619-4047-a3d2-9f6590de556d"
       ],
       "settings": {
         "grid": 2,
