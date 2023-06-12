@@ -43,7 +43,7 @@
       ],
       "settings": {
         "title": "Rally for Health",
-        "text": "<p>The Rally for Health is a celebration of our community and their dedication to the future of health care right here. <\/p><p>Taking place in the Sun Life parking lot  with Grand River Hospital, KW Campus as a backdrop, we're rallying every member of our community to ensure world class health care in our community for everyone who needs it. <\/p><p>Join us on Saturday, May 27 from 5 –10 p.m. for an unforgettable evening, including a FREE concert with performances by <a href=\"http:\/\/thestrumbellas.ca\/\" target=\"_blank\" title=\"http:\/\/thestrumbellas.ca\/\"><strong>The Strumbellas<\/strong><\/a>, <a href=\"https:\/\/www.djshub.ca\/\" target=\"_blank\" title=\"https:\/\/www.djshub.ca\/\"><strong>DJ Shub<\/strong><\/a> and <strong>the<\/strong> <strong>Ian Richards Project<\/strong>, a stunning drone show, food trucks, and more.<\/p><p>Register below for your FREE tickets and receive the latest event details, parking information and all future updates leading up to the event. We can't wait to see you there!<\/p>",
+        "text": "<p>The Rally for Health is a celebration of our community and their dedication to the future of health care right here. <\/p><p>Taking place in the Sun Life parking lot  with Grand River Hospital, KW Campus as a backdrop, we're rallying every member of our community to ensure world class health care in our community for everyone who needs it. <\/p><p>Join us on Saturday, May 27 from 5 –10 p.m. for an unforgettable evening, including a FREE concert with performances by <a href=\"http:\/\/thestrumbellas.ca\/\" target=\"_blank\" title=\"http:\/\/thestrumbellas.ca\/\"><strong>The Strumbellas<\/strong><\/a>, <a href=\"https:\/\/www.djshub.ca\/\" target=\"_blank\" title=\"https:\/\/www.djshub.ca\/\"><strong>DJ Shub<\/strong><\/a> and <strong>Ian Richards Project<\/strong>, a stunning drone show, food trucks, and more.<\/p><p>Register below for your FREE tickets and receive the latest event details, parking information and all future updates leading up to the event. We can't wait to see you there!<\/p>",
         "button_label": "Register today!",
         "button_link": "shopify:\/\/products\/rally-for-health-registration",
         "url_style": "button_1",
@@ -63,7 +63,7 @@
       ],
       "settings": {
         "title": "Event Details",
-        "text": "<ul><li><strong>Date: <\/strong>Saturday, May 27, 2023<\/li><li><strong>Time:<\/strong> 5 – 10 p.m.<\/li><li><strong>Location:<\/strong> Sun Life parking lot (969 King St. W, Kitchener, ON)<\/li><li><strong>Transportation: <\/strong>A free bike check will be available, or park free at Fairview Park or Conestoga Malls and take the ION (standard rider fares apply)<\/li><\/ul><p>Please note that parking near the venue is limited, and we strongly recommend walking, biking, or taking public transit. <strong>Please do not park at the hospital lots or parking garage. This space is reserved for hospital patients, visitors, and staff. <\/strong><\/p><p><\/p><p><\/p><p><\/p>",
+        "text": "<ul><li><strong>Date: <\/strong>Saturday, May 27, 2023<\/li><li><strong>Time:<\/strong> 5 – 10 p.m.<\/li><li><strong>Location:<\/strong> Sun Life parking lot (969 King St. W, Kitchener, ON)<\/li><li><strong>Transportation: <\/strong>A free bike check will be available, or park free at Fairview Park or Conestoga Malls and take the ION (standard rider fares apply)<\/li><\/ul><p>Please note that parking near the venue is limited, and we strongly recommend walking, biking, or taking public transit. <strong>Parking at the hospital will be prohibited.<\/strong><\/p><p><\/p><p><\/p>",
         "button_label": "",
         "button_link": "",
         "url_style": "button_1",
@@ -80,29 +80,6 @@
       "disabled": true,
       "custom_css": [
         "h1 {display: none;}"
-      ],
-      "settings": {
-      }
-    },
-    "168485749160ab6943": {
-      "type": "apps",
-      "blocks": {
-        "5de05dd5-413b-4601-82b0-38d52223c80e": {
-          "type": "shopify:\/\/apps\/helphub-faq-page-product-faqs\/blocks\/app-block\/89f30064-d200-4f10-b92c-a16fc4c5815c",
-          "settings": {
-            "heading": "Frequently Asked Questions",
-            "heading_text_type": "h3",
-            "heading_alignment": "center",
-            "faq_embed_code": "<div class=\"ef-faqs-plus-app-cats-content\" data-category=\"Rally for Health\" id=\"ef-faqs-646ce313981916c7634487a9\"><\/div>",
-            "faqs_width": 75
-          }
-        }
-      },
-      "block_order": [
-        "5de05dd5-413b-4601-82b0-38d52223c80e"
-      ],
-      "custom_css": [
-        ".container {padding-bottom: 2em;}"
       ],
       "settings": {
       }
@@ -212,7 +189,6 @@
     "6866cd8f-d7d7-4f28-bb38-e1461dfbf8cd",
     "787d5725-b1a1-481b-94bf-90daca014432",
     "main",
-    "168485749160ab6943",
     "0cdee890-a50c-429a-be72-170a11e38b08",
     "a35f32cc-7808-4ad1-af83-41ba70c55e29"
   ]

@@ -107,15 +107,45 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
       saleLabelEnabled: {{ settings.sale_label_enabled | json }},
       gridShowVendor: {{ settings.grid_show_vendor | json }}
     }
-    {% if template contains 'product' and product.metafields.subscriptions.has_subscription == 'True' %}
-    var variant_data_object = { {% for variant in product.variants %}variant_{{ variant.id }}:'{{ variant.metafields.subscriptions.discount_variant_id }}'{% unless forloop.last == true %},{% endunless %} {% endfor %} }          
+    {%- liquid
+      assign current_variant = product.selected_or_first_available_variant
+      assign current_selling_plan_allocation = current_variant.selected_selling_plan_allocation
+     
+      if current_selling_plan_allocation == nil and current_variant.requires_selling_plan
+       assign current_selling_plan_allocation = current_variant.selling_plan_allocations | first       
+      endif      
+     
+      assign offer = current_selling_plan_allocation | default: current_variant
+     -%}  
+    {% if template contains 'donate' %}
+    var variant_id_with_selling_plan_id = {};
+    var variant_data_object = [
+      {% for variant in product.variants %}
+        {% for allocation in variant.selling_plan_allocations %}
+          variant_id_with_selling_plan_id = { {{ variant.id }}: '{{ allocation.selling_plan.id }}' }
+          {% unless forloop.last %},{% endunless %}
+        {% endfor %}
+        {% unless forloop.last %},{% endunless %}
+      {% endfor %}
+    ]
     {% else %}
     var variant_data_object ={};
     {% endif %}
-    var shouldadd_subscription_id;
-    {% if template contains 'product' and product.handle == 'pledge-to-rally-for-health-care' %}
-      window.location.href="/";
-    {% endif %}
+    var subscription_order = 0;    
+    var actual_variant_id;
+    var actual_sellingplan_id;
+    {% comment %} var actual_variant_with_selling_plan_id = {};    
+    {% for allocation in current_variant.selling_plan_allocations %}
+      console.log({{ allocation.selling_plan.id }});
+      actual_variant_with_selling_plan_id = { {{ current_variant.id }}: '{{ allocation.selling_plan.id }}' }      
+      {% unless forloop.last %},{% endunless %}
+    {% endfor %}     {% endcomment %}
+    var actual_variant_with_selling_plan_id = [
+      {% for allocation in current_variant.selling_plan_allocations %}
+        variant_id_with_selling_plan_id = { {{ current_variant.id }}: '{{ allocation.selling_plan.id }}' }
+        {% unless forloop.last %},{% endunless %}
+      {% endfor %}
+    ]
   </script>
 
   {%- if template.directory == 'customers' -%}
