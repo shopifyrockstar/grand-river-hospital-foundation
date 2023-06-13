@@ -335,6 +335,21 @@
                             <li><a id="custom-tab2">Subscription</a></li>                            
                           </ul>
 
+                          <div class="container one-time-wrapper" id="custom-tab1C">
+                            {% if template == 'product.donate' %}
+                              <p class="donation-amount">Choose an amount to donate</p>
+                              <div id="number_filters">
+                                <a href="25" id="25" class="">$25</a>
+                                <a href="50" id="50" class="selected">$50</a>
+                                <a href="75" id="75">$75</a>
+                                <a href="100" id="100">$100</a>
+                                <a href="200" id="200">$200</a>
+                                <a href="0" id="" class="custom">Custom Amount</a>
+                                <input class="quantity-for-actual" type="text" value="">
+                              </div>            
+                            {% endif %}
+                          </div>
+
                           <div class="container subscription-wrapper" id="custom-tab2C">
                             {% if template == 'product.donate' or template == 'product.donate-new' %}
                               <p class="donation-amount">Choose an amount to donate</p>
@@ -345,14 +360,15 @@
                             {% endfor %}
                             <div class="donate-title-selector">
                               <span class="delivery-title">Donate:</span>
-                              <select class="select-subscription-frequency">
-                                {% for group in product.selling_plan_groups %}                                  
-                                  {% for values in group.options %}
-                                    {% for valuess in values %}
-                                      <option value="{{ valuess }}" {% if forloop.first == true %}selected="selected"{% endif %}>
-                                        {% if valuess == '2 Week(s)' %}Biweekly{% elsif valuess == '4 Week(s)' %}Monthly{% elsif valuess == '13 Week(s)' %}Quarterly{% elsif valuess == '52 Week(s)' %}Yearly{% endif %}
-                                      </option>        
-                                    {% endfor %}
+                              <select class="select-subscription-frequency">                                
+                                {% for group in product.selling_plan_groups %}
+                                  {% for selling_plan in group.selling_plans %}
+                                  <option value="{{ selling_plan.id }}" {% if forloop.first %}selected{% endif %} data-order="{{ forloop.index | minus: 1 }}">                                    
+                                    {% if selling_plan.name contains '2 Weeks' %}Biweekly{% endif %}
+                                    {% if selling_plan.name contains '4 Weeks' %}Monthly{% endif %}
+                                    {% if selling_plan.name contains '13 Weeks' %}Quarterly{% endif %}
+                                    {% if selling_plan.name contains '52 Weeks' %}Annually{% endif %}
+                                  </option>
                                   {% endfor %}
                                 {% endfor %}
                               </select>
@@ -368,115 +384,8 @@
                             </div>            
                             {% endif %}
                           </div>
-
-                          <div class="container one-time-wrapper" id="custom-tab1C">
-                            {% if template == 'product.donate' or template == 'product.donate-new' %}
-                              <p class="donation-amount">Choose an amount to donate</p>
-                              <div id="number_filters">
-                                <a href="25" id="25" class="">$25</a>
-                                <a href="50" id="50" class="selected">$50</a>
-                                <a href="75" id="75">$75</a>
-                                <a href="100" id="100">$100</a>
-                                <a href="200" id="200">$200</a>
-                                <a href="0" id="" class="custom">Custom Amount</a>
-                                <input class="quantity-for-actual" type="text" value="">
-                              </div>            
-                            {% endif %}
-                          </div>
                         </div>
                       {% endif %}
-                      
-                      {% comment %}
-                      {% assign subscription_product = product.metafields.subscriptions %}
-                      {% if subscription_product.has_subscription == 'True' or template.suffix == 'donate-new' %}      
-                      
-                      <div class="custom-recharge-wrapper">
-                        
-                        <ul id="tabs">                  
-                          
-                          {% if subscription_product.is_subscription_only == 'false' %}
-                          	<li><a id="custom-tab1">One Time</a></li>
-                          {% endif %}
-                          
-                          {% if subscription_product.has_subscription == 'True' %}
-                          	<li><a id="custom-tab2">Subscription</a></li>
-                          {% endif %}
-                          
-                        </ul>
-
-                        {% if subscription_product.is_subscription_only == 'false' %}
-                          <div class="container one-time-wrapper" id="custom-tab1C">
-                            {% if template == 'product.donate'%}
-                              <p class="donation-amount">Choose an amount to donate</p>
-                              <div id="number_filters">
-                                <a href="25" id="25" class="">$25</a>
-                                <a href="50" id="50" class="selected">$50</a>
-                                <a href="75" id="75">$75</a>
-                                <a href="100" id="100">$100</a>
-                                <a href="200" id="200">$200</a>
-                                <a href="0" id="" class="custom">Custom Amount</a>
-                                <input class="quantity-for-actual" type="text" value="">
-                              </div>            
-                            {% endif %}
-                          </div>
-                        {% endif %}
-                        
-                        {% if subscription_product.has_subscription == 'True' %}
-                          <div class="container subscription-wrapper" id="custom-tab2C">
-                            {% if template == 'product.donate'%}
-                              <p class="donation-amount">Choose an amount to donate</p>
-                            {% assign shipping_interval_frequency = subscription_product.shipping_interval_frequency | split:',' %}
-                            {% assign shipping_interval_unit_type = subscription_product.shipping_interval_unit_type %}
-                            <div class="donate-title-selector">
-                              <span class="delivery-title">Donate:</span>
-                              <select class="select-subscription-frequency">
-                                {% for item in shipping_interval_frequency limit:shipping_interval_frequency.size %}                              
-                                <option value="{{ item }}" {% if forloop.first == true %}selected="selected"{% endif %}>
-                                  {% if item == '2' %}Biweekly{% elsif item == '4' %}Monthly{% elsif item == '13' %}Quarterly{% elsif item == '52' %}Yearly{% endif %}
-                                </option>
-                                {% endfor %}
-                              </select>
-                            </div>                            
-                            <div id="number_filters">
-                              <a href="25" id="15" class="">$15</a>
-                              <a href="50" id="25" class="selected">$25</a>
-                              <a href="75" id="40">$40</a>
-                              <a href="100" id="50">$50</a>
-                              <a href="200" id="100">$100</a>
-                              <a href="0" id="" class="custom">Custom Amount</a>
-                              <input class="quantity-for-actual" type="text" value="">
-                            </div>            
-                            {% endif %}
-                          </div>
-                        {% endif %}                                 
-                        
-                        <script>                          
-                          var variant_order = "variant_" + {{ product.selected_or_first_available_variant.id }};
-                          shouldadd_subscription_id = variant_data_object[variant_order];
-                        </script>
-                        
-                        <div class="hidden subscription-content-wrapper" data-shipping_interval_frequency="{{ shipping_interval_unit_type | capitalize }}s">
-                          {{ subscription_product }}
-                        </div>
-                      </div>
-                      
-                      {% else %}
-                        <div class="container one-time-wrapper" id="custom-tab1C">
-                          {% if template == 'product.donate' %}
-                          <p class="donation-amount">Choose an amount to donate</p>
-                          <div id="number_filters">
-                            <a href="25" id="25" class="">$25</a>
-                            <a href="50" id="50" class="selected">$50</a>
-                            <a href="75" id="75">$75</a>
-                            <a href="100" id="100">$100</a>
-                            <a href="200" id="200">$200</a>
-                            <a href="0" id="" class="custom">Custom Amount</a>
-                            <input class="quantity-for-actual" type="text" value="">
-                          </div>            
-                          {% endif %}
-                        </div>
-                      {% endif %}
-                    {% endcomment %}
 
                       {%- if block.settings.show_quantity_selector -%}
                         <div class="quantity-wrapper styled-dropdown styled-dropdown--label-inside {% if template == 'product.donate' or template == 'product.donate-new' %}hide-select2{% endif %}">
