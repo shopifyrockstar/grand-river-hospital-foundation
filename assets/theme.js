@@ -3366,11 +3366,14 @@ function _typeof(obj) { "@babel/helpers - typeof"; if (typeof Symbol === "functi
       //   shouldadd_subscription_id = variant_data_object[variant_order];
       // }
       actual_variant_with_selling_plan_id = [];
-      variant_data_object.forEach((element) => {        
-        if ( Object.keys(element) == variant.id ){
-          actual_variant_with_selling_plan_id.push(element);
-        }
-      });      
+      if ( Object.keys(variant_data_object).length > 0 ){
+        variant_data_object.forEach((element) => {        
+          if ( Object.keys(element) == variant.id ){
+            actual_variant_with_selling_plan_id.push(element);
+          }
+        });
+      }
+      
       
 //       console.log(shouldadd_subscription_id);
       
@@ -7837,8 +7840,6 @@ $(document).ready(function(){
   var get_add_class = $('.custom-recharge-wrapper #tabs li a').attr('id') + 'C';
   $('.subscription-product-form').addClass(get_add_class);
   
-
-  
   $('.donate-new .custom-recharge-wrapper #tabs li a').click(function(){
     var t = $(this).attr('id');
     if (t == 'custom-tab1'){
@@ -7918,22 +7919,25 @@ $(document).ready(function(){
   //Subscription Form Submit function
 
   $(".subscription-btn").click(function (e) {
-    console.log(shouldadd_subscription_id); 
-    data = {
+    subscription_order = $(".select-subscription-frequency option:selected").data('order');
+    formData = {
       "quantity": $("#Quantity").val(),
-      "id": shouldadd_subscription_id,
-      "properties[shipping_interval_frequency]": $(".select-subscription-frequency option:selected").val(),
-      "properties[shipping_interval_unit_type]": $(".subscription-content-wrapper").data("shipping_interval_frequency"),
+      'id': parseInt(Object.keys(actual_variant_with_selling_plan_id[subscription_order]), 10),
+      'selling_plan': parseInt(Object.values(actual_variant_with_selling_plan_id[subscription_order]), 10)
     }
-    console.log(data);
-    jQuery.ajax({
-      type: 'POST',
-      url: '/cart/add.js',
-      data: data,
-      dataType: 'json',
-      success: function() {
-        window.location.href = '/cart';
-      }
+    fetch('/cart/add.js', {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json'
+      },
+      body: JSON.stringify(formData)
+    })
+    .then(response => {
+      return response.json();
+    })
+    .then(data=> window.location.href="/cart")
+    .catch((error) => {
+      console.error('Error:', error);
     });
   });
 
